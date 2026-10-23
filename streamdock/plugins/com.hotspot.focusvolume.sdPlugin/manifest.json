@@ -1,0 +1,62 @@
+{
+  "Actions": [
+    {
+      "Icon": "images/icons/pluginIcon",
+      "Name": "Focus Volume",
+      "States": [
+        {
+          "Image": "images/actions/focusVolume",
+          "TitleAlignment": "middle",
+          "FontSize": "12"
+        }
+      ],
+      "Controllers": [
+        "Keypad",
+        "Knob"
+      ],
+      "SupportedInMultiActions": false,
+      "UserTitleEnabled": true,
+      "Tooltip": "Rotate the knob to change the volume of the app in focus. Press to mute.",
+      "UUID": "com.hotspot.focusvolume.action",
+      "PropertyInspectorPath": "PropertyInspector/focusVolume.html"
+    },
+    {
+      "Icon": "images/icons/pluginIcon",
+      "Name": "Active Window",
+      "States": [
+        {
+          "Image": "images/actions/focusInfo",
+          "TitleAlignment": "bottom",
+          "FontSize": "10"
+        }
+      ],
+      "Controllers": [
+        "Keypad"
+      ],
+      "SupportedInMultiActions": false,
+      "UserTitleEnabled": false,
+      "Tooltip": "Shows the active window and the app whose volume is being changed.",
+      "UUID": "com.hotspot.focusvolume.info",
+      "PropertyInspectorPath": "PropertyInspector/focusInfo.html"
+    }
+  ],
+  "SDKVersion": 1,
+  "Author": "FocusVolume",
+  "Category": "Focus Volume",
+  "CategoryIcon": "images/icons/pluginIcon",
+  "CodePathWin": "bin/FocusVolume.exe",
+  "CodePathMac": "bin/FocusVolume",
+  "Description": "Adjusts the volume of the application that is currently in focus, instead of the system volume.",
+  "Name": "Focus Volume",
+  "Icon": "images/icons/pluginIcon",
+  "Version": "1.1",
+  "OS": [
+    {
+      "Platform": "windows",
+      "MinimumVersion": "10"
+    }
+  ],
+  "Software": {
+    "MinimumVersion": "5.0"
+  }
+}

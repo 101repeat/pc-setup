@@ -1,0 +1,74 @@
+{
+  "Description": "这是一个系统性能监视器", 
+  "Name": "系统性能监视器", 
+  "Category": "系统性能监视器",
+  "com.hotspot.stream.cpu": {
+    "Name": "CPU使用率", 
+    "Tooltip": "显示当前 CPU 的使用率"
+  },
+  "com.hotspot.stream.memory": {
+    "Name": "内存", 
+    "Tooltip": "显示当前内存的使用率"
+  },
+  "com.hotspot.stream.cpu.temperature": {
+    "Name": "CPU温度", 
+    "Tooltip": "显示当前 CPU 的温度"
+  },
+  "com.hotspot.stream.NetWork": {
+    "Name": "网速", 
+    "Tooltip": "显示当前 上传和下载 的网速"
+  },
+  "com.hotspot.stream.PhysicalDisk": {
+    "Name": "硬盘", 
+    "Tooltip": "显示当前 硬盘 的使用率"
+  },
+  "com.hotspot.stream.Cpu_Clock": {
+    "Name": "CPU频率", 
+    "Tooltip": "显示当前 CPU 的频率"
+  },
+  "com.hotspot.stream.Gpu_Temperature": {
+    "Name": "GPU温度", 
+    "Tooltip": "显示当前 GPU 的温度"
+  },
+  "com.hotspot.stream.Gpu_Core_Clock": {
+    "Name": "GPU核心频率", 
+    "Tooltip": "显示当前 GPU核心 的频率"
+  },
+  "com.hotspot.stream.Gpu_Core_Usage": {
+    "Name": " GPU核心使用率", 
+    "Tooltip": "显示当前 GPU核心 的使用率"
+  },
+  "com.hotspot.stream.Gpu_Memory_Clock": {
+    "Name": "GPU显存频率", 
+    "Tooltip": "显示当前 GPU显存 的频率"
+  },
+  "com.hotspot.stream.Gpu_Memory_Usage": {
+    "Name": "GPU显存使用率", 
+    "Tooltip": "显示当前 GPU显存 的使用率"
+  },
+  "Localization": {
+    "CPU温度": "CPU温度",
+    "CPU占用率": "CPU占用率",
+    "内存占用率": "内存占用率",
+    "硬盘剩余空间":"硬盘剩余空间",
+    "背景": "背景",
+    "简约彩色": "简约彩色",
+    "赛博朋克": "赛博朋克",
+    "模式": "模式",
+    "单个磁盘": "单个磁盘",
+    "磁盘循环": "磁盘循环",
+    "盘名": "盘名",
+    "低阈值": "低阈值",
+    "危险阈值": "危险阈值",
+    "背景切换": "背景切换",
+    "选择文件...": "选择文件...",
+    "显示盘符名": "显示盘符名",
+    "进度条倒置": "进度条倒置",
+    "切换频率":"切换频率",
+    "秒":"秒",
+    "(秒)":"(秒)",
+    "1":"1",
+    "120":"120",
+    "仅限126*126像素图片":"仅限126*126像素图片"
+  }
+}

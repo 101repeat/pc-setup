@@ -1,0 +1,91 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name=viewport content="width=device-width,initial-scale=1,maximum-scale=1,minimum-scale=1,user-scalable=no,minimal-ui,viewport-fit=cover">
+    <meta name=apple-mobile-web-app-capable content=yes>
+    <meta name=apple-mobile-web-app-status-bar-style content=black>
+    <title>BarRaider's SuperMacro</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/barraider/streamdeck-easypi@latest/src/sdpi.css">
+    <link rel="stylesheet" href="../jquery.highlight-within-textarea.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/barraider/streamdeck-easypi@master/src/rangeTooltip.css">
+    <script src="https://cdn.jsdelivr.net/gh/barraider/streamdeck-easypi@latest/src/sdtools.common.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/barraider/streamdeck-easypi@master/src/rangeTooltip.js"></script>
+    <script src="../jquery-3.3.1.min.js"></script>
+    <script src="../jquery.highlight-within-textarea.js"></script>
+    <script src="../General.js"></script>
+    <script src="../Capture.js"></script>
+</head>
+<body>
+    <div class="sdpi-wrapper">
+        <details class="message info">
+            <summary>For feedback/suggestions contact me at <span class="linkspan" onclick="openWebsite()">https://BarRaider.com</span> </summary>
+        </details>
+        <details class="message">
+            <summary>For tutorials and list of commands <span class="linkspan" onclick="openHelp()">click here</span> </summary>
+        </details>
+        <div type="textarea" class="sdpi-item" id="inputText_div">
+            <div class="sdpi-item-label">Command</div>
+            <span class="sdpi-item-value textarea">
+                <textarea type="textarea" onblur="setSettings()" class="sdProperty" id="command" placeholder="Either a single character or single KeyStroke" rows="1"></textarea>
+            </span>
+        </div>
+        <details class="message">
+            <summary>Capture Keystroke: <button class="sdpi-item-value max40" id="commandCaptureKeystroke" onclick="captureKeystroke('command')">Capture</button><button class="sdpi-item-value max40" id="commandCancelCapture" onclick="cancelCapture()" style="display:none;">🔴 Cancel</button></summary>
+        </details>
+        <script>
+            $('#command').highlightWithinTextarea({
+                highlight: /\{(\{[^\{\}]+\})+\}/gi
+            });
+            $("#command").focus(function () {
+                $("#command").trigger("input.hwt");
+            });
+        </script>
+        <div type="range" class="sdpi-item sdShowTooltip" id="delay_div">
+            <div class="sdpi-item-label">Delay (ms)</div>
+            <div class="sdpi-item-value">
+                <span class="clickable" value="10">10</span>
+                <input type="range" min="10" max="2000" data-suffix=" ms" value="10" class="sdProperty" oninput="setSettings()" id="delay">
+                <span class="clickable" value="2000">2000</span>
+                <label for="delay" class="rangeLabel"></label>
+            </div>
+        </div>
+        <div class="sdpi-item">
+            <span class="titleAlignedSmall">(Use left/right keys for added precision)</span>
+        </div>
+        <div class="sdpi-info-label hidden" style="top: -1000;" value="">Tooltip</div>
+        <div type="checkbox" class="sdpi-item" id="dvAdvanced">
+            <div class="sdpi-item-label">Advanced</div>
+            <div class="sdpi-item-value">
+                <input id="forcedKeydown" type="checkbox" value="" class="sdProperty sdCheckbox" oninput="setSettings()">
+                <label for="forcedKeydown" class="sdpi-item-label"><span></span>Forced Keydown Mode</label>
+            </div>
+        </div>
+        <div class="sdpi-item" id="dvAutoStop">
+            <div class="sdpi-item-label">Auto Stop after N rounds</div>
+            <input class="sdpi-item-value sdProperty" placeholder="0" value="" pattern="^[0-9]*$" id="autoStopNum" oninput="setSettings()">
+        </div>
+        <div type="range" class="sdpi-item">
+            <details class="message info">
+                <summary>Setting to 0 will continue to run until key-press</summary>
+            </details>
+        </div>
+        <div class="sdpi-item" id="dvKeyImage">
+            <div class="sdpi-item-label">Enabled Image</div>
+            <div class="sdpi-item-group file" id="filepickergroup">
+                <input class="sdpi-item-value sdProperty sdFile" type="file" id="enabledImage" accept=".jpg, .jpeg, .png, .ico, .gif, .bmp, .tiff" oninput="setSettings()">
+                <label class="sdpi-file-info " for="enabledImage" id="enabledImageFilename">No file...</label>
+                <label class="sdpi-file-label" for="enabledImage">Choose file...</label>
+            </div>
+        </div>
+        <div class="sdpi-item" id="dvDisabledImage">
+            <div class="sdpi-item-label">Disabled Image</div>
+            <div class="sdpi-item-group file" id="filepickergroup">
+                <input class="sdpi-item-value sdProperty sdFile" type="file" id="disabledImage" accept=".jpg, .jpeg, .png, .ico, .gif, .bmp, .tiff" oninput="setSettings()">
+                <label class="sdpi-file-info " for="disabledImage" id="disabledImageFilename">No file...</label>
+                <label class="sdpi-file-label" for="disabledImage">Choose file...</label>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

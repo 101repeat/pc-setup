@@ -1,0 +1,10 @@
+[2025-08-04 00:15:43.671816] [p-11864] [t-11868] [info] launcher logger is initialized
+[2025-08-04 00:15:43.671924] [p-11864] [t-11868] [info] Launcher object is constructing
+[2025-08-04 00:15:43.672148] [p-11864] [t-11868] [info] PT Run settings are empty
+[2025-08-04 00:15:43.672196] [p-11864] [t-11868] [info] PT Run is going to use default shortcut
+[2025-08-04 00:15:49.927791] [p-11864] [t-11868] [info] Microsoft_Launcher::enable() begin
+[2025-08-04 00:15:49.927927] [p-11864] [t-11868] [trace] Signaled exitEvent
+[2025-08-04 00:15:49.927984] [p-11864] [t-11868] [trace] Starting PowerToys Run from elevated process
+[2025-08-04 00:15:50.023694] [p-11864] [t-11868] [info] Microsoft_Launcher::enable() end
+[2025-08-04 00:15:50.072024] [p-11864] [t-16164] [info] Send settings telemetry
+[2025-08-04 00:16:04.390177] [p-11864] [t-11868] [info] Launcher object is destroying

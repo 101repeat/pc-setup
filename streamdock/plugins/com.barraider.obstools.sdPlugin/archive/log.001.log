@@ -1,0 +1,720 @@
+2026-10-21 21:03:48.0977|FATAL|com.barraider.obstools|158|BarRaider.SdTools.Communication.StreamDeckConnection ReceiveAsync Exception: System.Net.WebSockets.WebSocketException (0x80004005): An internal WebSocket error occurred. Please see the innerException, if present, for more details.  ---> System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Net.WebSockets.WebSocketConnectionStream.<ReadAsync>d__21.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Net.WebSockets.WebSocketBase.WebSocketOperation.<Process>d__19.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Net.WebSockets.WebSocketBase.<ReceiveAsyncCore>d__45.MoveNext()
+   at System.Net.WebSockets.WebSocketBase.ThrowIfConvertibleException(String methodName, Exception exception, CancellationToken cancellationToken, Boolean aborted)
+   at System.Net.WebSockets.WebSocketBase.<ReceiveAsyncCore>d__45.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at BarRaider.SdTools.Communication.StreamDeckConnection.<ReceiveAsync>d__95.MoveNext()
+2026-10-21 21:03:48.1062|INFO|com.barraider.obstools|158|BarRaider.SdTools.Communication.StreamDeckConnection RunAsync completed, shutting down
+2026-10-21 21:03:48.1227|INFO|com.barraider.obstools|158|Disconnect event received
+2026-10-21 21:03:48.1227|INFO|com.barraider.obstools|1|Plugin Disconnected - Exiting
+2026-10-21 21:28:43.2470|DEBUG|com.barraider.obstools|1|Logger Initialized
+2026-10-21 21:28:43.2880|INFO|com.barraider.obstools|1|Plugin [com.barraider.obstools] Loading - 25 Actions Found
+2026-10-21 21:28:43.7846|DEBUG|com.barraider.obstools|1|Plugin Loaded: UUID: 1858C8T0K085U2AQ0U1K1X3V6676TM11 Device Info: Devices:
+[Id: 98J2M2O4WT8Q72281N6NL8I7UL9NRP2M Type: StreamDeckClassic Size: Rows: 3 Columns: 4]
+ApplicationInfo: Language: ru Platform: windows Version: 5.3
+PluginInfo: Version: 3.1.3
+
+2026-10-21 21:28:43.7846|INFO|com.barraider.obstools|1|Plugin version: 3.1.3
+2026-10-21 21:28:43.7846|INFO|com.barraider.obstools|1|Connecting to Stream Deck...
+2026-10-21 21:28:46.1001|INFO|com.barraider.obstools|1|Connected to Stream Deck
+2026-10-21 21:28:46.1011|INFO|com.barraider.obstools|1|GlobalSettingsManager initialized
+2026-10-21 22:17:27.7337|FATAL|com.barraider.obstools|34|BarRaider.SdTools.Communication.StreamDeckConnection ReceiveAsync Exception: System.Net.WebSockets.WebSocketException (0x80004005): An internal WebSocket error occurred. Please see the innerException, if present, for more details.  ---> System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Net.WebSockets.WebSocketConnectionStream.<ReadAsync>d__21.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Net.WebSockets.WebSocketBase.WebSocketOperation.<Process>d__19.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Net.WebSockets.WebSocketBase.<ReceiveAsyncCore>d__45.MoveNext()
+   at System.Net.WebSockets.WebSocketBase.ThrowIfConvertibleException(String methodName, Exception exception, CancellationToken cancellationToken, Boolean aborted)
+   at System.Net.WebSockets.WebSocketBase.<ReceiveAsyncCore>d__45.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at BarRaider.SdTools.Communication.StreamDeckConnection.<ReceiveAsync>d__95.MoveNext()
+2026-10-21 22:17:27.7337|INFO|com.barraider.obstools|34|BarRaider.SdTools.Communication.StreamDeckConnection RunAsync completed, shutting down
+2026-10-21 22:17:27.7337|INFO|com.barraider.obstools|34|Disconnect event received
+2026-10-21 22:17:27.7337|INFO|com.barraider.obstools|1|Plugin Disconnected - Exiting
+2026-10-21 22:17:31.8373|DEBUG|com.barraider.obstools|1|Logger Initialized
+2026-10-21 22:17:31.9094|INFO|com.barraider.obstools|1|Plugin [com.barraider.obstools] Loading - 25 Actions Found
+2026-10-21 22:17:32.4507|DEBUG|com.barraider.obstools|1|Plugin Loaded: UUID: U812CYFQLQ32918C9CRX24Z714DLB3YL Device Info: Devices:
+[Id: 11W50Z7AJST68M9312B5E73GPJ07TP4U Type: StreamDeckClassic Size: Rows: 3 Columns: 4]
+ApplicationInfo: Language: ru Platform: windows Version: 5.3
+PluginInfo: Version: 3.1.3
+
+2026-10-21 22:17:32.4507|INFO|com.barraider.obstools|1|Plugin version: 3.1.3
+2026-10-21 22:17:32.4507|INFO|com.barraider.obstools|1|Connecting to Stream Deck...
+2026-10-21 22:17:35.6534|INFO|com.barraider.obstools|1|Connected to Stream Deck
+2026-10-21 22:17:35.6534|INFO|com.barraider.obstools|1|GlobalSettingsManager initialized
+2026-10-21 22:18:47.1636|FATAL|com.barraider.obstools|11|BarRaider.SdTools.Communication.StreamDeckConnection ReceiveAsync Exception: System.Net.WebSockets.WebSocketException (0x80004005): An internal WebSocket error occurred. Please see the innerException, if present, for more details.  ---> System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Net.WebSockets.WebSocketConnectionStream.<ReadAsync>d__21.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Net.WebSockets.WebSocketBase.WebSocketOperation.<Process>d__19.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Net.WebSockets.WebSocketBase.<ReceiveAsyncCore>d__45.MoveNext()
+   at System.Net.WebSockets.WebSocketBase.ThrowIfConvertibleException(String methodName, Exception exception, CancellationToken cancellationToken, Boolean aborted)
+   at System.Net.WebSockets.WebSocketBase.<ReceiveAsyncCore>d__45.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at BarRaider.SdTools.Communication.StreamDeckConnection.<ReceiveAsync>d__95.MoveNext()
+2026-10-21 22:18:47.1636|INFO|com.barraider.obstools|11|BarRaider.SdTools.Communication.StreamDeckConnection RunAsync completed, shutting down
+2026-10-21 22:18:47.1636|INFO|com.barraider.obstools|11|Disconnect event received
+2026-10-21 22:18:47.1636|INFO|com.barraider.obstools|1|Plugin Disconnected - Exiting
+2026-10-21 22:19:05.2176|DEBUG|com.barraider.obstools|1|Logger Initialized
+2026-10-21 22:19:05.2691|INFO|com.barraider.obstools|1|Plugin [com.barraider.obstools] Loading - 25 Actions Found
+2026-10-21 22:19:05.8522|DEBUG|com.barraider.obstools|1|Plugin Loaded: UUID: 2V7C67PMRME20JG97W18CXA47SW0K5EM Device Info: Devices:
+[Id: 6L61SH3IBB084O928C1W3O4ISC8QQ21U Type: StreamDeckClassic Size: Rows: 3 Columns: 4]
+ApplicationInfo: Language: ru Platform: windows Version: 5.3
+PluginInfo: Version: 3.1.3
+
+2026-10-21 22:19:05.8522|INFO|com.barraider.obstools|1|Plugin version: 3.1.3
+2026-10-21 22:19:05.8522|INFO|com.barraider.obstools|1|Connecting to Stream Deck...
+2026-10-21 22:19:07.2297|INFO|com.barraider.obstools|1|Connected to Stream Deck
+2026-10-21 22:19:07.2297|INFO|com.barraider.obstools|1|GlobalSettingsManager initialized
+2026-10-21 22:19:41.3770|FATAL|com.barraider.obstools|10|BarRaider.SdTools.Communication.StreamDeckConnection ReceiveAsync Exception: System.Net.WebSockets.WebSocketException (0x80004005): An internal WebSocket error occurred. Please see the innerException, if present, for more details.  ---> System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Net.WebSockets.WebSocketConnectionStream.<ReadAsync>d__21.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Net.WebSockets.WebSocketBase.WebSocketOperation.<Process>d__19.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Net.WebSockets.WebSocketBase.<ReceiveAsyncCore>d__45.MoveNext()
+   at System.Net.WebSockets.WebSocketBase.ThrowIfConvertibleException(String methodName, Exception exception, CancellationToken cancellationToken, Boolean aborted)
+   at System.Net.WebSockets.WebSocketBase.<ReceiveAsyncCore>d__45.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at BarRaider.SdTools.Communication.StreamDeckConnection.<ReceiveAsync>d__95.MoveNext()
+2026-10-21 22:19:41.3770|INFO|com.barraider.obstools|10|BarRaider.SdTools.Communication.StreamDeckConnection RunAsync completed, shutting down
+2026-10-21 22:19:41.3770|INFO|com.barraider.obstools|10|Disconnect event received
+2026-10-21 22:19:41.3770|INFO|com.barraider.obstools|1|Plugin Disconnected - Exiting
+2026-10-21 22:19:45.7699|DEBUG|com.barraider.obstools|1|Logger Initialized
+2026-10-21 22:19:45.8401|INFO|com.barraider.obstools|1|Plugin [com.barraider.obstools] Loading - 25 Actions Found
+2026-10-21 22:19:46.4518|DEBUG|com.barraider.obstools|1|Plugin Loaded: UUID: 173V72EUT0NG8KHR9IKMA72H4RW0X2N7 Device Info: Devices:
+[Id: XNMVKMYP03F2KRSIB4JW300324239TE4 Type: StreamDeckClassic Size: Rows: 3 Columns: 4]
+ApplicationInfo: Language: ru Platform: windows Version: 5.3
+PluginInfo: Version: 3.1.3
+
+2026-10-21 22:19:46.4518|INFO|com.barraider.obstools|1|Plugin version: 3.1.3
+2026-10-21 22:19:46.4518|INFO|com.barraider.obstools|1|Connecting to Stream Deck...
+2026-10-21 22:19:48.0966|INFO|com.barraider.obstools|1|Connected to Stream Deck
+2026-10-21 22:19:48.0966|INFO|com.barraider.obstools|1|GlobalSettingsManager initialized
+2026-10-21 22:20:13.3003|FATAL|com.barraider.obstools|8|BarRaider.SdTools.Communication.StreamDeckConnection ReceiveAsync Exception: System.Net.WebSockets.WebSocketException (0x80004005): An internal WebSocket error occurred. Please see the innerException, if present, for more details.  ---> System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Net.WebSockets.WebSocketConnectionStream.<ReadAsync>d__21.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Net.WebSockets.WebSocketBase.WebSocketOperation.<Process>d__19.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Net.WebSockets.WebSocketBase.<ReceiveAsyncCore>d__45.MoveNext()
+   at System.Net.WebSockets.WebSocketBase.ThrowIfConvertibleException(String methodName, Exception exception, CancellationToken cancellationToken, Boolean aborted)
+   at System.Net.WebSockets.WebSocketBase.<ReceiveAsyncCore>d__45.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at BarRaider.SdTools.Communication.StreamDeckConnection.<ReceiveAsync>d__95.MoveNext()
+2026-10-21 22:20:13.3003|INFO|com.barraider.obstools|8|BarRaider.SdTools.Communication.StreamDeckConnection RunAsync completed, shutting down
+2026-10-21 22:20:13.3003|INFO|com.barraider.obstools|8|Disconnect event received
+2026-10-21 22:20:13.3003|INFO|com.barraider.obstools|1|Plugin Disconnected - Exiting
+2026-10-21 22:20:19.4104|DEBUG|com.barraider.obstools|1|Logger Initialized
+2026-10-21 22:20:19.4707|INFO|com.barraider.obstools|1|Plugin [com.barraider.obstools] Loading - 25 Actions Found
+2026-10-21 22:20:20.1007|DEBUG|com.barraider.obstools|1|Plugin Loaded: UUID: 0KF0J64WPL32DSSBJF2K4E2ZI00J5P9Y Device Info: Devices:
+[Id: 1UC8XW543AS0Z807R2O2X5T0JT47DL4N Type: StreamDeckClassic Size: Rows: 3 Columns: 4]
+ApplicationInfo: Language: ru Platform: windows Version: 5.3
+PluginInfo: Version: 3.1.3
+
+2026-10-21 22:20:20.1007|INFO|com.barraider.obstools|1|Plugin version: 3.1.3
+2026-10-21 22:20:20.1007|INFO|com.barraider.obstools|1|Connecting to Stream Deck...
+2026-10-21 22:20:21.1737|INFO|com.barraider.obstools|1|Connected to Stream Deck
+2026-10-21 22:20:21.1737|INFO|com.barraider.obstools|1|GlobalSettingsManager initialized
+2026-10-21 22:38:59.0502|FATAL|com.barraider.obstools|58|BarRaider.SdTools.Communication.StreamDeckConnection ReceiveAsync Exception: System.Net.WebSockets.WebSocketException (0x80004005): An internal WebSocket error occurred. Please see the innerException, if present, for more details.  ---> System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Net.WebSockets.WebSocketConnectionStream.<ReadAsync>d__21.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Net.WebSockets.WebSocketBase.WebSocketOperation.<Process>d__19.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Net.WebSockets.WebSocketBase.<ReceiveAsyncCore>d__45.MoveNext()
+   at System.Net.WebSockets.WebSocketBase.ThrowIfConvertibleException(String methodName, Exception exception, CancellationToken cancellationToken, Boolean aborted)
+   at System.Net.WebSockets.WebSocketBase.<ReceiveAsyncCore>d__45.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at BarRaider.SdTools.Communication.StreamDeckConnection.<ReceiveAsync>d__95.MoveNext()
+2026-10-21 22:38:59.0502|INFO|com.barraider.obstools|58|BarRaider.SdTools.Communication.StreamDeckConnection RunAsync completed, shutting down
+2026-10-21 22:38:59.0569|INFO|com.barraider.obstools|58|Disconnect event received
+2026-10-21 22:38:59.0569|INFO|com.barraider.obstools|1|Plugin Disconnected - Exiting
+2026-10-21 22:39:54.0587|DEBUG|com.barraider.obstools|1|Logger Initialized
+2026-10-21 22:39:54.1129|INFO|com.barraider.obstools|1|Plugin [com.barraider.obstools] Loading - 25 Actions Found
+2026-10-21 22:39:54.7114|DEBUG|com.barraider.obstools|1|Plugin Loaded: UUID: MH4HEZWZ7Z3114022TZLIO74D4F7GJUV Device Info: Devices:
+[Id: 8LIT0Y9B269FGBV23327XA63W87K0489 Type: StreamDeckClassic Size: Rows: 3 Columns: 4]
+ApplicationInfo: Language: ru Platform: windows Version: 5.3
+PluginInfo: Version: 3.1.3
+
+2026-10-21 22:39:54.7114|INFO|com.barraider.obstools|1|Plugin version: 3.1.3
+2026-10-21 22:39:54.7114|INFO|com.barraider.obstools|1|Connecting to Stream Deck...
+2026-10-21 22:39:55.7951|INFO|com.barraider.obstools|1|Connected to Stream Deck
+2026-10-21 22:39:55.7951|INFO|com.barraider.obstools|1|GlobalSettingsManager initialized
+2026-10-21 22:41:40.3121|FATAL|com.barraider.obstools|13|BarRaider.SdTools.Communication.StreamDeckConnection ReceiveAsync Exception: System.Net.WebSockets.WebSocketException (0x80004005): An internal WebSocket error occurred. Please see the innerException, if present, for more details.  ---> System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Net.WebSockets.WebSocketConnectionStream.<ReadAsync>d__21.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Net.WebSockets.WebSocketBase.WebSocketOperation.<Process>d__19.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Net.WebSockets.WebSocketBase.<ReceiveAsyncCore>d__45.MoveNext()
+   at System.Net.WebSockets.WebSocketBase.ThrowIfConvertibleException(String methodName, Exception exception, CancellationToken cancellationToken, Boolean aborted)
+   at System.Net.WebSockets.WebSocketBase.<ReceiveAsyncCore>d__45.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at BarRaider.SdTools.Communication.StreamDeckConnection.<ReceiveAsync>d__95.MoveNext()
+2026-10-21 22:41:40.3121|INFO|com.barraider.obstools|13|BarRaider.SdTools.Communication.StreamDeckConnection RunAsync completed, shutting down
+2026-10-21 22:41:40.3121|INFO|com.barraider.obstools|13|Disconnect event received
+2026-10-21 22:41:40.3121|INFO|com.barraider.obstools|1|Plugin Disconnected - Exiting
+2026-10-21 22:41:51.9506|DEBUG|com.barraider.obstools|1|Logger Initialized
+2026-10-21 22:41:52.0866|INFO|com.barraider.obstools|1|Plugin [com.barraider.obstools] Loading - 25 Actions Found
+2026-10-21 22:41:53.3956|DEBUG|com.barraider.obstools|1|Plugin Loaded: UUID: 33K71B91A9AL88NZ2JMW57DUKO5AKLSY Device Info: Devices:
+[Id: VU6879KL6Q3180IEQXZBD1XGJ89C9NK5 Type: StreamDeckClassic Size: Rows: 3 Columns: 4]
+ApplicationInfo: Language: ru Platform: windows Version: 5.3
+PluginInfo: Version: 3.1.3
+
+2026-10-21 22:41:53.3956|INFO|com.barraider.obstools|1|Plugin version: 3.1.3
+2026-10-21 22:41:53.3956|INFO|com.barraider.obstools|1|Connecting to Stream Deck...
+2026-10-21 22:41:53.6704|INFO|com.barraider.obstools|1|Connected to Stream Deck
+2026-10-21 22:41:53.6704|INFO|com.barraider.obstools|1|GlobalSettingsManager initialized
+2026-10-21 22:42:09.4885|FATAL|com.barraider.obstools|8|BarRaider.SdTools.Communication.StreamDeckConnection ReceiveAsync Exception: System.Net.WebSockets.WebSocketException (0x80004005): An internal WebSocket error occurred. Please see the innerException, if present, for more details.  ---> System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Net.WebSockets.WebSocketConnectionStream.<ReadAsync>d__21.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Net.WebSockets.WebSocketBase.WebSocketOperation.<Process>d__19.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Net.WebSockets.WebSocketBase.<ReceiveAsyncCore>d__45.MoveNext()
+   at System.Net.WebSockets.WebSocketBase.ThrowIfConvertibleException(String methodName, Exception exception, CancellationToken cancellationToken, Boolean aborted)
+   at System.Net.WebSockets.WebSocketBase.<ReceiveAsyncCore>d__45.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at BarRaider.SdTools.Communication.StreamDeckConnection.<ReceiveAsync>d__95.MoveNext()
+2026-10-21 22:42:09.4885|INFO|com.barraider.obstools|8|BarRaider.SdTools.Communication.StreamDeckConnection RunAsync completed, shutting down
+2026-10-21 22:42:09.4915|INFO|com.barraider.obstools|8|Disconnect event received
+2026-10-21 22:42:09.4915|INFO|com.barraider.obstools|1|Plugin Disconnected - Exiting
+2026-10-21 22:42:17.6596|DEBUG|com.barraider.obstools|1|Logger Initialized
+2026-10-21 22:42:17.7194|INFO|com.barraider.obstools|1|Plugin [com.barraider.obstools] Loading - 25 Actions Found
+2026-10-21 22:42:18.3743|DEBUG|com.barraider.obstools|1|Plugin Loaded: UUID: 3210VT0ZU2G03MP22J01AQ7556VY9T2C Device Info: Devices:
+[Id: 13Q3C3Y06C72DF3ZA7GH45Z32K0X334I Type: StreamDeckClassic Size: Rows: 3 Columns: 4]
+ApplicationInfo: Language: ru Platform: windows Version: 5.3
+PluginInfo: Version: 3.1.3
+
+2026-10-21 22:42:18.3743|INFO|com.barraider.obstools|1|Plugin version: 3.1.3
+2026-10-21 22:42:18.3743|INFO|com.barraider.obstools|1|Connecting to Stream Deck...
+2026-10-21 22:42:19.5225|INFO|com.barraider.obstools|1|Connected to Stream Deck
+2026-10-21 22:42:19.5225|INFO|com.barraider.obstools|1|GlobalSettingsManager initialized
+2026-10-21 22:43:25.2783|FATAL|com.barraider.obstools|11|BarRaider.SdTools.Communication.StreamDeckConnection ReceiveAsync Exception: System.Net.WebSockets.WebSocketException (0x80004005): An internal WebSocket error occurred. Please see the innerException, if present, for more details.  ---> System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Net.WebSockets.WebSocketConnectionStream.<ReadAsync>d__21.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Net.WebSockets.WebSocketBase.WebSocketOperation.<Process>d__19.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Net.WebSockets.WebSocketBase.<ReceiveAsyncCore>d__45.MoveNext()
+   at System.Net.WebSockets.WebSocketBase.ThrowIfConvertibleException(String methodName, Exception exception, CancellationToken cancellationToken, Boolean aborted)
+   at System.Net.WebSockets.WebSocketBase.<ReceiveAsyncCore>d__45.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at BarRaider.SdTools.Communication.StreamDeckConnection.<ReceiveAsync>d__95.MoveNext()
+2026-10-21 22:43:25.2783|INFO|com.barraider.obstools|11|BarRaider.SdTools.Communication.StreamDeckConnection RunAsync completed, shutting down
+2026-10-21 22:43:25.2783|INFO|com.barraider.obstools|11|Disconnect event received
+2026-10-21 22:43:25.2783|INFO|com.barraider.obstools|1|Plugin Disconnected - Exiting
+2026-10-21 22:43:32.3814|DEBUG|com.barraider.obstools|1|Logger Initialized
+2026-10-21 22:43:32.4509|INFO|com.barraider.obstools|1|Plugin [com.barraider.obstools] Loading - 25 Actions Found
+2026-10-21 22:43:33.2007|DEBUG|com.barraider.obstools|1|Plugin Loaded: UUID: ZL0IB24PO0X8R2F0001YZP5BV1733OH2 Device Info: Devices:
+[Id: JW51142CH240P1G3E7490Y347HLI23X8 Type: StreamDeckClassic Size: Rows: 3 Columns: 4]
+ApplicationInfo: Language: ru Platform: windows Version: 5.3
+PluginInfo: Version: 3.1.3
+
+2026-10-21 22:43:33.2007|INFO|com.barraider.obstools|1|Plugin version: 3.1.3
+2026-10-21 22:43:33.2007|INFO|com.barraider.obstools|1|Connecting to Stream Deck...
+2026-10-21 22:43:34.5279|INFO|com.barraider.obstools|1|Connected to Stream Deck
+2026-10-21 22:43:34.5279|INFO|com.barraider.obstools|1|GlobalSettingsManager initialized
+2026-10-21 22:43:58.1160|FATAL|com.barraider.obstools|8|BarRaider.SdTools.Communication.StreamDeckConnection ReceiveAsync Exception: System.Net.WebSockets.WebSocketException (0x80004005): An internal WebSocket error occurred. Please see the innerException, if present, for more details.  ---> System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Net.WebSockets.WebSocketConnectionStream.<ReadAsync>d__21.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Net.WebSockets.WebSocketBase.WebSocketOperation.<Process>d__19.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Net.WebSockets.WebSocketBase.<ReceiveAsyncCore>d__45.MoveNext()
+   at System.Net.WebSockets.WebSocketBase.ThrowIfConvertibleException(String methodName, Exception exception, CancellationToken cancellationToken, Boolean aborted)
+   at System.Net.WebSockets.WebSocketBase.<ReceiveAsyncCore>d__45.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at BarRaider.SdTools.Communication.StreamDeckConnection.<ReceiveAsync>d__95.MoveNext()
+2026-10-21 22:43:58.1160|INFO|com.barraider.obstools|8|BarRaider.SdTools.Communication.StreamDeckConnection RunAsync completed, shutting down
+2026-10-21 22:43:58.1160|INFO|com.barraider.obstools|8|Disconnect event received
+2026-10-21 22:43:58.1160|INFO|com.barraider.obstools|1|Plugin Disconnected - Exiting
+2026-10-21 22:44:02.0863|DEBUG|com.barraider.obstools|1|Logger Initialized
+2026-10-21 22:44:02.1381|INFO|com.barraider.obstools|1|Plugin [com.barraider.obstools] Loading - 25 Actions Found
+2026-10-21 22:44:02.6775|DEBUG|com.barraider.obstools|1|Plugin Loaded: UUID: 8W8YFH7HZ7MCZ7WG7X81W53RZ357UZ49 Device Info: Devices:
+[Id: 87R1O770X3AUD6FPBQ5R0HT5LO51ZYSG Type: StreamDeckClassic Size: Rows: 3 Columns: 4]
+ApplicationInfo: Language: ru Platform: windows Version: 5.3
+PluginInfo: Version: 3.1.3
+
+2026-10-21 22:44:02.6775|INFO|com.barraider.obstools|1|Plugin version: 3.1.3
+2026-10-21 22:44:02.6775|INFO|com.barraider.obstools|1|Connecting to Stream Deck...
+2026-10-21 22:44:03.9758|INFO|com.barraider.obstools|1|Connected to Stream Deck
+2026-10-21 22:44:03.9758|INFO|com.barraider.obstools|1|GlobalSettingsManager initialized
+2026-10-21 22:44:40.7092|FATAL|com.barraider.obstools|10|BarRaider.SdTools.Communication.StreamDeckConnection ReceiveAsync Exception: System.Net.WebSockets.WebSocketException (0x80004005): An internal WebSocket error occurred. Please see the innerException, if present, for more details.  ---> System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Net.WebSockets.WebSocketConnectionStream.<ReadAsync>d__21.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Net.WebSockets.WebSocketBase.WebSocketOperation.<Process>d__19.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Net.WebSockets.WebSocketBase.<ReceiveAsyncCore>d__45.MoveNext()
+   at System.Net.WebSockets.WebSocketBase.ThrowIfConvertibleException(String methodName, Exception exception, CancellationToken cancellationToken, Boolean aborted)
+   at System.Net.WebSockets.WebSocketBase.<ReceiveAsyncCore>d__45.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at BarRaider.SdTools.Communication.StreamDeckConnection.<ReceiveAsync>d__95.MoveNext()
+2026-10-21 22:44:40.7107|INFO|com.barraider.obstools|10|BarRaider.SdTools.Communication.StreamDeckConnection RunAsync completed, shutting down
+2026-10-21 22:44:40.7107|INFO|com.barraider.obstools|10|Disconnect event received
+2026-10-21 22:44:40.7107|INFO|com.barraider.obstools|1|Plugin Disconnected - Exiting
+2026-10-21 22:44:45.2353|DEBUG|com.barraider.obstools|1|Logger Initialized
+2026-10-21 22:44:45.3044|INFO|com.barraider.obstools|1|Plugin [com.barraider.obstools] Loading - 25 Actions Found
+2026-10-21 22:44:46.7832|DEBUG|com.barraider.obstools|1|Plugin Loaded: UUID: 043L223401X34L70NM7LZ441D5M2B7K7 Device Info: Devices:
+[Id: 4034V94HTS8UI0PKKM8C569LK54PGHGD Type: StreamDeckClassic Size: Rows: 3 Columns: 4]
+ApplicationInfo: Language: ru Platform: windows Version: 5.3
+PluginInfo: Version: 3.1.3
+
+2026-10-21 22:44:46.7832|INFO|com.barraider.obstools|1|Plugin version: 3.1.3
+2026-10-21 22:44:46.7832|INFO|com.barraider.obstools|1|Connecting to Stream Deck...
+2026-10-21 22:44:47.4910|INFO|com.barraider.obstools|1|Connected to Stream Deck
+2026-10-21 22:44:47.4930|INFO|com.barraider.obstools|1|GlobalSettingsManager initialized
+2026-10-21 22:45:51.6300|FATAL|com.barraider.obstools|11|BarRaider.SdTools.Communication.StreamDeckConnection ReceiveAsync Exception: System.Net.WebSockets.WebSocketException (0x80004005): An internal WebSocket error occurred. Please see the innerException, if present, for more details.  ---> System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Net.WebSockets.WebSocketConnectionStream.<ReadAsync>d__21.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Net.WebSockets.WebSocketBase.WebSocketOperation.<Process>d__19.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Net.WebSockets.WebSocketBase.<ReceiveAsyncCore>d__45.MoveNext()
+   at System.Net.WebSockets.WebSocketBase.ThrowIfConvertibleException(String methodName, Exception exception, CancellationToken cancellationToken, Boolean aborted)
+   at System.Net.WebSockets.WebSocketBase.<ReceiveAsyncCore>d__45.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at BarRaider.SdTools.Communication.StreamDeckConnection.<ReceiveAsync>d__95.MoveNext()
+2026-10-21 22:45:51.6300|INFO|com.barraider.obstools|11|BarRaider.SdTools.Communication.StreamDeckConnection RunAsync completed, shutting down
+2026-10-21 22:45:51.6325|INFO|com.barraider.obstools|11|Disconnect event received
+2026-10-21 22:45:51.6325|INFO|com.barraider.obstools|1|Plugin Disconnected - Exiting
+2026-10-21 22:46:00.9724|DEBUG|com.barraider.obstools|1|Logger Initialized
+2026-10-21 22:46:01.0541|INFO|com.barraider.obstools|1|Plugin [com.barraider.obstools] Loading - 25 Actions Found
+2026-10-21 22:46:01.9898|DEBUG|com.barraider.obstools|1|Plugin Loaded: UUID: WF3KQR7B867N9094IF84833S0A8P41Q3 Device Info: Devices:
+[Id: 298L11996Q2J669MI326W62J9640G04G Type: StreamDeckClassic Size: Rows: 3 Columns: 4]
+ApplicationInfo: Language: ru Platform: windows Version: 5.3
+PluginInfo: Version: 3.1.3
+
+2026-10-21 22:46:01.9898|INFO|com.barraider.obstools|1|Plugin version: 3.1.3
+2026-10-21 22:46:01.9898|INFO|com.barraider.obstools|1|Connecting to Stream Deck...
+2026-10-21 22:46:03.2217|INFO|com.barraider.obstools|1|Connected to Stream Deck
+2026-10-21 22:46:03.2217|INFO|com.barraider.obstools|1|GlobalSettingsManager initialized
+2026-10-21 22:46:16.2124|FATAL|com.barraider.obstools|3|BarRaider.SdTools.Communication.StreamDeckConnection ReceiveAsync Exception: System.Net.WebSockets.WebSocketException (0x80004005): An internal WebSocket error occurred. Please see the innerException, if present, for more details.  ---> System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Net.WebSockets.WebSocketConnectionStream.<ReadAsync>d__21.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Net.WebSockets.WebSocketBase.WebSocketOperation.<Process>d__19.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Net.WebSockets.WebSocketBase.<ReceiveAsyncCore>d__45.MoveNext()
+   at System.Net.WebSockets.WebSocketBase.ThrowIfConvertibleException(String methodName, Exception exception, CancellationToken cancellationToken, Boolean aborted)
+   at System.Net.WebSockets.WebSocketBase.<ReceiveAsyncCore>d__45.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at BarRaider.SdTools.Communication.StreamDeckConnection.<ReceiveAsync>d__95.MoveNext()
+2026-10-21 22:46:16.2124|INFO|com.barraider.obstools|3|BarRaider.SdTools.Communication.StreamDeckConnection RunAsync completed, shutting down
+2026-10-21 22:46:16.2124|INFO|com.barraider.obstools|3|Disconnect event received
+2026-10-21 22:46:16.2124|INFO|com.barraider.obstools|1|Plugin Disconnected - Exiting
+2026-10-21 22:46:23.8728|DEBUG|com.barraider.obstools|1|Logger Initialized
+2026-10-21 22:46:23.9341|INFO|com.barraider.obstools|1|Plugin [com.barraider.obstools] Loading - 25 Actions Found
+2026-10-21 22:46:24.8033|DEBUG|com.barraider.obstools|1|Plugin Loaded: UUID: W2WS42VFFUO7140I4R165GXG0E85IN24 Device Info: Devices:
+[Id: IPJHCI12JB2ZE26E4016R9ONHE2CZUIO Type: StreamDeckClassic Size: Rows: 3 Columns: 4]
+ApplicationInfo: Language: ru Platform: windows Version: 5.3
+PluginInfo: Version: 3.1.3
+
+2026-10-21 22:46:24.8033|INFO|com.barraider.obstools|1|Plugin version: 3.1.3
+2026-10-21 22:46:24.8033|INFO|com.barraider.obstools|1|Connecting to Stream Deck...
+2026-10-21 22:46:26.3818|INFO|com.barraider.obstools|1|Connected to Stream Deck
+2026-10-21 22:46:26.3818|INFO|com.barraider.obstools|1|GlobalSettingsManager initialized
+2026-10-21 22:51:23.6940|FATAL|com.barraider.obstools|18|BarRaider.SdTools.Communication.StreamDeckConnection ReceiveAsync Exception: System.Net.WebSockets.WebSocketException (0x80004005): An internal WebSocket error occurred. Please see the innerException, if present, for more details.  ---> System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Net.WebSockets.WebSocketConnectionStream.<ReadAsync>d__21.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Net.WebSockets.WebSocketBase.WebSocketOperation.<Process>d__19.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Net.WebSockets.WebSocketBase.<ReceiveAsyncCore>d__45.MoveNext()
+   at System.Net.WebSockets.WebSocketBase.ThrowIfConvertibleException(String methodName, Exception exception, CancellationToken cancellationToken, Boolean aborted)
+   at System.Net.WebSockets.WebSocketBase.<ReceiveAsyncCore>d__45.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at BarRaider.SdTools.Communication.StreamDeckConnection.<ReceiveAsync>d__95.MoveNext()
+2026-10-21 22:51:23.6955|INFO|com.barraider.obstools|18|BarRaider.SdTools.Communication.StreamDeckConnection RunAsync completed, shutting down
+2026-10-21 22:51:23.6955|INFO|com.barraider.obstools|18|Disconnect event received
+2026-10-21 22:51:23.6955|INFO|com.barraider.obstools|1|Plugin Disconnected - Exiting
+2026-10-21 22:51:27.6582|DEBUG|com.barraider.obstools|1|Logger Initialized
+2026-10-21 22:51:27.7020|INFO|com.barraider.obstools|1|Plugin [com.barraider.obstools] Loading - 25 Actions Found
+2026-10-21 22:51:28.1994|DEBUG|com.barraider.obstools|1|Plugin Loaded: UUID: P543S42GW73FCS39K6HC1M421P28GOSU Device Info: Devices:
+[Id: 49RX79LV918MTIZC30D004PEL8602N4T Type: StreamDeckClassic Size: Rows: 3 Columns: 4]
+ApplicationInfo: Language: ru Platform: windows Version: 5.3
+PluginInfo: Version: 3.1.3
+
+2026-10-21 22:51:28.1994|INFO|com.barraider.obstools|1|Plugin version: 3.1.3
+2026-10-21 22:51:28.1994|INFO|com.barraider.obstools|1|Connecting to Stream Deck...
+2026-10-21 22:51:29.4912|INFO|com.barraider.obstools|1|Connected to Stream Deck
+2026-10-21 22:51:29.4912|INFO|com.barraider.obstools|1|GlobalSettingsManager initialized
+2026-10-21 22:58:38.9728|FATAL|com.barraider.obstools|30|BarRaider.SdTools.Communication.StreamDeckConnection ReceiveAsync Exception: System.Net.WebSockets.WebSocketException (0x80004005): An internal WebSocket error occurred. Please see the innerException, if present, for more details.  ---> System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Net.WebSockets.WebSocketConnectionStream.<ReadAsync>d__21.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Net.WebSockets.WebSocketBase.WebSocketOperation.<Process>d__19.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Net.WebSockets.WebSocketBase.<ReceiveAsyncCore>d__45.MoveNext()
+   at System.Net.WebSockets.WebSocketBase.ThrowIfConvertibleException(String methodName, Exception exception, CancellationToken cancellationToken, Boolean aborted)
+   at System.Net.WebSockets.WebSocketBase.<ReceiveAsyncCore>d__45.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at BarRaider.SdTools.Communication.StreamDeckConnection.<ReceiveAsync>d__95.MoveNext()
+2026-10-21 22:58:38.9728|INFO|com.barraider.obstools|30|BarRaider.SdTools.Communication.StreamDeckConnection RunAsync completed, shutting down
+2026-10-21 22:58:38.9728|INFO|com.barraider.obstools|30|Disconnect event received
+2026-10-21 22:58:38.9728|INFO|com.barraider.obstools|1|Plugin Disconnected - Exiting
+2026-10-21 22:58:42.6741|DEBUG|com.barraider.obstools|1|Logger Initialized
+2026-10-21 22:58:42.7156|INFO|com.barraider.obstools|1|Plugin [com.barraider.obstools] Loading - 25 Actions Found
+2026-10-21 22:58:43.1013|DEBUG|com.barraider.obstools|1|Plugin Loaded: UUID: R5JFT3VIK2NM0O836G5RBH9XPL0BZPDB Device Info: Devices:
+[Id: K986PP4D0C2034P3522IU9HQ6MK2AIE8 Type: StreamDeckClassic Size: Rows: 3 Columns: 4]
+ApplicationInfo: Language: ru Platform: windows Version: 5.3
+PluginInfo: Version: 3.1.3
+
+2026-10-21 22:58:43.1013|INFO|com.barraider.obstools|1|Plugin version: 3.1.3
+2026-10-21 22:58:43.1013|INFO|com.barraider.obstools|1|Connecting to Stream Deck...
+2026-10-21 22:58:44.3198|INFO|com.barraider.obstools|1|Connected to Stream Deck
+2026-10-21 22:58:44.3198|INFO|com.barraider.obstools|1|GlobalSettingsManager initialized
+2026-10-21 23:10:23.3380|FATAL|com.barraider.obstools|40|BarRaider.SdTools.Communication.StreamDeckConnection ReceiveAsync Exception: System.Net.WebSockets.WebSocketException (0x80004005): An internal WebSocket error occurred. Please see the innerException, if present, for more details.  ---> System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Net.WebSockets.WebSocketConnectionStream.<ReadAsync>d__21.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Net.WebSockets.WebSocketBase.WebSocketOperation.<Process>d__19.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Net.WebSockets.WebSocketBase.<ReceiveAsyncCore>d__45.MoveNext()
+   at System.Net.WebSockets.WebSocketBase.ThrowIfConvertibleException(String methodName, Exception exception, CancellationToken cancellationToken, Boolean aborted)
+   at System.Net.WebSockets.WebSocketBase.<ReceiveAsyncCore>d__45.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at BarRaider.SdTools.Communication.StreamDeckConnection.<ReceiveAsync>d__95.MoveNext()
+2026-10-21 23:10:23.3380|INFO|com.barraider.obstools|40|BarRaider.SdTools.Communication.StreamDeckConnection RunAsync completed, shutting down
+2026-10-21 23:10:23.3380|INFO|com.barraider.obstools|40|Disconnect event received
+2026-10-21 23:10:23.3380|INFO|com.barraider.obstools|1|Plugin Disconnected - Exiting
+2026-10-21 23:10:27.1319|DEBUG|com.barraider.obstools|1|Logger Initialized
+2026-10-21 23:10:27.1700|INFO|com.barraider.obstools|1|Plugin [com.barraider.obstools] Loading - 25 Actions Found
+2026-10-21 23:10:27.5653|DEBUG|com.barraider.obstools|1|Plugin Loaded: UUID: Y67405O7RU09YJ80D3VJZ45VTUUI2C18 Device Info: Devices:
+[Id: V4WY7959EB91144ON7I7824FK1440647 Type: StreamDeckClassic Size: Rows: 3 Columns: 4]
+ApplicationInfo: Language: ru Platform: windows Version: 5.3
+PluginInfo: Version: 3.1.3
+
+2026-10-21 23:10:27.5653|INFO|com.barraider.obstools|1|Plugin version: 3.1.3
+2026-10-21 23:10:27.5653|INFO|com.barraider.obstools|1|Connecting to Stream Deck...
+2026-10-21 23:10:28.4324|INFO|com.barraider.obstools|1|Connected to Stream Deck
+2026-10-21 23:10:28.4324|INFO|com.barraider.obstools|1|GlobalSettingsManager initialized
+2026-10-21 23:14:49.3240|FATAL|com.barraider.obstools|20|BarRaider.SdTools.Communication.StreamDeckConnection ReceiveAsync Exception: System.Net.WebSockets.WebSocketException (0x80004005): An internal WebSocket error occurred. Please see the innerException, if present, for more details.  ---> System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Net.WebSockets.WebSocketConnectionStream.<ReadAsync>d__21.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Net.WebSockets.WebSocketBase.WebSocketOperation.<Process>d__19.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Net.WebSockets.WebSocketBase.<ReceiveAsyncCore>d__45.MoveNext()
+   at System.Net.WebSockets.WebSocketBase.ThrowIfConvertibleException(String methodName, Exception exception, CancellationToken cancellationToken, Boolean aborted)
+   at System.Net.WebSockets.WebSocketBase.<ReceiveAsyncCore>d__45.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at BarRaider.SdTools.Communication.StreamDeckConnection.<ReceiveAsync>d__95.MoveNext()
+2026-10-21 23:14:49.3240|INFO|com.barraider.obstools|20|BarRaider.SdTools.Communication.StreamDeckConnection RunAsync completed, shutting down
+2026-10-21 23:14:49.3240|INFO|com.barraider.obstools|20|Disconnect event received
+2026-10-21 23:14:49.3240|INFO|com.barraider.obstools|1|Plugin Disconnected - Exiting
+2026-10-21 23:14:53.1189|DEBUG|com.barraider.obstools|1|Logger Initialized
+2026-10-21 23:14:53.1589|INFO|com.barraider.obstools|1|Plugin [com.barraider.obstools] Loading - 25 Actions Found
+2026-10-21 23:14:53.5501|DEBUG|com.barraider.obstools|1|Plugin Loaded: UUID: 41O4PXJKLMU0OL9X26AYF5YR2G70P4K3 Device Info: Devices:
+[Id: YR95EYD2MCV618SFVX6TSKVK0PE13210 Type: StreamDeckClassic Size: Rows: 3 Columns: 4]
+ApplicationInfo: Language: ru Platform: windows Version: 5.3
+PluginInfo: Version: 3.1.3
+
+2026-10-21 23:14:53.5501|INFO|com.barraider.obstools|1|Plugin version: 3.1.3
+2026-10-21 23:14:53.5501|INFO|com.barraider.obstools|1|Connecting to Stream Deck...
+2026-10-21 23:14:54.4145|INFO|com.barraider.obstools|1|Connected to Stream Deck
+2026-10-21 23:14:54.4145|INFO|com.barraider.obstools|1|GlobalSettingsManager initialized
+2026-10-21 23:27:52.6289|FATAL|com.barraider.obstools|40|BarRaider.SdTools.Communication.StreamDeckConnection ReceiveAsync Exception: System.Net.WebSockets.WebSocketException (0x80004005): An internal WebSocket error occurred. Please see the innerException, if present, for more details.  ---> System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Net.WebSockets.WebSocketConnectionStream.<ReadAsync>d__21.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Net.WebSockets.WebSocketBase.WebSocketOperation.<Process>d__19.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Net.WebSockets.WebSocketBase.<ReceiveAsyncCore>d__45.MoveNext()
+   at System.Net.WebSockets.WebSocketBase.ThrowIfConvertibleException(String methodName, Exception exception, CancellationToken cancellationToken, Boolean aborted)
+   at System.Net.WebSockets.WebSocketBase.<ReceiveAsyncCore>d__45.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at BarRaider.SdTools.Communication.StreamDeckConnection.<ReceiveAsync>d__95.MoveNext()
+2026-10-21 23:27:52.6289|INFO|com.barraider.obstools|40|BarRaider.SdTools.Communication.StreamDeckConnection RunAsync completed, shutting down
+2026-10-21 23:27:52.6324|INFO|com.barraider.obstools|40|Disconnect event received
+2026-10-21 23:27:52.6324|INFO|com.barraider.obstools|1|Plugin Disconnected - Exiting
+2026-10-21 23:27:56.5035|DEBUG|com.barraider.obstools|1|Logger Initialized
+2026-10-21 23:27:56.5478|INFO|com.barraider.obstools|1|Plugin [com.barraider.obstools] Loading - 25 Actions Found
+2026-10-21 23:27:56.9907|DEBUG|com.barraider.obstools|1|Plugin Loaded: UUID: 9L11HVO8EW3IZ2M12G2W3Q1V7KDX33Z5 Device Info: Devices:
+[Id: 6W2WZ800931P14J695E410W7612U0CNB Type: StreamDeckClassic Size: Rows: 3 Columns: 4]
+ApplicationInfo: Language: ru Platform: windows Version: 5.3
+PluginInfo: Version: 3.1.3
+
+2026-10-21 23:27:56.9907|INFO|com.barraider.obstools|1|Plugin version: 3.1.3
+2026-10-21 23:27:56.9907|INFO|com.barraider.obstools|1|Connecting to Stream Deck...
+2026-10-21 23:27:57.8594|INFO|com.barraider.obstools|1|Connected to Stream Deck
+2026-10-21 23:27:57.8594|INFO|com.barraider.obstools|1|GlobalSettingsManager initialized
+2026-10-21 23:45:00.5509|FATAL|com.barraider.obstools|49|BarRaider.SdTools.Communication.StreamDeckConnection ReceiveAsync Exception: System.Net.WebSockets.WebSocketException (0x80004005): An internal WebSocket error occurred. Please see the innerException, if present, for more details.  ---> System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Net.WebSockets.WebSocketConnectionStream.<ReadAsync>d__21.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Net.WebSockets.WebSocketBase.WebSocketOperation.<Process>d__19.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Net.WebSockets.WebSocketBase.<ReceiveAsyncCore>d__45.MoveNext()
+   at System.Net.WebSockets.WebSocketBase.ThrowIfConvertibleException(String methodName, Exception exception, CancellationToken cancellationToken, Boolean aborted)
+   at System.Net.WebSockets.WebSocketBase.<ReceiveAsyncCore>d__45.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at BarRaider.SdTools.Communication.StreamDeckConnection.<ReceiveAsync>d__95.MoveNext()
+2026-10-21 23:45:00.5509|INFO|com.barraider.obstools|49|BarRaider.SdTools.Communication.StreamDeckConnection RunAsync completed, shutting down
+2026-10-21 23:45:00.5509|INFO|com.barraider.obstools|49|Disconnect event received
+2026-10-21 23:45:00.5550|INFO|com.barraider.obstools|1|Plugin Disconnected - Exiting
+2026-10-21 23:45:08.8750|DEBUG|com.barraider.obstools|1|Logger Initialized
+2026-10-21 23:45:08.9171|INFO|com.barraider.obstools|1|Plugin [com.barraider.obstools] Loading - 25 Actions Found
+2026-10-21 23:45:09.3463|DEBUG|com.barraider.obstools|1|Plugin Loaded: UUID: 0Q3DK11V919Y2HB6LH71504DBQP0K338 Device Info: Devices:
+[Id: 4715A1YX045O82QQAK5PS72SN8J936T5 Type: StreamDeckClassic Size: Rows: 3 Columns: 4]
+ApplicationInfo: Language: ru Platform: windows Version: 5.3
+PluginInfo: Version: 3.1.3
+
+2026-10-21 23:45:09.3463|INFO|com.barraider.obstools|1|Plugin version: 3.1.3
+2026-10-21 23:45:09.3463|INFO|com.barraider.obstools|1|Connecting to Stream Deck...
+2026-10-21 23:45:10.4374|INFO|com.barraider.obstools|1|Connected to Stream Deck
+2026-10-21 23:45:10.4374|INFO|com.barraider.obstools|1|GlobalSettingsManager initialized
+2026-10-21 23:50:47.2467|FATAL|com.barraider.obstools|27|BarRaider.SdTools.Communication.StreamDeckConnection ReceiveAsync Exception: System.Net.WebSockets.WebSocketException (0x80004005): An internal WebSocket error occurred. Please see the innerException, if present, for more details.  ---> System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Net.WebSockets.WebSocketConnectionStream.<ReadAsync>d__21.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Net.WebSockets.WebSocketBase.WebSocketOperation.<Process>d__19.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Net.WebSockets.WebSocketBase.<ReceiveAsyncCore>d__45.MoveNext()
+   at System.Net.WebSockets.WebSocketBase.ThrowIfConvertibleException(String methodName, Exception exception, CancellationToken cancellationToken, Boolean aborted)
+   at System.Net.WebSockets.WebSocketBase.<ReceiveAsyncCore>d__45.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at BarRaider.SdTools.Communication.StreamDeckConnection.<ReceiveAsync>d__95.MoveNext()
+2026-10-21 23:50:47.2467|INFO|com.barraider.obstools|27|BarRaider.SdTools.Communication.StreamDeckConnection RunAsync completed, shutting down
+2026-10-21 23:50:47.2467|INFO|com.barraider.obstools|27|Disconnect event received
+2026-10-21 23:50:47.2467|INFO|com.barraider.obstools|1|Plugin Disconnected - Exiting
+2026-10-21 23:50:51.0720|DEBUG|com.barraider.obstools|1|Logger Initialized
+2026-10-21 23:50:51.1122|INFO|com.barraider.obstools|1|Plugin [com.barraider.obstools] Loading - 25 Actions Found
+2026-10-21 23:50:51.5190|DEBUG|com.barraider.obstools|1|Plugin Loaded: UUID: 0O014ZMU6YJWM9NI841CBO6RW3ENN2QI Device Info: Devices:
+[Id: S0U137KPQ4KYU59784048WCY5X10L6UV Type: StreamDeckClassic Size: Rows: 3 Columns: 4]
+ApplicationInfo: Language: ru Platform: windows Version: 5.3
+PluginInfo: Version: 3.1.3
+
+2026-10-21 23:50:51.5190|INFO|com.barraider.obstools|1|Plugin version: 3.1.3
+2026-10-21 23:50:51.5190|INFO|com.barraider.obstools|1|Connecting to Stream Deck...
+2026-10-21 23:50:52.7125|INFO|com.barraider.obstools|1|Connected to Stream Deck
+2026-10-21 23:50:52.7125|INFO|com.barraider.obstools|1|GlobalSettingsManager initialized
+2026-10-21 23:51:27.2802|FATAL|com.barraider.obstools|3|BarRaider.SdTools.Communication.StreamDeckConnection ReceiveAsync Exception: System.Net.WebSockets.WebSocketException (0x80004005): An internal WebSocket error occurred. Please see the innerException, if present, for more details.  ---> System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Net.WebSockets.WebSocketConnectionStream.<ReadAsync>d__21.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Net.WebSockets.WebSocketBase.WebSocketOperation.<Process>d__19.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Net.WebSockets.WebSocketBase.<ReceiveAsyncCore>d__45.MoveNext()
+   at System.Net.WebSockets.WebSocketBase.ThrowIfConvertibleException(String methodName, Exception exception, CancellationToken cancellationToken, Boolean aborted)
+   at System.Net.WebSockets.WebSocketBase.<ReceiveAsyncCore>d__45.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at BarRaider.SdTools.Communication.StreamDeckConnection.<ReceiveAsync>d__95.MoveNext()
+2026-10-21 23:51:27.2802|INFO|com.barraider.obstools|3|BarRaider.SdTools.Communication.StreamDeckConnection RunAsync completed, shutting down
+2026-10-21 23:51:27.2802|INFO|com.barraider.obstools|3|Disconnect event received
+2026-10-21 23:51:27.2802|INFO|com.barraider.obstools|1|Plugin Disconnected - Exiting
+2026-10-21 23:51:31.0824|DEBUG|com.barraider.obstools|1|Logger Initialized
+2026-10-21 23:51:31.1251|INFO|com.barraider.obstools|1|Plugin [com.barraider.obstools] Loading - 25 Actions Found
+2026-10-21 23:51:31.5956|DEBUG|com.barraider.obstools|1|Plugin Loaded: UUID: 3P0LK5W96Z31YMYFERP69G7NUCGWXEK8 Device Info: Devices:
+[Id: 4X2X2B7XXP17K0ZXT5Q3EGG9D6M43B68 Type: StreamDeckClassic Size: Rows: 3 Columns: 4]
+ApplicationInfo: Language: ru Platform: windows Version: 5.3
+PluginInfo: Version: 3.1.3
+
+2026-10-21 23:51:31.5956|INFO|com.barraider.obstools|1|Plugin version: 3.1.3
+2026-10-21 23:51:31.5956|INFO|com.barraider.obstools|1|Connecting to Stream Deck...
+2026-10-21 23:51:32.9760|INFO|com.barraider.obstools|1|Connected to Stream Deck
+2026-10-21 23:51:32.9785|INFO|com.barraider.obstools|1|GlobalSettingsManager initialized
+2026-10-21 23:54:53.6032|FATAL|com.barraider.obstools|15|BarRaider.SdTools.Communication.StreamDeckConnection ReceiveAsync Exception: System.Net.WebSockets.WebSocketException (0x80004005): An internal WebSocket error occurred. Please see the innerException, if present, for more details.  ---> System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Net.WebSockets.WebSocketConnectionStream.<ReadAsync>d__21.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Net.WebSockets.WebSocketBase.WebSocketOperation.<Process>d__19.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Net.WebSockets.WebSocketBase.<ReceiveAsyncCore>d__45.MoveNext()
+   at System.Net.WebSockets.WebSocketBase.ThrowIfConvertibleException(String methodName, Exception exception, CancellationToken cancellationToken, Boolean aborted)
+   at System.Net.WebSockets.WebSocketBase.<ReceiveAsyncCore>d__45.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at BarRaider.SdTools.Communication.StreamDeckConnection.<ReceiveAsync>d__95.MoveNext()
+2026-10-21 23:54:53.6032|INFO|com.barraider.obstools|15|BarRaider.SdTools.Communication.StreamDeckConnection RunAsync completed, shutting down
+2026-10-21 23:54:53.6032|INFO|com.barraider.obstools|15|Disconnect event received
+2026-10-21 23:54:53.6032|INFO|com.barraider.obstools|1|Plugin Disconnected - Exiting
+2026-10-21 23:54:57.4010|DEBUG|com.barraider.obstools|1|Logger Initialized
+2026-10-21 23:54:57.4469|INFO|com.barraider.obstools|1|Plugin [com.barraider.obstools] Loading - 25 Actions Found
+2026-10-21 23:54:57.9114|DEBUG|com.barraider.obstools|1|Plugin Loaded: UUID: W97NRRBU8TZZ4375NF17F6EY60KOG7D6 Device Info: Devices:
+[Id: 4D721V63YP0628812L5R604V4G05XFBI Type: StreamDeckClassic Size: Rows: 3 Columns: 4]
+ApplicationInfo: Language: ru Platform: windows Version: 5.3
+PluginInfo: Version: 3.1.3
+
+2026-10-21 23:54:57.9114|INFO|com.barraider.obstools|1|Plugin version: 3.1.3
+2026-10-21 23:54:57.9114|INFO|com.barraider.obstools|1|Connecting to Stream Deck...
+2026-10-21 23:54:58.9141|INFO|com.barraider.obstools|1|Connected to Stream Deck
+2026-10-21 23:54:58.9141|INFO|com.barraider.obstools|1|GlobalSettingsManager initialized
+2026-10-21 23:56:22.1241|FATAL|com.barraider.obstools|7|BarRaider.SdTools.Communication.StreamDeckConnection ReceiveAsync Exception: System.Net.WebSockets.WebSocketException (0x80004005): An internal WebSocket error occurred. Please see the innerException, if present, for more details.  ---> System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Net.WebSockets.WebSocketConnectionStream.<ReadAsync>d__21.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Net.WebSockets.WebSocketBase.WebSocketOperation.<Process>d__19.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Net.WebSockets.WebSocketBase.<ReceiveAsyncCore>d__45.MoveNext()
+   at System.Net.WebSockets.WebSocketBase.ThrowIfConvertibleException(String methodName, Exception exception, CancellationToken cancellationToken, Boolean aborted)
+   at System.Net.WebSockets.WebSocketBase.<ReceiveAsyncCore>d__45.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at BarRaider.SdTools.Communication.StreamDeckConnection.<ReceiveAsync>d__95.MoveNext()
+2026-10-21 23:56:22.1241|INFO|com.barraider.obstools|7|BarRaider.SdTools.Communication.StreamDeckConnection RunAsync completed, shutting down
+2026-10-21 23:56:22.1241|INFO|com.barraider.obstools|7|Disconnect event received
+2026-10-21 23:56:22.1241|INFO|com.barraider.obstools|1|Plugin Disconnected - Exiting
+2026-10-21 23:56:25.9926|DEBUG|com.barraider.obstools|1|Logger Initialized
+2026-10-21 23:56:26.0385|INFO|com.barraider.obstools|1|Plugin [com.barraider.obstools] Loading - 25 Actions Found
+2026-10-21 23:56:26.5172|DEBUG|com.barraider.obstools|1|Plugin Loaded: UUID: 983L0F82V07H52U3880D85UQLNP3R71E Device Info: Devices:
+[Id: IC4G097YRIV0C94MPOBC6TBJ8A23336P Type: StreamDeckClassic Size: Rows: 3 Columns: 4]
+ApplicationInfo: Language: ru Platform: windows Version: 5.3
+PluginInfo: Version: 3.1.3
+
+2026-10-21 23:56:26.5172|INFO|com.barraider.obstools|1|Plugin version: 3.1.3
+2026-10-21 23:56:26.5172|INFO|com.barraider.obstools|1|Connecting to Stream Deck...
+2026-10-21 23:56:27.4772|INFO|com.barraider.obstools|1|Connected to Stream Deck
+2026-10-21 23:56:27.4772|INFO|com.barraider.obstools|1|GlobalSettingsManager initialized
+2026-10-21 23:57:25.4183|FATAL|com.barraider.obstools|8|BarRaider.SdTools.Communication.StreamDeckConnection ReceiveAsync Exception: System.Net.WebSockets.WebSocketException (0x80004005): An internal WebSocket error occurred. Please see the innerException, if present, for more details.  ---> System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Net.WebSockets.WebSocketConnectionStream.<ReadAsync>d__21.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Net.WebSockets.WebSocketBase.WebSocketOperation.<Process>d__19.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Net.WebSockets.WebSocketBase.<ReceiveAsyncCore>d__45.MoveNext()
+   at System.Net.WebSockets.WebSocketBase.ThrowIfConvertibleException(String methodName, Exception exception, CancellationToken cancellationToken, Boolean aborted)
+   at System.Net.WebSockets.WebSocketBase.<ReceiveAsyncCore>d__45.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at BarRaider.SdTools.Communication.StreamDeckConnection.<ReceiveAsync>d__95.MoveNext()
+2026-10-21 23:57:25.4183|INFO|com.barraider.obstools|8|BarRaider.SdTools.Communication.StreamDeckConnection RunAsync completed, shutting down
+2026-10-21 23:57:25.4183|INFO|com.barraider.obstools|8|Disconnect event received
+2026-10-21 23:57:25.4183|INFO|com.barraider.obstools|1|Plugin Disconnected - Exiting
+2026-10-21 23:57:29.3800|DEBUG|com.barraider.obstools|1|Logger Initialized
+2026-10-21 23:57:29.4220|INFO|com.barraider.obstools|1|Plugin [com.barraider.obstools] Loading - 25 Actions Found
+2026-10-21 23:57:29.9194|DEBUG|com.barraider.obstools|1|Plugin Loaded: UUID: 341KA4952CZH28623XT1N24MW3R0414W Device Info: Devices:
+[Id: 278863374FR40I3F1Q3UBP6W3O588242 Type: StreamDeckClassic Size: Rows: 3 Columns: 4]
+ApplicationInfo: Language: ru Platform: windows Version: 5.3
+PluginInfo: Version: 3.1.3
+
+2026-10-21 23:57:29.9194|INFO|com.barraider.obstools|1|Plugin version: 3.1.3
+2026-10-21 23:57:29.9194|INFO|com.barraider.obstools|1|Connecting to Stream Deck...
+2026-10-21 23:57:30.7561|INFO|com.barraider.obstools|1|Connected to Stream Deck
+2026-10-21 23:57:30.7561|INFO|com.barraider.obstools|1|GlobalSettingsManager initialized

@@ -1,0 +1,161 @@
+{
+    "Actions": {
+        "0,0": {
+            "ActionID": "l0020v44-c7u2-60s5-9jx3-tt2swkw9g4v8",
+            "Controller": "",
+            "Name": "Multimedia",
+            "Settings": {
+                "actionIdx": 0
+            },
+            "State": 0,
+            "States": [
+                {
+                    "Image": ""
+                }
+            ],
+            "UUID": "com.hotspot.streamdock.system.multimedia"
+        },
+        "1,0": {
+            "ActionID": "8clt4c51-n8q2-i317-p705-26i4tyo02lc1",
+            "Controller": "",
+            "Name": "Multimedia",
+            "Settings": {
+                "actionIdx": 1
+            },
+            "State": 0,
+            "States": [
+                {
+                    "Image": ""
+                }
+            ],
+            "UUID": "com.hotspot.streamdock.system.multimedia"
+        },
+        "1,1": {
+            "ActionID": "cx0dk6pk-m4w2-x1wc-3ebp-gi48mmcfjxm3",
+            "Controller": "",
+            "Name": "Multimedia",
+            "Settings": {
+                "actionIdx": 3
+            },
+            "State": 0,
+            "States": [
+                {
+                    "Image": ""
+                }
+            ],
+            "UUID": "com.hotspot.streamdock.system.multimedia"
+        },
+        "2,0": {
+            "ActionID": "z3shnw2y-34p7-207z-w516-4tx2p659386f",
+            "Controller": "",
+            "Name": "Multimedia",
+            "Settings": {
+                "actionIdx": 2
+            },
+            "State": 0,
+            "States": [
+                {
+                    "Image": ""
+                }
+            ],
+            "UUID": "com.hotspot.streamdock.system.multimedia"
+        },
+        "2,1": {
+            "ActionID": "x2g1xuhu-tgzn-na38-nem8-r31vc2zh1eay",
+            "Controller": "",
+            "Name": "Toggle Audio Device",
+            "Settings": {
+                "direction": "output",
+                "matchStrategy": "ID",
+                "primary": {
+                    "direction": "output",
+                    "displayName": "DELL U2515H (NVIDIA High Definition Audio)",
+                    "endpointName": "DELL U2515H",
+                    "id": "{0.0.0.00000000}.{ea7e81a4-406b-483a-bd85-4d645170e961}",
+                    "interfaceName": "NVIDIA High Definition Audio",
+                    "state": "connected"
+                },
+                "primaryLabel": "DELL U2515H (NVIDIA High Definition Audio)",
+                "role": "default",
+                "secondary": {
+                    "direction": "output",
+                    "displayName": "DELL U2515H (NVIDIA High Definition Audio)",
+                    "endpointName": "DELL U2515H",
+                    "id": "{0.0.0.00000000}.{ea7e81a4-406b-483a-bd85-4d645170e961}",
+                    "interfaceName": "NVIDIA High Definition Audio",
+                    "state": "connected"
+                },
+                "secondaryLabel": "DELL U2515H (NVIDIA High Definition Audio)"
+            },
+            "State": 0,
+            "States": [
+                {
+                    "Image": "headphones"
+                },
+                {
+                    "Image": "speakers"
+                }
+            ],
+            "UUID": "com.fredemmott.audiooutputswitch.toggle"
+        },
+        "3,0": {
+            "ActionID": "3i0z4ja0-60p2-5q3u-963z-80b1p00347q1",
+            "Controller": "",
+            "Name": "Multimedia",
+            "Settings": {
+                "actionIdx": 0
+            },
+            "State": 0,
+            "States": [
+                {
+                    "Image": "03QMU7V61IM1970847ND6F6I0KO.png"
+                }
+            ],
+            "UUID": "com.hotspot.streamdock.system.multimedia"
+        },
+        "3,1": {
+            "ActionID": "1e3uy3c8-v3iy-j245-0ius-10nl2814eaau",
+            "Controller": "",
+            "Name": "change page",
+            "Settings": {
+            },
+            "State": 0,
+            "States": [
+                {
+                    "Image": "OCUWHA140110P008U5OB69B7C54.png"
+                }
+            ],
+            "UUID": "com.hotspot.streamdock.page.change"
+        },
+        "4,1": {
+            "ActionID": "348f7dd0-0y8i-mfy9-zsv5-1ff524a5nl48",
+            "Controller": "",
+            "Name": "Brightness",
+            "Settings": {
+            },
+            "State": 0,
+            "States": [
+                {
+                    "Image": ""
+                }
+            ],
+            "UUID": "com.hotspot.streamdock.device.brightness"
+        }
+    },
+    "DeviceModel": "20GBA9901",
+    "DeviceSerialNumber": "",
+    "DeviceUUID": "AKP03E",
+    "Name": "Консоль музыки",
+    "Pages": {
+        "Current": "7MH7K3Z3-3M70-00OX-G1ML-8P7QM003S63N.sdProfile",
+        "Pages": [
+            "7MH7K3Z3-3M70-00OX-G1ML-8P7QM003S63N.sdProfile",
+            "SX5N4VS5-Z9U3-K247-E89M-VZ66U7JF9822.sdProfile",
+            "BH327S3X-07E0-740K-R0XP-P8QKG64851S6.sdProfile",
+            "6B55T0C5-0R0Q-7P26-ZODS-Y2GCZ10PKY42.sdProfile",
+            "HQO44S61-1F8F-2UWY-7RIY-1PD1INI466B4.sdProfile",
+            "76500I80-RZBG-DQQE-M67H-UB4SNT59NZ64.sdProfile"
+        ]
+    },
+    "Version": "1.0"
+}

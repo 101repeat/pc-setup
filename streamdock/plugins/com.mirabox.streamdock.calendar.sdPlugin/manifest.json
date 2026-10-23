@@ -1,0 +1,46 @@
+{
+  "Actions": [
+    {
+      "UUID": "com.mirabox.streamdock.calendar.action1",
+      "Icon": "images/calendar@40x40.png",
+      "States": [
+        {
+          "FontSize": "10",
+          "TitleColor": "#000000",
+          "FontStyle": "Bold",
+          "TitleAlignment": "bottom",
+          "Image": "images/calendar@40x40.png"
+        }
+      ],
+      "Controllers": [
+        "Keypad",
+        "Information"
+      ],
+      "UserTitleEnabled": false,
+      "SupportedInMultiActions": false,
+      "Name": "calendar",
+      "Tooltip": "Information of the day",
+      "PropertyInspectorPath": "index.html"
+    }
+  ],
+  "Version": "2.0",
+  "Name": "calendar",
+  "Icon": "images/calendar@40x40.png",
+  "CategoryIcon": "images/calendar@40x40.png",
+  "Category": "calendar",
+  "Description": "Query the date information of today",
+  "CodePath": "index.html",
+  "SDKVersion": 1,
+  "Author": "HotSpot",
+  "URL": "http://video.hotspotek.com.cn/",
+  "OS": [
+    {
+      "Platform": "mac",
+      "MinimumVersion": "10.11"
+    },
+    {
+      "Platform": "windows",
+      "MinimumVersion": "7"
+    }
+  ]
+}

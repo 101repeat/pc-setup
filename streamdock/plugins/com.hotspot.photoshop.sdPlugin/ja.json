@@ -1,0 +1,133 @@
+{
+    "Description": "これはホットキーの集まりですAdobe Photoshop",
+    "Name": "Adobe Photoshop",
+    "Category": "Adobe Photoshop",
+    "com.hotspot.streamdock.hotkey.ps.blur": {
+        "Name": "ぼかし",
+        "Tooltip": "Adobe Photoshopはいぼかしショートカットキー"
+    },
+    "com.hotspot.streamdock.hotkey.ps.brush": {
+        "Name": "ブラシ",
+        "Tooltip": "Adobe Photoshopはいブラシショートカットキー"
+    },
+    "com.hotspot.streamdock.hotkey.ps.canvassize": {
+        "Name": "キャンバスサイズ",
+        "Tooltip": "Adobe Photoshopはいキャンバスサイズショートカットキー"
+    },
+    "com.hotspot.streamdock.hotkey.ps.colorbalance": {
+        "Name": "カラーバランス",
+        "Tooltip": "Adobe Photoshopはいカラーバランスショートカットキー"
+    },
+    "com.hotspot.streamdock.hotkey.ps.colorgradation": {
+        "Name": "レベル補正",
+        "Tooltip": "Adobe Photoshopはいレベル補正ショートカットキー"
+    },
+    "com.hotspot.streamdock.hotkey.ps.colorsaturation": {
+        "Name": "色相・彩度",
+        "Tooltip": "Adobe Photoshopはい色相・彩度ショートカットキー"
+    },
+    "com.hotspot.streamdock.hotkey.ps.curve": {
+        "Name": "曲線",
+        "Tooltip": "Adobe Photoshopはい曲線ショートカットキー"
+    },
+    "com.hotspot.streamdock.hotkey.ps.cutting": {
+        "Name": "切り取る",
+        "Tooltip": "Adobe Photoshopはい切り取るショートカットキー"
+    },
+    "com.hotspot.streamdock.hotkey.ps.decolorization": {
+        "Name": "色を消す",
+        "Tooltip": "Adobe Photoshopはい色を消すショートカットキー"
+    },
+    "com.hotspot.streamdock.hotkey.ps.gradient": {
+        "Name": "グラデーション",
+        "Tooltip": "Adobe Photoshopはいグラデーションショートカットキー"
+    },
+    "com.hotspot.streamdock.hotkey.ps.handgrip": {
+        "Name": "手のひら",
+        "Tooltip": "Adobe Photoshopはい手のひらショートカットキー"
+    },
+    "com.hotspot.streamdock.hotkey.ps.historybrush": {
+        "Name": "ヒストリーブラシ",
+        "Tooltip": "Adobe Photoshopはいヒストリーブラショートカットキー"
+    },
+    "com.hotspot.streamdock.hotkey.ps.inversion": {
+        "Name": "はんそう",
+        "Tooltip": "Adobe Photoshopはいはんそうショートカットキー"
+    },
+    "com.hotspot.streamdock.hotkey.ps.lasso": {
+        "Name": "なげなわ",
+        "Tooltip": "Adobe Photoshopはいなげなわショートカットキー"
+    },
+    "com.hotspot.streamdock.hotkey.ps.layergroup": {
+        "Name": "レイヤーグループ",
+        "Tooltip": "Adobe Photoshopはいレイヤーグループショートカットキー"
+    },
+    "com.hotspot.streamdock.hotkey.ps.layermerging": {
+        "Name": "レイヤーのマージ",
+        "Tooltip": "Adobe Photoshopはいレイヤーのマージショートカットキー"
+    },
+    "com.hotspot.streamdock.hotkey.ps.magicwand": {
+        "Name": "マジックスティック",
+        "Tooltip": "Adobe Photoshopはいマジックスティックショートカットキー"
+    },
+    "com.hotspot.streamdock.hotkey.ps.annotation": {
+        "Name": "寸法",
+        "Tooltip": "Adobe Photoshopはい寸法ショートカットキー"
+    },
+    "com.hotspot.streamdock.hotkey.ps.move": {
+        "Name": "移動",
+        "Tooltip": "Adobe Photoshopはい移動ショートカットキー"
+    },
+    "com.hotspot.streamdock.hotkey.ps.newlayer": {
+        "Name": "新しいレイヤー",
+        "Tooltip": "Adobe Photoshopはい新しいレイヤーショートカットキー"
+    },
+    "com.hotspot.streamdock.hotkey.ps.path": {
+        "Name": "パス",
+        "Tooltip": "Adobe Photoshopはいパスショートカットキー"
+    },
+    "com.hotspot.streamdock.hotkey.ps.pen": {
+        "Name": "ペン",
+        "Tooltip": "Adobe Photoshopはいペンショートカットキー"
+    },
+    "com.hotspot.streamdock.hotkey.ps.rectangularmarquee": {
+        "Name": "長方形選択",
+        "Tooltip": "Adobe Photoshopはい長方形選択ショートカットキー"
+    },
+    "com.hotspot.streamdock.hotkey.ps.repair": {
+        "Name": "スポット修復ブラシ",
+        "Tooltip": "Adobe Photoshopはいスポット修復ブラシショートカットキー"
+    },
+    "com.hotspot.streamdock.hotkey.ps.round": {
+        "Name": "ラウンド",
+        "Tooltip": "Adobe Photoshopはいラウンドショートカットキー"
+    },
+    "com.hotspot.streamdock.hotkey.ps.eraser": {
+        "Name": "消しゴム",
+        "Tooltip": "Adobe Photoshopはい消しゴムショートカットキー"
+    },
+    "com.hotspot.streamdock.hotkey.ps.scale": {
+        "Name": "ズーム",
+        "Tooltip": "Adobe Photoshopはいズームショートカットキー"
+    },
+    "com.hotspot.streamdock.hotkey.ps.seal": {
+        "Name": "コピースタンプ",
+        "Tooltip": "Adobe Photoshopはいコピースタンプショートカットキー"
+    },
+    "com.hotspot.streamdock.hotkey.ps.slice": {
+        "Name": "スライス",
+        "Tooltip": "Adobe Photoshopはいスライスショートカットキー"
+    },
+    "com.hotspot.streamdock.hotkey.ps.sponge": {
+        "Name": "スポンジ",
+        "Tooltip": "Adobe Photoshopはいスポンジショートカットキー"
+    },
+    "com.hotspot.streamdock.hotkey.ps.straw": {
+        "Name": "ストロー",
+        "Tooltip": "Adobe Photoshopはいストローショートカットキー"
+    },
+    "com.hotspot.streamdock.hotkey.ps.text": {
+        "Name": "テキスト",
+        "Tooltip": "Adobe Photoshopはいテキストショートカットキー"
+    }
+}

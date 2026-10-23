@@ -1,0 +1,100 @@
+{
+	"Description": "사운드 믹싱을 해보세요. 볼륨 컨트롤러 플러그인을 사용하면 키를 누르거나 다이얼을 돌려 앱 볼륨을 커스터마이징할 수 있습니다. 더 이상 밸런스가 안 맞는 오디오 출력으로 인해 별도의 창을 띄우거나 UI 슬라이더를 조작할 필요가 없습니다. 이제 Stream Deck에서 앱 볼륨을 독립적으로 조절하거나 음소거하세요.",
+	"com.elgato.volume-controller.auto-detection": {
+		"Name": "자동 소프트웨어 감지",
+		"Tooltip": "열려 있는 응용 프로그램의 오디오 설정을 자동으로 구성합니다."
+	},
+	"com.elgato.volume-controller.manual-detection": {
+		"Name": "수동 소프트웨어 감지",
+		"Tooltip": "열려 있는 응용 프로그램의 오디오 설정을 수동으로 구성합니다.",
+		"Encoder": {
+			"TriggerDescription": {
+				"Rotate": "조절",
+				"Push": "음소거/음소거 해제"
+			}
+		}
+	},
+	"com.elgato.volume-controller.auto-detection.volume": {
+		"Name": "자동 음량",
+		"Encoder": {
+			"TriggerDescription": {
+				"Rotate": "조절",
+				"Push": "음소거/음소거 해제"
+			}
+		}
+	},
+	"com.elgato.volume-controller.input-device-control": {
+		"Name": "입력 장치 제어",
+		"Tooltip": "연결된 입력 장치에 대한 오디오 제어를 구성합니다.",
+		"Encoder": {
+			"TriggerDescription": {
+				"Rotate": "조절",
+				"Push": "음소거/음소거 해제"
+			}
+		}
+	},
+	"com.elgato.volume-controller.output-device-control": {
+		"Name": "출력 장치 제어",
+		"Tooltip": "연결된 출력 장치에 대한 오디오 제어를 구성합니다.",
+		"Encoder": {
+			"TriggerDescription": {
+				"Rotate": "조절",
+				"Push": "음소거/음소거 해제"
+			}
+		}
+	},
+	"com.elgato.volume-controller.back-to-profile": {
+		"Name": "프로필로 돌아가기"
+	},
+	"com.elgato.volume-controller.auto-detection.mute": {
+		"Name": "자동 음소거"
+	},
+	"com.elgato.volume-controller.auto-detection.volume-down": {
+		"Name": "자동 음량 감소"
+	},
+	"com.elgato.volume-controller.auto-detection.volume-up": {
+		"Name": "자동 음량 증가"
+	},
+	"com.elgato.volume-controller.auto-detection.next": {
+		"Name": "자동 다음 페이지"
+	},
+	"com.elgato.volume-controller.auto-detection.previous": {
+		"Name": "자동 이전 페이지"
+	},
+	"Localization": {
+		"This device is not supported at this time.": "현재 이 장치는 지원되지 않습니다.",
+		"Unable to connect to the audio router.": "오디오 라우터에 연결할 수 없습니다.",
+		"Requires an active livestream and a game selected.": "진행 중인 라이브 스트리밍과 게임 선택이 필요합니다.",
+		"You can manually start the audio router by opening 'C:\\Program Files\\Elgato\\Volume Controller\\ElgatoAudioControlServer.exe'.": "다음 파일을 실행하면 오디오 라우터를 수동으로 시작할 수 있습니다: 'C:\\Program Files\\Elgato\\Volume Controller\\ElgatoAudioControlServer.exe'.",
+		"Device Settings": "장치 설정",
+		"Show Apps": "앱 보기",
+		"All": "모두",
+		"Active Only": "활성화된 앱만",
+		"Step Size": "단계 크기",
+		"Volume": "음량",
+		"Application": "응용 프로그램",
+		"Type": "종류",
+		"Adjust": "조정",
+		"Mute": "음소거",
+		"Set": "설정",
+		"Icon Style": "아이콘 스타일",
+		"Static": "고정",
+		"Slider (vertical)": "슬라이더 (수직)",
+		"Slider (horizontal)": "슬라이더 (수평)",
+		"Default Device": "기본 장치",
+		"Default Device (Communication)": "기본 장치 (통신)",
+		"Device": "장치",
+		"Action": "동작",
+		"Mute Output Volume": "출력 볼륨 음소거",
+		"Set Output Volume": "출력 볼륨 설정",
+		"Adjust Output Volume": "출력 볼륨 조절",
+		"Adjust Input Gain": "입력 게인 조절",
+		"Adjust Input Volume": "입력 볼륨 조절",
+		"Set Gain": "게인 설정",
+		"Adjust Gain": "게인 조정",
+		"Mute Microphone": "마이크 음소거",
+		"Fader (vertical)": "페이더 (수직)",
+		"Fader (horizontal)": "페이더 (수평)",
+		"Please select...": "선택하세요..."
+	}
+}

@@ -1,0 +1,904 @@
+{
+  "Actions": [
+    {
+      "Icon": "images/actions/PSBlurActionR",
+      "Name": "Blur",
+      "Settings": {
+        "KeyCmd": false,
+        "KeyCtrl": false,
+        "KeyModifiers": 65536,
+        "KeyOption": false,
+        "KeyShift": false,
+        "NativeCode": -1,
+        "QTKeyCode": -1,
+        "RKeyCmd": false,
+        "RKeyCtrl": false,
+        "RKeyOption": false,
+        "RKeyShift": false,
+        "VKeyCode": 82,
+        "VKeyCode_Mac": 15
+      },
+      "States": [
+        {
+          "Image": "images/actions/PSBlurActionImageR"
+        }
+      ],
+      "SupportedInMultiActions": true,
+      "Tooltip": "Fuzzy shortcut keys in Photoshop",
+      "UUID": "com.hotspot.streamdock.hotkey.ps.blur"
+    },
+    {
+      "Icon": "images/actions/PSBrushActionB",
+      "Name": "Brush",
+      "Settings": {
+        "KeyCmd": false,
+        "KeyCtrl": false,
+        "KeyModifiers": 65536,
+        "KeyOption": false,
+        "KeyShift": false,
+        "NativeCode": -1,
+        "QTKeyCode": -1,
+        "RKeyCmd": false,
+        "RKeyCtrl": false,
+        "RKeyOption": false,
+        "RKeyShift": false,
+        "VKeyCode": 66,
+        "VKeyCode_Mac": 11
+      },
+      "States": [
+        {
+          "Image": "images/actions/PSBrushActionImageB"
+        }
+      ],
+      "SupportedInMultiActions": true,
+      "Tooltip": "Photoshop's Brush shortcuts",
+      "UUID": "com.hotspot.streamdock.hotkey.ps.brush"
+    },
+    {
+      "Icon": "images/actions/PSCanvasSizeActionCtrlAltC",
+      "Name": "Canvas Size",
+      "Settings": {
+        "KeyCmd": false,
+        "KeyCtrl": true,
+        "KeyModifiers": 65536,
+        "KeyOption": true,
+        "KeyShift": false,
+        "NativeCode": -1,
+        "QTKeyCode": -1,
+        "RKeyCmd": false,
+        "RKeyCtrl": false,
+        "RKeyOption": false,
+        "RKeyShift": false,
+        "VKeyCode": 67,
+        "KeyCtrl_Mac":true,
+        "KeyOption_Mac":true,
+        "VKeyCode_Mac": 8
+      },
+      "States": [
+        {
+          "Image": "images/actions/PSCanvasSizeActionImageCtrlAltC"
+        }
+      ],
+      "SupportedInMultiActions": true,
+      "Tooltip": "Photoshop's Canvas size shortcut keys",
+      "UUID": "com.hotspot.streamdock.hotkey.ps.canvassize"
+    },
+    {
+      "Icon": "images/actions/PSColorBalanceActionCtrlB",
+      "Name": "Color Balance",
+      "Settings": {
+        "KeyCmd": false,
+        "KeyCtrl": true,
+        "KeyModifiers": 65536,
+        "KeyOption": false,
+        "KeyShift": false,
+        "NativeCode": -1,
+        "QTKeyCode": -1,
+        "RKeyCmd": false,
+        "RKeyCtrl": false,
+        "RKeyOption": false,
+        "RKeyShift": false,
+        "VKeyCode": 66,
+        "KeyCtrl_Mac":true,
+        "VKeyCode_Mac": 11
+      },
+      "States": [
+        {
+          "Image": "images/actions/PSColorBalanceActionImageCtrlB"
+        }
+      ],
+      "SupportedInMultiActions": true,
+      "Tooltip": "Photoshop Color Balance shortcut keys",
+      "UUID": "com.hotspot.streamdock.hotkey.ps.colorbalance"
+    },
+    {
+      "Icon": "images/actions/PSColorGradationActionCtrlL",
+      "Name": "Color Gradation",
+      "Settings": {
+        "KeyCmd": false,
+        "KeyCtrl": true,
+        "KeyModifiers": 65536,
+        "KeyOption": false,
+        "KeyShift": false,
+        "NativeCode": -1,
+        "QTKeyCode": -1,
+        "RKeyCmd": false,
+        "RKeyCtrl": false,
+        "RKeyOption": false,
+        "RKeyShift": false,
+        "VKeyCode": 76,
+        "KeyCtrl_Mac":true,
+        "VKeyCode_Mac": 37
+      },
+      "States": [
+        {
+          "Image": "images/actions/PSColorGradationActionImageCtrlL"
+        }
+      ],
+      "SupportedInMultiActions": true,
+      "Tooltip": "Photoshop's level shortcut keys",
+      "UUID": "com.hotspot.streamdock.hotkey.ps.colorgradation"
+    },
+    {
+      "Icon": "images/actions/PSColorSaturationActionCtrlU",
+      "Name": "Color Saturation",
+      "Settings": {
+        "KeyCmd": false,
+        "KeyCtrl": true,
+        "KeyModifiers": 65536,
+        "KeyOption": false,
+        "KeyShift": false,
+        "NativeCode": -1,
+        "QTKeyCode": -1,
+        "RKeyCmd": false,
+        "RKeyCtrl": false,
+        "RKeyOption": false,
+        "RKeyShift": false,
+        "VKeyCode": 85,
+        "KeyCtrl_Mac":true,
+        "VKeyCode_Mac": 32
+      },
+      "States": [
+        {
+          "Image": "images/actions/PSColorSaturationActionImageCtrlU"
+        }
+      ],
+      "SupportedInMultiActions": true,
+      "Tooltip": "Photoshop Color saturation shortcut keys",
+      "UUID": "com.hotspot.streamdock.hotkey.ps.colorsaturation"
+    },
+    {
+      "Icon": "images/actions/PSCurveActionCtrlM",
+      "Name": "Curve",
+      "Settings": {
+        "KeyCmd": false,
+        "KeyCtrl": true,
+        "KeyModifiers": 65536,
+        "KeyOption": false,
+        "KeyShift": false,
+        "NativeCode": -1,
+        "QTKeyCode": -1,
+        "RKeyCmd": false,
+        "RKeyCtrl": false,
+        "RKeyOption": false,
+        "RKeyShift": false,
+        "VKeyCode": 77,
+        "KeyCtrl_Mac":true,
+        "VKeyCode_Mac": 46
+      },
+      "States": [
+        {
+          "Image": "images/actions/PSCurveActionImageCtrlM"
+        }
+      ],
+      "SupportedInMultiActions": true,
+      "Tooltip": "Photoshop's Curvy shortcuts",
+      "UUID": "com.hotspot.streamdock.hotkey.ps.curve"
+    },
+    {
+      "Icon": "images/actions/PSCuttingActionC",
+      "Name": "Cutting",
+      "Settings": {
+        "KeyCmd": false,
+        "KeyCtrl": false,
+        "KeyModifiers": 65536,
+        "KeyOption": false,
+        "KeyShift": false,
+        "NativeCode": -1,
+        "QTKeyCode": -1,
+        "RKeyCmd": false,
+        "RKeyCtrl": false,
+        "RKeyOption": false,
+        "RKeyShift": false,
+        "VKeyCode": 67,
+        "VKeyCode_Mac": 8
+      },
+      "States": [
+        {
+          "Image": "images/actions/PSCuttingActionImageC"
+        }
+      ],
+      "SupportedInMultiActions": true,
+      "Tooltip": "Photoshop's cutting shortcut key",
+      "UUID": "com.hotspot.streamdock.hotkey.ps.cutting"
+    },
+    {
+      "Icon": "images/actions/PSDecolorizationActionCtrlShiftU",
+      "Name": "Decolorization",
+      "Settings": {
+        "KeyCmd": false,
+        "KeyCtrl": true,
+        "KeyModifiers": 65536,
+        "KeyOption": false,
+        "KeyShift": true,
+        "NativeCode": -1,
+        "QTKeyCode": -1,
+        "RKeyCmd": false,
+        "RKeyCtrl": false,
+        "RKeyOption": false,
+        "RKeyShift": false,
+        "VKeyCode": 85,
+        "KeyCtrl_Mac":true,
+        "KeyShift_Mac":true,
+        "VKeyCode_Mac": 32
+      },
+      "States": [
+        {
+          "Image": "images/actions/PSDecolorizationActionImageCtrlShiftU"
+        }
+      ],
+      "SupportedInMultiActions": true,
+      "Tooltip": "Photoshop's color removal shortcut",
+      "UUID": "com.hotspot.streamdock.hotkey.ps.decolorization"
+    },
+    {
+      "Icon": "images/actions/PSGradientActionG",
+      "Name": "Gradient",
+      "Settings": {
+        "KeyCmd": false,
+        "KeyCtrl": false,
+        "KeyModifiers": 65536,
+        "KeyOption": false,
+        "KeyShift": false,
+        "NativeCode": -1,
+        "QTKeyCode": -1,
+        "RKeyCmd": false,
+        "RKeyCtrl": false,
+        "RKeyOption": false,
+        "RKeyShift": false,
+        "VKeyCode": 71,
+        "VKeyCode_Mac": 5
+      },
+      "States": [
+        {
+          "Image": "images/actions/PSGradientActionImageG"
+        }
+      ],
+      "SupportedInMultiActions": true,
+      "Tooltip": "Photoshop Gradient shortcut keys",
+      "UUID": "com.hotspot.streamdock.hotkey.ps.gradient"
+    },
+    {
+      "Icon": "images/actions/PSHandGripActionH",
+      "Name": "Hand Grip",
+      "Settings": {
+        "KeyCmd": false,
+        "KeyCtrl": false,
+        "KeyModifiers": 65536,
+        "KeyOption": false,
+        "KeyShift": false,
+        "NativeCode": -1,
+        "QTKeyCode": -1,
+        "RKeyCmd": false,
+        "RKeyCtrl": false,
+        "RKeyOption": false,
+        "RKeyShift": false,
+        "VKeyCode": 72,
+        "VKeyCode_Mac": 4
+      },
+      "States": [
+        {
+          "Image": "images/actions/PSHandGripActionImageH"
+        }
+      ],
+      "SupportedInMultiActions": true,
+      "Tooltip": "Hand shortcuts for Photoshop",
+      "UUID": "com.hotspot.streamdock.hotkey.ps.handgrip"
+    },
+    {
+      "Icon": "images/actions/PSHistoryBrushActionY",
+      "Name": "History Brush",
+      "Settings": {
+        "KeyCmd": false,
+        "KeyCtrl": false,
+        "KeyModifiers": 65536,
+        "KeyOption": false,
+        "KeyShift": false,
+        "NativeCode": -1,
+        "QTKeyCode": -1,
+        "RKeyCmd": false,
+        "RKeyCtrl": false,
+        "RKeyOption": false,
+        "RKeyShift": false,
+        "VKeyCode": 89,
+        "VKeyCode_Mac": 16
+      },
+      "States": [
+        {
+          "Image": "images/actions/PSHistoryBrushActionImageY"
+        }
+      ],
+      "SupportedInMultiActions": true,
+      "Tooltip": "Photoshop's History Brush shortcut",
+      "UUID": "com.hotspot.streamdock.hotkey.ps.historybrush"
+    },
+    {
+      "Icon": "images/actions/PSInversionActionCtrlI",
+      "Name": "Inversion",
+      "Settings": {
+        "KeyCmd": false,
+        "KeyCtrl": true,
+        "KeyModifiers": 65536,
+        "KeyOption": false,
+        "KeyShift": false,
+        "NativeCode": -1,
+        "QTKeyCode": -1,
+        "RKeyCmd": false,
+        "RKeyCtrl": false,
+        "RKeyOption": false,
+        "RKeyShift": false,
+        "VKeyCode": 73,
+        "KeyCtrl_Mac":true,
+        "VKeyCode_Mac": 34
+      },
+      "States": [
+        {
+          "Image": "images/actions/PSInversionImageActionCtrlI"
+        }
+      ],
+      "SupportedInMultiActions": true,
+      "Tooltip": "Photoshop inverting shortcut keys",
+      "UUID": "com.hotspot.streamdock.hotkey.ps.inversion"
+    },
+    {
+      "Icon": "images/actions/PSLassoActionL",
+      "Name": "Lasso",
+      "Settings": {
+        "KeyCmd": false,
+        "KeyCtrl": false,
+        "KeyModifiers": 65536,
+        "KeyOption": false,
+        "KeyShift": false,
+        "NativeCode": -1,
+        "QTKeyCode": -1,
+        "RKeyCmd": false,
+        "RKeyCtrl": false,
+        "RKeyOption": false,
+        "RKeyShift": false,
+        "VKeyCode": 76,
+        "VKeyCode_Mac": 37
+      },
+      "States": [
+        {
+          "Image": "images/actions/PSLassoActionImageL"
+        }
+      ],
+      "SupportedInMultiActions": true,
+      "Tooltip": "Lasso shortcut keys for Photoshop",
+      "UUID": "com.hotspot.streamdock.hotkey.ps.lasso"
+    },
+    {
+      "Icon": "images/actions/PSLayerGroupActionCtrlG",
+      "Name": "Layer Group",
+      "Settings": {
+        "KeyCmd": false,
+        "KeyCtrl": true,
+        "KeyModifiers": 65536,
+        "KeyOption": false,
+        "KeyShift": false,
+        "NativeCode": -1,
+        "QTKeyCode": -1,
+        "RKeyCmd": false,
+        "RKeyCtrl": false,
+        "RKeyOption": false,
+        "RKeyShift": false,
+        "VKeyCode": 71,
+        "KeyCtrl_Mac":true,
+        "VKeyCode_Mac": 5
+      },
+      "States": [
+        {
+          "Image": "images/actions/PSLayerGroupActionImageCtrlG"
+        }
+      ],
+      "SupportedInMultiActions": true,
+      "Tooltip": "Photoshop's Layer Group shortcut keys",
+      "UUID": "com.hotspot.streamdock.hotkey.ps.layergroup"
+    },
+    {
+      "Icon": "images/actions/PSLayerMergingActionCtrlE",
+      "Name": "Layer Merging",
+      "Settings": {
+        "KeyCmd": false,
+        "KeyCtrl": true,
+        "KeyModifiers": 65536,
+        "KeyOption": false,
+        "KeyShift": false,
+        "NativeCode": -1,
+        "QTKeyCode": -1,
+        "RKeyCmd": false,
+        "RKeyCtrl": false,
+        "RKeyOption": false,
+        "RKeyShift": false,
+        "VKeyCode": 69,
+        "KeyCtrl_Mac":true,
+        "VKeyCode_Mac": 14
+      },
+      "States": [
+        {
+          "Image": "images/actions/PSLayerMergingActionImageCtrlE"
+        }
+      ],
+      "SupportedInMultiActions": true,
+      "Tooltip": "Photoshop's Merge Layer shortcut key",
+      "UUID": "com.hotspot.streamdock.hotkey.ps.layermerging"
+    },
+    {
+      "Icon": "images/actions/PSMagicWandActionW",
+      "Name": "Magic Wand",
+      "Settings": {
+        "KeyCmd": false,
+        "KeyCtrl": false,
+        "KeyModifiers": 65536,
+        "KeyOption": false,
+        "KeyShift": false,
+        "NativeCode": -1,
+        "QTKeyCode": -1,
+        "RKeyCmd": false,
+        "RKeyCtrl": false,
+        "RKeyOption": false,
+        "RKeyShift": false,
+        "VKeyCode": 87,
+        "VKeyCode_Mac": 13
+      },
+      "States": [
+        {
+          "Image": "images/actions/PSMagicWandActionImageW"
+        }
+      ],
+      "SupportedInMultiActions": true,
+      "Tooltip": "Photoshop's Magic Wand shortcut",
+      "UUID": "com.hotspot.streamdock.hotkey.ps.magicwand"
+    },
+    {
+      "Icon": "images/actions/PSAnnotationActionN",
+      "Name": "Annotation",
+      "Settings": {
+        "KeyCmd": false,
+        "KeyCtrl": false,
+        "KeyModifiers": 65536,
+        "KeyOption": false,
+        "KeyShift": false,
+        "NativeCode": -1,
+        "QTKeyCode": -1,
+        "RKeyCmd": false,
+        "RKeyCtrl": false,
+        "RKeyOption": false,
+        "RKeyShift": false,
+        "VKeyCode": 78,
+        "VKeyCode_Mac": 45
+      },
+      "States": [
+        {
+          "Image": "images/actions/PSAnnotationActionImageN"
+        }
+      ],
+      "SupportedInMultiActions": true,
+      "Tooltip": "Photoshop's annotation shortcut keys",
+      "UUID": "com.hotspot.streamdock.hotkey.ps.annotation"
+    },
+    {
+      "Icon": "images/actions/PSMoveActionV",
+      "Name": "Move",
+      "Settings": {
+        "KeyCmd": false,
+        "KeyCtrl": false,
+        "KeyModifiers": 65536,
+        "KeyOption": false,
+        "KeyShift": false,
+        "NativeCode": -1,
+        "QTKeyCode": -1,
+        "RKeyCmd": false,
+        "RKeyCtrl": false,
+        "RKeyOption": false,
+        "RKeyShift": false,
+        "VKeyCode": 86,
+        "VKeyCode_Mac": 9
+      },
+      "States": [
+        {
+          "Image": "images/actions/PSMoveActionImageV"
+        }
+      ],
+      "SupportedInMultiActions": true,
+      "Tooltip": "Photoshop's move shortcuts",
+      "UUID": "com.hotspot.streamdock.hotkey.ps.move"
+    },
+    {
+      "Icon": "images/actions/PSNewLayerActionCtrlShiftN",
+      "Name": "New Layer",
+      "Settings": {
+        "KeyCmd": false,
+        "KeyCtrl": true,
+        "KeyModifiers": 65536,
+        "KeyOption": false,
+        "KeyShift": true,
+        "NativeCode": -1,
+        "QTKeyCode": -1,
+        "RKeyCmd": false,
+        "RKeyCtrl": false,
+        "RKeyOption": false,
+        "RKeyShift": false,
+        "VKeyCode": 78,
+        "KeyCtrl_Mac":true,
+        "KeyShift_Mac":true,
+        "VKeyCode_Mac": 45
+      },
+      "States": [
+        {
+          "Image": "images/actions/PSNewLayerActionImageCtrlShiftN"
+        }
+      ],
+      "SupportedInMultiActions": true,
+      "Tooltip": "Photoshop's New Layer shortcut key",
+      "UUID": "com.hotspot.streamdock.hotkey.ps.newlayer"
+    },
+    {
+      "Icon": "images/actions/PSPathActionA",
+      "Name": "Path",
+      "Settings": {
+        "KeyCmd": false,
+        "KeyCtrl": false,
+        "KeyModifiers": 65536,
+        "KeyOption": false,
+        "KeyShift": false,
+        "NativeCode": -1,
+        "QTKeyCode": -1,
+        "RKeyCmd": false,
+        "RKeyCtrl": false,
+        "RKeyOption": false,
+        "RKeyShift": false,
+        "VKeyCode": 65,
+        "VKeyCode_Mac": 0
+      },
+      "States": [
+        {
+          "Image": "images/actions/PSPathActionImageA"
+        }
+      ],
+      "SupportedInMultiActions": true,
+      "Tooltip": "Photoshop's path shortcut keys",
+      "UUID": "com.hotspot.streamdock.hotkey.ps.path"
+    },
+    {
+      "Icon": "images/actions/PSPenActionP",
+      "Name": "Pen",
+      "Settings": {
+        "KeyCmd": false,
+        "KeyCtrl": false,
+        "KeyModifiers": 65536,
+        "KeyOption": false,
+        "KeyShift": false,
+        "NativeCode": -1,
+        "QTKeyCode": -1,
+        "RKeyCmd": false,
+        "RKeyCtrl": false,
+        "RKeyOption": false,
+        "RKeyShift": false,
+        "VKeyCode": 80,
+        "VKeyCode_Mac": 35
+      },
+      "States": [
+        {
+          "Image": "images/actions/PSPenActionImageP"
+        }
+      ],
+      "SupportedInMultiActions": true,
+      "Tooltip": "Photoshop Pen shortcut",
+      "UUID": "com.hotspot.streamdock.hotkey.ps.pen"
+    },
+    {
+      "Icon": "images/actions/PSRectangularMarqueeActionM",
+      "Name": "Rectangular Marquee",
+      "Settings": {
+        "KeyCmd": false,
+        "KeyCtrl": false,
+        "KeyModifiers": 65536,
+        "KeyOption": false,
+        "KeyShift": false,
+        "NativeCode": -1,
+        "QTKeyCode": -1,
+        "RKeyCmd": false,
+        "RKeyCtrl": false,
+        "RKeyOption": false,
+        "RKeyShift": false,
+        "VKeyCode": 77,
+        "VKeyCode_Mac": 46
+      },
+      "States": [
+        {
+          "Image": "images/actions/PSRectangularMarqueeActionImageM"
+        }
+      ],
+      "SupportedInMultiActions": true,
+      "Tooltip": "Photoshop's rectangular marquee shortcut key",
+      "UUID": "com.hotspot.streamdock.hotkey.ps.rectangularmarquee"
+    },
+    {
+      "Icon": "images/actions/PSRepairActionJ",
+      "Name": "Repair",
+      "Settings": {
+        "KeyCmd": false,
+        "KeyCtrl": false,
+        "KeyModifiers": 65536,
+        "KeyOption": false,
+        "KeyShift": false,
+        "NativeCode": -1,
+        "QTKeyCode": -1,
+        "RKeyCmd": false,
+        "RKeyCtrl": false,
+        "RKeyOption": false,
+        "RKeyShift": false,
+        "VKeyCode": 74,
+        "VKeyCode_Mac": 38
+      },
+      "States": [
+        {
+          "Image": "images/actions/PSRepairActionImageJ"
+        }
+      ],
+      "SupportedInMultiActions": true,
+      "Tooltip": "Photoshop's patch shortcuts",
+      "UUID": "com.hotspot.streamdock.hotkey.ps.repair"
+    },
+    {
+      "Icon": "images/actions/PSRoundActionU",
+      "Name": "Round",
+      "Settings": {
+        "KeyCmd": false,
+        "KeyCtrl": false,
+        "KeyModifiers": 65536,
+        "KeyOption": false,
+        "KeyShift": false,
+        "NativeCode": -1,
+        "QTKeyCode": -1,
+        "RKeyCmd": false,
+        "RKeyCtrl": false,
+        "RKeyOption": false,
+        "RKeyShift": false,
+        "VKeyCode": 85,
+        "VKeyCode_Mac": 32
+      },
+      "States": [
+        {
+          "Image": "images/actions/PSRoundActionImageU"
+        }
+      ],
+      "SupportedInMultiActions": true,
+      "Tooltip": "Photoshop's round shortcut keys",
+      "UUID": "com.hotspot.streamdock.hotkey.ps.round"
+    },
+    {
+      "Icon": "images/actions/PSEraserActionE",
+      "Name": "Eraser",
+      "Settings": {
+        "KeyCmd": false,
+        "KeyCtrl": false,
+        "KeyModifiers": 65536,
+        "KeyOption": false,
+        "KeyShift": false,
+        "NativeCode": -1,
+        "QTKeyCode": -1,
+        "RKeyCmd": false,
+        "RKeyCtrl": false,
+        "RKeyOption": false,
+        "RKeyShift": false,
+        "VKeyCode": 69,
+        "VKeyCode_Mac": 14
+      },
+      "States": [
+        {
+          "Image": "images/actions/PSEraserActionImageE"
+        }
+      ],
+      "SupportedInMultiActions": true,
+      "Tooltip": "Photoshop's eraser shortcut keys",
+      "UUID": "com.hotspot.streamdock.hotkey.ps.eraser"
+    },
+    {
+      "Icon": "images/actions/PSScaleActionZ",
+      "Name": "Scale",
+      "Settings": {
+        "KeyCmd": false,
+        "KeyCtrl": false,
+        "KeyModifiers": 65536,
+        "KeyOption": false,
+        "KeyShift": false,
+        "NativeCode": -1,
+        "QTKeyCode": -1,
+        "RKeyCmd": false,
+        "RKeyCtrl": false,
+        "RKeyOption": false,
+        "RKeyShift": false,
+        "VKeyCode": 90,
+        "VKeyCode_Mac": 6
+      },
+      "States": [
+        {
+          "Image": "images/actions/PSScaleActionImageZ"
+        }
+      ],
+      "SupportedInMultiActions": true,
+      "Tooltip": "Photoshop scale shortcut keys",
+      "UUID": "com.hotspot.streamdock.hotkey.ps.scale"
+    },
+    {
+      "Icon": "images/actions/PSSealActionS",
+      "Name": "Seal",
+      "Settings": {
+        "KeyCmd": false,
+        "KeyCtrl": false,
+        "KeyModifiers": 65536,
+        "KeyOption": false,
+        "KeyShift": false,
+        "NativeCode": -1,
+        "QTKeyCode": -1,
+        "RKeyCmd": false,
+        "RKeyCtrl": false,
+        "RKeyOption": false,
+        "RKeyShift": false,
+        "VKeyCode": 83,
+        "VKeyCode_Mac": 1
+      },
+      "States": [
+        {
+          "Image": "images/actions/PSSealActionImageS"
+        }
+      ],
+      "SupportedInMultiActions": true,
+      "Tooltip": "Photoshop seal shortcut key",
+      "UUID": "com.hotspot.streamdock.hotkey.ps.seal"
+    },
+    {
+      "Icon": "images/actions/PSSliceActionK",
+      "Name": "Slice",
+      "Settings": {
+        "KeyCmd": false,
+        "KeyCtrl": false,
+        "KeyModifiers": 65536,
+        "KeyOption": false,
+        "KeyShift": false,
+        "NativeCode": -1,
+        "QTKeyCode": -1,
+        "RKeyCmd": false,
+        "RKeyCtrl": false,
+        "RKeyOption": false,
+        "RKeyShift": false,
+        "VKeyCode": 75,
+        "VKeyCode_Mac": 40
+      },
+      "States": [
+        {
+          "Image": "images/actions/PSSliceActionImageK"
+        }
+      ],
+      "SupportedInMultiActions": true,
+      "Tooltip": "Photoshop's slice shortcut key",
+      "UUID": "com.hotspot.streamdock.hotkey.ps.slice"
+    },
+    {
+      "Icon": "images/actions/PSSpongeActionO",
+      "Name": "Sponge",
+      "Settings": {
+        "KeyCmd": false,
+        "KeyCtrl": false,
+        "KeyModifiers": 65536,
+        "KeyOption": false,
+        "KeyShift": false,
+        "NativeCode": -1,
+        "QTKeyCode": -1,
+        "RKeyCmd": false,
+        "RKeyCtrl": false,
+        "RKeyOption": false,
+        "RKeyShift": false,
+        "VKeyCode": 79,
+        "VKeyCode_Mac": 31
+      },
+      "States": [
+        {
+          "Image": "images/actions/PSSpongeActionImageO"
+        }
+      ],
+      "SupportedInMultiActions": true,
+      "Tooltip": "Sponge shortcuts for Photoshop",
+      "UUID": "com.hotspot.streamdock.hotkey.ps.sponge"
+    },
+    {
+      "Icon": "images/actions/PSStrawActionI",
+      "Name": "Straw",
+      "Settings": {
+        "KeyCmd": false,
+        "KeyCtrl": false,
+        "KeyModifiers": 65536,
+        "KeyOption": false,
+        "KeyShift": false,
+        "NativeCode": -1,
+        "QTKeyCode": -1,
+        "RKeyCmd": false,
+        "RKeyCtrl": false,
+        "RKeyOption": false,
+        "RKeyShift": false,
+        "VKeyCode": 73,
+        "VKeyCode_Mac": 34
+      },
+      "States": [
+        {
+          "Image": "images/actions/PSStrawActionImageI"
+        }
+      ],
+      "SupportedInMultiActions": true,
+      "Tooltip": "Straw shortcuts in Photoshop",
+      "UUID": "com.hotspot.streamdock.hotkey.ps.straw"
+    },
+    {
+      "Icon": "images/actions/PSTexActionT",
+      "Name": "Text",
+      "Settings": {
+        "KeyCmd": false,
+        "KeyCtrl": false,
+        "KeyModifiers": 65536,
+        "KeyOption": false,
+        "KeyShift": false,
+        "NativeCode": -1,
+        "QTKeyCode": -1,
+        "RKeyCmd": false,
+        "RKeyCtrl": false,
+        "RKeyOption": false,
+        "RKeyShift": false,
+        "VKeyCode": 84,
+        "VKeyCode_Mac": 17
+      },
+      "States": [
+        {
+          "Image": "images/actions/PSTexActionImageT"
+        }
+      ],
+      "SupportedInMultiActions": true,
+      "Tooltip": "Photoshop's text shortcut keys",
+      "UUID": "com.hotspot.streamdock.hotkey.ps.text"
+    }
+  ],
+  "SDKVersion": 1,
+  "Author": "HotSpot",
+  "Category": "Photoshop",
+  "CategoryIcon": "images/icons/pluginIcon",
+  "Description": "This is a collection of hotkeys for Photoshop",
+  "Name": "Photoshop",
+  "Icon": "images/icons/pluginIcon",
+  "URL": "http://video.hotspotek.com.cn/",
+  "Version": "1.0.0",
+  "OS": [
+    {
+      "Platform": "mac",
+      "MinimumVersion": "10.11"
+    },
+    {
+      "Platform": "windows",
+      "MinimumVersion": "10"
+    }
+  ],
+  "Software": 
+  {
+    "MinimumVersion" : "2.9"
+  }
+}

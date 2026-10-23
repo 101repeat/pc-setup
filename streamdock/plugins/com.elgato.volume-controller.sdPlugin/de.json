@@ -1,0 +1,100 @@
+{
+	"Description": "Mische deinen Sound. Mit dem Plugin „Lautstärkesteuerung“ kannst du die Lautstärke der App mit einem Tastendruck oder einer Drehung des Drehreglers anpassen. Kein unausgewogener Ton und kein Jonglieren mehr mit zusätzlichen Fenstern und UI-Schiebereglern. Jetzt kannst du die App-Lautstärke über Stream Deck unabhängig einstellen oder stummschalten.",
+	"com.elgato.volume-controller.auto-detection": {
+		"Name": "Automatische Softwareerkennung",
+		"Tooltip": "Konfiguriere die Lautstärkesteuerung für geöffnete Programme automatisch."
+	},
+	"com.elgato.volume-controller.manual-detection": {
+		"Name": "Manuelle Softwareerkennung",
+		"Tooltip": "Konfiguriere die Lautstärkesteuerung für geöffnete Programme manuell.",
+		"Encoder": {
+			"TriggerDescription": {
+				"Rotate": "Anpassen",
+				"Push": "Stumm ein/aus"
+			}
+		}
+	},
+	"com.elgato.volume-controller.auto-detection.volume": {
+		"Name": "Automatische Lautstärke",
+		"Encoder": {
+			"TriggerDescription": {
+				"Rotate": "Anpassen",
+				"Push": "Stumm ein/aus"
+			}
+		}
+	},
+	"com.elgato.volume-controller.input-device-control": {
+		"Name": "Eingabegerät-Steuerung",
+		"Tooltip": "Konfiguriere die Tonsteuerung für angeschlossene Eingangsgeräte.",
+		"Encoder": {
+			"TriggerDescription": {
+				"Rotate": "Anpassen",
+				"Push": "Stumm ein/aus"
+			}
+		}
+	},
+	"com.elgato.volume-controller.output-device-control": {
+		"Name": "Ausgabegerät-Steuerung",
+		"Tooltip": "Konfiguriere die Tonsteuerung für angeschlossene Ausgangsgeräte.",
+		"Encoder": {
+			"TriggerDescription": {
+				"Rotate": "Anpassen",
+				"Push": "Stumm ein/aus"
+			}
+		}
+	},
+	"com.elgato.volume-controller.back-to-profile": {
+		"Name": "Zurück zum Profil"
+	},
+	"com.elgato.volume-controller.auto-detection.mute": {
+		"Name": "Automatisch stummschalten"
+	},
+	"com.elgato.volume-controller.auto-detection.volume-down": {
+		"Name": "Automatisch Lautstärke senken"
+	},
+	"com.elgato.volume-controller.auto-detection.volume-up": {
+		"Name": "Automatisch Lautstärke erhöhen"
+	},
+	"com.elgato.volume-controller.auto-detection.next": {
+		"Name": "Automatisch zur nächsten Seite"
+	},
+	"com.elgato.volume-controller.auto-detection.previous": {
+		"Name": "Automatisch zur vorigen Seite"
+	},
+	"Localization": {
+		"This device is not supported at this time.": "Dieses Gerät wird derzeit nicht unterstützt.",
+		"Unable to connect to the audio router.": "Verbindung zum Audio-Router nicht möglich.",
+		"Requires an active livestream and a game selected.": "Erfordert einen laufenden Livestream und ein ausgewähltes Spiel.",
+		"You can manually start the audio router by opening 'C:\\Program Files\\Elgato\\Volume Controller\\ElgatoAudioControlServer.exe'.": "Um den Audio-Router manuell zu starten, öffne: 'C:\\Programme\\Elgato\\Volume Controller\\ElgatoAudioControlServer.exe'.",
+		"Device Settings": "Geräteeinstellungen",
+		"Show Apps": "Apps anzeigen",
+		"All": "Alle",
+		"Active Only": "Nur aktive",
+		"Step Size": "Stufengröße",
+		"Volume": "Lautstärke",
+		"Application": "Programm",
+		"Type": "Typ",
+		"Adjust": "Anpassen",
+		"Mute": "Stumm",
+		"Set": "Anwenden",
+		"Icon Style": "Icon-Stil",
+		"Static": "Statisch",
+		"Slider (vertical)": "Regler (vertikal)",
+		"Slider (horizontal)": "Regler (horizontal)",
+		"Default Device": "Standardgerät",
+		"Default Device (Communication)": "Standardgerät (Kommunikation)",
+		"Device": "Gerät",
+		"Action": "Aktion",
+		"Mute Output Volume": "Ausgangslautstärke stummschalten",
+		"Set Output Volume": "Ausgangslautstärke einstellen",
+		"Adjust Output Volume": "Ausgangslautstärke anpassen",
+		"Adjust Input Gain": "Eingangsverstärkung anpassen",
+		"Adjust Input Volume": "Eingangslautstärke anpassen",
+		"Set Gain": "Verstärkung einstellen",
+		"Adjust Gain": "Verstärkung anpassen",
+		"Mute Microphone": "Mikrofon stummschalten",
+		"Fader (vertical)": "Fader (vertikal)",
+		"Fader (horizontal)": "Fader (horizontal)",
+		"Please select...": "Bitte wählen …"
+	}
+}

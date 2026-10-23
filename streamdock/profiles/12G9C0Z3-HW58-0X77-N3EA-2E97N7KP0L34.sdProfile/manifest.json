@@ -1,0 +1,463 @@
+{
+    "Actions": {
+        "0,0": {
+            "ActionID": "jh2cj287-6350-47cp-ltlx-5szi413s1033",
+            "Controller": "",
+            "Name": "Multimedia",
+            "Settings": {
+                "actionIdx": 4
+            },
+            "State": 0,
+            "States": [
+                {
+                    "Image": ""
+                }
+            ],
+            "UUID": "com.hotspot.streamdock.system.multimedia"
+        },
+        "0,2": {
+            "ActionID": "1m981l04-11tz-9zwk-b1q8-npr843q8u089",
+            "Controller": "",
+            "Name": "Multimedia",
+            "Settings": {
+                "actionIdx": 0
+            },
+            "State": 0,
+            "States": [
+                {
+                    "Image": ""
+                }
+            ],
+            "UUID": "com.hotspot.streamdock.system.multimedia"
+        },
+        "1,1": {
+            "ActionID": "a5232u0u-wn81-6fmr-srp6-r424pq7i5spn",
+            "Controller": "",
+            "Name": "Multimedia",
+            "Settings": {
+                "actionIdx": 5
+            },
+            "State": 0,
+            "States": [
+                {
+                    "Image": ""
+                }
+            ],
+            "UUID": "com.hotspot.streamdock.system.multimedia"
+        },
+        "2,0": {
+            "ActionID": "9413z330-88m3-9ij8-ux8j-4ey461wh0o14",
+            "Controller": "",
+            "Name": "Scene Shift",
+            "Settings": {
+                "DeviceUUID": "",
+                "ProfileUUID": ""
+            },
+            "State": 0,
+            "States": [
+                {
+                    "Image": "Images/btn_switchProfile"
+                }
+            ],
+            "UUID": "com.hotspot.streamdock.profile.rotate"
+        },
+        "2,1": {
+            "ActionID": "p4pe977e-1jik-g6lh-d23a-086g5j44dgc5",
+            "Controller": "",
+            "Name": "Multimedia",
+            "Settings": {
+                "actionIdx": 1
+            },
+            "State": 0,
+            "States": [
+                {
+                    "Image": ""
+                }
+            ],
+            "UUID": "com.hotspot.streamdock.system.multimedia"
+        },
+        "2,2": {
+            "ActionID": "cf0b8o42-e3k7-s09o-swmz-wf4dt2jo658k",
+            "Controller": "",
+            "Name": "Multimedia",
+            "Settings": {
+                "actionIdx": 3
+            },
+            "State": 0,
+            "States": [
+                {
+                    "Image": ""
+                }
+            ],
+            "UUID": "com.hotspot.streamdock.system.multimedia"
+        },
+        "3,1": {
+            "ActionID": "tm3637yg-2iy4-c4fu-2740-62oq8y5lc1ar",
+            "Controller": "",
+            "Name": "Multimedia",
+            "Settings": {
+                "actionIdx": 6
+            },
+            "State": 0,
+            "States": [
+                {
+                    "Image": ""
+                }
+            ],
+            "UUID": "com.hotspot.streamdock.system.multimedia"
+        },
+        "4,0": {
+            "ActionID": "08s9y704-e72l-4exg-lw1s-ay3931234imq",
+            "Controller": "",
+            "Name": "Multimedia",
+            "Settings": {
+                "actionIdx": 2
+            },
+            "State": 0,
+            "States": [
+                {
+                    "Image": ""
+                }
+            ],
+            "UUID": "com.hotspot.streamdock.system.multimedia"
+        },
+        "5,0": {
+            "ActionID": "gn178211-4lvu-q4z2-0zkk-2t68iebty5d6",
+            "Controller": "",
+            "Name": "calendar",
+            "Settings": {
+                "select": "calendar",
+                "titleParameters": {
+                    "fontFamily": "HarmonyOS Sans",
+                    "fontSize": 10,
+                    "fontStyle": "Bold",
+                    "fontUnderline": false,
+                    "showTitle": true,
+                    "titleAlignment": "bottom",
+                    "titleColor": "#000000"
+                }
+            },
+            "State": 0,
+            "States": [
+                {
+                    "FontSize": "10",
+                    "FontStyle": "Bold",
+                    "Image": "images/calendar@40x40.png",
+                    "TitleAlignment": "bottom",
+                    "TitleColor": "#000000"
+                }
+            ],
+            "UUID": "com.mirabox.streamdock.calendar.action1"
+        },
+        "5,1": {
+            "ActionID": "op0lnos0-j509-j234-zo2k-3jk4z3zuu1vr",
+            "Controller": "",
+            "Name": "天气查询",
+            "Settings": {
+                "Localization": {
+                    "100": "Clear",
+                    "101": "Cloudy",
+                    "102": "Cloudy",
+                    "103": "Cloudy",
+                    "104": "Overcast",
+                    "150": "Clear at night",
+                    "151": "Cloudy at night",
+                    "152": "Cloudy at night",
+                    "153": "Cloudy at night",
+                    "300": "Showers",
+                    "301": "Showers",
+                    "302": "Thunder showers",
+                    "303": "Thunder showers",
+                    "304": "Thunder showers with hail",
+                    "305": "Light rain",
+                    "306": "Moderate rain",
+                    "307": "Heavy rain",
+                    "308": "Heavy rain",
+                    "309": "Light rain",
+                    "310": "Storm",
+                    "311": "Heavy storm",
+                    "312": "Severe storm",
+                    "313": "Freezing rain",
+                    "314": "Moderate rain",
+                    "315": "Heavy rain",
+                    "316": "Storm",
+                    "317": "Heavy storm",
+                    "318": "Severe storm",
+                    "350": "Showers at night",
+                    "351": "Showers at night",
+                    "399": "Light rain",
+                    "400": "Light snow",
+                    "401": "Moderate snow",
+                    "402": "Heavy snow",
+                    "403": "Blizzard",
+                    "404": "Sleet",
+                    "405": "Sleet",
+                    "406": "Sleet",
+                    "407": "Snow showers",
+                    "408": "Moderate snow",
+                    "409": "Heavy snow",
+                    "410": "Blizzard",
+                    "456": "Sleet",
+                    "457": "Snow showers at night",
+                    "499": "Light snow",
+                    "500": "Fog",
+                    "501": "Fog",
+                    "502": "Haze",
+                    "503": "Dust storm",
+                    "504": "Dust storm",
+                    "507": "Dust storm",
+                    "508": "Severe dust storm",
+                    "509": "Fog",
+                    "510": "Fog",
+                    "511": "Haze",
+                    "512": "Haze",
+                    "513": "Haze",
+                    "514": "Fog",
+                    "515": "Haze",
+                    "900": "Clear",
+                    "901": "Moderate snow",
+                    "999": "Cloudy",
+                    "主题切换": "theme switching",
+                    "华氏度": "Fahrenheit",
+                    "城市名称": "city ​​name",
+                    "天气查询": "Weather query",
+                    "搜索列表": "search list",
+                    "摄氏度": "degrees celsius",
+                    "显示选项": "Show options",
+                    "更新": "renew",
+                    "温度单位": "temperature unit",
+                    "简约摩登": "Simple and modern",
+                    "自定义标题": "Custom title",
+                    "自定名称": "Custom name",
+                    "请输入城市": "Please enter city",
+                    "请输入标题": "Please enter a title",
+                    "豪华绚丽": "Luxurious and gorgeous",
+                    "输入城市": "Enter city"
+                },
+                "city": "New York",
+                "cityId": "1E98E",
+                "count": 0,
+                "inputCity": "NewYork",
+                "radio": "1",
+                "searchList": [
+                    {
+                        "adm1": "New York",
+                        "adm2": "New York",
+                        "country": "United States",
+                        "fxLink": "https://www.qweather.com/weather/new-york-1E98E.html",
+                        "id": "1E98E",
+                        "isDst": "1",
+                        "lat": "40.77900",
+                        "lon": "-73.96900",
+                        "name": "New York",
+                        "rank": "15",
+                        "type": "city",
+                        "tz": "America/New_York",
+                        "utcOffset": "-04:00"
+                    },
+                    {
+                        "adm1": "New York",
+                        "adm2": "New York",
+                        "country": "United States",
+                        "fxLink": "https://www.qweather.com/weather/bensonhurst-467B9.html",
+                        "id": "467B9",
+                        "isDst": "1",
+                        "lat": "40.61000",
+                        "lon": "-73.99500",
+                        "name": "Bensonhurst",
+                        "rank": "45",
+                        "type": "city",
+                        "tz": "America/New_York",
+                        "utcOffset": "-04:00"
+                    },
+                    {
+                        "adm1": "New York",
+                        "adm2": "Oneida",
+                        "country": "United States",
+                        "fxLink": "https://www.qweather.com/weather/new-york-mills-770C3.html",
+                        "id": "770C3",
+                        "isDst": "1",
+                        "lat": "43.10550",
+                        "lon": "-75.29137",
+                        "name": "New York Mills",
+                        "rank": "83",
+                        "type": "city",
+                        "tz": "America/New_York",
+                        "utcOffset": "-04:00"
+                    },
+                    {
+                        "adm1": "New York",
+                        "adm2": "Niagara Falls",
+                        "country": "United States",
+                        "fxLink": "https://www.qweather.com/weather/niagara-falls-D5E24.html",
+                        "id": "D5E24",
+                        "isDst": "1",
+                        "lat": "43.09450",
+                        "lon": "-79.05671",
+                        "name": "Niagara Falls",
+                        "rank": "55",
+                        "type": "city",
+                        "tz": "America/New_York",
+                        "utcOffset": "-04:00"
+                    },
+                    {
+                        "adm1": "New York",
+                        "adm2": "Albany County",
+                        "country": "United States",
+                        "fxLink": "https://www.qweather.com/weather/albany-70A9A.html",
+                        "id": "70A9A",
+                        "isDst": "1",
+                        "lat": "42.65000",
+                        "lon": "-73.76667",
+                        "name": "Albany",
+                        "rank": "41",
+                        "type": "city",
+                        "tz": "America/New_York",
+                        "utcOffset": "-04:00"
+                    },
+                    {
+                        "adm1": "New York",
+                        "adm2": "Rome",
+                        "country": "United States",
+                        "fxLink": "https://www.qweather.com/weather/rome-12401.html",
+                        "id": "12401",
+                        "isDst": "1",
+                        "lat": "43.21285",
+                        "lon": "-75.45573",
+                        "name": "Rome",
+                        "rank": "55",
+                        "type": "city",
+                        "tz": "America/New_York",
+                        "utcOffset": "-04:00"
+                    },
+                    {
+                        "adm1": "New York",
+                        "adm2": "Verona",
+                        "country": "United States",
+                        "fxLink": "https://www.qweather.com/weather/verona-F3A95.html",
+                        "id": "F3A95",
+                        "isDst": "1",
+                        "lat": "43.13800",
+                        "lon": "-75.57100",
+                        "name": "Verona",
+                        "rank": "85",
+                        "type": "city",
+                        "tz": "America/New_York",
+                        "utcOffset": "-04:00"
+                    },
+                    {
+                        "adm1": "New York",
+                        "adm2": "Rockville Centre",
+                        "country": "United States",
+                        "fxLink": "https://www.qweather.com/weather/rockville-centre-45E9A.html",
+                        "id": "45E9A",
+                        "isDst": "1",
+                        "lat": "40.65871",
+                        "lon": "-73.64124",
+                        "name": "Rockville Centre",
+                        "rank": "65",
+                        "type": "city",
+                        "tz": "America/New_York",
+                        "utcOffset": "-04:00"
+                    },
+                    {
+                        "adm1": "New York",
+                        "adm2": "Roslyn Heights",
+                        "country": "United States",
+                        "fxLink": "https://www.qweather.com/weather/roslyn-heights-8C0CA.html",
+                        "id": "8C0CA",
+                        "isDst": "1",
+                        "lat": "40.78871",
+                        "lon": "-73.64735",
+                        "name": "Roslyn Heights",
+                        "rank": "75",
+                        "type": "city",
+                        "tz": "America/New_York",
+                        "utcOffset": "-04:00"
+                    },
+                    {
+                        "adm1": "New York",
+                        "adm2": "Rouses Point",
+                        "country": "United States",
+                        "fxLink": "https://www.qweather.com/weather/rouses-point-39C63.html",
+                        "id": "39C63",
+                        "isDst": "1",
+                        "lat": "44.99393",
+                        "lon": "-73.36486",
+                        "name": "Rouses Point",
+                        "rank": "85",
+                        "type": "city",
+                        "tz": "America/New_York",
+                        "utcOffset": "-04:00"
+                    }
+                ],
+                "tempList": "0",
+                "theme": "Luxury",
+                "timer": 49,
+                "title": "NewYork",
+                "titleParameters": {
+                    "fontFamily": "HarmonyOS Sans",
+                    "fontSize": 8,
+                    "fontStyle": "Regular",
+                    "fontUnderline": false,
+                    "showTitle": true,
+                    "titleAlignment": "bottom",
+                    "titleColor": "#ffffff"
+                },
+                "wdata": {
+                    "code": "101",
+                    "tmp": "25"
+                }
+            },
+            "State": 0,
+            "States": [
+                {
+                    "FontSize": 8,
+                    "Image": "static/img/default.jpg",
+                    "TitleAlignment": "bottom"
+                }
+            ],
+            "UUID": "com.hotspot.streamdock.weather.action1"
+        },
+        "5,2": {
+            "ActionID": "215bu065-13us-m2j2-xwjr-96fol07qi53h",
+            "Controller": "",
+            "Name": "World Time",
+            "Settings": {
+                "amplify": true,
+                "isBackgroundHidden": false,
+                "select": "1",
+                "theme": "theme1",
+                "title": "NewYork",
+                "zone": "-5"
+            },
+            "State": 0,
+            "States": [
+                {
+                    "FontSize": 13,
+                    "FontStyle": "Bold",
+                    "Image": "images/index.jpg",
+                    "Title": "NewYork",
+                    "TitleAlignment": "bottom"
+                }
+            ],
+            "UUID": "com.mirabox.streamdock.time.action1"
+        }
+    },
+    "AppIdentifier": "",
+    "DeviceModel": "20GBA9901",
+    "DeviceUUID": "AKP153E",
+    "Name": "Консоль музыки",
+    "Pages": {
+        "Current": "12G9C0Z3-HW58-0X77-N3EA-2E97N7KP0L34.sdProfile",
+        "Pages": [
+            "12G9C0Z3-HW58-0X77-N3EA-2E97N7KP0L34.sdProfile",
+            "MM7P621V-UN62-Q210-K8AD-98136T11B9AS.sdProfile",
+            "41BXOH1V-K869-0GW0-EZQS-KT9TNHEQE940.sdProfile",
+            "O8IFYMD0-2D98-CA9Y-JJT7-F7W940140S1E.sdProfile",
+            "GVKPC4JP-VX04-IS14-3100-9XQNAGM60FN3.sdProfile",
+            "NJ97S0S4-58YS-E2NG-2R18-JK2G211ZZ79N.sdProfile"
+        ]
+    },
+    "Version": "1.0"
+}

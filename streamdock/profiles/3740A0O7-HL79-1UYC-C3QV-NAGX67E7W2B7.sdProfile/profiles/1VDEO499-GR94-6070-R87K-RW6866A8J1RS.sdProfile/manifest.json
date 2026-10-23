@@ -1,0 +1,38 @@
+{
+    "Actions": {
+        "0,0": {
+            "ActionID": "1r758as0-jo5d-7182-187v-g6bpmfq2x3e9",
+            "Controller": "Keypad",
+            "Name": "Page Indicator",
+            "Settings": {
+            },
+            "State": 0,
+            "States": [
+                {
+                    "FontSize": "20",
+                    "Image": "Images/btn_pageIndicator",
+                    "TitleAlignment": "middle"
+                }
+            ],
+            "UUID": "com.hotspot.streamdock.page.indicator"
+        },
+        "3,1": {
+            "ActionID": "t9314p1c-sq2t-3ca4-9oo4-37ki0z4z1jn7",
+            "Controller": "Knob",
+            "Name": "change page",
+            "Settings": {
+            },
+            "State": 0,
+            "States": [
+                {
+                    "Image": "RI5T61Y4LOJX01BPXI23F5WV6UJ.png"
+                }
+            ],
+            "UUID": "com.hotspot.streamdock.page.change"
+        }
+    },
+    "DeviceModel": "20GBA9901",
+    "DeviceUUID": "AKP03E",
+    "Name": "",
+    "Version": "1.0"
+}

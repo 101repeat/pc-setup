@@ -1,0 +1,29 @@
+{
+  "Name": "Focus Volume",
+  "Description": "Adjusts the volume of the application that is currently in focus, instead of the system volume.",
+  "com.hotspot.focusvolume.action": {
+    "Name": "Focus Volume",
+    "Tooltip": "Rotate the knob to change the volume of the app in focus. Press to mute."
+  },
+  "com.hotspot.focusvolume.info": {
+    "Name": "Active Window",
+    "Tooltip": "Shows the active window and the app whose volume is being changed."
+  },
+  "Category": "Focus Volume",
+  "Localization": {
+    "Focus Volume": "Focus Volume",
+    "Volume step, %": "Volume step, %",
+    "Mute on press": "Mute on press",
+    "Fallback to system volume": "Fallback to system volume",
+    "Hint": "Hint",
+    "Rotate the knob to set the volume of the app in focus": "Rotate the knob to set the volume of the app in focus",
+    "Active Window": "Active Window",
+    "Display mode": "Display mode",
+    "Card": "Card",
+    "Big icon": "Big icon",
+    "Show window title": "Show window title",
+    "Show picture": "Show picture",
+    "Update interval, ms": "Update interval, ms",
+    "Shows the active window and the app whose volume is being changed": "Shows the active window and the app whose volume is being changed"
+  }
+}

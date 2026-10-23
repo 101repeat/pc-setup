@@ -1,0 +1,78 @@
+{
+    "Description": "시스템 성능 모니터입니다.",
+    "Name": "시스템 성능 모니터",
+    "Category": "시스템 성능 모니터",
+    "com.hotspot.stream.memory": {
+        "Name": "메모리",
+        "Tooltip": "현재 메모리 사용량 표시"
+    },
+    "com.hotspot.stream.cpu": {
+        "Name": "CPU 사용량",
+        "Tooltip": "현재 CPU 사용량 표시"
+    },
+    "com.hotspot.stream.cpu.temperature": {
+        "Name": "CPU 온도",
+        "Tooltip": "현재 CPU 온도 표시"
+    },
+    "com.hotspot.stream.Cpu_Clock": {
+        "Name": "CPU 주파수",
+        "Tooltip": "현재 CPU 주파수 표시"
+    },
+    "com.hotspot.stream.Cpu_Package_Power": {
+        "Name": "CPU 패키지 출력", 
+        "Tooltip": "현재 cpu의 패키지 전력을 표시합니다"
+    },
+    "com.hotspot.stream.NetWork": {
+        "Name": "인터넷 속도",
+        "Tooltip": "현재 업로드 및 다운로드 속도를 표시합니다."
+    },
+    "com.hotspot.stream.PhysicalDisk": {
+        "Name": "하드 디스크",
+        "Tooltip": "현재 하드 디스크 사용량 표시"
+    },
+    "com.hotspot.stream.Gpu_Temperature": {
+        "Name": "GPU 온도",
+        "Tooltip": "현재 GPU 온도 표시"
+    },
+    "com.hotspot.stream.Gpu_Core_Clock": {
+        "Name": "GPU 코어 주파수",
+        "Tooltip": "현재 GPU 코어의 주파수를 표시합니다."
+    },
+    "com.hotspot.stream.Gpu_Core_Usage": {
+        "Name": "GPU 코어 사용량",
+        "Tooltip": "현재 GPU 코어 사용량 표시"
+    },
+    "com.hotspot.stream.Gpu_Memory_Clock": {
+        "Name": "GPU 메모리 주파수",
+        "Tooltip": "현재 GPU 메모리 주파수를 표시합니다."
+    },
+    "com.hotspot.stream.Gpu_Memory_Usage": {
+        "Name": "GPU 메모리 사용량",
+        "Tooltip": "현재 GPU 메모리 사용량 표시"
+    },
+    "Localization": {
+        "1": "1",
+        "120": "120",
+        "CPU温度": "CPU 온도",
+        "CPU占用率": "CPU 사용량",
+        "内存占用率": "메모리 사용량",
+        "硬盘剩余空间": "하드 드라이브 남은 공간",
+        "背景": "배경",
+        "简约彩色": "단순한 색상",
+        "赛博朋克": "사이버펑크",
+        "模式": "모델",
+        "单个磁盘": "단일 디스크",
+        "磁盘循环": "디스크 루프",
+        "盘名": "디스크 이름",
+        "低阈值": "낮은 임계값",
+        "危险阈值": "위험 임계값",
+        "背景切换": "배경 전환",
+        "选择文件...": "문서를 선택하세요...",
+        "显示盘符名": "드라이브 문자 이름 표시",
+        "进度条倒置": "진행률 표시줄이 거꾸로 되어 있음",
+        "切换频率": "스위칭 주파수",
+        "秒": "두번째",
+        "(秒)": "(두번째)",
+        "仅限126*126像素图片": "126*126픽셀 이미지만 가능"
+    }
+}

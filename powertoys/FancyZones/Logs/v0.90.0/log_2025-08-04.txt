@@ -1,0 +1,98 @@
+[2025-08-04 00:15:47.495055] [p-14588] [t-14612] [info] fancyzones logger is initialized
+[2025-08-04 00:15:47.534782] [p-14588] [t-14612] [trace] FancyZonesSettings::LoadSettings Enter
+[2025-08-04 00:15:47.534814] [p-14588] [t-15240] [trace] OnThreadExecutor::worker_thread(loop) Enter
+[2025-08-04 00:15:47.534965] [p-14588] [t-14612] [warning] Failed to read from settings file
+[2025-08-04 00:15:47.535015] [p-14588] [t-14612] [trace] FancyZonesSettings::LoadSettings Exit
+[2025-08-04 00:15:47.535296] [p-14588] [t-14612] [info] layout-templates.json file is missing or malformed
+[2025-08-04 00:15:47.535502] [p-14588] [t-14612] [info] custom-layouts.json file is missing or malformed
+[2025-08-04 00:15:47.572298] [p-14588] [t-14612] [info] layout-hotkeys.json file is missing or malformed
+[2025-08-04 00:15:47.587400] [p-14588] [t-14612] [info] applied-layouts.json file is missing or malformed
+[2025-08-04 00:15:47.588717] [p-14588] [t-14612] [error] app-zone-history.json file is missing or malformed
+[2025-08-04 00:15:47.602607] [p-14588] [t-14612] [info] default-layouts.json file is missing or malformed
+[2025-08-04 00:15:47.654775] [p-14588] [t-15240] [trace] OnThreadExecutor::worker_thread(loop) Exit
+[2025-08-04 00:15:47.682611] [p-14588] [t-15240] [trace] OnThreadExecutor::worker_thread(loop) Enter
+[2025-08-04 00:15:47.684191] [p-14588] [t-14612] [info] Identifying monitors
+[2025-08-04 00:15:47.777565] [p-14588] [t-14612] [info] Get display device for display \\.\DISPLAY2 : \\?\DISPLAY#GSM7766#5&8bcebe0&0&UID33028#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-08-04 00:15:47.952085] [p-14588] [t-14612] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#GSM7715#5&8bcebe0&0&UID33025#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-08-04 00:15:47.953855] [p-14588] [t-14612] [info] Get display device for display \\.\DISPLAY3 : \\?\DISPLAY#ACR0743#5&8bcebe0&0&UID33024#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-08-04 00:15:47.955602] [p-14588] [t-14612] [info] Get display device for display \\.\DISPLAY4 : \\?\DISPLAY#GSM5AB6#5&8bcebe0&0&UID33027#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-08-04 00:15:47.976265] [p-14588] [t-14612] [info] InstanceName: DISPLAY\ACR0743\5&8bcebe0&0&UID33024_0
+[2025-08-04 00:15:48.045837] [p-14588] [t-14612] [info] Serial number: 2475695430
+[2025-08-04 00:15:48.077706] [p-14588] [t-14612] [info] InstanceName: DISPLAY\GSM7715\5&8bcebe0&0&UID33025_0
+[2025-08-04 00:15:48.220134] [p-14588] [t-14612] [info] Serial number: 269918
+[2025-08-04 00:15:48.221614] [p-14588] [t-14612] [info] InstanceName: DISPLAY\GSM5AB6\5&8bcebe0&0&UID33027_0
+[2025-08-04 00:15:48.223768] [p-14588] [t-14612] [info] Serial number: 601NTQDAZ124
+[2025-08-04 00:15:48.225095] [p-14588] [t-14612] [info] InstanceName: DISPLAY\GSM7766\5&8bcebe0&0&UID33028_0
+[2025-08-04 00:15:48.226164] [p-14588] [t-14612] [info] Serial number: 103NTDVBB114
+[2025-08-04 00:15:48.227836] [p-14588] [t-14612] [info] Display changed, type: Initialization
+[2025-08-04 00:15:48.251075] [p-14588] [t-14612] [debug] Update work areas, update windows positions: false
+[2025-08-04 00:15:48.283228] [p-14588] [t-14612] [info] Identifying monitors
+[2025-08-04 00:15:48.299382] [p-14588] [t-14612] [info] Get display device for display \\.\DISPLAY2 : \\?\DISPLAY#GSM7766#5&8bcebe0&0&UID33028#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-08-04 00:15:48.315787] [p-14588] [t-14612] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#GSM7715#5&8bcebe0&0&UID33025#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-08-04 00:15:48.318223] [p-14588] [t-14612] [info] Get display device for display \\.\DISPLAY3 : \\?\DISPLAY#ACR0743#5&8bcebe0&0&UID33024#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-08-04 00:15:48.319665] [p-14588] [t-14612] [info] Get display device for display \\.\DISPLAY4 : \\?\DISPLAY#GSM5AB6#5&8bcebe0&0&UID33027#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-08-04 00:15:48.339599] [p-14588] [t-14612] [info] InstanceName: DISPLAY\ACR0743\5&8bcebe0&0&UID33024_0
+[2025-08-04 00:15:48.347392] [p-14588] [t-14612] [info] Serial number: 2475695430
+[2025-08-04 00:15:48.348673] [p-14588] [t-14612] [info] InstanceName: DISPLAY\GSM7715\5&8bcebe0&0&UID33025_0
+[2025-08-04 00:15:48.349991] [p-14588] [t-14612] [info] Serial number: 269918
+[2025-08-04 00:15:48.351196] [p-14588] [t-14612] [info] InstanceName: DISPLAY\GSM5AB6\5&8bcebe0&0&UID33027_0
+[2025-08-04 00:15:48.351880] [p-14588] [t-14612] [info] Serial number: 601NTQDAZ124
+[2025-08-04 00:15:48.352854] [p-14588] [t-14612] [info] InstanceName: DISPLAY\GSM7766\5&8bcebe0&0&UID33028_0
+[2025-08-04 00:15:48.362574] [p-14588] [t-14612] [info] Serial number: 103NTDVBB114
+[2025-08-04 00:15:48.363798] [p-14588] [t-14612] [trace] Monitor was added or removed
+[2025-08-04 00:15:48.364442] [p-14588] [t-14612] [debug] Add new work area on virtual desktop {00000000-0000-0000-0000-000000000000}
+[2025-08-04 00:15:48.379050] [p-14588] [t-14612] [info] Creating new ZonesOverlay window, hWnd = 0x1056c
+[2025-08-04 00:15:48.982015] [p-14588] [t-14612] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_2_103NTDVBB114_{00000000-0000-0000-0000-000000000000}, work area rect = 2560x1392
+[2025-08-04 00:15:49.010906] [p-14588] [t-14612] [info] Set default layout on GSM7766_5&8bcebe0&0&UID33028_2_103NTDVBB114_{00000000-0000-0000-0000-000000000000}
+[2025-08-04 00:15:49.012580] [p-14588] [t-14612] [debug] Add new work area on virtual desktop {00000000-0000-0000-0000-000000000000}
+[2025-08-04 00:15:49.013755] [p-14588] [t-14612] [info] Creating new ZonesOverlay window, hWnd = 0x1057a
+[2025-08-04 00:15:49.126128] [p-14588] [t-14612] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_1_269918_{00000000-0000-0000-0000-000000000000}, work area rect = 2560x1032
+[2025-08-04 00:15:49.126300] [p-14588] [t-14612] [info] Set default layout on GSM7715_5&8bcebe0&0&UID33025_1_269918_{00000000-0000-0000-0000-000000000000}
+[2025-08-04 00:15:49.130037] [p-14588] [t-14612] [debug] Add new work area on virtual desktop {00000000-0000-0000-0000-000000000000}
+[2025-08-04 00:15:49.130970] [p-14588] [t-14612] [info] Creating new ZonesOverlay window, hWnd = 0x10580
+[2025-08-04 00:15:49.264205] [p-14588] [t-14612] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{00000000-0000-0000-0000-000000000000}, work area rect = 1920x1032
+[2025-08-04 00:15:49.264972] [p-14588] [t-14612] [info] Set default layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{00000000-0000-0000-0000-000000000000}
+[2025-08-04 00:15:49.271384] [p-14588] [t-14612] [debug] Add new work area on virtual desktop {00000000-0000-0000-0000-000000000000}
+[2025-08-04 00:15:49.280973] [p-14588] [t-14612] [info] Creating new ZonesOverlay window, hWnd = 0x10598
+[2025-08-04 00:15:49.787085] [p-14588] [t-14612] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{00000000-0000-0000-0000-000000000000}, work area rect = 1920x1032
+[2025-08-04 00:15:49.788094] [p-14588] [t-14612] [info] Set default layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{00000000-0000-0000-0000-000000000000}
+[2025-08-04 00:15:49.882405] [p-14588] [t-14612] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_2_103NTDVBB114_{00000000-0000-0000-0000-000000000000}, work area rect = 2560x1392
+[2025-08-04 00:15:49.929123] [p-14588] [t-14612] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_1_269918_{00000000-0000-0000-0000-000000000000}, work area rect = 2560x1032
+[2025-08-04 00:15:49.942889] [p-14588] [t-14612] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{00000000-0000-0000-0000-000000000000}, work area rect = 1920x1032
+[2025-08-04 00:15:49.961317] [p-14588] [t-14612] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{00000000-0000-0000-0000-000000000000}, work area rect = 1920x1032
+[2025-08-04 00:15:49.963033] [p-14588] [t-14612] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_2_103NTDVBB114_{00000000-0000-0000-0000-000000000000}, work area rect = 2560x1392
+[2025-08-04 00:15:49.963616] [p-14588] [t-14612] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_1_269918_{00000000-0000-0000-0000-000000000000}, work area rect = 2560x1032
+[2025-08-04 00:15:49.989269] [p-14588] [t-14612] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{00000000-0000-0000-0000-000000000000}, work area rect = 1920x1032
+[2025-08-04 00:15:49.990460] [p-14588] [t-14612] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{00000000-0000-0000-0000-000000000000}, work area rect = 1920x1032
+[2025-08-04 00:15:49.991910] [p-14588] [t-14612] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_2_103NTDVBB114_{00000000-0000-0000-0000-000000000000}, work area rect = 2560x1392
+[2025-08-04 00:15:50.021071] [p-14588] [t-14612] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_1_269918_{00000000-0000-0000-0000-000000000000}, work area rect = 2560x1032
+[2025-08-04 00:15:50.021716] [p-14588] [t-14612] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{00000000-0000-0000-0000-000000000000}, work area rect = 1920x1032
+[2025-08-04 00:15:50.022024] [p-14588] [t-14612] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{00000000-0000-0000-0000-000000000000}, work area rect = 1920x1032
+[2025-08-04 00:15:50.023172] [p-14588] [t-14612] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_2_103NTDVBB114_{00000000-0000-0000-0000-000000000000}, work area rect = 2560x1392
+[2025-08-04 00:15:50.023640] [p-14588] [t-14612] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_1_269918_{00000000-0000-0000-0000-000000000000}, work area rect = 2560x1032
+[2025-08-04 00:15:50.035667] [p-14588] [t-14612] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{00000000-0000-0000-0000-000000000000}, work area rect = 1920x1032
+[2025-08-04 00:15:50.036543] [p-14588] [t-14612] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{00000000-0000-0000-0000-000000000000}, work area rect = 1920x1032
+[2025-08-04 00:15:50.037558] [p-14588] [t-14612] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_2_103NTDVBB114_{00000000-0000-0000-0000-000000000000}, work area rect = 2560x1392
+[2025-08-04 00:15:50.051952] [p-14588] [t-14612] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_1_269918_{00000000-0000-0000-0000-000000000000}, work area rect = 2560x1032
+[2025-08-04 00:15:50.052867] [p-14588] [t-14612] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{00000000-0000-0000-0000-000000000000}, work area rect = 1920x1032
+[2025-08-04 00:15:50.066840] [p-14588] [t-14612] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{00000000-0000-0000-0000-000000000000}, work area rect = 1920x1032
+[2025-08-04 00:15:54.726813] [p-14588] [t-14612] [info] Display changed, type: DisplayChange
+[2025-08-04 00:15:54.761377] [p-14588] [t-14612] [debug] Update work areas, update windows positions: true
+[2025-08-04 00:15:54.777628] [p-14588] [t-14612] [info] Identifying monitors
+[2025-08-04 00:15:54.779967] [p-14588] [t-14612] [info] Get display device for display \\.\DISPLAY2 : \\?\DISPLAY#GSM7766#5&8bcebe0&0&UID33028#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-08-04 00:15:54.781534] [p-14588] [t-14612] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#GSM7715#5&8bcebe0&0&UID33025#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-08-04 00:15:54.783245] [p-14588] [t-14612] [info] Get display device for display \\.\DISPLAY3 : \\?\DISPLAY#ACR0743#5&8bcebe0&0&UID33024#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-08-04 00:15:54.810971] [p-14588] [t-14612] [info] Get display device for display \\.\DISPLAY4 : \\?\DISPLAY#GSM5AB6#5&8bcebe0&0&UID33027#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2025-08-04 00:15:54.840588] [p-14588] [t-14612] [info] InstanceName: DISPLAY\ACR0743\5&8bcebe0&0&UID33024_0
+[2025-08-04 00:15:54.858117] [p-14588] [t-14612] [info] Serial number: 2475695430
+[2025-08-04 00:15:54.858895] [p-14588] [t-14612] [info] InstanceName: DISPLAY\GSM7715\5&8bcebe0&0&UID33025_0
+[2025-08-04 00:15:54.859313] [p-14588] [t-14612] [info] Serial number: 269918
+[2025-08-04 00:15:54.859994] [p-14588] [t-14612] [info] InstanceName: DISPLAY\GSM5AB6\5&8bcebe0&0&UID33027_0
+[2025-08-04 00:15:54.860704] [p-14588] [t-14612] [info] Serial number: 601NTQDAZ124
+[2025-08-04 00:15:54.861547] [p-14588] [t-14612] [info] InstanceName: DISPLAY\GSM7766\5&8bcebe0&0&UID33028_0
+[2025-08-04 00:15:54.862044] [p-14588] [t-14612] [info] Serial number: 103NTDVBB114
+[2025-08-04 00:16:04.410957] [p-14588] [t-14612] [info] Freeing ZonesOverlay window into pool, hWnd = 0x1056c
+[2025-08-04 00:16:04.424749] [p-14588] [t-14612] [info] Freeing ZonesOverlay window into pool, hWnd = 0x1057a
+[2025-08-04 00:16:04.436503] [p-14588] [t-14612] [info] Freeing ZonesOverlay window into pool, hWnd = 0x10580
+[2025-08-04 00:16:04.449434] [p-14588] [t-14612] [info] Freeing ZonesOverlay window into pool, hWnd = 0x10598
+[2025-08-04 00:16:04.465357] [p-14588] [t-15240] [trace] OnThreadExecutor::worker_thread(loop) Exit

@@ -1,0 +1,1840 @@
+﻿2021-02-04 13:10:27.138 - ShareX starting.
+2021-02-04 13:10:27.153 - Version: 13.4
+2021-02-04 13:10:27.153 - Build: Release
+2021-02-04 13:10:27.153 - Command line: "C:\Program Files\ShareX\ShareX.exe" -silent
+2021-02-04 13:10:27.153 - Personal path: C:\Users\}repeat\Documents\ShareX
+2021-02-04 13:10:27.156 - Operating system: Windows 10 Pro (64-bit)
+2021-02-04 13:10:27.157 - Running as elevated process: True
+2021-02-04 13:10:27.175 - Flags: SilentRun
+2021-02-04 13:10:27.353 - ApplicationConfig load started: C:\Users\}repeat\Documents\ShareX\ApplicationConfig.json
+2021-02-04 13:10:28.419 - ApplicationConfig load finished: C:\Users\}repeat\Documents\ShareX\ApplicationConfig.json
+2021-02-04 13:10:28.432 - UploadersConfig load started: C:\Users\}repeat\Documents\ShareX\UploadersConfig.json
+2021-02-04 13:10:28.445 - Language changed to: Русский (Россия)
+2021-02-04 13:10:28.449 - MainForm init started.
+2021-02-04 13:10:28.584 - UploadersConfig load finished: C:\Users\}repeat\Documents\ShareX\UploadersConfig.json
+2021-02-04 13:10:28.593 - HotkeysConfig load started: C:\Users\}repeat\Documents\ShareX\HotkeysConfig.json
+2021-02-04 13:10:28.736 - HotkeysConfig load finished: C:\Users\}repeat\Documents\ShareX\HotkeysConfig.json
+2021-02-04 13:10:29.072 - MainForm init finished.
+2021-02-04 13:10:29.211 - Exception:
+System.Net.WebException: Невозможно разрешить удаленное имя: 'getsharex.com'
+   в System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   в System.Net.WebClient.DownloadString(Uri address)
+   в ShareX.NewsManager.GetNews()
+   в ShareX.NewsManager.UpdateNews()
+2021-02-04 13:10:29.506 - Startup time: 2509 ms
+2021-02-04 13:10:29.508 - CommandLine: -silent
+2021-02-04 13:10:29.509 - GitHub update check failed:
+System.Net.WebException: Невозможно разрешить удаленное имя: 'api.github.com'
+   в System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   в System.Net.WebClient.DownloadString(Uri address)
+   в ShareX.HelpersLib.GitHubUpdateChecker.GetReleases()
+   в ShareX.HelpersLib.GitHubUpdateChecker.GetLatestRelease(Boolean includePreRelease)
+   в ShareX.HelpersLib.GitHubUpdateChecker.CheckUpdate()
+2021-02-04 13:10:29.530 - Hotkey registered: Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-04 13:10:29.531 - Hotkey registered: Hotkey: Ctrl + Print Screen, Description: Захват всего экрана, Job: PrintScreen
+2021-02-04 13:10:29.531 - Hotkey registered: Hotkey: Alt + Print Screen, Description: Захват активного окна, Job: ActiveWindow
+2021-02-04 13:10:29.531 - Hotkey registered: Hotkey: Shift + Print Screen, Description: Начать/Остановить запись области экрана, Job: ScreenRecorder
+2021-02-04 13:10:29.531 - Hotkey registered: Hotkey: Ctrl + Shift + Print Screen, Description: Начать/Остановить запись области экрана (GIF), Job: ScreenRecorderGIF
+2021-02-04 13:10:29.531 - Hotkey registered: Hotkey: Ctrl + Alt + Print Screen, Description: Захват области, Job: RectangleRegion
+2021-02-04 13:10:29.532 - HotkeyManager started.
+2021-02-04 13:10:29.533 - WatchFolderManager started.
+2021-02-04 17:23:59.977 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-04 17:23:59.979 - Executing: Захват области (Облегченный)
+2021-02-04 17:24:03.240 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-04 17:24:03.274 - Task status: Preparing
+2021-02-04 17:24:03.310 - Image copied to clipboard.
+2021-02-04 17:24:03.324 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\8wn89n7YFF.png
+2021-02-04 17:24:03.334 - Task completed. Filename: 8wn89n7YFF.png, Duration: 58 ms
+2021-02-04 18:20:51.082 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-04 18:20:51.082 - Executing: Захват области (Облегченный)
+2021-02-04 18:20:55.809 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-04 18:20:55.826 - Task status: Preparing
+2021-02-04 18:20:55.860 - Image copied to clipboard.
+2021-02-04 18:20:55.883 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\FhyWHjL7Cd.png
+2021-02-04 18:20:55.887 - Task completed. Filename: FhyWHjL7Cd.png, Duration: 61 ms
+2021-02-04 18:20:57.433 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-04 18:20:57.434 - Executing: Захват области (Облегченный)
+2021-02-04 18:21:01.497 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-04 18:21:01.516 - Task status: Preparing
+2021-02-04 18:21:01.556 - Image copied to clipboard.
+2021-02-04 18:21:01.569 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\n1KCs8hpyN.png
+2021-02-04 18:21:01.573 - Task completed. Filename: n1KCs8hpyN.png, Duration: 58 ms
+2021-02-04 18:35:30.195 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-04 18:35:30.195 - Executing: Захват области (Облегченный)
+2021-02-04 18:35:33.210 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-04 18:35:33.238 - Task status: Preparing
+2021-02-04 18:35:33.324 - Image copied to clipboard.
+2021-02-04 18:35:33.359 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\fCKA0bUkIx.png
+2021-02-04 18:35:33.367 - Task completed. Filename: fCKA0bUkIx.png, Duration: 146 ms
+2021-02-04 18:39:23.626 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-04 18:39:23.626 - Executing: Захват области (Облегченный)
+2021-02-04 18:39:27.235 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-04 18:39:27.242 - Task status: Preparing
+2021-02-04 18:39:27.254 - Image copied to clipboard.
+2021-02-04 18:39:27.265 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\ZKTLQEf65a.png
+2021-02-04 18:39:27.267 - Task completed. Filename: ZKTLQEf65a.png, Duration: 26 ms
+2021-02-04 20:13:20.205 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-04 20:13:20.205 - Executing: Захват области (Облегченный)
+2021-02-04 20:13:22.469 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-04 20:13:22.479 - Task status: Preparing
+2021-02-04 20:13:22.529 - Image copied to clipboard.
+2021-02-04 20:13:22.549 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\5F2juVqy4t.png
+2021-02-04 20:13:22.555 - Task completed. Filename: 5F2juVqy4t.png, Duration: 77 ms
+2021-02-04 20:58:16.018 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-04 20:58:16.019 - Executing: Захват области (Облегченный)
+2021-02-04 20:58:22.456 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-04 20:58:22.456 - Executing: Захват области (Облегченный)
+2021-02-04 23:55:25.643 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-04 23:55:25.643 - Executing: Захват области (Облегченный)
+2021-02-04 23:55:29.219 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-04 23:55:29.234 - Task status: Preparing
+2021-02-04 23:55:29.245 - Image copied to clipboard.
+2021-02-04 23:55:29.257 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\1gN5wGHOfk.png
+2021-02-04 23:55:29.261 - Task completed. Filename: 1gN5wGHOfk.png, Duration: 27 ms
+2021-02-05 08:30:13.382 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-05 08:30:13.382 - Executing: Захват области (Облегченный)
+2021-02-05 08:30:16.240 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-05 08:30:16.246 - Task status: Preparing
+2021-02-05 08:30:16.271 - Image copied to clipboard.
+2021-02-05 08:30:16.284 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\91mXNo77ZI.png
+2021-02-05 08:30:16.289 - Task completed. Filename: 91mXNo77ZI.png, Duration: 43 ms
+2021-02-05 09:05:19.099 - ApplicationConfig save started: C:\Users\}repeat\Documents\ShareX\ApplicationConfig.json
+2021-02-05 09:05:19.099 - UploadersConfig save started: C:\Users\}repeat\Documents\ShareX\UploadersConfig.json
+2021-02-05 09:05:19.099 - HotkeysConfig save started: C:\Users\}repeat\Documents\ShareX\HotkeysConfig.json
+2021-02-05 09:05:19.215 - UploadersConfig save successful: C:\Users\}repeat\Documents\ShareX\UploadersConfig.json
+2021-02-05 09:05:19.278 - HotkeysConfig save successful: C:\Users\}repeat\Documents\ShareX\HotkeysConfig.json
+2021-02-05 09:05:19.304 - ApplicationConfig save successful: C:\Users\}repeat\Documents\ShareX\ApplicationConfig.json
+2021-02-05 09:05:27.559 - URL opened: https://translate.google.com/#auto/en/1%29%20%D1%82%D1%80%D0%B5%D0%BD%D0%B8%D0%B5%3B%202%29%20%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%B4%D0%B2%D0%B8%D0%B6%D1%83%D1%89%D0%B0%D1%8F%20%D1%81%D0%B8%D0%BB%D0%B0%3B%20%D0%97%29%20%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%3B%204%29%20%D0%BF%D0%B0%D1%80%D0%B0%D0%BB%D0%BB%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5%20%D1%81%D0%BE-%0D%0A%D0%B5%D0%B4%D0%B8%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%3B%205%29%20%D1%81%D0%BE%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%3B%206%29%20%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BC%D0%B0%D0%B3%D0%BD%D0%B8%D1%82%D0%BD%D0%B0%D1%8F%20%D0%B8%D0%BD%D0%B4%D1%83%D0%BA%D1%86%D0%B8%D1%8F%3B%207%29%20%D0%BF%D0%B5%D1%80%D0%B5%D0%BC%D0%B5%D0%BD-%0D%0A%D0%BD%D1%8B%D0%B9%20%D1%82%D0%BE%D0%BA%3B%208%29%20%D0%BF%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%BD%D0%BE%D0%B5%20%D0%BD%D0%B0%D0%BF%D1%80%D1%8F%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%3B%209%29%20%D1%84%D0%BE%D1%82%D0%BE%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82.%0D%0A
+2021-02-05 09:23:20.992 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-05 09:23:20.992 - Executing: Захват области (Облегченный)
+2021-02-05 09:23:25.270 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-05 09:23:25.277 - Task status: Preparing
+2021-02-05 09:23:25.302 - Image copied to clipboard.
+2021-02-05 09:23:25.316 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\P8GdzpJG5M.png
+2021-02-05 09:23:25.325 - Task completed. Filename: P8GdzpJG5M.png, Duration: 50 ms
+2021-02-05 10:23:22.347 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-05 10:23:22.347 - Executing: Захват области (Облегченный)
+2021-02-05 10:23:24.859 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-05 10:23:24.867 - Task status: Preparing
+2021-02-05 10:23:24.915 - Image copied to clipboard.
+2021-02-05 10:23:24.930 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\KfOfmcjk61.png
+2021-02-05 10:23:24.945 - Task completed. Filename: KfOfmcjk61.png, Duration: 79 ms
+2021-02-05 11:11:53.821 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-05 11:11:53.822 - Executing: Захват области (Облегченный)
+2021-02-05 11:12:01.112 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-05 11:12:01.122 - Task status: Preparing
+2021-02-05 11:12:01.152 - Image copied to clipboard.
+2021-02-05 11:12:01.168 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\hkVPdHQUQQ.png
+2021-02-05 11:12:01.174 - Task completed. Filename: hkVPdHQUQQ.png, Duration: 54 ms
+2021-02-05 13:43:50.284 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-05 13:43:50.284 - Executing: Захват области (Облегченный)
+2021-02-05 13:43:55.278 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-05 13:43:55.288 - Task status: Preparing
+2021-02-05 13:43:55.300 - Image copied to clipboard.
+2021-02-05 13:43:55.321 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\Wfwa3fQmki.png
+2021-02-05 13:43:55.324 - Task completed. Filename: Wfwa3fQmki.png, Duration: 38 ms
+2021-02-05 13:49:32.036 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-05 13:49:32.036 - Executing: Захват области (Облегченный)
+2021-02-05 13:49:34.843 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-05 13:49:34.850 - Task status: Preparing
+2021-02-05 13:49:34.878 - Image copied to clipboard.
+2021-02-05 13:49:34.894 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\VFk2qlAZPR.png
+2021-02-05 13:49:34.899 - Task completed. Filename: VFk2qlAZPR.png, Duration: 50 ms
+2021-02-05 13:50:56.356 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-05 13:50:56.356 - Executing: Захват области (Облегченный)
+2021-02-05 13:51:00.421 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-05 13:51:00.427 - Task status: Preparing
+2021-02-05 13:51:00.456 - Image copied to clipboard.
+2021-02-05 13:51:00.469 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\t16h5LgM8B.png
+2021-02-05 13:51:00.474 - Task completed. Filename: t16h5LgM8B.png, Duration: 48 ms
+2021-02-05 15:21:12.202 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-05 15:21:12.203 - Executing: Захват области (Облегченный)
+2021-02-05 15:21:14.343 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-05 15:21:14.357 - Task status: Preparing
+2021-02-05 15:21:14.388 - Image copied to clipboard.
+2021-02-05 15:21:14.404 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\iu5UWPCNZ2.png
+2021-02-05 15:21:14.407 - Task completed. Filename: iu5UWPCNZ2.png, Duration: 51 ms
+2021-02-05 15:21:37.392 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-05 15:21:37.392 - Executing: Захват области (Облегченный)
+2021-02-05 15:21:38.577 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-05 15:21:38.585 - Task status: Preparing
+2021-02-05 15:21:38.619 - Image copied to clipboard.
+2021-02-05 15:21:38.635 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\7ESzz1Ab2d.png
+2021-02-05 15:21:38.640 - Task completed. Filename: 7ESzz1Ab2d.png, Duration: 55 ms
+2021-02-05 16:10:02.845 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-05 16:10:02.846 - Executing: Захват области (Облегченный)
+2021-02-05 16:10:04.545 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-05 16:10:04.554 - Task status: Preparing
+2021-02-05 16:10:04.597 - Image copied to clipboard.
+2021-02-05 16:10:04.615 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\vvy8sJJnTj.png
+2021-02-05 16:10:04.618 - Task completed. Filename: vvy8sJJnTj.png, Duration: 65 ms
+2021-02-05 17:28:21.473 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-05 17:28:21.474 - Executing: Захват области (Облегченный)
+2021-02-05 19:05:31.170 - ApplicationConfig save started: C:\Users\}repeat\Documents\ShareX\ApplicationConfig.json
+2021-02-05 19:05:31.171 - UploadersConfig save started: C:\Users\}repeat\Documents\ShareX\UploadersConfig.json
+2021-02-05 19:05:31.171 - HotkeysConfig save started: C:\Users\}repeat\Documents\ShareX\HotkeysConfig.json
+2021-02-05 19:05:31.277 - UploadersConfig save successful: C:\Users\}repeat\Documents\ShareX\UploadersConfig.json
+2021-02-05 19:05:31.361 - HotkeysConfig save successful: C:\Users\}repeat\Documents\ShareX\HotkeysConfig.json
+2021-02-05 19:05:31.381 - ApplicationConfig save successful: C:\Users\}repeat\Documents\ShareX\ApplicationConfig.json
+2021-02-05 19:54:14.164 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-05 19:54:14.164 - Executing: Захват области (Облегченный)
+2021-02-05 19:54:18.501 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-05 19:54:18.511 - Task status: Preparing
+2021-02-05 19:54:18.558 - Image copied to clipboard.
+2021-02-05 19:54:18.582 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\tJadWxJd8Z.png
+2021-02-05 19:54:18.588 - Task completed. Filename: tJadWxJd8Z.png, Duration: 78 ms
+2021-02-06 15:15:31.687 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-06 15:15:31.688 - Executing: Захват области (Облегченный)
+2021-02-06 15:15:34.613 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-06 15:15:34.624 - Task status: Preparing
+2021-02-06 15:15:34.640 - Image copied to clipboard.
+2021-02-06 15:15:34.657 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\LOK1bxFq7c.png
+2021-02-06 15:15:34.658 - Task completed. Filename: LOK1bxFq7c.png, Duration: 36 ms
+2021-02-06 15:58:52.481 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-06 15:58:52.482 - Executing: Захват области (Облегченный)
+2021-02-06 15:58:54.248 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-06 15:58:54.257 - Task status: Preparing
+2021-02-06 15:58:54.272 - Image copied to clipboard.
+2021-02-06 15:58:54.287 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\md4hqlKhIF.png
+2021-02-06 15:58:54.290 - Task completed. Filename: md4hqlKhIF.png, Duration: 34 ms
+2021-02-06 16:14:01.001 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-06 16:14:01.001 - Executing: Захват области (Облегченный)
+2021-02-06 16:14:05.032 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-06 16:14:05.040 - Task status: Preparing
+2021-02-06 16:14:05.051 - Image copied to clipboard.
+2021-02-06 16:14:05.065 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\A8agBMQj1S.png
+2021-02-06 16:14:05.068 - Task completed. Filename: A8agBMQj1S.png, Duration: 29 ms
+2021-02-06 16:24:50.777 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-06 16:24:50.777 - Executing: Захват области (Облегченный)
+2021-02-06 16:24:53.707 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-06 16:24:53.714 - Task status: Preparing
+2021-02-06 16:24:53.773 - Image copied to clipboard.
+2021-02-06 16:24:53.800 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\Z3ghx5V6jN.png
+2021-02-06 16:24:53.809 - Task completed. Filename: Z3ghx5V6jN.png, Duration: 95 ms
+2021-02-06 17:16:17.998 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-06 17:16:17.999 - Executing: Захват области (Облегченный)
+2021-02-06 17:16:19.677 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-06 17:16:19.689 - Task status: Preparing
+2021-02-06 17:16:19.702 - Image copied to clipboard.
+2021-02-06 17:16:19.736 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\CnlgZlJfm0.png
+2021-02-06 17:16:19.739 - Task completed. Filename: CnlgZlJfm0.png, Duration: 53 ms
+2021-02-06 17:29:04.620 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-06 17:29:04.620 - Executing: Захват области (Облегченный)
+2021-02-06 17:29:12.678 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-06 17:29:12.684 - Task status: Preparing
+2021-02-06 17:29:12.758 - Image copied to clipboard.
+2021-02-06 17:29:12.805 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\dhQoeGH52t.png
+2021-02-06 17:29:12.817 - Task completed. Filename: dhQoeGH52t.png, Duration: 134 ms
+2021-02-06 20:32:54.415 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-06 20:32:54.416 - Executing: Захват области (Облегченный)
+2021-02-06 20:32:57.042 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-06 20:32:57.059 - Task status: Preparing
+2021-02-06 20:32:57.095 - Image copied to clipboard.
+2021-02-06 20:32:57.123 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\DMJ3VMgMMo.png
+2021-02-06 20:32:57.131 - Task completed. Filename: DMJ3VMgMMo.png, Duration: 78 ms
+2021-02-06 22:02:18.024 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-06 22:02:18.025 - Executing: Захват области (Облегченный)
+2021-02-06 22:02:20.352 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-06 22:02:20.385 - Task status: Preparing
+2021-02-06 22:02:20.427 - Image copied to clipboard.
+2021-02-06 22:02:20.451 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\Ucvg7AqAFH.png
+2021-02-06 22:02:20.455 - Task completed. Filename: Ucvg7AqAFH.png, Duration: 73 ms
+2021-02-06 23:29:49.689 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-06 23:29:49.690 - Executing: Захват области (Облегченный)
+2021-02-06 23:29:51.911 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-06 23:29:51.940 - Task status: Preparing
+2021-02-06 23:29:51.985 - Image copied to clipboard.
+2021-02-06 23:29:52.012 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\oOHT0AIgEC.png
+2021-02-06 23:29:52.018 - Task completed. Filename: oOHT0AIgEC.png, Duration: 80 ms
+2021-02-06 23:52:57.900 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-06 23:52:57.900 - Executing: Захват области (Облегченный)
+2021-02-06 23:52:59.848 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-06 23:52:59.857 - Task status: Preparing
+2021-02-06 23:52:59.882 - Image copied to clipboard.
+2021-02-06 23:52:59.896 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\N4NFI1Tjkj.png
+2021-02-06 23:52:59.898 - Task completed. Filename: N4NFI1Tjkj.png, Duration: 42 ms
+2021-02-07 00:12:31.325 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-07 00:12:31.325 - Executing: Захват области (Облегченный)
+2021-02-07 00:12:32.819 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-07 00:12:32.825 - Task status: Preparing
+2021-02-07 00:12:32.831 - Image copied to clipboard.
+2021-02-07 00:12:32.843 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\yaxei8QicZ.png
+2021-02-07 00:12:32.845 - Task completed. Filename: yaxei8QicZ.png, Duration: 20 ms
+2021-02-07 02:27:49.287 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-07 02:27:49.287 - Executing: Захват области (Облегченный)
+2021-02-07 02:27:51.924 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-07 02:27:51.936 - Task status: Preparing
+2021-02-07 02:27:51.955 - Image copied to clipboard.
+2021-02-07 02:27:51.971 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\lrqPRXm215.png
+2021-02-07 02:27:51.975 - Task completed. Filename: lrqPRXm215.png, Duration: 39 ms
+2021-02-07 02:28:21.739 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-07 02:28:21.740 - Executing: Захват области (Облегченный)
+2021-02-07 02:28:24.437 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-07 02:28:24.445 - Task status: Preparing
+2021-02-07 02:28:24.481 - Image copied to clipboard.
+2021-02-07 02:28:24.492 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\m46wu2g6HF.png
+2021-02-07 02:28:24.498 - Task completed. Filename: m46wu2g6HF.png, Duration: 54 ms
+2021-02-07 02:38:38.206 - ApplicationConfig save started: C:\Users\}repeat\Documents\ShareX\ApplicationConfig.json
+2021-02-07 02:38:38.207 - UploadersConfig save started: C:\Users\}repeat\Documents\ShareX\UploadersConfig.json
+2021-02-07 02:38:38.208 - HotkeysConfig save started: C:\Users\}repeat\Documents\ShareX\HotkeysConfig.json
+2021-02-07 02:38:38.334 - UploadersConfig save successful: C:\Users\}repeat\Documents\ShareX\UploadersConfig.json
+2021-02-07 02:38:38.418 - HotkeysConfig save successful: C:\Users\}repeat\Documents\ShareX\HotkeysConfig.json
+2021-02-07 02:38:38.430 - ApplicationConfig save successful: C:\Users\}repeat\Documents\ShareX\ApplicationConfig.json
+2021-02-07 02:38:40.972 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-07 02:38:40.972 - Executing: Захват области (Облегченный)
+2021-02-07 02:38:43.141 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-07 02:38:43.141 - Executing: Захват области (Облегченный)
+2021-02-07 02:38:44.828 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-07 02:38:44.829 - Executing: Захват области (Облегченный)
+2021-02-07 03:13:00.357 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-07 03:13:00.358 - Executing: Захват области (Облегченный)
+2021-02-07 03:13:03.643 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-07 03:13:03.663 - Task status: Preparing
+2021-02-07 03:13:03.726 - Image copied to clipboard.
+2021-02-07 03:13:03.765 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\8ykMO5VZ6E.png
+2021-02-07 03:13:03.771 - Task completed. Filename: 8ykMO5VZ6E.png, Duration: 111 ms
+2021-02-07 12:54:06.572 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-07 12:54:06.573 - Executing: Захват области (Облегченный)
+2021-02-07 12:54:11.969 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-07 12:54:11.980 - Task status: Preparing
+2021-02-07 12:54:11.998 - Image copied to clipboard.
+2021-02-07 12:54:12.018 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\vkp6tdIKFy.png
+2021-02-07 12:54:12.022 - Task completed. Filename: vkp6tdIKFy.png, Duration: 43 ms
+2021-02-07 18:28:26.978 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-07 18:28:26.979 - Executing: Захват области (Облегченный)
+2021-02-07 18:28:29.958 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-07 18:28:29.969 - Task status: Preparing
+2021-02-07 18:28:29.979 - Image copied to clipboard.
+2021-02-07 18:28:30.008 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\kpfW3WvGXe.png
+2021-02-07 18:28:30.012 - Task completed. Filename: kpfW3WvGXe.png, Duration: 45 ms
+2021-02-07 22:20:12.344 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-07 22:20:12.344 - Executing: Захват области (Облегченный)
+2021-02-07 22:20:15.505 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-07 22:20:15.523 - Task status: Preparing
+2021-02-07 22:20:15.542 - Image copied to clipboard.
+2021-02-07 22:20:15.555 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\cRWoNkzf6z.png
+2021-02-07 22:20:15.559 - Task completed. Filename: cRWoNkzf6z.png, Duration: 42 ms
+2021-02-08 18:46:43.548 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-08 18:46:43.550 - Executing: Захват области (Облегченный)
+2021-02-08 18:46:47.101 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-08 18:46:47.114 - Task status: Preparing
+2021-02-08 18:46:47.131 - Image copied to clipboard.
+2021-02-08 18:46:47.148 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\RJcuw6kjXh.png
+2021-02-08 18:46:47.152 - Task completed. Filename: RJcuw6kjXh.png, Duration: 39 ms
+2021-02-08 19:30:06.453 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-08 19:30:06.454 - Executing: Захват области (Облегченный)
+2021-02-08 19:30:09.586 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-08 19:30:09.597 - Task status: Preparing
+2021-02-08 19:30:09.816 - Image copied to clipboard.
+2021-02-08 19:30:09.872 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\uw9LnOIB72.png
+2021-02-08 19:30:09.900 - Task completed. Filename: uw9LnOIB72.png, Duration: 303 ms
+2021-02-09 21:38:23.511 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-09 21:38:23.515 - Executing: Захват области (Облегченный)
+2021-02-09 21:38:26.985 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-09 21:38:27.043 - Task status: Preparing
+2021-02-09 21:38:27.088 - Image copied to clipboard.
+2021-02-09 21:38:27.109 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\jZjOA1MxjC.png
+2021-02-09 21:38:27.117 - Task completed. Filename: jZjOA1MxjC.png, Duration: 76 ms
+2021-02-09 23:43:00.302 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-09 23:43:00.304 - Executing: Захват области (Облегченный)
+2021-02-09 23:43:02.416 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-09 23:43:02.436 - Task status: Preparing
+2021-02-09 23:43:02.455 - Image copied to clipboard.
+2021-02-09 23:43:02.473 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\wJTUUKZ0h8.png
+2021-02-09 23:43:02.475 - Task completed. Filename: wJTUUKZ0h8.png, Duration: 39 ms
+2021-02-10 00:56:38.395 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-10 00:56:38.396 - Executing: Захват области (Облегченный)
+2021-02-10 00:56:42.662 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-10 00:56:42.684 - Task status: Preparing
+2021-02-10 00:56:42.749 - Image copied to clipboard.
+2021-02-10 00:56:42.778 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\qfTFIzdFut.png
+2021-02-10 00:56:42.785 - Task completed. Filename: qfTFIzdFut.png, Duration: 108 ms
+2021-02-10 01:19:29.825 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-10 01:19:29.827 - Executing: Захват области (Облегченный)
+2021-02-10 01:19:32.098 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-10 01:19:32.107 - Task status: Preparing
+2021-02-10 01:19:32.165 - Image copied to clipboard.
+2021-02-10 01:19:32.191 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\Gofcex906f.png
+2021-02-10 01:19:32.197 - Task completed. Filename: Gofcex906f.png, Duration: 93 ms
+2021-02-10 01:32:37.625 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-10 01:32:37.625 - Executing: Захват области (Облегченный)
+2021-02-10 01:32:40.954 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-10 01:32:40.966 - Task status: Preparing
+2021-02-10 01:32:41.050 - Image copied to clipboard.
+2021-02-10 01:32:41.074 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\l8SXjd5sGF.png
+2021-02-10 01:32:41.081 - Task completed. Filename: l8SXjd5sGF.png, Duration: 116 ms
+2021-02-10 13:40:11.602 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-10 13:40:11.602 - Executing: Захват области (Облегченный)
+2021-02-10 13:40:13.148 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-10 13:40:13.171 - Task status: Preparing
+2021-02-10 13:40:13.190 - Image copied to clipboard.
+2021-02-10 13:40:13.208 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\1wCCUsf44F.png
+2021-02-10 13:40:13.211 - Task completed. Filename: 1wCCUsf44F.png, Duration: 41 ms
+2021-02-10 14:21:39.475 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-10 14:21:39.475 - Executing: Захват области (Облегченный)
+2021-02-10 14:21:42.026 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-10 14:21:42.037 - Task status: Preparing
+2021-02-10 14:21:42.072 - Image copied to clipboard.
+2021-02-10 14:21:42.093 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\mdzbyEOv9v.png
+2021-02-10 14:21:42.099 - Task completed. Filename: mdzbyEOv9v.png, Duration: 65 ms
+2021-02-10 15:21:38.221 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-10 15:21:38.221 - Executing: Захват области (Облегченный)
+2021-02-10 15:21:40.524 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-10 15:21:40.534 - Task status: Preparing
+2021-02-10 15:21:40.558 - Image copied to clipboard.
+2021-02-10 15:21:40.575 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\xNgiWYBjqJ.png
+2021-02-10 15:21:40.579 - Task completed. Filename: xNgiWYBjqJ.png, Duration: 46 ms
+2021-02-10 15:37:37.973 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-10 15:37:37.973 - Executing: Захват области (Облегченный)
+2021-02-10 15:37:41.069 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-10 15:37:41.078 - Task status: Preparing
+2021-02-10 15:37:41.092 - Image copied to clipboard.
+2021-02-10 15:37:41.109 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\gHG1odbQlz.png
+2021-02-10 15:37:41.112 - Task completed. Filename: gHG1odbQlz.png, Duration: 33 ms
+2021-02-10 15:39:26.486 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-10 15:39:26.486 - Executing: Захват области (Облегченный)
+2021-02-10 15:39:30.147 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-10 15:39:30.164 - Task status: Preparing
+2021-02-10 15:39:30.257 - Image copied to clipboard.
+2021-02-10 15:39:30.277 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\fpm3ZB7Pzg.png
+2021-02-10 15:39:30.287 - Task completed. Filename: fpm3ZB7Pzg.png, Duration: 126 ms
+2021-02-10 16:27:34.985 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-10 16:27:34.985 - Executing: Захват области (Облегченный)
+2021-02-10 16:27:40.526 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-10 16:27:40.538 - Task status: Preparing
+2021-02-10 16:27:40.697 - Image copied to clipboard.
+2021-02-10 16:27:40.735 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\gxymJOnbZp.png
+2021-02-10 16:27:40.750 - Task completed. Filename: gxymJOnbZp.png, Duration: 212 ms
+2021-02-10 16:34:56.608 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-10 16:34:56.608 - Executing: Захват области (Облегченный)
+2021-02-10 16:34:59.055 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-10 16:34:59.062 - Task status: Preparing
+2021-02-10 16:34:59.073 - Image copied to clipboard.
+2021-02-10 16:34:59.089 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\2PRqlx5uZU.png
+2021-02-10 16:34:59.092 - Task completed. Filename: 2PRqlx5uZU.png, Duration: 31 ms
+2021-02-10 17:42:43.355 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-10 17:42:43.356 - Executing: Захват области (Облегченный)
+2021-02-10 17:42:44.826 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-10 17:42:44.843 - Task status: Preparing
+2021-02-10 17:42:45.362 - Image copied to clipboard.
+2021-02-10 17:42:45.680 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\oZr9vjsDc2.jpg
+2021-02-10 17:42:45.711 - Task completed. Filename: oZr9vjsDc2.jpg, Duration: 869 ms
+2021-02-10 20:48:53.720 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-10 20:48:53.722 - Executing: Захват области (Облегченный)
+2021-02-10 20:48:56.753 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-10 20:48:56.774 - Task status: Preparing
+2021-02-10 20:48:56.812 - Image copied to clipboard.
+2021-02-10 20:48:56.829 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\4ReR8ODDZt.png
+2021-02-10 20:48:56.833 - Task completed. Filename: 4ReR8ODDZt.png, Duration: 60 ms
+2021-02-10 20:54:03.107 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-10 20:54:03.108 - Executing: Захват области (Облегченный)
+2021-02-10 20:54:05.770 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-10 20:54:05.777 - Task status: Preparing
+2021-02-10 20:54:05.804 - Image copied to clipboard.
+2021-02-10 20:54:05.816 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\WpMXVV3wDW.png
+2021-02-10 20:54:05.821 - Task completed. Filename: WpMXVV3wDW.png, Duration: 45 ms
+2021-02-10 21:36:21.285 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-10 21:36:21.286 - Executing: Захват области (Облегченный)
+2021-02-10 21:36:25.241 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-10 21:36:25.250 - Task status: Preparing
+2021-02-10 21:36:25.267 - Image copied to clipboard.
+2021-02-10 21:36:25.281 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\hfZuJYUCTY.png
+2021-02-10 21:36:25.285 - Task completed. Filename: hfZuJYUCTY.png, Duration: 36 ms
+2021-02-10 21:56:36.727 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-10 21:56:36.727 - Executing: Захват области (Облегченный)
+2021-02-10 21:56:39.165 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-10 21:56:39.178 - Task status: Preparing
+2021-02-10 21:56:39.191 - Image copied to clipboard.
+2021-02-10 21:56:39.209 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\Diw5M9BcHu.png
+2021-02-10 21:56:39.212 - Task completed. Filename: Diw5M9BcHu.png, Duration: 35 ms
+2021-02-10 22:01:39.990 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-10 22:01:39.990 - Executing: Захват области (Облегченный)
+2021-02-10 22:01:44.174 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-10 22:01:44.181 - Task status: Preparing
+2021-02-10 22:01:44.211 - Image copied to clipboard.
+2021-02-10 22:01:44.227 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\Kqmrqn3exB.png
+2021-02-10 22:01:44.233 - Task completed. Filename: Kqmrqn3exB.png, Duration: 53 ms
+2021-02-11 08:30:03.237 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-11 08:30:03.238 - Executing: Захват области (Облегченный)
+2021-02-11 08:30:05.721 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-11 08:30:05.736 - Task status: Preparing
+2021-02-11 08:30:05.748 - Image copied to clipboard.
+2021-02-11 08:30:05.778 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\UxtqnwZZtR.png
+2021-02-11 08:30:05.783 - Task completed. Filename: UxtqnwZZtR.png, Duration: 48 ms
+2021-02-11 08:30:24.834 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-11 08:30:24.834 - Executing: Захват области (Облегченный)
+2021-02-11 08:30:28.912 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-11 08:30:28.919 - Task status: Preparing
+2021-02-11 08:30:28.999 - Image copied to clipboard.
+2021-02-11 08:30:29.019 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\L84brQ8XtG.png
+2021-02-11 08:30:29.030 - Task completed. Filename: L84brQ8XtG.png, Duration: 112 ms
+2021-02-11 11:22:58.745 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-11 11:22:58.745 - Executing: Захват области (Облегченный)
+2021-02-11 11:23:01.773 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-11 11:23:01.785 - Task status: Preparing
+2021-02-11 11:23:01.799 - Image copied to clipboard.
+2021-02-11 11:23:01.817 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\iBWA2uKd9j.png
+2021-02-11 11:23:01.819 - Task completed. Filename: iBWA2uKd9j.png, Duration: 34 ms
+2021-02-11 11:23:02.785 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-11 11:23:02.785 - Executing: Захват области (Облегченный)
+2021-02-11 11:23:06.553 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-11 11:23:06.561 - Task status: Preparing
+2021-02-11 11:23:06.577 - Image copied to clipboard.
+2021-02-11 11:23:06.589 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\EONyYTm3Rv.png
+2021-02-11 11:23:06.595 - Task completed. Filename: EONyYTm3Rv.png, Duration: 35 ms
+2021-02-11 14:19:17.711 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-11 14:19:17.714 - Executing: Захват области (Облегченный)
+2021-02-11 14:19:20.639 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-11 14:19:20.660 - Task status: Preparing
+2021-02-11 14:19:20.749 - Image copied to clipboard.
+2021-02-11 14:19:20.791 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\Q2v0HZtlAH.png
+2021-02-11 14:19:20.802 - Task completed. Filename: Q2v0HZtlAH.png, Duration: 142 ms
+2021-02-11 14:22:47.337 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-11 14:22:47.337 - Executing: Захват области (Облегченный)
+2021-02-11 14:22:51.601 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-11 14:22:51.601 - Executing: Захват области (Облегченный)
+2021-02-11 14:22:56.216 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-11 14:22:56.243 - Task status: Preparing
+2021-02-11 14:22:56.330 - Image copied to clipboard.
+2021-02-11 14:22:56.380 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\ZtoLJGBQti.png
+2021-02-11 14:22:56.389 - Task completed. Filename: ZtoLJGBQti.png, Duration: 150 ms
+2021-02-11 20:10:04.415 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-11 20:10:04.420 - Executing: Захват области (Облегченный)
+2021-02-11 20:10:10.247 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-11 20:10:10.265 - Task status: Preparing
+2021-02-11 20:10:10.318 - Image copied to clipboard.
+2021-02-11 20:10:10.351 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\RF4Gh2QeDX.png
+2021-02-11 20:10:10.359 - Task completed. Filename: RF4Gh2QeDX.png, Duration: 94 ms
+2021-02-11 22:01:13.933 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-11 22:01:13.934 - Executing: Захват области (Облегченный)
+2021-02-11 22:01:15.710 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-11 22:01:15.743 - Task status: Preparing
+2021-02-11 22:01:15.787 - Image copied to clipboard.
+2021-02-11 22:01:15.827 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\LDpToWchpX.png
+2021-02-11 22:01:15.834 - Task completed. Filename: LDpToWchpX.png, Duration: 93 ms
+2021-02-11 22:15:17.381 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-11 22:15:17.381 - Executing: Захват области (Облегченный)
+2021-02-11 22:15:21.035 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-11 22:15:21.050 - Task status: Preparing
+2021-02-11 22:15:21.088 - Image copied to clipboard.
+2021-02-11 22:15:21.113 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\jvFBAw7Sci.png
+2021-02-11 22:15:21.117 - Task completed. Filename: jvFBAw7Sci.png, Duration: 69 ms
+2021-02-11 22:15:58.237 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-11 22:15:58.237 - Executing: Захват области (Облегченный)
+2021-02-11 22:16:01.259 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-11 22:16:01.277 - Task status: Preparing
+2021-02-11 22:16:01.311 - Image copied to clipboard.
+2021-02-11 22:16:01.327 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\xz429YikSx.png
+2021-02-11 22:16:01.332 - Task completed. Filename: xz429YikSx.png, Duration: 58 ms
+2021-02-11 22:19:03.277 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-11 22:19:03.277 - Executing: Захват области (Облегченный)
+2021-02-11 22:19:06.390 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-11 22:19:06.401 - Task status: Preparing
+2021-02-11 22:19:06.431 - Image copied to clipboard.
+2021-02-11 22:19:06.452 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\P8FVwpbnID.png
+2021-02-11 22:19:06.457 - Task completed. Filename: P8FVwpbnID.png, Duration: 57 ms
+2021-02-11 22:19:15.014 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-11 22:19:15.014 - Executing: Захват области (Облегченный)
+2021-02-11 22:19:17.341 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-11 22:19:17.349 - Task status: Preparing
+2021-02-11 22:19:17.384 - Image copied to clipboard.
+2021-02-11 22:19:17.404 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\jk0rrqxjx1.png
+2021-02-11 22:19:17.410 - Task completed. Filename: jk0rrqxjx1.png, Duration: 62 ms
+2021-02-11 22:19:25.421 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-11 22:19:25.421 - Executing: Захват области (Облегченный)
+2021-02-11 22:19:28.369 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-11 22:19:28.377 - Task status: Preparing
+2021-02-11 22:19:28.392 - Image copied to clipboard.
+2021-02-11 22:19:28.400 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\WkgoLmnxkL.png
+2021-02-11 22:19:28.406 - Task completed. Filename: WkgoLmnxkL.png, Duration: 29 ms
+2021-02-11 22:21:06.463 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-11 22:21:06.464 - Executing: Захват области (Облегченный)
+2021-02-11 22:21:10.464 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-11 22:21:10.470 - Task status: Preparing
+2021-02-11 22:21:10.631 - Image copied to clipboard.
+2021-02-11 22:21:10.699 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\2OqXqRb589.png
+2021-02-11 22:21:10.719 - Task completed. Filename: 2OqXqRb589.png, Duration: 248 ms
+2021-02-11 22:25:53.733 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-11 22:25:53.733 - Executing: Захват области (Облегченный)
+2021-02-11 22:25:56.206 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-11 22:25:56.224 - Task status: Preparing
+2021-02-11 22:25:56.241 - Image copied to clipboard.
+2021-02-11 22:25:56.252 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\emdFl79O7Z.png
+2021-02-11 22:25:56.258 - Task completed. Filename: emdFl79O7Z.png, Duration: 41 ms
+2021-02-11 22:29:46.278 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-11 22:29:46.278 - Executing: Захват области (Облегченный)
+2021-02-11 22:29:49.613 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-11 22:29:49.636 - Task status: Preparing
+2021-02-11 22:29:49.670 - Image copied to clipboard.
+2021-02-11 22:29:49.692 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\62j7vxotXi.png
+2021-02-11 22:29:49.699 - Task completed. Filename: 62j7vxotXi.png, Duration: 69 ms
+2021-02-11 22:38:29.221 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-11 22:38:29.221 - Executing: Захват области (Облегченный)
+2021-02-11 22:38:33.599 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-11 22:38:33.607 - Task status: Preparing
+2021-02-11 22:38:33.804 - Image copied to clipboard.
+2021-02-11 22:38:33.888 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\FhU0RcVpDJ.png
+2021-02-11 22:38:33.911 - Task completed. Filename: FhU0RcVpDJ.png, Duration: 305 ms
+2021-02-11 23:12:12.792 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-11 23:12:12.792 - Executing: Захват области (Облегченный)
+2021-02-11 23:12:15.652 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-11 23:12:15.662 - Task status: Preparing
+2021-02-11 23:12:15.694 - Image copied to clipboard.
+2021-02-11 23:12:15.713 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\OqZMzuvySV.png
+2021-02-11 23:12:15.720 - Task completed. Filename: OqZMzuvySV.png, Duration: 59 ms
+2021-02-11 23:14:42.047 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-11 23:14:42.047 - Executing: Захват области (Облегченный)
+2021-02-11 23:14:45.465 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-11 23:14:45.473 - Task status: Preparing
+2021-02-11 23:14:45.497 - Image copied to clipboard.
+2021-02-11 23:14:45.509 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\6NcxK06nj8.png
+2021-02-11 23:14:45.517 - Task completed. Filename: 6NcxK06nj8.png, Duration: 45 ms
+2021-02-12 15:34:23.103 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-12 15:34:23.105 - Executing: Захват области (Облегченный)
+2021-02-12 15:34:26.720 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-12 15:34:26.779 - Task status: Preparing
+2021-02-12 15:34:26.807 - Image copied to clipboard.
+2021-02-12 15:34:26.835 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\RvTYuTBgYX.png
+2021-02-12 15:34:26.838 - Task completed. Filename: RvTYuTBgYX.png, Duration: 59 ms
+2021-02-12 18:01:33.994 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-12 18:01:33.995 - Executing: Захват области (Облегченный)
+2021-02-12 18:01:36.402 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-12 18:01:36.445 - Task status: Preparing
+2021-02-12 18:01:36.513 - Image copied to clipboard.
+2021-02-12 18:01:36.529 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\6KqGUBprdO.png
+2021-02-12 18:01:36.538 - Task completed. Filename: 6KqGUBprdO.png, Duration: 95 ms
+2021-02-12 18:53:05.532 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-12 18:53:05.538 - Executing: Захват области (Облегченный)
+2021-02-12 18:53:08.583 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-12 18:53:08.695 - Task status: Preparing
+2021-02-12 18:53:08.736 - Image copied to clipboard.
+2021-02-12 18:53:08.768 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\tsNf74WNzl.png
+2021-02-12 18:53:08.774 - Task completed. Filename: tsNf74WNzl.png, Duration: 83 ms
+2021-02-12 20:42:12.288 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-12 20:42:12.289 - Executing: Захват области (Облегченный)
+2021-02-12 20:42:14.806 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-12 20:42:14.818 - Task status: Preparing
+2021-02-12 20:42:14.850 - Image copied to clipboard.
+2021-02-12 20:42:14.869 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\HPzCSS7VP1.png
+2021-02-12 20:42:14.879 - Task completed. Filename: HPzCSS7VP1.png, Duration: 61 ms
+2021-02-12 20:57:50.493 - ApplicationConfig save started: C:\Users\}repeat\Documents\ShareX\ApplicationConfig.json
+2021-02-12 20:57:50.494 - UploadersConfig save started: C:\Users\}repeat\Documents\ShareX\UploadersConfig.json
+2021-02-12 20:57:50.496 - HotkeysConfig save started: C:\Users\}repeat\Documents\ShareX\HotkeysConfig.json
+2021-02-12 20:57:50.665 - UploadersConfig save successful: C:\Users\}repeat\Documents\ShareX\UploadersConfig.json
+2021-02-12 20:57:50.759 - HotkeysConfig save successful: C:\Users\}repeat\Documents\ShareX\HotkeysConfig.json
+2021-02-12 20:57:50.791 - ApplicationConfig save successful: C:\Users\}repeat\Documents\ShareX\ApplicationConfig.json
+2021-02-12 21:16:07.946 - ShareX starting.
+2021-02-12 21:16:07.951 - Version: 13.4
+2021-02-12 21:16:07.951 - Build: Release
+2021-02-12 21:16:07.951 - Command line: "C:\Program Files\ShareX\ShareX.exe" -silent
+2021-02-12 21:16:07.951 - Personal path: C:\Users\}repeat\Documents\ShareX
+2021-02-12 21:16:07.952 - Operating system: Windows 10 Pro (64-bit)
+2021-02-12 21:16:07.952 - Running as elevated process: True
+2021-02-12 21:16:07.962 - Flags: SilentRun
+2021-02-12 21:16:07.983 - ApplicationConfig load started: C:\Users\}repeat\Documents\ShareX\ApplicationConfig.json
+2021-02-12 21:16:09.061 - ApplicationConfig load finished: C:\Users\}repeat\Documents\ShareX\ApplicationConfig.json
+2021-02-12 21:16:09.066 - UploadersConfig load started: C:\Users\}repeat\Documents\ShareX\UploadersConfig.json
+2021-02-12 21:16:09.083 - Language changed to: Русский (Россия)
+2021-02-12 21:16:09.085 - MainForm init started.
+2021-02-12 21:16:09.280 - UploadersConfig load finished: C:\Users\}repeat\Documents\ShareX\UploadersConfig.json
+2021-02-12 21:16:09.285 - HotkeysConfig load started: C:\Users\}repeat\Documents\ShareX\HotkeysConfig.json
+2021-02-12 21:16:09.497 - HotkeysConfig load finished: C:\Users\}repeat\Documents\ShareX\HotkeysConfig.json
+2021-02-12 21:16:10.479 - MainForm init finished.
+2021-02-12 21:16:11.007 - Startup time: 3247 ms
+2021-02-12 21:16:11.009 - CommandLine: -silent
+2021-02-12 21:16:11.037 - Hotkey registered: Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-12 21:16:11.037 - Hotkey registered: Hotkey: Ctrl + Print Screen, Description: Захват всего экрана, Job: PrintScreen
+2021-02-12 21:16:11.037 - Hotkey registered: Hotkey: Alt + Print Screen, Description: Захват активного окна, Job: ActiveWindow
+2021-02-12 21:16:11.037 - Hotkey registered: Hotkey: Shift + Print Screen, Description: Начать/Остановить запись области экрана, Job: ScreenRecorder
+2021-02-12 21:16:11.037 - Hotkey registered: Hotkey: Ctrl + Shift + Print Screen, Description: Начать/Остановить запись области экрана (GIF), Job: ScreenRecorderGIF
+2021-02-12 21:16:11.037 - Hotkey registered: Hotkey: Ctrl + Alt + Print Screen, Description: Захват области, Job: RectangleRegion
+2021-02-12 21:16:11.039 - HotkeyManager started.
+2021-02-12 21:16:11.040 - WatchFolderManager started.
+2021-02-12 21:51:16.721 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-12 21:51:16.726 - Executing: Захват области (Облегченный)
+2021-02-12 21:51:21.192 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-12 21:51:21.229 - Task status: Preparing
+2021-02-12 21:51:21.449 - Image copied to clipboard.
+2021-02-12 21:51:21.544 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\g8EiMip3UU.png
+2021-02-12 21:51:21.570 - Task completed. Filename: g8EiMip3UU.png, Duration: 338 ms
+2021-02-12 21:52:22.796 - Executing: Открыть главное окно
+2021-02-12 21:52:24.011 - Exception:
+System.ArgumentException: Дескриптор Win32, переданный Icon, является недопустимым либо неверного типа.
+   в System.Drawing.Icon..ctor(IntPtr handle, Boolean takeOwnership)
+   в System.Drawing.Icon.FromHandle(IntPtr handle)
+   в ShareX.HelpersLib.NativeMethods.GetFileIcon(String filePath, Boolean isSmallIcon)
+   в ShareX.HelpersLib.ImageFilesCache.GetFileIconAsImage(String filePath, Boolean isSmallIcon)
+   в ShareX.MainForm.UpdateActionsMenu(String filePath)
+2021-02-12 21:55:31.166 - ApplicationConfig save started: C:\Users\}repeat\Documents\ShareX\ApplicationConfig.json
+2021-02-12 21:55:31.168 - UploadersConfig save started: C:\Users\}repeat\Documents\ShareX\UploadersConfig.json
+2021-02-12 21:55:31.169 - HotkeysConfig save started: C:\Users\}repeat\Documents\ShareX\HotkeysConfig.json
+2021-02-12 21:55:31.273 - UploadersConfig save successful: C:\Users\}repeat\Documents\ShareX\UploadersConfig.json
+2021-02-12 21:55:31.325 - HotkeysConfig save successful: C:\Users\}repeat\Documents\ShareX\HotkeysConfig.json
+2021-02-12 21:55:31.346 - ApplicationConfig save successful: C:\Users\}repeat\Documents\ShareX\ApplicationConfig.json
+2021-02-13 01:02:07.743 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-13 01:02:07.743 - Executing: Захват области (Облегченный)
+2021-02-13 01:02:13.650 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-13 01:02:13.687 - Task status: Preparing
+2021-02-13 01:02:13.764 - Image copied to clipboard.
+2021-02-13 01:02:13.790 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\qSCL7dPkwV.png
+2021-02-13 01:02:13.805 - Task completed. Filename: qSCL7dPkwV.png, Duration: 122 ms
+2021-02-13 13:48:34.001 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-13 13:48:34.001 - Executing: Захват области (Облегченный)
+2021-02-13 13:48:39.818 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-13 13:48:39.838 - Task status: Preparing
+2021-02-13 13:48:39.881 - Image copied to clipboard.
+2021-02-13 13:48:39.897 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\w7BB79Sn3R.png
+2021-02-13 13:48:39.903 - Task completed. Filename: w7BB79Sn3R.png, Duration: 66 ms
+2021-02-13 14:22:32.820 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-13 14:22:32.820 - Executing: Захват области (Облегченный)
+2021-02-13 14:22:36.790 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-13 14:22:36.816 - Task status: Preparing
+2021-02-13 14:22:36.826 - Image copied to clipboard.
+2021-02-13 14:22:36.840 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\4OIh2cNSby.png
+2021-02-13 14:22:36.842 - Task completed. Filename: 4OIh2cNSby.png, Duration: 28 ms
+2021-02-13 15:03:14.496 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-13 15:03:14.496 - Executing: Захват области (Облегченный)
+2021-02-13 15:03:15.542 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-13 15:03:15.574 - Task status: Preparing
+2021-02-13 15:03:15.835 - Image copied to clipboard.
+2021-02-13 15:03:15.885 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\foJ3dpzFfI.png
+2021-02-13 15:03:15.908 - Task completed. Filename: foJ3dpzFfI.png, Duration: 333 ms
+2021-02-13 19:14:30.739 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-13 19:14:30.740 - Executing: Захват области (Облегченный)
+2021-02-13 19:14:33.616 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-13 19:14:33.648 - Task status: Preparing
+2021-02-13 19:14:33.678 - Image copied to clipboard.
+2021-02-13 19:14:33.689 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\3gpG1MiytB.png
+2021-02-13 19:14:33.693 - Task completed. Filename: 3gpG1MiytB.png, Duration: 46 ms
+2021-02-14 11:34:27.078 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-14 11:34:27.079 - Executing: Захват области (Облегченный)
+2021-02-14 11:34:29.386 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-14 11:34:29.434 - Task status: Preparing
+2021-02-14 11:34:29.470 - Image copied to clipboard.
+2021-02-14 11:34:29.487 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\Kkse5NjS48.png
+2021-02-14 11:34:29.494 - Task completed. Filename: Kkse5NjS48.png, Duration: 60 ms
+2021-02-14 13:08:11.948 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-14 13:08:11.949 - Executing: Захват области (Облегченный)
+2021-02-14 13:08:14.807 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-14 13:08:14.844 - Task status: Preparing
+2021-02-14 13:08:14.932 - Image copied to clipboard.
+2021-02-14 13:08:14.954 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\K4vVmeKAlh.png
+2021-02-14 13:08:14.963 - Task completed. Filename: K4vVmeKAlh.png, Duration: 122 ms
+2021-02-14 22:25:22.574 - ShareX closing.
+2021-02-14 22:25:22.617 - ApplicationConfig save started: C:\Users\}repeat\Documents\ShareX\ApplicationConfig.json
+2021-02-14 22:25:22.904 - ApplicationConfig save successful: C:\Users\}repeat\Documents\ShareX\ApplicationConfig.json
+2021-02-14 22:25:22.914 - UploadersConfig save started: C:\Users\}repeat\Documents\ShareX\UploadersConfig.json
+2021-02-14 22:25:23.016 - UploadersConfig save successful: C:\Users\}repeat\Documents\ShareX\UploadersConfig.json
+2021-02-14 22:25:23.027 - HotkeysConfig save started: C:\Users\}repeat\Documents\ShareX\HotkeysConfig.json
+2021-02-14 22:25:23.162 - HotkeysConfig save successful: C:\Users\}repeat\Documents\ShareX\HotkeysConfig.json
+2021-02-14 22:25:23.169 - ShareX closed.
+2021-02-14 22:26:43.942 - ShareX starting.
+2021-02-14 22:26:43.950 - Version: 13.4
+2021-02-14 22:26:43.950 - Build: Release
+2021-02-14 22:26:43.950 - Command line: "C:\Program Files\ShareX\ShareX.exe" -silent
+2021-02-14 22:26:43.950 - Personal path: C:\Users\}repeat\Documents\ShareX
+2021-02-14 22:26:43.951 - Operating system: Windows 10 Pro (64-bit)
+2021-02-14 22:26:43.951 - Running as elevated process: True
+2021-02-14 22:26:43.959 - Flags: SilentRun
+2021-02-14 22:26:43.988 - ApplicationConfig load started: C:\Users\}repeat\Documents\ShareX\ApplicationConfig.json
+2021-02-14 22:26:44.845 - ApplicationConfig load finished: C:\Users\}repeat\Documents\ShareX\ApplicationConfig.json
+2021-02-14 22:26:44.860 - UploadersConfig load started: C:\Users\}repeat\Documents\ShareX\UploadersConfig.json
+2021-02-14 22:26:44.873 - Language changed to: Русский (Россия)
+2021-02-14 22:26:44.877 - MainForm init started.
+2021-02-14 22:26:45.019 - UploadersConfig load finished: C:\Users\}repeat\Documents\ShareX\UploadersConfig.json
+2021-02-14 22:26:45.028 - HotkeysConfig load started: C:\Users\}repeat\Documents\ShareX\HotkeysConfig.json
+2021-02-14 22:26:45.179 - HotkeysConfig load finished: C:\Users\}repeat\Documents\ShareX\HotkeysConfig.json
+2021-02-14 22:26:45.628 - MainForm init finished.
+2021-02-14 22:26:46.125 - Startup time: 2322 ms
+2021-02-14 22:26:46.127 - CommandLine: -silent
+2021-02-14 22:26:46.142 - Hotkey registered: Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-14 22:26:46.142 - Hotkey registered: Hotkey: Ctrl + Print Screen, Description: Захват всего экрана, Job: PrintScreen
+2021-02-14 22:26:46.142 - Hotkey registered: Hotkey: Alt + Print Screen, Description: Захват активного окна, Job: ActiveWindow
+2021-02-14 22:26:46.142 - Hotkey registered: Hotkey: Shift + Print Screen, Description: Начать/Остановить запись области экрана, Job: ScreenRecorder
+2021-02-14 22:26:46.143 - Hotkey registered: Hotkey: Ctrl + Shift + Print Screen, Description: Начать/Остановить запись области экрана (GIF), Job: ScreenRecorderGIF
+2021-02-14 22:26:46.143 - Hotkey registered: Hotkey: Ctrl + Alt + Print Screen, Description: Захват области, Job: RectangleRegion
+2021-02-14 22:26:46.144 - HotkeyManager started.
+2021-02-14 22:26:46.145 - WatchFolderManager started.
+2021-02-14 23:57:24.911 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-14 23:57:24.915 - Executing: Захват области (Облегченный)
+2021-02-14 23:57:28.261 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-14 23:57:28.290 - Task status: Preparing
+2021-02-14 23:57:28.328 - Image copied to clipboard.
+2021-02-14 23:57:28.342 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\q6EkkVqdkv.png
+2021-02-14 23:57:28.351 - Task completed. Filename: q6EkkVqdkv.png, Duration: 58 ms
+2021-02-15 17:24:11.084 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-15 17:24:11.084 - Executing: Захват области (Облегченный)
+2021-02-15 17:24:14.128 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-15 17:24:14.146 - Task status: Preparing
+2021-02-15 17:24:14.197 - Image copied to clipboard.
+2021-02-15 17:24:14.217 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\AgRZYo7ARV.png
+2021-02-15 17:24:14.224 - Task completed. Filename: AgRZYo7ARV.png, Duration: 79 ms
+2021-02-15 19:55:52.151 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-15 19:55:52.152 - Executing: Захват области (Облегченный)
+2021-02-15 19:55:56.033 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-15 19:55:56.048 - Task status: Preparing
+2021-02-15 19:55:56.066 - Image copied to clipboard.
+2021-02-15 19:55:56.081 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\tJEZPCxuqY.png
+2021-02-15 19:55:56.084 - Task completed. Filename: tJEZPCxuqY.png, Duration: 38 ms
+2021-02-16 00:54:24.781 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-16 00:54:24.782 - Executing: Захват области (Облегченный)
+2021-02-16 00:54:32.129 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-16 00:54:32.138 - Task status: Preparing
+2021-02-16 00:54:32.179 - Image copied to clipboard.
+2021-02-16 00:54:32.196 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\Y7CYSDx0iy.png
+2021-02-16 00:54:32.203 - Task completed. Filename: Y7CYSDx0iy.png, Duration: 65 ms
+2021-02-16 00:59:01.465 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-16 00:59:01.465 - Executing: Захват области (Облегченный)
+2021-02-16 00:59:04.119 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-16 00:59:04.128 - Task status: Preparing
+2021-02-16 00:59:04.143 - Image copied to clipboard.
+2021-02-16 00:59:04.151 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\buctVynpJk.png
+2021-02-16 00:59:04.155 - Task completed. Filename: buctVynpJk.png, Duration: 29 ms
+2021-02-16 01:03:14.017 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-16 01:03:14.017 - Executing: Захват области (Облегченный)
+2021-02-16 01:03:17.304 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-16 01:03:17.311 - Task status: Preparing
+2021-02-16 01:03:17.388 - Image copied to clipboard.
+2021-02-16 01:03:17.414 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\F8Ul2C6Le2.png
+2021-02-16 01:03:17.429 - Task completed. Filename: F8Ul2C6Le2.png, Duration: 119 ms
+2021-02-16 14:56:51.944 - Executing: Открыть главное окно
+2021-02-16 14:58:30.541 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-16 14:58:30.541 - Executing: Захват области (Облегченный)
+2021-02-16 14:58:32.591 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-16 14:58:32.706 - Task status: Preparing
+2021-02-16 14:58:32.770 - Image copied to clipboard.
+2021-02-16 14:58:32.791 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\a0MDXzRisw.png
+2021-02-16 14:58:32.849 - Task completed. Filename: a0MDXzRisw.png, Duration: 142 ms
+2021-02-16 15:00:06.850 - HotkeysConfig save started: C:\Users\}repeat\Documents\ShareX\HotkeysConfig.json
+2021-02-16 15:00:07.053 - HotkeysConfig save successful: C:\Users\}repeat\Documents\ShareX\HotkeysConfig.json
+2021-02-16 15:01:38.291 - Exception:
+System.ArgumentException: Дескриптор Win32, переданный Icon, является недопустимым либо неверного типа.
+   в System.Drawing.Icon..ctor(IntPtr handle, Boolean takeOwnership)
+   в System.Drawing.Icon.FromHandle(IntPtr handle)
+   в ShareX.HelpersLib.NativeMethods.GetFileIcon(String filePath, Boolean isSmallIcon)
+   в ShareX.HelpersLib.ImageFilesCache.GetFileIconAsImage(String filePath, Boolean isSmallIcon)
+   в ShareX.MainForm.UpdateActionsMenu(String filePath)
+2021-02-16 15:01:46.107 - Exception:
+System.ArgumentException: Дескриптор Win32, переданный Icon, является недопустимым либо неверного типа.
+   в System.Drawing.Icon..ctor(IntPtr handle, Boolean takeOwnership)
+   в System.Drawing.Icon.FromHandle(IntPtr handle)
+   в ShareX.HelpersLib.NativeMethods.GetFileIcon(String filePath, Boolean isSmallIcon)
+   в ShareX.HelpersLib.ImageFilesCache.GetFileIconAsImage(String filePath, Boolean isSmallIcon)
+   в ShareX.MainForm.UpdateActionsMenu(String filePath)
+2021-02-16 15:01:47.872 - Exception:
+System.ArgumentException: Дескриптор Win32, переданный Icon, является недопустимым либо неверного типа.
+   в System.Drawing.Icon..ctor(IntPtr handle, Boolean takeOwnership)
+   в System.Drawing.Icon.FromHandle(IntPtr handle)
+   в ShareX.HelpersLib.NativeMethods.GetFileIcon(String filePath, Boolean isSmallIcon)
+   в ShareX.HelpersLib.ImageFilesCache.GetFileIconAsImage(String filePath, Boolean isSmallIcon)
+   в ShareX.MainForm.UpdateActionsMenu(String filePath)
+2021-02-16 15:01:49.692 - Exception:
+System.ArgumentException: Дескриптор Win32, переданный Icon, является недопустимым либо неверного типа.
+   в System.Drawing.Icon..ctor(IntPtr handle, Boolean takeOwnership)
+   в System.Drawing.Icon.FromHandle(IntPtr handle)
+   в ShareX.HelpersLib.NativeMethods.GetFileIcon(String filePath, Boolean isSmallIcon)
+   в ShareX.HelpersLib.ImageFilesCache.GetFileIconAsImage(String filePath, Boolean isSmallIcon)
+   в ShareX.MainForm.UpdateActionsMenu(String filePath)
+2021-02-16 15:01:57.509 - Exception:
+System.ArgumentException: Дескриптор Win32, переданный Icon, является недопустимым либо неверного типа.
+   в System.Drawing.Icon..ctor(IntPtr handle, Boolean takeOwnership)
+   в System.Drawing.Icon.FromHandle(IntPtr handle)
+   в ShareX.HelpersLib.NativeMethods.GetFileIcon(String filePath, Boolean isSmallIcon)
+   в ShareX.HelpersLib.ImageFilesCache.GetFileIconAsImage(String filePath, Boolean isSmallIcon)
+   в ShareX.MainForm.UpdateActionsMenu(String filePath)
+2021-02-16 15:01:59.837 - Exception:
+System.ArgumentException: Дескриптор Win32, переданный Icon, является недопустимым либо неверного типа.
+   в System.Drawing.Icon..ctor(IntPtr handle, Boolean takeOwnership)
+   в System.Drawing.Icon.FromHandle(IntPtr handle)
+   в ShareX.HelpersLib.NativeMethods.GetFileIcon(String filePath, Boolean isSmallIcon)
+   в ShareX.HelpersLib.ImageFilesCache.GetFileIconAsImage(String filePath, Boolean isSmallIcon)
+   в ShareX.MainForm.UpdateActionsMenu(String filePath)
+2021-02-16 15:02:07.497 - Exception:
+System.ArgumentException: Дескриптор Win32, переданный Icon, является недопустимым либо неверного типа.
+   в System.Drawing.Icon..ctor(IntPtr handle, Boolean takeOwnership)
+   в System.Drawing.Icon.FromHandle(IntPtr handle)
+   в ShareX.HelpersLib.NativeMethods.GetFileIcon(String filePath, Boolean isSmallIcon)
+   в ShareX.HelpersLib.ImageFilesCache.GetFileIconAsImage(String filePath, Boolean isSmallIcon)
+   в ShareX.MainForm.UpdateActionsMenu(String filePath)
+2021-02-16 15:02:11.358 - Folder opened with file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\F8Ul2C6Le2.png
+2021-02-16 15:03:16.114 - Executing: Захват области
+2021-02-16 15:03:48.284 - ApplicationConfig save started: C:\Users\}repeat\Documents\ShareX\ApplicationConfig.json
+2021-02-16 15:03:48.423 - ApplicationConfig save successful: C:\Users\}repeat\Documents\ShareX\ApplicationConfig.json
+2021-02-16 15:04:22.007 - ApplicationConfig save started: C:\Users\}repeat\Documents\ShareX\ApplicationConfig.json
+2021-02-16 15:04:22.134 - ApplicationConfig save successful: C:\Users\}repeat\Documents\ShareX\ApplicationConfig.json
+2021-02-16 15:04:23.237 - ApplicationConfig save started: C:\Users\}repeat\Documents\ShareX\ApplicationConfig.json
+2021-02-16 15:04:23.238 - UploadersConfig save started: C:\Users\}repeat\Documents\ShareX\UploadersConfig.json
+2021-02-16 15:04:23.238 - HotkeysConfig save started: C:\Users\}repeat\Documents\ShareX\HotkeysConfig.json
+2021-02-16 15:04:23.434 - UploadersConfig save successful: C:\Users\}repeat\Documents\ShareX\UploadersConfig.json
+2021-02-16 15:04:23.442 - HotkeysConfig save successful: C:\Users\}repeat\Documents\ShareX\HotkeysConfig.json
+2021-02-16 15:04:23.472 - ApplicationConfig save successful: C:\Users\}repeat\Documents\ShareX\ApplicationConfig.json
+2021-02-16 22:12:23.046 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-16 22:12:23.048 - Executing: Захват области (Облегченный)
+2021-02-16 22:12:24.977 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-16 22:12:25.006 - Task status: Preparing
+2021-02-16 22:12:25.023 - Image copied to clipboard.
+2021-02-16 22:12:25.044 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\6aBLEvWytY.png
+2021-02-16 22:12:25.048 - Task completed. Filename: 6aBLEvWytY.png, Duration: 43 ms
+2021-02-16 22:15:18.060 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-16 22:15:18.060 - Executing: Захват области (Облегченный)
+2021-02-16 22:15:21.388 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-16 22:15:21.418 - Task status: Preparing
+2021-02-16 22:15:21.433 - Image copied to clipboard.
+2021-02-16 22:15:21.443 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\cobs3Et1gA.png
+2021-02-16 22:15:21.446 - Task completed. Filename: cobs3Et1gA.png, Duration: 29 ms
+2021-02-16 22:15:58.332 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-16 22:15:58.332 - Executing: Захват области (Облегченный)
+2021-02-16 22:20:53.140 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-16 22:20:53.140 - Executing: Захват области (Облегченный)
+2021-02-16 22:20:56.195 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-16 22:20:56.222 - Task status: Preparing
+2021-02-16 22:20:56.231 - Image copied to clipboard.
+2021-02-16 22:20:56.243 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\85rWL5BerR.png
+2021-02-16 22:20:56.245 - Task completed. Filename: 85rWL5BerR.png, Duration: 24 ms
+2021-02-16 23:37:18.845 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-16 23:37:18.846 - Executing: Захват области (Облегченный)
+2021-02-16 23:37:25.779 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-16 23:37:25.806 - Task status: Preparing
+2021-02-16 23:37:25.819 - Image copied to clipboard.
+2021-02-16 23:37:25.834 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\RyC5ya3Adb.png
+2021-02-16 23:37:25.837 - Task completed. Filename: RyC5ya3Adb.png, Duration: 32 ms
+2021-02-17 13:58:46.403 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-17 13:58:46.403 - Executing: Захват области (Облегченный)
+2021-02-17 13:58:50.079 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-17 13:58:50.106 - Task status: Preparing
+2021-02-17 13:58:50.123 - Image copied to clipboard.
+2021-02-17 13:58:50.136 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\lXTlGXJ33M.png
+2021-02-17 13:58:50.139 - Task completed. Filename: lXTlGXJ33M.png, Duration: 33 ms
+2021-02-17 17:44:23.764 - ShareX closing.
+2021-02-17 17:44:23.790 - ApplicationConfig save started: C:\Users\}repeat\Documents\ShareX\ApplicationConfig.json
+2021-02-17 17:44:24.025 - ApplicationConfig save successful: C:\Users\}repeat\Documents\ShareX\ApplicationConfig.json
+2021-02-17 17:44:24.034 - UploadersConfig save started: C:\Users\}repeat\Documents\ShareX\UploadersConfig.json
+2021-02-17 17:44:24.109 - UploadersConfig save successful: C:\Users\}repeat\Documents\ShareX\UploadersConfig.json
+2021-02-17 17:44:24.117 - HotkeysConfig save started: C:\Users\}repeat\Documents\ShareX\HotkeysConfig.json
+2021-02-17 17:44:24.242 - HotkeysConfig save successful: C:\Users\}repeat\Documents\ShareX\HotkeysConfig.json
+2021-02-17 17:44:24.253 - ShareX closed.
+2021-02-17 17:45:33.500 - ShareX starting.
+2021-02-17 17:45:33.506 - Version: 13.4
+2021-02-17 17:45:33.506 - Build: Release
+2021-02-17 17:45:33.506 - Command line: "C:\Program Files\ShareX\ShareX.exe" -silent
+2021-02-17 17:45:33.506 - Personal path: C:\Users\}repeat\Documents\ShareX
+2021-02-17 17:45:33.507 - Operating system: Windows 10 Pro (64-bit)
+2021-02-17 17:45:33.507 - Running as elevated process: True
+2021-02-17 17:45:33.517 - Flags: SilentRun
+2021-02-17 17:45:33.538 - ApplicationConfig load started: C:\Users\}repeat\Documents\ShareX\ApplicationConfig.json
+2021-02-17 17:45:37.848 - ApplicationConfig load finished: C:\Users\}repeat\Documents\ShareX\ApplicationConfig.json
+2021-02-17 17:45:37.858 - UploadersConfig load started: C:\Users\}repeat\Documents\ShareX\UploadersConfig.json
+2021-02-17 17:45:37.864 - Language changed to: Русский (Россия)
+2021-02-17 17:45:37.867 - MainForm init started.
+2021-02-17 17:45:38.010 - UploadersConfig load finished: C:\Users\}repeat\Documents\ShareX\UploadersConfig.json
+2021-02-17 17:45:38.018 - HotkeysConfig load started: C:\Users\}repeat\Documents\ShareX\HotkeysConfig.json
+2021-02-17 17:45:38.157 - HotkeysConfig load finished: C:\Users\}repeat\Documents\ShareX\HotkeysConfig.json
+2021-02-17 17:45:38.433 - MainForm init finished.
+2021-02-17 17:45:38.759 - Startup time: 5362 ms
+2021-02-17 17:45:38.762 - CommandLine: -silent
+2021-02-17 17:45:38.777 - Hotkey registered: Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-17 17:45:38.777 - Hotkey registered: Hotkey: Ctrl + Print Screen, Description: Захват всего экрана, Job: PrintScreen
+2021-02-17 17:45:38.777 - Hotkey registered: Hotkey: Alt + Print Screen, Description: Захват активного окна, Job: ActiveWindow
+2021-02-17 17:45:38.777 - Hotkey registered: Hotkey: Shift + Print Screen, Description: Начать/Остановить запись области экрана, Job: ScreenRecorder
+2021-02-17 17:45:38.777 - Hotkey registered: Hotkey: Ctrl + Shift + Print Screen, Description: Начать/Остановить запись области экрана (GIF), Job: ScreenRecorderGIF
+2021-02-17 17:45:38.777 - Hotkey registered: Hotkey: Ctrl + Alt + Print Screen, Description: Захват области, Job: RectangleRegion
+2021-02-17 17:45:38.779 - HotkeyManager started.
+2021-02-17 17:45:38.780 - WatchFolderManager started.
+2021-02-17 18:31:13.663 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-17 18:31:13.667 - Executing: Захват области (Облегченный)
+2021-02-17 18:31:16.974 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-17 18:31:17.012 - Task status: Preparing
+2021-02-17 18:31:17.074 - Image copied to clipboard.
+2021-02-17 18:31:17.095 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\KEr0Ss66sA.png
+2021-02-17 18:31:17.108 - Task completed. Filename: KEr0Ss66sA.png, Duration: 94 ms
+2021-02-17 20:35:57.837 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-17 20:35:57.837 - Executing: Захват области (Облегченный)
+2021-02-17 20:36:00.242 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-17 20:36:00.269 - Task status: Preparing
+2021-02-17 20:36:00.287 - Image copied to clipboard.
+2021-02-17 20:36:00.301 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\cTMHWaPVNt.png
+2021-02-17 20:36:00.306 - Task completed. Filename: cTMHWaPVNt.png, Duration: 39 ms
+2021-02-17 20:44:22.316 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-17 20:44:22.316 - Executing: Захват области (Облегченный)
+2021-02-17 20:44:26.207 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-17 20:44:26.214 - Task status: Preparing
+2021-02-17 20:44:26.227 - Image copied to clipboard.
+2021-02-17 20:44:26.237 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\6Kwjck686V.png
+2021-02-17 20:44:26.239 - Task completed. Filename: 6Kwjck686V.png, Duration: 26 ms
+2021-02-17 20:49:46.508 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-17 20:49:46.508 - Executing: Захват области (Облегченный)
+2021-02-17 20:49:49.800 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-17 20:49:49.816 - Task status: Preparing
+2021-02-17 20:49:49.835 - Image copied to clipboard.
+2021-02-17 20:49:49.849 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\CAriOP9a6U.png
+2021-02-17 20:49:49.853 - Task completed. Filename: CAriOP9a6U.png, Duration: 39 ms
+2021-02-17 20:58:23.340 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-17 20:58:23.341 - Executing: Захват области (Облегченный)
+2021-02-17 20:58:25.265 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-17 20:58:25.275 - Task status: Preparing
+2021-02-17 20:58:25.332 - Image copied to clipboard.
+2021-02-17 20:58:25.354 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\C4iFGQbJOr.png
+2021-02-17 20:58:25.361 - Task completed. Filename: C4iFGQbJOr.png, Duration: 89 ms
+2021-02-17 20:59:23.204 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-17 20:59:23.204 - Executing: Захват области (Облегченный)
+2021-02-17 20:59:24.924 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-17 20:59:24.941 - Task status: Preparing
+2021-02-17 20:59:24.945 - Image copied to clipboard.
+2021-02-17 20:59:24.951 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\31baeQOhEr.png
+2021-02-17 20:59:24.952 - Task completed. Filename: 31baeQOhEr.png, Duration: 14 ms
+2021-02-17 21:01:18.580 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-17 21:01:18.580 - Executing: Захват области (Облегченный)
+2021-02-17 21:01:22.047 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-17 21:01:22.054 - Task status: Preparing
+2021-02-17 21:01:22.074 - Image copied to clipboard.
+2021-02-17 21:01:22.085 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\5KTUS9Hemj.png
+2021-02-17 21:01:22.090 - Task completed. Filename: 5KTUS9Hemj.png, Duration: 38 ms
+2021-02-17 21:54:19.788 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-17 21:54:19.788 - Executing: Захват области (Облегченный)
+2021-02-17 21:54:22.657 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-17 21:54:22.670 - Task status: Preparing
+2021-02-17 21:54:22.730 - Image copied to clipboard.
+2021-02-17 21:54:22.755 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\FCAhwTueg1.png
+2021-02-17 21:54:22.760 - Task completed. Filename: FCAhwTueg1.png, Duration: 94 ms
+2021-02-17 22:07:13.020 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-17 22:07:13.020 - Executing: Захват области (Облегченный)
+2021-02-17 22:07:16.690 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-17 22:07:16.696 - Task status: Preparing
+2021-02-17 22:07:16.721 - Image copied to clipboard.
+2021-02-17 22:07:16.737 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\yBgYhOpyVw.png
+2021-02-17 22:07:16.740 - Task completed. Filename: yBgYhOpyVw.png, Duration: 45 ms
+2021-02-18 15:22:24.468 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-18 15:22:24.468 - Executing: Захват области (Облегченный)
+2021-02-18 15:22:26.527 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-18 15:22:26.538 - Task status: Preparing
+2021-02-18 15:22:26.546 - Image copied to clipboard.
+2021-02-18 15:22:26.559 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\ILYx23KgQa.png
+2021-02-18 15:22:26.562 - Task completed. Filename: ILYx23KgQa.png, Duration: 26 ms
+2021-02-18 15:24:04.788 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-18 15:24:04.788 - Executing: Захват области (Облегченный)
+2021-02-18 15:24:08.241 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-18 15:24:08.250 - Task status: Preparing
+2021-02-18 15:24:08.272 - Image copied to clipboard.
+2021-02-18 15:24:08.282 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\GOChuXhgKZ.png
+2021-02-18 15:24:08.286 - Task completed. Filename: GOChuXhgKZ.png, Duration: 37 ms
+2021-02-18 16:49:41.565 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-18 16:49:41.565 - Executing: Захват области (Облегченный)
+2021-02-18 16:49:49.289 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-18 16:49:49.301 - Task status: Preparing
+2021-02-18 16:49:49.347 - Image copied to clipboard.
+2021-02-18 16:49:49.362 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\X6KpWYzEo4.png
+2021-02-18 16:49:49.369 - Task completed. Filename: X6KpWYzEo4.png, Duration: 69 ms
+2021-02-18 18:17:04.923 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-18 18:17:04.923 - Executing: Захват области (Облегченный)
+2021-02-18 18:17:09.494 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-18 18:17:09.508 - Task status: Preparing
+2021-02-18 18:17:09.528 - Image copied to clipboard.
+2021-02-18 18:17:09.550 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\MxVJKj6E2K.png
+2021-02-18 18:17:09.553 - Task completed. Filename: MxVJKj6E2K.png, Duration: 46 ms
+2021-02-18 18:40:11.075 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-18 18:40:11.076 - Executing: Захват области (Облегченный)
+2021-02-18 18:40:14.892 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-18 18:40:14.897 - Task status: Preparing
+2021-02-18 18:40:14.908 - Image copied to clipboard.
+2021-02-18 18:40:14.939 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\hUba23TAG8.png
+2021-02-18 18:40:14.942 - Task completed. Filename: hUba23TAG8.png, Duration: 46 ms
+2021-02-18 19:12:59.924 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-18 19:12:59.924 - Executing: Захват области (Облегченный)
+2021-02-18 19:13:04.113 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-18 19:13:04.117 - Task status: Preparing
+2021-02-18 19:13:04.128 - Image copied to clipboard.
+2021-02-18 19:13:04.139 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\qKdKCNqhpD.png
+2021-02-18 19:13:04.140 - Task completed. Filename: qKdKCNqhpD.png, Duration: 23 ms
+2021-02-19 20:18:03.416 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-19 20:18:03.416 - Executing: Захват области (Облегченный)
+2021-02-19 20:18:07.319 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-19 20:18:07.333 - Task status: Preparing
+2021-02-19 20:18:07.393 - Image copied to clipboard.
+2021-02-19 20:18:07.413 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\e6EmxWvQ76.png
+2021-02-19 20:18:07.444 - Task completed. Filename: e6EmxWvQ76.png, Duration: 111 ms
+2021-02-19 22:32:36.172 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-19 22:32:36.173 - Executing: Захват области (Облегченный)
+2021-02-19 22:32:39.060 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-19 22:32:39.074 - Task status: Preparing
+2021-02-19 22:32:39.127 - Image copied to clipboard.
+2021-02-19 22:32:39.161 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\tIrgmltKJe.png
+2021-02-19 22:32:39.181 - Task completed. Filename: tIrgmltKJe.png, Duration: 109 ms
+2021-02-19 23:38:17.467 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-19 23:38:17.467 - Executing: Захват области (Облегченный)
+2021-02-19 23:38:29.148 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-19 23:38:29.148 - Executing: Захват области (Облегченный)
+2021-02-19 23:38:36.307 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-19 23:38:36.307 - Executing: Захват области (Облегченный)
+2021-02-19 23:38:39.875 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-19 23:38:39.875 - Executing: Захват области (Облегченный)
+2021-02-19 23:38:41.308 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-19 23:38:41.308 - Executing: Захват области (Облегченный)
+2021-02-19 23:38:42.707 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-19 23:38:42.707 - Executing: Захват области (Облегченный)
+2021-02-19 23:38:44.299 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-19 23:38:44.299 - Executing: Захват области (Облегченный)
+2021-02-19 23:38:46.939 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-19 23:38:46.959 - Task status: Preparing
+2021-02-19 23:38:47.011 - Image copied to clipboard.
+2021-02-19 23:38:47.041 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\T26PKBgdU2.png
+2021-02-19 23:38:47.057 - Task completed. Filename: T26PKBgdU2.png, Duration: 100 ms
+2021-02-19 23:39:04.355 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-19 23:39:04.355 - Executing: Захват области (Облегченный)
+2021-02-19 23:39:07.979 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-19 23:39:07.979 - Executing: Захват области (Облегченный)
+2021-02-19 23:53:33.259 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-19 23:53:33.260 - Executing: Захват области (Облегченный)
+2021-02-19 23:53:36.917 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-19 23:53:36.923 - Task status: Preparing
+2021-02-19 23:53:36.978 - Image copied to clipboard.
+2021-02-19 23:53:36.994 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\T26ZfkQ4eK.png
+2021-02-19 23:53:37.002 - Task completed. Filename: T26ZfkQ4eK.png, Duration: 79 ms
+2021-02-20 00:09:41.412 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-20 00:09:41.412 - Executing: Захват области (Облегченный)
+2021-02-20 00:09:44.007 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-20 00:09:44.015 - Task status: Preparing
+2021-02-20 00:09:44.045 - Image copied to clipboard.
+2021-02-20 00:09:44.058 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\d6cunY2rDJ.png
+2021-02-20 00:09:44.074 - Task completed. Filename: d6cunY2rDJ.png, Duration: 59 ms
+2021-02-20 00:17:49.667 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-20 00:17:49.667 - Executing: Захват области (Облегченный)
+2021-02-20 00:17:52.479 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-20 00:17:52.490 - Task status: Preparing
+2021-02-20 00:17:52.553 - Image copied to clipboard.
+2021-02-20 00:17:52.572 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\CyNoo84QDS.png
+2021-02-20 00:17:52.581 - Task completed. Filename: CyNoo84QDS.png, Duration: 91 ms
+2021-02-20 00:19:19.611 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-20 00:19:19.611 - Executing: Захват области (Облегченный)
+2021-02-20 00:19:38.516 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-20 00:19:38.516 - Executing: Захват области (Облегченный)
+2021-02-20 00:23:03.619 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-20 00:23:03.619 - Executing: Захват области (Облегченный)
+2021-02-20 00:23:09.166 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-20 00:23:09.174 - Task status: Preparing
+2021-02-20 00:23:09.228 - Image copied to clipboard.
+2021-02-20 00:23:09.240 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\G5oyJP8rOR.png
+2021-02-20 00:23:09.248 - Task completed. Filename: G5oyJP8rOR.png, Duration: 75 ms
+2021-02-20 00:26:00.331 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-20 00:26:00.331 - Executing: Захват области (Облегченный)
+2021-02-20 00:26:02.193 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-20 00:26:02.202 - Task status: Preparing
+2021-02-20 00:26:02.257 - Image copied to clipboard.
+2021-02-20 00:26:02.271 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\2A6upRefXe.png
+2021-02-20 00:26:02.279 - Task completed. Filename: 2A6upRefXe.png, Duration: 77 ms
+2021-02-20 01:07:12.797 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-20 01:07:12.797 - Executing: Захват области (Облегченный)
+2021-02-20 01:07:14.244 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-20 01:07:14.255 - Task status: Preparing
+2021-02-20 01:07:14.297 - Image copied to clipboard.
+2021-02-20 01:07:14.316 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\1HZmTj4YTK.png
+2021-02-20 01:07:14.325 - Task completed. Filename: 1HZmTj4YTK.png, Duration: 71 ms
+2021-02-20 01:45:35.331 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-20 01:45:35.331 - Executing: Захват области (Облегченный)
+2021-02-20 01:45:37.337 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-20 01:45:37.346 - Task status: Preparing
+2021-02-20 01:45:37.394 - Image copied to clipboard.
+2021-02-20 01:45:37.416 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\Fp3AzQXXuv.png
+2021-02-20 01:45:37.425 - Task completed. Filename: Fp3AzQXXuv.png, Duration: 80 ms
+2021-02-20 16:59:18.339 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-20 16:59:18.339 - Executing: Захват области (Облегченный)
+2021-02-20 16:59:22.879 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-20 16:59:22.884 - Task status: Preparing
+2021-02-20 16:59:22.934 - Image copied to clipboard.
+2021-02-20 16:59:22.952 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\gbFknIgKe8.png
+2021-02-20 16:59:22.960 - Task completed. Filename: gbFknIgKe8.png, Duration: 76 ms
+2021-02-20 23:41:20.715 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-20 23:41:20.716 - Executing: Захват области (Облегченный)
+2021-02-20 23:41:25.185 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-20 23:41:25.206 - Task status: Preparing
+2021-02-20 23:41:25.225 - Image copied to clipboard.
+2021-02-20 23:41:25.239 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\RP3FxwIdfc.png
+2021-02-20 23:41:25.243 - Task completed. Filename: RP3FxwIdfc.png, Duration: 37 ms
+2021-02-20 23:44:31.848 - ShareX closing.
+2021-02-20 23:44:31.871 - ApplicationConfig save started: C:\Users\}repeat\Documents\ShareX\ApplicationConfig.json
+2021-02-20 23:44:32.119 - ApplicationConfig save successful: C:\Users\}repeat\Documents\ShareX\ApplicationConfig.json
+2021-02-20 23:44:32.132 - UploadersConfig save started: C:\Users\}repeat\Documents\ShareX\UploadersConfig.json
+2021-02-20 23:44:32.220 - UploadersConfig save successful: C:\Users\}repeat\Documents\ShareX\UploadersConfig.json
+2021-02-20 23:44:32.228 - HotkeysConfig save started: C:\Users\}repeat\Documents\ShareX\HotkeysConfig.json
+2021-02-20 23:44:32.352 - HotkeysConfig save successful: C:\Users\}repeat\Documents\ShareX\HotkeysConfig.json
+2021-02-20 23:44:32.360 - ShareX closed.
+2021-02-20 23:45:49.033 - ShareX starting.
+2021-02-20 23:45:49.037 - Version: 13.4
+2021-02-20 23:45:49.037 - Build: Release
+2021-02-20 23:45:49.037 - Command line: "C:\Program Files\ShareX\ShareX.exe" -silent
+2021-02-20 23:45:49.037 - Personal path: C:\Users\}repeat\Documents\ShareX
+2021-02-20 23:45:49.037 - Operating system: Windows 10 Pro (64-bit)
+2021-02-20 23:45:49.038 - Running as elevated process: True
+2021-02-20 23:45:49.047 - Flags: SilentRun
+2021-02-20 23:45:49.084 - ApplicationConfig load started: C:\Users\}repeat\Documents\ShareX\ApplicationConfig.json
+2021-02-20 23:45:49.831 - ApplicationConfig load finished: C:\Users\}repeat\Documents\ShareX\ApplicationConfig.json
+2021-02-20 23:45:49.845 - UploadersConfig load started: C:\Users\}repeat\Documents\ShareX\UploadersConfig.json
+2021-02-20 23:45:49.850 - Language changed to: Русский (Россия)
+2021-02-20 23:45:49.854 - MainForm init started.
+2021-02-20 23:45:50.021 - UploadersConfig load finished: C:\Users\}repeat\Documents\ShareX\UploadersConfig.json
+2021-02-20 23:45:50.033 - HotkeysConfig load started: C:\Users\}repeat\Documents\ShareX\HotkeysConfig.json
+2021-02-20 23:45:50.199 - HotkeysConfig load finished: C:\Users\}repeat\Documents\ShareX\HotkeysConfig.json
+2021-02-20 23:45:50.480 - MainForm init finished.
+2021-02-20 23:45:50.941 - Startup time: 2028 ms
+2021-02-20 23:45:50.943 - CommandLine: -silent
+2021-02-20 23:45:50.966 - Hotkey registered: Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-20 23:45:50.966 - Hotkey registered: Hotkey: Ctrl + Print Screen, Description: Захват всего экрана, Job: PrintScreen
+2021-02-20 23:45:50.966 - Hotkey registered: Hotkey: Alt + Print Screen, Description: Захват активного окна, Job: ActiveWindow
+2021-02-20 23:45:50.966 - Hotkey registered: Hotkey: Shift + Print Screen, Description: Начать/Остановить запись области экрана, Job: ScreenRecorder
+2021-02-20 23:45:50.966 - Hotkey registered: Hotkey: Ctrl + Shift + Print Screen, Description: Начать/Остановить запись области экрана (GIF), Job: ScreenRecorderGIF
+2021-02-20 23:45:50.967 - Hotkey registered: Hotkey: Ctrl + Alt + Print Screen, Description: Захват области, Job: RectangleRegion
+2021-02-20 23:45:50.968 - HotkeyManager started.
+2021-02-20 23:45:50.969 - WatchFolderManager started.
+2021-02-21 22:30:03.316 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-21 22:30:03.323 - Executing: Захват области (Облегченный)
+2021-02-21 22:30:07.244 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-21 22:30:07.279 - Task status: Preparing
+2021-02-21 22:30:07.339 - Image copied to clipboard.
+2021-02-21 22:30:07.363 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\0TsqiSB00c.png
+2021-02-21 22:30:07.379 - Task completed. Filename: 0TsqiSB00c.png, Duration: 97 ms
+2021-02-21 22:33:09.868 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-21 22:33:09.868 - Executing: Захват области (Облегченный)
+2021-02-21 22:33:12.826 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-21 22:33:12.842 - Task status: Preparing
+2021-02-21 22:33:12.894 - Image copied to clipboard.
+2021-02-21 22:33:12.919 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\YpWbhYDIIr.png
+2021-02-21 22:33:12.926 - Task completed. Filename: YpWbhYDIIr.png, Duration: 85 ms
+2021-02-21 22:56:00.371 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-21 22:56:00.371 - Executing: Захват области (Облегченный)
+2021-02-21 22:56:04.863 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-21 22:56:04.869 - Task status: Preparing
+2021-02-21 22:56:04.916 - Image copied to clipboard.
+2021-02-21 22:56:04.932 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\PgfGF8QNfx.png
+2021-02-21 22:56:04.940 - Task completed. Filename: PgfGF8QNfx.png, Duration: 72 ms
+2021-02-22 00:04:15.194 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-22 00:04:15.194 - Executing: Захват области (Облегченный)
+2021-02-22 00:04:34.059 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-22 00:04:34.059 - Executing: Захват области (Облегченный)
+2021-02-22 00:04:36.773 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-22 00:04:36.780 - Task status: Preparing
+2021-02-22 00:04:36.810 - Image copied to clipboard.
+2021-02-22 00:04:36.830 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\iQM6dKJvru.png
+2021-02-22 00:04:36.835 - Task completed. Filename: iQM6dKJvru.png, Duration: 57 ms
+2021-02-22 03:01:36.921 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-22 03:01:36.922 - Executing: Захват области (Облегченный)
+2021-02-22 03:01:40.659 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-22 03:01:40.667 - Task status: Preparing
+2021-02-22 03:01:40.690 - Image copied to clipboard.
+2021-02-22 03:01:40.709 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\9796hZAa6O.png
+2021-02-22 03:01:40.713 - Task completed. Filename: 9796hZAa6O.png, Duration: 47 ms
+2021-02-22 03:01:59.495 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-22 03:01:59.495 - Executing: Захват области (Облегченный)
+2021-02-22 13:42:27.093 - ApplicationConfig save started: C:\Users\}repeat\Documents\ShareX\ApplicationConfig.json
+2021-02-22 13:42:27.093 - HotkeysConfig save started: C:\Users\}repeat\Documents\ShareX\HotkeysConfig.json
+2021-02-22 13:42:27.093 - UploadersConfig save started: C:\Users\}repeat\Documents\ShareX\UploadersConfig.json
+2021-02-22 13:42:27.186 - UploadersConfig save successful: C:\Users\}repeat\Documents\ShareX\UploadersConfig.json
+2021-02-22 13:42:27.252 - HotkeysConfig save successful: C:\Users\}repeat\Documents\ShareX\HotkeysConfig.json
+2021-02-22 13:42:27.268 - ApplicationConfig save successful: C:\Users\}repeat\Documents\ShareX\ApplicationConfig.json
+2021-02-22 22:23:50.266 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-22 22:23:50.267 - Executing: Захват области (Облегченный)
+2021-02-22 22:23:52.820 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-22 22:23:52.853 - Task status: Preparing
+2021-02-22 22:23:52.861 - Image copied to clipboard.
+2021-02-22 22:23:52.871 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\mWE3PCLxjH.png
+2021-02-22 22:23:52.874 - Task completed. Filename: mWE3PCLxjH.png, Duration: 21 ms
+2021-02-22 22:57:07.125 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-22 22:57:07.125 - Executing: Захват области (Облегченный)
+2021-02-22 22:57:11.225 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-22 22:57:11.231 - Task status: Preparing
+2021-02-22 22:57:11.274 - Image copied to clipboard.
+2021-02-22 22:57:11.292 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\UrePfR5oRm.png
+2021-02-22 22:57:11.301 - Task completed. Filename: UrePfR5oRm.png, Duration: 72 ms
+2021-02-22 23:54:34.894 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-22 23:54:34.894 - Executing: Захват области (Облегченный)
+2021-02-22 23:54:38.144 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-22 23:54:38.171 - Task status: Preparing
+2021-02-22 23:54:38.193 - Image copied to clipboard.
+2021-02-22 23:54:38.209 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\4zYNxu9IqT.png
+2021-02-22 23:54:38.213 - Task completed. Filename: 4zYNxu9IqT.png, Duration: 54 ms
+2021-02-23 11:34:08.180 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-23 11:34:08.181 - Executing: Захват области (Облегченный)
+2021-02-23 11:34:10.609 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-23 11:34:10.624 - Task status: Preparing
+2021-02-23 11:34:10.643 - Image copied to clipboard.
+2021-02-23 11:34:10.658 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\Jf5UCx7Mhf.png
+2021-02-23 11:34:10.663 - Task completed. Filename: Jf5UCx7Mhf.png, Duration: 41 ms
+2021-02-23 11:35:31.067 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-23 11:35:31.068 - Executing: Захват области (Облегченный)
+2021-02-23 11:35:34.074 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-23 11:35:34.082 - Task status: Preparing
+2021-02-23 11:35:34.101 - Image copied to clipboard.
+2021-02-23 11:35:34.112 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\sJF5jMUzKk.png
+2021-02-23 11:35:34.116 - Task completed. Filename: sJF5jMUzKk.png, Duration: 35 ms
+2021-02-23 23:34:23.598 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-23 23:34:23.599 - Executing: Захват области (Облегченный)
+2021-02-23 23:34:29.733 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-23 23:34:29.745 - Task status: Preparing
+2021-02-23 23:34:29.765 - Image copied to clipboard.
+2021-02-23 23:34:29.784 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\JmcvPTruxj.png
+2021-02-23 23:34:29.788 - Task completed. Filename: JmcvPTruxj.png, Duration: 44 ms
+2021-02-23 23:39:27.808 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-23 23:39:27.808 - Executing: Захват области (Облегченный)
+2021-02-23 23:39:30.514 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-23 23:39:30.525 - Task status: Preparing
+2021-02-23 23:39:30.654 - Image copied to clipboard.
+2021-02-23 23:39:30.694 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\6UR2pt460O.png
+2021-02-23 23:39:30.709 - Task completed. Filename: 6UR2pt460O.png, Duration: 186 ms
+2021-02-23 23:39:33.825 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-23 23:39:33.825 - Executing: Захват области (Облегченный)
+2021-02-23 23:39:35.870 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-23 23:39:35.892 - Task status: Preparing
+2021-02-23 23:39:35.916 - Image copied to clipboard.
+2021-02-23 23:39:35.927 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\32KVpfGuZU.png
+2021-02-23 23:39:35.931 - Task completed. Filename: 32KVpfGuZU.png, Duration: 47 ms
+2021-02-23 23:47:46.608 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-23 23:47:46.608 - Executing: Захват области (Облегченный)
+2021-02-23 23:47:49.455 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-23 23:47:49.461 - Task status: Preparing
+2021-02-23 23:47:49.475 - Image copied to clipboard.
+2021-02-23 23:47:49.490 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\oqJROlKZdw.png
+2021-02-23 23:47:49.493 - Task completed. Filename: oqJROlKZdw.png, Duration: 32 ms
+2021-02-23 23:48:05.432 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-23 23:48:05.432 - Executing: Захват области (Облегченный)
+2021-02-23 23:48:08.305 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-23 23:48:08.310 - Task status: Preparing
+2021-02-23 23:48:08.319 - Image copied to clipboard.
+2021-02-23 23:48:08.334 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\56lPLDsJuq.png
+2021-02-23 23:48:08.338 - Task completed. Filename: 56lPLDsJuq.png, Duration: 29 ms
+2021-02-24 00:58:38.223 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-24 00:58:38.223 - Executing: Захват области (Облегченный)
+2021-02-24 00:58:46.302 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-24 00:58:46.303 - Executing: Захват области (Облегченный)
+2021-02-24 01:02:58.591 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-24 01:02:58.591 - Executing: Захват области (Облегченный)
+2021-02-24 01:03:00.250 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-24 01:03:00.277 - Task status: Preparing
+2021-02-24 01:03:00.285 - Image copied to clipboard.
+2021-02-24 01:03:00.298 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\OqXae7Uxku.png
+2021-02-24 01:03:00.302 - Task completed. Filename: OqXae7Uxku.png, Duration: 28 ms
+2021-02-24 01:08:49.967 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-24 01:08:49.967 - Executing: Захват области (Облегченный)
+2021-02-24 01:09:45.110 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-24 01:09:45.111 - Executing: Захват области (Облегченный)
+2021-02-24 01:09:52.911 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-24 01:09:52.911 - Executing: Захват области (Облегченный)
+2021-02-24 01:09:56.791 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-24 01:09:56.791 - Executing: Захват области (Облегченный)
+2021-02-24 01:10:29.695 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-24 01:10:29.695 - Executing: Захват области (Облегченный)
+2021-02-24 01:13:02.558 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-24 01:13:02.558 - Executing: Захват области (Облегченный)
+2021-02-24 01:13:05.594 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-24 01:13:05.611 - Task status: Preparing
+2021-02-24 01:13:05.649 - Image copied to clipboard.
+2021-02-24 01:13:05.667 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\6QfOmIiZPy.png
+2021-02-24 01:13:05.673 - Task completed. Filename: 6QfOmIiZPy.png, Duration: 69 ms
+2021-02-24 01:14:47.894 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-24 01:14:47.894 - Executing: Захват области (Облегченный)
+2021-02-24 01:14:53.542 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-24 01:14:53.546 - Task status: Preparing
+2021-02-24 01:14:53.576 - Image copied to clipboard.
+2021-02-24 01:14:53.600 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\ssfU72fEeb.png
+2021-02-24 01:14:53.604 - Task completed. Filename: ssfU72fEeb.png, Duration: 58 ms
+2021-02-24 15:09:32.740 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-24 15:09:32.741 - Executing: Захват области (Облегченный)
+2021-02-24 15:09:35.170 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-24 15:09:35.180 - Task status: Preparing
+2021-02-24 15:09:35.274 - Image copied to clipboard.
+2021-02-24 15:09:35.309 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\mdPzwxcHTq.png
+2021-02-24 15:09:35.322 - Task completed. Filename: mdPzwxcHTq.png, Duration: 142 ms
+2021-02-24 15:31:24.106 - ShareX closing.
+2021-02-24 15:31:24.128 - ApplicationConfig save started: C:\Users\}repeat\Documents\ShareX\ApplicationConfig.json
+2021-02-24 15:31:24.405 - ApplicationConfig save successful: C:\Users\}repeat\Documents\ShareX\ApplicationConfig.json
+2021-02-24 15:31:24.417 - UploadersConfig save started: C:\Users\}repeat\Documents\ShareX\UploadersConfig.json
+2021-02-24 15:31:24.553 - UploadersConfig save successful: C:\Users\}repeat\Documents\ShareX\UploadersConfig.json
+2021-02-24 15:31:24.564 - HotkeysConfig save started: C:\Users\}repeat\Documents\ShareX\HotkeysConfig.json
+2021-02-24 15:31:24.715 - HotkeysConfig save successful: C:\Users\}repeat\Documents\ShareX\HotkeysConfig.json
+2021-02-24 15:31:24.727 - ShareX closed.
+2021-02-24 15:32:33.197 - ShareX starting.
+2021-02-24 15:32:33.201 - Version: 13.4
+2021-02-24 15:32:33.201 - Build: Release
+2021-02-24 15:32:33.201 - Command line: "C:\Program Files\ShareX\ShareX.exe" -silent
+2021-02-24 15:32:33.201 - Personal path: C:\Users\}repeat\Documents\ShareX
+2021-02-24 15:32:33.201 - Operating system: Windows 10 Pro (64-bit)
+2021-02-24 15:32:33.202 - Running as elevated process: True
+2021-02-24 15:32:33.213 - Flags: SilentRun
+2021-02-24 15:32:33.238 - ApplicationConfig load started: C:\Users\}repeat\Documents\ShareX\ApplicationConfig.json
+2021-02-24 15:32:33.874 - ApplicationConfig load finished: C:\Users\}repeat\Documents\ShareX\ApplicationConfig.json
+2021-02-24 15:32:33.886 - UploadersConfig load started: C:\Users\}repeat\Documents\ShareX\UploadersConfig.json
+2021-02-24 15:32:33.891 - Language changed to: Русский (Россия)
+2021-02-24 15:32:33.895 - MainForm init started.
+2021-02-24 15:32:34.032 - UploadersConfig load finished: C:\Users\}repeat\Documents\ShareX\UploadersConfig.json
+2021-02-24 15:32:34.044 - HotkeysConfig load started: C:\Users\}repeat\Documents\ShareX\HotkeysConfig.json
+2021-02-24 15:32:34.181 - HotkeysConfig load finished: C:\Users\}repeat\Documents\ShareX\HotkeysConfig.json
+2021-02-24 15:32:34.446 - MainForm init finished.
+2021-02-24 15:32:34.807 - Startup time: 1739 ms
+2021-02-24 15:32:34.809 - CommandLine: -silent
+2021-02-24 15:32:34.818 - Hotkey registered: Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-24 15:32:34.818 - Hotkey registered: Hotkey: Ctrl + Print Screen, Description: Захват всего экрана, Job: PrintScreen
+2021-02-24 15:32:34.818 - Hotkey registered: Hotkey: Alt + Print Screen, Description: Захват активного окна, Job: ActiveWindow
+2021-02-24 15:32:34.818 - Hotkey registered: Hotkey: Shift + Print Screen, Description: Начать/Остановить запись области экрана, Job: ScreenRecorder
+2021-02-24 15:32:34.818 - Hotkey registered: Hotkey: Ctrl + Shift + Print Screen, Description: Начать/Остановить запись области экрана (GIF), Job: ScreenRecorderGIF
+2021-02-24 15:32:34.818 - Hotkey registered: Hotkey: Ctrl + Alt + Print Screen, Description: Захват области, Job: RectangleRegion
+2021-02-24 15:32:34.820 - HotkeyManager started.
+2021-02-24 15:32:34.821 - WatchFolderManager started.
+2021-02-24 16:48:32.036 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-24 16:48:32.041 - Executing: Захват области (Облегченный)
+2021-02-24 16:48:34.547 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-24 16:48:34.588 - Task status: Preparing
+2021-02-24 16:48:34.647 - Image copied to clipboard.
+2021-02-24 16:48:34.665 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\9QVlIA2uzZ.png
+2021-02-24 16:48:34.679 - Task completed. Filename: 9QVlIA2uzZ.png, Duration: 90 ms
+2021-02-24 19:44:44.363 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-24 19:44:44.364 - Executing: Захват области (Облегченный)
+2021-02-24 19:44:46.369 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-24 19:44:46.396 - Task status: Preparing
+2021-02-24 19:44:46.427 - Image copied to clipboard.
+2021-02-24 19:44:46.454 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\EVerFVEZ9m.png
+2021-02-24 19:44:46.459 - Task completed. Filename: EVerFVEZ9m.png, Duration: 64 ms
+2021-02-25 17:54:29.129 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-25 17:54:29.130 - Executing: Захват области (Облегченный)
+2021-02-25 17:54:32.830 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-25 17:54:32.838 - Task status: Preparing
+2021-02-25 17:54:32.866 - Image copied to clipboard.
+2021-02-25 17:54:32.889 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\283f3VMJ6x.png
+2021-02-25 17:54:32.893 - Task completed. Filename: 283f3VMJ6x.png, Duration: 55 ms
+2021-02-25 18:42:12.428 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-25 18:42:12.429 - Executing: Захват области (Облегченный)
+2021-02-25 18:42:16.455 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-25 18:42:16.463 - Task status: Preparing
+2021-02-25 18:42:16.473 - Image copied to clipboard.
+2021-02-25 18:42:16.485 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\g5V76b1qId.png
+2021-02-25 18:42:16.487 - Task completed. Filename: g5V76b1qId.png, Duration: 25 ms
+2021-02-25 18:42:25.595 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-25 18:42:25.595 - Executing: Захват области (Облегченный)
+2021-02-25 18:42:29.959 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-25 18:42:29.969 - Task status: Preparing
+2021-02-25 18:42:29.988 - Image copied to clipboard.
+2021-02-25 18:42:29.997 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\TtJyIjYy18.png
+2021-02-25 18:42:30.002 - Task completed. Filename: TtJyIjYy18.png, Duration: 35 ms
+2021-02-25 18:47:25.107 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-25 18:47:25.107 - Executing: Захват области (Облегченный)
+2021-02-25 18:47:28.223 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-25 18:47:28.228 - Task status: Preparing
+2021-02-25 18:47:28.245 - Image copied to clipboard.
+2021-02-25 18:47:28.262 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\kFAflZpdcQ.png
+2021-02-25 18:47:28.264 - Task completed. Filename: kFAflZpdcQ.png, Duration: 37 ms
+2021-02-25 21:26:55.572 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-25 21:26:55.573 - Executing: Захват области (Облегченный)
+2021-02-25 21:26:59.939 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-25 21:26:59.952 - Task status: Preparing
+2021-02-25 21:26:59.967 - Image copied to clipboard.
+2021-02-25 21:26:59.985 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\q8OHCoPsye.png
+2021-02-25 21:26:59.988 - Task completed. Filename: q8OHCoPsye.png, Duration: 39 ms
+2021-02-25 21:29:57.675 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-25 21:29:57.675 - Executing: Захват области (Облегченный)
+2021-02-25 21:30:06.554 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-25 21:30:06.566 - Task status: Preparing
+2021-02-25 21:30:06.586 - Image copied to clipboard.
+2021-02-25 21:30:06.596 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\IfYAW5TqbP.png
+2021-02-25 21:30:06.599 - Task completed. Filename: IfYAW5TqbP.png, Duration: 36 ms
+2021-02-25 21:34:49.603 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-25 21:34:49.603 - Executing: Захват области (Облегченный)
+2021-02-25 21:34:52.142 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-25 21:34:52.159 - Task status: Preparing
+2021-02-25 21:34:52.178 - Image copied to clipboard.
+2021-02-25 21:34:52.195 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\fQ6BxIQDXX.png
+2021-02-25 21:34:52.199 - Task completed. Filename: fQ6BxIQDXX.png, Duration: 41 ms
+2021-02-25 21:39:56.899 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-25 21:39:56.899 - Executing: Захват области (Облегченный)
+2021-02-25 21:40:02.657 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-25 21:40:02.668 - Task status: Preparing
+2021-02-25 21:40:02.699 - Image copied to clipboard.
+2021-02-25 21:40:02.713 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\o5yfiEiDah.png
+2021-02-25 21:40:02.717 - Task completed. Filename: o5yfiEiDah.png, Duration: 51 ms
+2021-02-25 21:45:26.932 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-25 21:45:26.932 - Executing: Захват области (Облегченный)
+2021-02-25 21:45:29.708 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-25 21:45:29.723 - Task status: Preparing
+2021-02-25 21:45:29.766 - Image copied to clipboard.
+2021-02-25 21:45:29.776 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\nb1HRECEAr.png
+2021-02-25 21:45:29.782 - Task completed. Filename: nb1HRECEAr.png, Duration: 62 ms
+2021-02-25 23:32:06.161 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-25 23:32:06.162 - Executing: Захват области (Облегченный)
+2021-02-25 23:32:09.019 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-25 23:32:09.027 - Task status: Preparing
+2021-02-25 23:32:09.039 - Image copied to clipboard.
+2021-02-25 23:32:09.055 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\3uMvCPjHWv.png
+2021-02-25 23:32:09.057 - Task completed. Filename: 3uMvCPjHWv.png, Duration: 31 ms
+2021-02-25 23:37:34.745 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-25 23:37:34.745 - Executing: Захват области (Облегченный)
+2021-02-25 23:37:38.069 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-25 23:37:38.078 - Task status: Preparing
+2021-02-25 23:37:38.106 - Image copied to clipboard.
+2021-02-25 23:37:38.123 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\KZJMS1ceMP.png
+2021-02-25 23:37:38.130 - Task completed. Filename: KZJMS1ceMP.png, Duration: 54 ms
+2021-02-25 23:39:00.496 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-25 23:39:00.496 - Executing: Захват области (Облегченный)
+2021-02-25 23:39:03.258 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-25 23:39:03.263 - Task status: Preparing
+2021-02-25 23:39:03.279 - Image copied to clipboard.
+2021-02-25 23:39:03.290 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\hKiOlKydSe.png
+2021-02-25 23:39:03.296 - Task completed. Filename: hKiOlKydSe.png, Duration: 33 ms
+2021-02-25 23:39:17.944 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-25 23:39:17.944 - Executing: Захват области (Облегченный)
+2021-02-25 23:39:22.226 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-25 23:39:22.231 - Task status: Preparing
+2021-02-25 23:39:22.265 - Image copied to clipboard.
+2021-02-25 23:39:22.275 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\eWbkEHKxuM.png
+2021-02-25 23:39:22.282 - Task completed. Filename: eWbkEHKxuM.png, Duration: 51 ms
+2021-02-26 00:13:18.860 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-26 00:13:18.860 - Executing: Захват области (Облегченный)
+2021-02-26 04:00:46.070 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-26 04:00:46.071 - Executing: Захват области (Облегченный)
+2021-02-26 04:00:49.193 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-26 04:00:49.205 - Task status: Preparing
+2021-02-26 04:00:49.220 - Image copied to clipboard.
+2021-02-26 04:00:49.234 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\EMOeC3EnLc.png
+2021-02-26 04:00:49.237 - Task completed. Filename: EMOeC3EnLc.png, Duration: 34 ms
+2021-02-26 12:35:50.848 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-26 12:35:50.848 - Executing: Захват области (Облегченный)
+2021-02-26 12:35:55.391 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-26 12:35:55.400 - Task status: Preparing
+2021-02-26 12:35:55.461 - Image copied to clipboard.
+2021-02-26 12:35:55.489 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\02vabb9kfp.png
+2021-02-26 12:35:55.495 - Task completed. Filename: 02vabb9kfp.png, Duration: 95 ms
+2021-02-26 12:37:28.814 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-26 12:37:28.814 - Executing: Захват области (Облегченный)
+2021-02-26 12:37:32.814 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-26 12:37:32.821 - Task status: Preparing
+2021-02-26 12:37:32.851 - Image copied to clipboard.
+2021-02-26 12:37:32.876 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\iP4smwQz6p.png
+2021-02-26 12:37:32.883 - Task completed. Filename: iP4smwQz6p.png, Duration: 63 ms
+2021-02-26 12:40:42.223 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-26 12:40:42.223 - Executing: Захват области (Облегченный)
+2021-02-26 12:40:47.045 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-26 12:40:47.054 - Task status: Preparing
+2021-02-26 12:40:47.090 - Image copied to clipboard.
+2021-02-26 12:40:47.107 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\27lmpbLNOb.png
+2021-02-26 12:40:47.113 - Task completed. Filename: 27lmpbLNOb.png, Duration: 59 ms
+2021-02-26 12:40:55.374 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-26 12:40:55.374 - Executing: Захват области (Облегченный)
+2021-02-26 12:40:57.232 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-26 12:40:57.240 - Task status: Preparing
+2021-02-26 12:40:57.259 - Image copied to clipboard.
+2021-02-26 12:40:57.270 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\SZNzaaEZha.png
+2021-02-26 12:40:57.276 - Task completed. Filename: SZNzaaEZha.png, Duration: 36 ms
+2021-02-26 15:06:03.516 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-26 15:06:03.518 - Executing: Захват области (Облегченный)
+2021-02-26 15:06:07.132 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-26 15:06:07.155 - Task status: Preparing
+2021-02-26 15:06:07.210 - Image copied to clipboard.
+2021-02-26 15:06:07.228 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\2WkWnMC3Jb.png
+2021-02-26 15:06:07.236 - Task completed. Filename: 2WkWnMC3Jb.png, Duration: 82 ms
+2021-02-26 15:26:14.413 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-26 15:26:14.414 - Executing: Захват области (Облегченный)
+2021-02-26 15:26:16.847 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-26 15:26:16.855 - Task status: Preparing
+2021-02-26 15:26:16.902 - Image copied to clipboard.
+2021-02-26 15:26:16.920 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\MKyEPFi40t.png
+2021-02-26 15:26:16.927 - Task completed. Filename: MKyEPFi40t.png, Duration: 72 ms
+2021-02-26 16:16:19.376 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-26 16:16:19.376 - Executing: Захват области (Облегченный)
+2021-02-26 16:16:21.705 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-26 16:16:21.705 - Executing: Захват области (Облегченный)
+2021-02-26 16:16:24.872 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-26 16:16:24.880 - Task status: Preparing
+2021-02-26 16:16:24.896 - Image copied to clipboard.
+2021-02-26 16:16:24.911 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\5368gh2trf.png
+2021-02-26 16:16:24.916 - Task completed. Filename: 5368gh2trf.png, Duration: 37 ms
+2021-02-27 00:02:43.272 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-27 00:02:43.274 - Executing: Захват области (Облегченный)
+2021-02-27 00:02:47.379 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-27 00:02:47.400 - Task status: Preparing
+2021-02-27 00:02:47.423 - Image copied to clipboard.
+2021-02-27 00:02:47.439 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\FE7aF3yanr.png
+2021-02-27 00:02:47.441 - Task completed. Filename: FE7aF3yanr.png, Duration: 42 ms
+2021-02-27 01:50:15.325 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-27 01:50:15.327 - Executing: Захват области (Облегченный)
+2021-02-27 01:54:20.053 - Hotkey triggered. Hotkey: Ctrl + Shift + Print Screen, Description: Начать/Остановить запись области экрана (GIF), Job: ScreenRecorderGIF
+2021-02-27 01:54:20.053 - Executing: Начать/Остановить запись области экрана (GIF)
+2021-02-27 01:54:20.058 - Starting screen recording. Video encoder: "GIF", Audio encoder: "AAC", FPS: 20
+2021-02-27 01:54:25.534 - CLI: "C:\Users\}repeat\Documents\ShareX\Tools\ffmpeg.exe" -rtbufsize 150M -f gdigrab -framerate 20 -offset_x 323 -offset_y 896 -video_size 468x150 -draw_mouse 1 -i desktop -c:v libx264 -r 20 -preset ultrafast -tune zerolatency -qp 0 -y "C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\yHSNc8zEhc.mp4"
+2021-02-27 01:54:50.732 - CLI: "C:\Users\}repeat\Documents\ShareX\Tools\ffmpeg.exe" -i "C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\yHSNc8zEhc.mp4" -lavfi "palettegen=stats_mode=full[palette],[0:v][palette]paletteuse=dither=sierra2_4a" -y "C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\HQuvHPHBbl.gif"
+2021-02-27 01:54:52.310 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-27 01:54:52.342 - Task status: Preparing
+2021-02-27 01:54:52.377 - Task completed. Filename: HQuvHPHBbl.gif, Duration: 35 ms
+2021-02-27 01:54:55.071 - Executing: Открыть главное окно
+2021-02-27 01:54:56.671 - Exception:
+System.ArgumentException: Дескриптор Win32, переданный Icon, является недопустимым либо неверного типа.
+   в System.Drawing.Icon..ctor(IntPtr handle, Boolean takeOwnership)
+   в System.Drawing.Icon.FromHandle(IntPtr handle)
+   в ShareX.HelpersLib.NativeMethods.GetFileIcon(String filePath, Boolean isSmallIcon)
+   в ShareX.HelpersLib.ImageFilesCache.GetFileIconAsImage(String filePath, Boolean isSmallIcon)
+   в ShareX.MainForm.UpdateActionsMenu(String filePath)
+2021-02-27 01:55:55.718 - ApplicationConfig save started: C:\Users\}repeat\Documents\ShareX\ApplicationConfig.json
+2021-02-27 01:55:55.718 - HotkeysConfig save started: C:\Users\}repeat\Documents\ShareX\HotkeysConfig.json
+2021-02-27 01:55:55.718 - UploadersConfig save started: C:\Users\}repeat\Documents\ShareX\UploadersConfig.json
+2021-02-27 01:55:55.828 - UploadersConfig save successful: C:\Users\}repeat\Documents\ShareX\UploadersConfig.json
+2021-02-27 01:55:55.896 - HotkeysConfig save successful: C:\Users\}repeat\Documents\ShareX\HotkeysConfig.json
+2021-02-27 01:55:55.929 - ApplicationConfig save successful: C:\Users\}repeat\Documents\ShareX\ApplicationConfig.json
+2021-02-27 03:22:36.739 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-27 03:22:36.739 - Executing: Захват области (Облегченный)
+2021-02-27 03:22:40.388 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-27 03:22:40.448 - Task status: Preparing
+2021-02-27 03:22:40.462 - Image copied to clipboard.
+2021-02-27 03:22:40.476 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\1JTulsZMhq.png
+2021-02-27 03:22:40.479 - Task completed. Filename: 1JTulsZMhq.png, Duration: 32 ms
+2021-02-27 03:45:07.562 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-27 03:45:07.562 - Executing: Захват области (Облегченный)
+2021-02-27 03:45:12.312 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-27 03:45:12.362 - Task status: Preparing
+2021-02-27 03:45:12.383 - Image copied to clipboard.
+2021-02-27 03:45:12.397 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\DEW7Igxqgy.png
+2021-02-27 03:45:12.402 - Task completed. Filename: DEW7Igxqgy.png, Duration: 40 ms
+2021-02-27 22:49:31.850 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-27 22:49:31.852 - Executing: Захват области (Облегченный)
+2021-02-27 22:49:36.810 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-27 22:49:36.856 - Task status: Preparing
+2021-02-27 22:49:36.888 - Image copied to clipboard.
+2021-02-27 22:49:36.909 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\yRTkPinmrA.png
+2021-02-27 22:49:36.914 - Task completed. Filename: yRTkPinmrA.png, Duration: 59 ms
+2021-02-27 23:15:38.250 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-27 23:15:38.250 - Executing: Захват области (Облегченный)
+2021-02-27 23:15:40.246 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-27 23:15:40.292 - Task status: Preparing
+2021-02-27 23:15:40.301 - Image copied to clipboard.
+2021-02-27 23:15:40.313 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\ed0xPgfjoQ.png
+2021-02-27 23:15:40.317 - Task completed. Filename: ed0xPgfjoQ.png, Duration: 26 ms
+2021-02-27 23:28:30.202 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-27 23:28:30.202 - Executing: Захват области (Облегченный)
+2021-02-27 23:28:34.157 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-27 23:28:34.208 - Task status: Preparing
+2021-02-27 23:28:34.229 - Image copied to clipboard.
+2021-02-27 23:28:34.245 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\qeqR2o6TlY.png
+2021-02-27 23:28:34.251 - Task completed. Filename: qeqR2o6TlY.png, Duration: 45 ms
+2021-02-28 17:29:28.842 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-28 17:29:28.843 - Executing: Захват области (Облегченный)
+2021-02-28 17:29:33.792 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-28 17:29:33.842 - Task status: Preparing
+2021-02-28 17:29:33.961 - Image copied to clipboard.
+2021-02-28 17:29:33.992 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\r4cX0wWMTX.png
+2021-02-28 17:29:34.005 - Task completed. Filename: r4cX0wWMTX.png, Duration: 163 ms
+2021-02-28 18:41:48.867 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-28 18:41:48.867 - Executing: Захват области (Облегченный)
+2021-02-28 18:41:51.324 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-28 18:41:51.376 - Task status: Preparing
+2021-02-28 18:41:51.383 - Image copied to clipboard.
+2021-02-28 18:41:51.393 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\aueUWJDxZo.png
+2021-02-28 18:41:51.397 - Task completed. Filename: aueUWJDxZo.png, Duration: 21 ms
+2021-02-28 19:22:56.767 - ShareX closing.
+2021-02-28 19:22:56.787 - ApplicationConfig save started: C:\Users\}repeat\Documents\ShareX\ApplicationConfig.json
+2021-02-28 19:22:57.001 - ApplicationConfig save successful: C:\Users\}repeat\Documents\ShareX\ApplicationConfig.json
+2021-02-28 19:22:57.011 - UploadersConfig save started: C:\Users\}repeat\Documents\ShareX\UploadersConfig.json
+2021-02-28 19:22:57.091 - UploadersConfig save successful: C:\Users\}repeat\Documents\ShareX\UploadersConfig.json
+2021-02-28 19:22:57.099 - HotkeysConfig save started: C:\Users\}repeat\Documents\ShareX\HotkeysConfig.json
+2021-02-28 19:22:57.217 - HotkeysConfig save successful: C:\Users\}repeat\Documents\ShareX\HotkeysConfig.json
+2021-02-28 19:22:57.229 - ShareX closed.
+2021-02-28 19:24:17.138 - ShareX starting.
+2021-02-28 19:24:17.143 - Version: 13.4
+2021-02-28 19:24:17.143 - Build: Release
+2021-02-28 19:24:17.143 - Command line: "C:\Program Files\ShareX\ShareX.exe" -silent
+2021-02-28 19:24:17.143 - Personal path: C:\Users\}repeat\Documents\ShareX
+2021-02-28 19:24:17.144 - Operating system: Windows 10 Pro (64-bit)
+2021-02-28 19:24:17.144 - Running as elevated process: True
+2021-02-28 19:24:17.154 - Flags: SilentRun
+2021-02-28 19:24:17.175 - ApplicationConfig load started: C:\Users\}repeat\Documents\ShareX\ApplicationConfig.json
+2021-02-28 19:24:17.954 - ApplicationConfig load finished: C:\Users\}repeat\Documents\ShareX\ApplicationConfig.json
+2021-02-28 19:24:17.970 - UploadersConfig load started: C:\Users\}repeat\Documents\ShareX\UploadersConfig.json
+2021-02-28 19:24:17.980 - Language changed to: Русский (Россия)
+2021-02-28 19:24:17.984 - MainForm init started.
+2021-02-28 19:24:18.180 - UploadersConfig load finished: C:\Users\}repeat\Documents\ShareX\UploadersConfig.json
+2021-02-28 19:24:18.190 - HotkeysConfig load started: C:\Users\}repeat\Documents\ShareX\HotkeysConfig.json
+2021-02-28 19:24:18.403 - HotkeysConfig load finished: C:\Users\}repeat\Documents\ShareX\HotkeysConfig.json
+2021-02-28 19:24:18.890 - MainForm init finished.
+2021-02-28 19:24:19.362 - Startup time: 2357 ms
+2021-02-28 19:24:19.364 - CommandLine: -silent
+2021-02-28 19:24:19.387 - Hotkey registered: Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-28 19:24:19.387 - Hotkey registered: Hotkey: Ctrl + Print Screen, Description: Захват всего экрана, Job: PrintScreen
+2021-02-28 19:24:19.387 - Hotkey registered: Hotkey: Alt + Print Screen, Description: Захват активного окна, Job: ActiveWindow
+2021-02-28 19:24:19.387 - Hotkey registered: Hotkey: Shift + Print Screen, Description: Начать/Остановить запись области экрана, Job: ScreenRecorder
+2021-02-28 19:24:19.387 - Hotkey registered: Hotkey: Ctrl + Shift + Print Screen, Description: Начать/Остановить запись области экрана (GIF), Job: ScreenRecorderGIF
+2021-02-28 19:24:19.387 - Hotkey registered: Hotkey: Ctrl + Alt + Print Screen, Description: Захват области, Job: RectangleRegion
+2021-02-28 19:24:19.389 - HotkeyManager started.
+2021-02-28 19:24:19.390 - WatchFolderManager started.
+2021-02-28 19:35:00.504 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-28 19:35:00.507 - Executing: Захват области (Облегченный)
+2021-02-28 19:35:03.460 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-02-28 19:35:03.460 - Executing: Захват области (Облегченный)
+2021-02-28 19:35:06.390 - Task in queue. Job: Job, Type: Image, Host: 
+2021-02-28 19:35:06.431 - Task status: Preparing
+2021-02-28 19:35:06.460 - Image copied to clipboard.
+2021-02-28 19:35:06.480 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-02\YB6JvhMsLp.png
+2021-02-28 19:35:06.493 - Task completed. Filename: YB6JvhMsLp.png, Duration: 67 ms
+2021-02-28 20:48:55.724 - Executing: Открыть главное окно
+2021-02-28 20:48:58.999 - Exception:
+System.ArgumentException: Дескриптор Win32, переданный Icon, является недопустимым либо неверного типа.
+   в System.Drawing.Icon..ctor(IntPtr handle, Boolean takeOwnership)
+   в System.Drawing.Icon.FromHandle(IntPtr handle)
+   в ShareX.HelpersLib.NativeMethods.GetFileIcon(String filePath, Boolean isSmallIcon)
+   в ShareX.HelpersLib.ImageFilesCache.GetFileIconAsImage(String filePath, Boolean isSmallIcon)
+   в ShareX.MainForm.UpdateActionsMenu(String filePath)
+2021-02-28 20:50:09.980 - ApplicationConfig save started: C:\Users\}repeat\Documents\ShareX\ApplicationConfig.json
+2021-02-28 20:50:09.981 - UploadersConfig save started: C:\Users\}repeat\Documents\ShareX\UploadersConfig.json
+2021-02-28 20:50:09.982 - HotkeysConfig save started: C:\Users\}repeat\Documents\ShareX\HotkeysConfig.json
+2021-02-28 20:50:10.076 - UploadersConfig save successful: C:\Users\}repeat\Documents\ShareX\UploadersConfig.json
+2021-02-28 20:50:10.132 - HotkeysConfig save successful: C:\Users\}repeat\Documents\ShareX\HotkeysConfig.json
+2021-02-28 20:50:10.154 - ApplicationConfig save successful: C:\Users\}repeat\Documents\ShareX\ApplicationConfig.json
+2021-03-01 00:52:39.748 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-03-01 00:52:39.749 - Executing: Захват области (Облегченный)
+2021-03-01 00:52:41.620 - Task in queue. Job: Job, Type: Image, Host: 
+2021-03-01 00:52:41.653 - Task status: Preparing
+2021-03-01 00:52:41.674 - Image copied to clipboard.
+2021-03-01 00:52:41.691 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-03\ELCobdjeQs.png
+2021-03-01 00:52:41.695 - Task completed. Filename: ELCobdjeQs.png, Duration: 44 ms
+2021-03-01 02:19:55.669 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-03-01 02:19:55.669 - Executing: Захват области (Облегченный)
+2021-03-01 02:20:01.972 - Task in queue. Job: Job, Type: Image, Host: 
+2021-03-01 02:20:01.995 - Task status: Preparing
+2021-03-01 02:20:02.080 - Image copied to clipboard.
+2021-03-01 02:20:02.107 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-03\N4OVyEO9fk.png
+2021-03-01 02:20:02.119 - Task completed. Filename: N4OVyEO9fk.png, Duration: 125 ms
+2021-03-01 02:29:44.834 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-03-01 02:29:44.834 - Executing: Захват области (Облегченный)
+2021-03-01 02:29:48.380 - Task in queue. Job: Job, Type: Image, Host: 
+2021-03-01 02:29:48.408 - Task status: Preparing
+2021-03-01 02:29:48.428 - Image copied to clipboard.
+2021-03-01 02:29:48.437 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-03\FFtdOoNSmm.png
+2021-03-01 02:29:48.442 - Task completed. Filename: FFtdOoNSmm.png, Duration: 35 ms
+2021-03-01 10:36:53.377 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-03-01 10:36:53.377 - Executing: Захват области (Облегченный)
+2021-03-01 10:36:55.827 - Task in queue. Job: Job, Type: Image, Host: 
+2021-03-01 10:36:55.846 - Task status: Preparing
+2021-03-01 10:36:55.893 - Image copied to clipboard.
+2021-03-01 10:36:55.909 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-03\DVutOQclZe.png
+2021-03-01 10:36:55.914 - Task completed. Filename: DVutOQclZe.png, Duration: 70 ms
+2021-03-01 10:39:18.753 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-03-01 10:39:18.753 - Executing: Захват области (Облегченный)
+2021-03-01 10:39:25.939 - Task in queue. Job: Job, Type: Image, Host: 
+2021-03-01 10:39:25.960 - Task status: Preparing
+2021-03-01 10:39:25.973 - Image copied to clipboard.
+2021-03-01 10:39:25.980 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-03\V6AMLVUEhr.png
+2021-03-01 10:39:25.985 - Task completed. Filename: V6AMLVUEhr.png, Duration: 26 ms
+2021-03-01 17:43:10.649 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-03-01 17:43:10.650 - Executing: Захват области (Облегченный)
+2021-03-01 17:43:15.533 - Task in queue. Job: Job, Type: Image, Host: 
+2021-03-01 17:43:15.562 - Task status: Preparing
+2021-03-01 17:43:15.591 - Image copied to clipboard.
+2021-03-01 17:43:15.623 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-03\3qTIPKv0Gx.png
+2021-03-01 17:43:15.627 - Task completed. Filename: 3qTIPKv0Gx.png, Duration: 65 ms
+2021-03-01 19:41:27.943 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-03-01 19:41:27.943 - Executing: Захват области (Облегченный)
+2021-03-01 19:41:34.554 - Task in queue. Job: Job, Type: Image, Host: 
+2021-03-01 19:41:34.576 - Task status: Preparing
+2021-03-01 19:41:34.606 - Image copied to clipboard.
+2021-03-01 19:41:34.626 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-03\tQNM7LlL7r.png
+2021-03-01 19:41:34.630 - Task completed. Filename: tQNM7LlL7r.png, Duration: 56 ms
+2021-03-01 20:05:54.559 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-03-01 20:05:54.559 - Executing: Захват области (Облегченный)
+2021-03-01 20:05:57.533 - Task in queue. Job: Job, Type: Image, Host: 
+2021-03-01 20:05:57.578 - Task status: Preparing
+2021-03-01 20:05:57.589 - Image copied to clipboard.
+2021-03-01 20:05:57.607 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-03\bGMVA5nkSV.png
+2021-03-01 20:05:57.609 - Task completed. Filename: bGMVA5nkSV.png, Duration: 32 ms
+2021-03-01 20:16:07.799 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-03-01 20:16:07.799 - Executing: Захват области (Облегченный)
+2021-03-01 20:16:10.079 - Task in queue. Job: Job, Type: Image, Host: 
+2021-03-01 20:16:10.102 - Task status: Preparing
+2021-03-01 20:16:10.114 - Image copied to clipboard.
+2021-03-01 20:16:10.121 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-03\Og07sB7V5z.png
+2021-03-01 20:16:10.124 - Task completed. Filename: Og07sB7V5z.png, Duration: 24 ms
+2021-03-01 20:44:06.991 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-03-01 20:44:06.991 - Executing: Захват области (Облегченный)
+2021-03-01 20:44:09.064 - Task in queue. Job: Job, Type: Image, Host: 
+2021-03-01 20:44:09.087 - Task status: Preparing
+2021-03-01 20:44:09.109 - Image copied to clipboard.
+2021-03-01 20:44:09.122 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-03\LeVcJC7x8L.png
+2021-03-01 20:44:09.127 - Task completed. Filename: LeVcJC7x8L.png, Duration: 41 ms
+2021-03-01 20:56:07.735 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-03-01 20:56:07.735 - Executing: Захват области (Облегченный)
+2021-03-01 20:56:09.801 - Task in queue. Job: Job, Type: Image, Host: 
+2021-03-01 20:56:09.822 - Task status: Preparing
+2021-03-01 20:56:09.839 - Image copied to clipboard.
+2021-03-01 20:56:09.858 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-03\EyLQvTiNpY.png
+2021-03-01 20:56:09.861 - Task completed. Filename: EyLQvTiNpY.png, Duration: 40 ms
+2021-03-01 21:39:09.505 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-03-01 21:39:09.506 - Executing: Захват области (Облегченный)
+2021-03-01 21:39:11.848 - Task in queue. Job: Job, Type: Image, Host: 
+2021-03-01 21:39:11.881 - Task status: Preparing
+2021-03-01 21:39:11.912 - Image copied to clipboard.
+2021-03-01 21:39:11.929 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-03\LlQa1zvaKv.png
+2021-03-01 21:39:11.934 - Task completed. Filename: LlQa1zvaKv.png, Duration: 53 ms
+2021-03-01 21:41:58.648 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-03-01 21:41:58.648 - Executing: Захват области (Облегченный)
+2021-03-01 21:42:26.176 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-03-01 21:42:26.176 - Executing: Захват области (Облегченный)
+2021-03-01 21:42:28.733 - Task in queue. Job: Job, Type: Image, Host: 
+2021-03-01 21:42:28.751 - Task status: Preparing
+2021-03-01 21:42:28.773 - Image copied to clipboard.
+2021-03-01 21:42:28.784 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-03\B2qGmpE7TW.png
+2021-03-01 21:42:28.786 - Task completed. Filename: B2qGmpE7TW.png, Duration: 36 ms
+2021-03-01 22:14:20.592 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-03-01 22:14:20.592 - Executing: Захват области (Облегченный)
+2021-03-01 22:14:23.597 - Task in queue. Job: Job, Type: Image, Host: 
+2021-03-01 22:14:23.626 - Task status: Preparing
+2021-03-01 22:14:23.657 - Image copied to clipboard.
+2021-03-01 22:14:23.680 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-03\oe2QQDx5Z2.png
+2021-03-01 22:14:23.685 - Task completed. Filename: oe2QQDx5Z2.png, Duration: 61 ms
+2021-03-02 17:56:59.190 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-03-02 17:56:59.191 - Executing: Захват области (Облегченный)
+2021-03-02 17:57:03.475 - Task in queue. Job: Job, Type: Image, Host: 
+2021-03-02 17:57:03.526 - Task status: Preparing
+2021-03-02 17:57:03.612 - Image copied to clipboard.
+2021-03-02 17:57:03.648 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-03\qJLVnaqwqe.png
+2021-03-02 17:57:03.656 - Task completed. Filename: qJLVnaqwqe.png, Duration: 132 ms
+2021-03-02 19:44:45.014 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-03-02 19:44:45.014 - Executing: Захват области (Облегченный)
+2021-03-02 19:44:48.965 - Task in queue. Job: Job, Type: Image, Host: 
+2021-03-02 19:44:48.991 - Task status: Preparing
+2021-03-02 19:44:49.027 - Image copied to clipboard.
+2021-03-02 19:44:49.047 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-03\hD2MTDqYHC.png
+2021-03-02 19:44:49.052 - Task completed. Filename: hD2MTDqYHC.png, Duration: 63 ms
+2021-03-02 21:35:57.349 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-03-02 21:35:57.349 - Executing: Захват области (Облегченный)
+2021-03-02 21:36:02.941 - Task in queue. Job: Job, Type: Image, Host: 
+2021-03-02 21:36:02.963 - Task status: Preparing
+2021-03-02 21:36:02.990 - Image copied to clipboard.
+2021-03-02 21:36:03.007 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-03\FLLCgin6eG.png
+2021-03-02 21:36:03.012 - Task completed. Filename: FLLCgin6eG.png, Duration: 49 ms
+2021-03-03 00:50:40.522 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-03-03 00:50:40.523 - Executing: Захват области (Облегченный)
+2021-03-03 00:50:42.612 - Task in queue. Job: Job, Type: Image, Host: 
+2021-03-03 00:50:42.640 - Task status: Preparing
+2021-03-03 00:50:42.653 - Image copied to clipboard.
+2021-03-03 00:50:42.671 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-03\Wm5VOlLIsc.png
+2021-03-03 00:50:42.677 - Task completed. Filename: Wm5VOlLIsc.png, Duration: 39 ms
+2021-03-03 00:52:07.984 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-03-03 00:52:07.984 - Executing: Захват области (Облегченный)
+2021-03-03 00:52:11.063 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-03-03 00:52:11.063 - Executing: Захват области (Облегченный)
+2021-03-03 00:52:15.743 - Task in queue. Job: Job, Type: Image, Host: 
+2021-03-03 00:52:15.764 - Task status: Preparing
+2021-03-03 00:52:15.909 - Image copied to clipboard.
+2021-03-03 00:52:15.948 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-03\2pYiR1yWP2.png
+2021-03-03 00:52:15.966 - Task completed. Filename: 2pYiR1yWP2.png, Duration: 203 ms
+2021-03-03 00:52:35.839 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-03-03 00:52:35.839 - Executing: Захват области (Облегченный)
+2021-03-03 00:52:43.015 - Task in queue. Job: Job, Type: Image, Host: 
+2021-03-03 00:52:43.036 - Task status: Preparing
+2021-03-03 00:52:43.101 - Image copied to clipboard.
+2021-03-03 00:52:43.120 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-03\TLIzr3NME6.png
+2021-03-03 00:52:43.128 - Task completed. Filename: TLIzr3NME6.png, Duration: 93 ms
+2021-03-03 01:07:32.631 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2021-03-03 01:07:32.631 - Executing: Захват области (Облегченный)
+2021-03-03 01:07:34.579 - Task in queue. Job: Job, Type: Image, Host: 
+2021-03-03 01:07:34.604 - Task status: Preparing
+2021-03-03 01:07:34.614 - Image copied to clipboard.
+2021-03-03 01:07:34.629 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2021-03\yQZvkpqv5Q.png
+2021-03-03 01:07:34.632 - Task completed. Filename: yQZvkpqv5Q.png, Duration: 29 ms
+2021-03-03 01:43:53.604 - ShareX closing.
+2021-03-03 01:43:53.631 - ApplicationConfig save started: C:\Users\}repeat\Documents\ShareX\ApplicationConfig.json
+2021-03-03 01:43:53.881 - ApplicationConfig save successful: C:\Users\}repeat\Documents\ShareX\ApplicationConfig.json
+2021-03-03 01:43:53.890 - UploadersConfig save started: C:\Users\}repeat\Documents\ShareX\UploadersConfig.json
+2021-03-03 01:43:53.974 - UploadersConfig save successful: C:\Users\}repeat\Documents\ShareX\UploadersConfig.json
+2021-03-03 01:43:53.984 - HotkeysConfig save started: C:\Users\}repeat\Documents\ShareX\HotkeysConfig.json
+2021-03-03 01:43:54.122 - HotkeysConfig save successful: C:\Users\}repeat\Documents\ShareX\HotkeysConfig.json
+2021-03-03 01:43:54.131 - ShareX closed.

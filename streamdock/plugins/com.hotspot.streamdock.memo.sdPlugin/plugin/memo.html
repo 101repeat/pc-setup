@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="zh">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>实用便签</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            min-width: 400px;
+            background-color: #cddff0;
+        }
+
+        .logo {
+            width: 100%;
+            display: flex;
+            margin-top: 20px;
+            align-items: center;
+            flex-direction: column;
+            justify-content: center;
+        }
+
+        .logo img {
+            width: 66px;
+            height: 66px;
+            border-radius: 8px;
+        }
+
+        .logo div {
+            font-size: 26px;
+            margin-top: 16px;
+            font-weight: 700;
+            color: #242424;
+        }
+
+        .container {
+            width: 100%;
+            display: flex;
+            margin-top: 30px;
+            align-items: center;
+            flex-direction: column;
+        }
+
+        .container .item {
+            width: 90%;
+            padding: 12px;
+            border-radius: 4px;
+            margin-bottom: 20px;
+            box-sizing: border-box;
+            background-color: #fff;
+        }
+
+        .container .item .title {
+            color: #222;
+            font-size: 20px;
+            font-weight: 700;
+        }
+
+        .container .item .content {
+            color: #999;
+            font-size: 14px;
+            padding-top: 8px;
+        }
+
+        .container .item .other {
+            color: #999;
+            display: flex;
+            font-size: 14px;
+            padding-top: 10px;
+            align-items: center;
+            justify-content: space-between;
+        }
+
+        .container .item .delete {
+            cursor: pointer;
+            color: rgb(255, 107, 107);
+        }
+    </style>
+</head>
+
+<body>
+    <div class="logo">
+        <img src="../static/img/memo.png" alt="logo">
+        <div class="logoTitle"></div>
+    </div>
+    <div class="container"></div>
+    <script>
+        let params = window.location.search;
+        let { language, context, list } = JSON.parse(decodeURI(params.split('=')[1])); // 解码
+
+        /* 简单封装 */
+        function $(selector) {
+            return document.querySelector(selector);
+        }
+
+        /* 国际化 */
+        let $local = {
+            zh_CN: {
+                "欢迎使用实用便签": "欢迎使用实用便签",
+                "删除便签": "删除便签"
+            },
+            en: {
+                "欢迎使用实用便签": "Welcome MEMO NOTE",
+                "删除便签": "Delete"
+            },
+            ja: {
+                "欢迎使用实用便签": "実用的な付箋へようこそ",
+                "删除便签": "削除"
+            },
+            it: {
+                "欢迎使用实用便签": "Benvenuti alle note pratiche",
+                "删除便签": "Elimina nota"
+            },
+            de: {
+                "欢迎使用实用便签": "Willkommen bei Praxishinweisen",
+                "删除便签": "Notiz löschen"
+            },
+            pt: {
+                "欢迎使用实用便签": "Bem-vindo às Notas Práticas",
+                "删除便签": "Apagar a nota"
+            },
+            es: {
+                "欢迎使用实用便签": "Bienvenido a la nota práctica",
+                "删除便签": "Eliminar la nota"
+            },
+            fr: {
+                "欢迎使用实用便签": "Bienvenue à la note pratique",
+                "删除便签": "Supprimer la note"
+            },
+            ko: {
+                "欢迎使用实用便签": "실용적인 메모 시작",
+                "删除便签": "메모 삭제"
+            },
+            ru: {
+                "欢迎使用实用便签": "Добро пожаловать с полезной подписью.",
+                "删除便签": "Удалить подпись"
+            }
+        };
+
+        const $lang = (str) => {
+            const localString = $local[language] || $local['en'];
+            return localString[str];
+        };
+        const $Z = (num) => num < 10 ? "0" + num : num;
+        $('.logoTitle').innerHTML = $lang("欢迎使用实用便签");
+
+        /* 根据时间戳删除 */
+        function deleteEvent(time) {
+            localStorage.setItem(context, time); // 通知监听方谁被删除了
+            let index = list.findIndex(item => item.time === time);
+            list.splice(index, 1);
+            render();
+        }
+
+        /* 渲染函数 */
+        function render(str = '') {
+            list?.forEach(item => {
+                let time = new Date(item.time);
+                let Y = time.getFullYear();
+                let M = time.getMonth() + 1;
+                let D = time.getDay();
+                let h = time.getHours();
+                let m = time.getMinutes();
+                let s = time.getSeconds();
+                str += `
+                <div class="item">
+                    <div class="title">${item.title}</div>
+                    <div class="content">${item.content}</div>
+                    <div class="other">
+                        <div>${Y}-${$Z(M)}-${$Z(D)} ${$Z(h)}:${$Z(m)}:${$Z(s)}</div>
+                        <div class="delete" onclick="deleteEvent(${item.time})">
+                            ${$lang("删除便签")}
+                        </div>
+                    </div>
+                </div>`;
+            });
+            $('.container').innerHTML = str;
+        }
+        render()
+    </script>
+</body>
+
+</html>

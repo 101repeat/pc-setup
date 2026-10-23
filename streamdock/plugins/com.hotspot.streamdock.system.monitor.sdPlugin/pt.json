@@ -1,0 +1,78 @@
+{
+    "Description": "Este é um monitor de desempenho do sistema",
+    "Name": "Monitor de desempenho do sistema",
+    "Category": "Monitor de desempenho do sistema",
+    "com.hotspot.stream.memory": {
+        "Name": "Memória",
+        "Tooltip": "Exibir o uso atual da memória"
+    },
+    "com.hotspot.stream.cpu": {
+        "Name": "utilização do CPU",
+        "Tooltip": "Exibir o uso atual da CPU"
+    },
+    "com.hotspot.stream.cpu.temperature": {
+        "Name": "Temperatura da CPU",
+        "Tooltip": "Exibir a temperatura atual da CPU"
+    },
+    "com.hotspot.stream.Cpu_Clock": {
+        "Name": "Frequência da CPU",
+        "Tooltip": "Exibir a frequência atual da CPU"
+    },
+    "com.hotspot.stream.Cpu_Package_Power": {
+        "Name": "CPU pacote poder", 
+        "Tooltip": "Mostra a potência encapsulada da CPU atual"
+    },
+    "com.hotspot.stream.NetWork": {
+        "Name": "Velocidade da Internet",
+        "Tooltip": "Exibe as velocidades atuais de upload e download"
+    },
+    "com.hotspot.stream.PhysicalDisk": {
+        "Name": "disco rígido",
+        "Tooltip": "Exibir o uso atual do disco rígido"
+    },
+    "com.hotspot.stream.Gpu_Temperature": {
+        "Name": "Temperatura da GPU",
+        "Tooltip": "Exibir a temperatura atual da GPU"
+    },
+    "com.hotspot.stream.Gpu_Core_Clock": {
+        "Name": "Frequência do núcleo da GPU",
+        "Tooltip": "Exibe a frequência do núcleo atual da GPU"
+    },
+    "com.hotspot.stream.Gpu_Core_Usage": {
+        "Name": "Uso do núcleo da GPU",
+        "Tooltip": "Exibir o uso atual do núcleo da GPU"
+    },
+    "com.hotspot.stream.Gpu_Memory_Clock": {
+        "Name": "Frequência de memória GPU",
+        "Tooltip": "Exibe a frequência atual da memória da GPU"
+    },
+    "com.hotspot.stream.Gpu_Memory_Usage": {
+        "Name": "Uso de memória GPU",
+        "Tooltip": "Exibir o uso atual de memória da GPU"
+    },
+    "Localization": {
+        "1": "1",
+        "120": "120",
+        "CPU温度": "Temperatura da CPU",
+        "CPU占用率": "utilização do CPU",
+        "内存占用率": "Uso de memória",
+        "硬盘剩余空间": "Espaço restante no disco rígido",
+        "背景": "fundo",
+        "简约彩色": "cor simples",
+        "赛博朋克": "ciberpunk",
+        "模式": "modelo",
+        "单个磁盘": "disco único",
+        "磁盘循环": "loop de disco",
+        "盘名": "nome do disco",
+        "低阈值": "baixo limiar",
+        "危险阈值": "limiar de perigo",
+        "背景切换": "Troca de plano de fundo",
+        "选择文件...": "Selecione um documento...",
+        "显示盘符名": "Exibir nome da letra da unidade",
+        "进度条倒置": "Barra de progresso de cabeça para baixo",
+        "切换频率": "Freqüência de comutação",
+        "秒": "Segundo",
+        "(秒)": "(Segundo)",
+        "仅限126*126像素图片": "Apenas imagens de 126*126 pixels"
+    }
+}

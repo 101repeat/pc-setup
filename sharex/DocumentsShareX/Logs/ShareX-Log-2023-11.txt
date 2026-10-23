@@ -1,0 +1,34 @@
+﻿2023-11-05 23:10:46.294 - ShareX starting.
+2023-11-05 23:10:46.297 - Version: 15.0
+2023-11-05 23:10:46.297 - Build: Release
+2023-11-05 23:10:46.297 - Command line: "C:\Program Files\ShareX\ShareX.exe" -silent
+2023-11-05 23:10:46.297 - Personal path: C:\Users\}repeat\Documents\ShareX
+2023-11-05 23:10:46.298 - Operating system: Windows 10 Pro (64-bit)
+2023-11-05 23:10:46.298 - Running as elevated process: False
+2023-11-05 23:10:46.309 - Flags: SilentRun
+2023-11-05 23:10:46.339 - ApplicationConfig load started: C:\Users\}repeat\Documents\ShareX\ApplicationConfig.json
+2023-11-05 23:10:46.770 - ApplicationConfig load finished: C:\Users\}repeat\Documents\ShareX\ApplicationConfig.json
+2023-11-05 23:10:46.779 - Language changed to: Русский (Россия)
+2023-11-05 23:10:46.780 - MainForm init started.
+2023-11-05 23:10:46.802 - UploadersConfig load started: C:\Users\}repeat\Documents\ShareX\UploadersConfig.json
+2023-11-05 23:10:46.891 - UploadersConfig load finished: C:\Users\}repeat\Documents\ShareX\UploadersConfig.json
+2023-11-05 23:10:46.913 - HotkeysConfig load started: C:\Users\}repeat\Documents\ShareX\HotkeysConfig.json
+2023-11-05 23:10:47.039 - HotkeysConfig load finished: C:\Users\}repeat\Documents\ShareX\HotkeysConfig.json
+2023-11-05 23:10:47.164 - MainForm init finished.
+2023-11-05 23:10:47.478 - Startup time: 1205 ms
+2023-11-05 23:10:47.483 - CommandLine: -silent
+2023-11-05 23:10:47.494 - Hotkey registered: Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2023-11-05 23:10:47.494 - Hotkey registered: Hotkey: Ctrl + Print Screen, Description: Захват всего экрана, Job: PrintScreen
+2023-11-05 23:10:47.494 - Hotkey registered: Hotkey: Alt + Print Screen, Description: Захват активного окна, Job: ActiveWindow
+2023-11-05 23:10:47.494 - Hotkey registered: Hotkey: Shift + Print Screen, Description: Начать/Остановить запись области экрана, Job: ScreenRecorder
+2023-11-05 23:10:47.494 - Hotkey registered: Hotkey: Ctrl + Shift + Print Screen, Description: Начать/Остановить запись области экрана (GIF), Job: ScreenRecorderGIF
+2023-11-05 23:10:47.494 - Hotkey registered: Hotkey: Ctrl + Alt + Print Screen, Description: Захват области, Job: RectangleRegion
+2023-11-05 23:10:47.496 - HotkeyManager started.
+2023-11-05 23:10:47.496 - WatchFolderManager started.
+2023-11-06 02:13:14.906 - Hotkey triggered. Hotkey: Print Screen, Description: Захват области (Облегченный), Job: RectangleLight
+2023-11-06 02:13:14.912 - Executing: Захват области (Облегченный)
+2023-11-06 02:13:16.179 - Task in queue. Job: Job, Type: Image, Host: 
+2023-11-06 02:13:16.241 - Task status: Preparing
+2023-11-06 02:13:16.322 - Image copied to clipboard.
+2023-11-06 02:13:16.344 - Image saved to file: C:\Users\}repeat\Documents\ShareX\Screenshots\2023-11\wPvnKYwoF7.png
+2023-11-06 02:13:16.357 - Task completed. File name: wPvnKYwoF7.png, Duration: 113 ms

@@ -1,0 +1,106 @@
+{
+    "Description": "This is a collection of hotkeys for Adobe Premiere Pro ",
+    "Name": "Adobe Premiere Pro",
+    "Category": "Adobe Premiere Pro",
+    "com.hotspot.streamdock.hotkey.premiere.addedit": {
+        "Name": "Add Edit",
+        "Tooltip": "Adobe Premiere Pro's Add Edit shortcut keys"
+    },
+    "com.hotspot.streamdock.hotkey.premiere.addmarker": {
+        "Name": "Add Marker",
+        "Tooltip": "Adobe Premiere Pro's Add Marker shortcut keys"
+    },
+    "com.hotspot.streamdock.hotkey.premiere.applydefaulttransitions": {
+        "Name": "Apply Default Transitions",
+        "Tooltip": "Adobe Premiere Pro's Apply Default Transitions shortcut keys"
+    },
+    "com.hotspot.streamdock.hotkey.premiere.copy": {
+        "Name": "Copy",
+        "Tooltip": "Adobe Premiere Pro's Copy shortcut keys"
+    },
+    "com.hotspot.streamdock.hotkey..premiere.cut": {
+        "Name": "Cut",
+        "Tooltip": "Adobe Premiere Pro's Cut shortcut keys"
+    },
+    "com.hotspot.streamdock.hotkey.premiere.decreaseaudiotracksheight": {
+        "Name": "Decrease Audio Tracks Height",
+        "Tooltip": "Adobe Premiere Pro's Decrease Audio Tracks Height shortcut keys"
+    },
+    "com.hotspot.streamdock.hotkey.premiere.decreasevideotracksheight": {
+        "Name": "Decrease Video Tracks Height",
+        "Tooltip": "Adobe Premiere Pro's Decrease Video Tracks Height shortcut keys"
+    },
+    "com.hotspot.streamdock.hotkey.premiere.duplicate": {
+        "Name": "Duplicate",
+        "Tooltip": "Adobe Premiere Pro's Duplicate shortcut keys "
+    },
+    "com.hotspot.streamdock.hotkey.premiere.effects": {
+        "Name": "Effects",
+        "Tooltip": "Adobe Premiere Pro's Effects shortcut keys"
+    },
+
+    "com.hotspot.streamdock.hotkey.premiere.fullscreen": {
+        "Name": "Full Screen",
+        "Tooltip": "Adobe Premiere Pro's Full Screen shortcut keys"
+    },
+    "com.hotspot.streamdock.hotkey.premiere.group": {
+        "Name": "Group",
+        "Tooltip": "Adobe Premiere Pro's Group shortcut keys"
+    },
+
+    "com.hotspot.streamdock.hotkey.premiere.link": {
+        "Name": "Link",
+        "Tooltip": "Adobe Premiere Pro's Link shortcut keys"
+    },
+    "com.hotspot.streamdock.premiere.markclip": {
+        "Name": "Mark Clip",
+        "Tooltip": "Adobe Premiere Pro's Mark Clip shortcut keys"
+    },
+    "com.hotspot.streamdock.hotkey.premiere.markin": {
+        "Name": "Mark In",
+        "Tooltip": "Adobe Premiere Pro's Mark In shortcut keys"
+    },
+    "com.hotspot.streamdock.hotkey.premiere.markout": {
+        "Name": "Mark Out",
+        "Tooltip": "Adobe Premiere Pro's Mark Out shortcut keys"
+    },
+    "com.hotspot.streamdock.hotkey.premiere.overwrite": {
+        "Name": "Overwrite",
+        "Tooltip": "Adobe Premiere Pro's Overwrite shortcut keys"
+    },
+    "com.hotspot.streamdock.hotkey.premiere.paste": {
+        "Name": "Paste",
+        "Tooltip": "Adobe Premiere Pro's Paste shortcut keys"
+    },
+    "com.hotspot.streamdock.hotkey.premiere.playaround": {
+        "Name": "Play Around",
+        "Tooltip": "Adobe Premiere Pro's Play Around shortcut keys"
+    },
+    "com.hotspot.streamdock.hotkey.premiere.rippledelete": {
+        "Name": "Ripple Delete",
+        "Tooltip": "Adobe Premiere Pro's Ripple Delete shortcut keys"
+    },
+    "com.hotspot.streamdock.hotkey.premiere.save": {
+        "Name": "Save",
+        "Tooltip": "Adobe Premiere Pro's Save shortcut keys "
+    },
+    "com.hotspot.streamdock.hotkey.premiere.selectiontool": {
+        "Name": "Selection Tool",
+        "Tooltip": "Adobe Premiere Pro's  Selection Tool shortcut keys"
+    },
+
+    "com.hotspot.streamdock.hotkey.premiere.showguides": {
+        "Name": "Show Guides",
+        "Tooltip": "Adobe Premiere Pro's Show Guides shortcut keys"
+    },
+
+    "com.hotspot.streamdock.hotkey.premiere.typetool": {
+        "Name": "Type Tool",
+        "Tooltip": "Adobe Premiere Pro's Type Tool shortcut keys"
+    },
+
+    "com.hotspot.streamdock.hotkey.premiere.undo": {
+        "Name": "Undo",
+        "Tooltip": "Adobe Premiere Pro's Undo shortcut keys"
+    }
+}

@@ -1,0 +1,318 @@
+{
+  "Actions": [
+    {
+      "Icon": "images/actions/MemoryUsage",
+      "Name": "Memory",
+      "States": [
+        {
+          "Image": "images/actions/MemoryUsageImage",
+          "TitleAlignment": "middle",
+          "FSize": "13",
+          "FFamily": "HarmonyOS Sans"
+        },
+        {
+          "Image": "images/actions/MemoryUsageImageState2",
+          "TitleAlignment": "middle",
+          "FSize": "13",
+          "FFamily": "HarmonyOS Sans"
+        }
+      ],
+      "Controllers": [
+				"Keypad",
+        "Information",
+        "SecondaryScreen"
+			],
+      "SupportedInMultiActions": false,
+      "Tooltip": "Displays the current memory usage",
+      "UUID": "com.hotspot.stream.memory",
+      "PropertyInspectorPath": "PropertyInspector/memoryUsageIndex.html"
+    },
+    {
+      "Icon": "images/actions/CpuUsage",
+      "Name": "CPU(%)",
+      "States": [
+        {
+          "Image": "images/actions/CpuUsageImage",
+          "TitleAlignment": "middle",
+          "FSize": "13",
+          "FFamily": "HarmonyOS Sans"
+        },
+        {
+          "Image": "images/actions/CpuUsageImageState2",
+          "TitleAlignment": "middle",
+          "FSize": "13",
+          "FFamily": "HarmonyOS Sans"
+        }
+      ],
+      "Controllers": [
+				"Keypad",
+        "Information",
+        "SecondaryScreen"
+			],
+      "SupportedInMultiActions": false,
+      "Tooltip": "Displays the current CPU usage",
+      "UUID": "com.hotspot.stream.cpu",
+      "PropertyInspectorPath": "PropertyInspector/cpuUsageIndex.html"
+    },
+    {
+      "Icon": "images/actions/CpuTemperature",
+      "Name": "Cpu Temperature",
+      "States": [
+        {
+          "Image": "images/actions/CpuTemperatureImage",
+          "TitleAlignment": "middle",
+          "FSize": "13",
+          "FFamily": "HarmonyOS Sans"
+        },
+        {
+          "Image": "images/actions/CpuTemperatureImageState2",
+          "TitleAlignment": "middle",
+          "FSize": "13",
+          "FFamily": "HarmonyOS Sans"
+        }
+      ],
+      "Controllers": [
+				"Keypad",
+        "Information",
+        "SecondaryScreen"
+			],
+      "SupportedInMultiActions": false,
+      "Tooltip": "Displays the current CPU temperature",
+      "UUID": "com.hotspot.stream.cpu.temperature",
+      "PropertyInspectorPath": "PropertyInspector/cpuTemperatureIndex.html"
+    },
+    {
+      "Icon": "images/actions/CpuTemperature",
+      "Name": "Cpu Clock",
+      "States": [
+        {
+          "Image": "images/actions/CpuTemperatureImage",
+          "TitleAlignment": "middle",
+          "FSize": "13",
+          "FFamily": "HarmonyOS Sans"
+        },
+        {
+          "Image": "images/actions/CpuTemperatureImageState1",
+          "TitleAlignment": "middle",
+          "FSize": "13",
+          "FFamily": "HarmonyOS Sans"
+        }
+      ],
+      "Controllers": [
+				"Keypad",
+        "Information",
+        "SecondaryScreen"
+			],
+      "SupportedInMultiActions": false,
+      "Tooltip": "Displays the current CPU Clock",
+      "UUID": "com.hotspot.stream.Cpu_Clock",
+      "PropertyInspectorPath": "PropertyInspector/cpuClockIndex.html"
+    },
+    {
+      "Icon": "images/actions/CpuTemperature",
+      "Name": "Cpu Clock",
+      "States": [
+        {
+          "Image": "images/actions/CpuTemperatureImage",
+          "TitleAlignment": "middle",
+          "FSize": "13",
+          "FFamily": "HarmonyOS Sans"
+        },
+        {
+          "Image": "images/actions/CpuTemperatureImageState2",
+          "TitleAlignment": "middle",
+          "FSize": "13",
+          "FFamily": "HarmonyOS Sans"
+        }
+      ],
+      "Controllers": [
+				"Keypad",
+        "Information",
+        "SecondaryScreen"
+			],
+      "SupportedInMultiActions": false,
+      "Tooltip": "Displays the current CPU Package Power",
+      "UUID": "com.hotspot.stream.Cpu_Package_Power",
+      "PropertyInspectorPath": "PropertyInspector/cpuPackagePower.html"
+    },
+    {
+      "Icon": "images/actions/NetWork_HardDisk/40wk.png",
+      "Name": "NetWork",
+      "States": [
+        {
+          "Image": "images/actions/NetWork_HardDisk/NetWork_126",
+          "TitleAlignment": "middle",
+          "FSize": "12",
+          "FFamily": "HarmonyOS Sans"
+        }
+      ],
+      "Controllers": [
+				"Keypad",
+        "Information",
+        "SecondaryScreen"
+			],
+      "SupportedInMultiActions": false,
+      "Tooltip": "Display current network speed",
+      "UUID": "com.hotspot.stream.NetWork",
+      "PropertyInspectorPath": "PropertyInspector/NetWorkIndex.html"
+    },
+    {
+      "Icon": "images/actions/NetWork_HardDisk/40yp.png",
+      "Name": "Disk",
+      "States": [
+        {
+          "Image": "images\\actions\\HardDisk_Choosen.png",
+          "TitleAlignment": "middle",
+          "FSize": "13",
+          "FFamily": "HarmonyOS Sans"
+        }
+      ],
+      "Controllers": [
+				"Keypad",
+        "Information",
+        "SecondaryScreen"
+			],
+      "SupportedInMultiActions": false,
+      "Tooltip": "Display hard drive information",
+      "UUID": "com.hotspot.stream.PhysicalDisk",
+      "PropertyInspectorPath": "PropertyInspector/PhysicalDiskIndex.html"
+    },
+    {
+      "Icon": "images\\actions\\GPU_Icon\\PS-40 GPUwd.png",
+      "Name": "Gpu Temperature",
+      "States": [
+        {
+          "Image": "images\\actions\\GPU_Icon\\PS-126 GPUwd.jpg",
+          "TitleAlignment": "top",
+          "FSize": "13",
+          "FFamily": "HarmonyOS Sans"
+        }
+      ],
+      "Controllers": [
+				"Keypad",
+        "Information",
+        "SecondaryScreen"
+			],
+      "SupportedInMultiActions": false,
+      "Tooltip": "Displays the current GPU temperature",
+      "UUID": "com.hotspot.stream.Gpu_Temperature",
+      "PropertyInspectorPath": "PropertyInspector\\gpuTemperatureIndex.html"
+    },
+    {
+      "Icon": "images/actions/GPU_Icon/PS-40 GPUpl.png",
+      "Name": "Gpu Core Clock",
+      "States": [
+        {
+          "Image": "images/actions/GPU_Icon/PS-126 GPUpl.jpg",
+          "TitleAlignment": "top",
+          "FSize": "13",
+          "FFamily": "HarmonyOS Sans"
+        }
+      ],
+      "Controllers": [
+				"Keypad",
+        "Information",
+        "SecondaryScreen"
+			],
+      "SupportedInMultiActions": false,
+      "Tooltip": "Displays the current GPU core clock",
+      "UUID": "com.hotspot.stream.Gpu_Core_Clock",
+      "PropertyInspectorPath": "PropertyInspector/gpuCoreClockIndex.html"
+    },
+    {
+      "Icon": "images/actions/GPU_Icon/PS-40 GPUsyl.png",
+      "Name": "Gpu Core Usage",
+      "States": [
+        {
+          "Image": "images/actions/GPU_Icon/PS-126 GPUsyl.jpg",
+          "TitleAlignment": "top",
+          "FSize": "13",
+          "FFamily": "HarmonyOS Sans"
+        }
+      ],
+      "Controllers": [
+				"Keypad",
+        "Information",
+        "SecondaryScreen"
+			],
+      "SupportedInMultiActions": false,
+      "Tooltip": "Displays the current GPU core usage",
+      "UUID": "com.hotspot.stream.Gpu_Core_Utility",
+      "PropertyInspectorPath": "PropertyInspector/gpuCoreUsageIndex.html"
+    },
+    {
+      "Icon": "images/actions/GPU_Icon/PS-40 GPUpl.png",
+      "Name": "Gpu Memory Clock",
+      "States": [
+        {
+          "Image": "images/actions/GPU_Icon/PS-126 GPUpl.jpg",
+          "TitleAlignment": "top",
+          "FSize": "13",
+          "FFamily": "HarmonyOS Sans"
+        }
+      ],
+      "Controllers": [
+				"Keypad",
+        "Information",
+        "SecondaryScreen"
+			],
+      "SupportedInMultiActions": false,
+      "Tooltip": "Displays the current GPU memory clock",
+      "UUID": "com.hotspot.stream.Gpu_Memory_Clock",
+      "PropertyInspectorPath": "PropertyInspector/gpuMemoryClockIndex.html"
+    },
+    {
+      "Icon": "images/actions/GPU_Icon/PS-40 GPUsyl.png",
+      "Name": "Gpu Memory Usage",
+      "States": [
+        {
+          "Image": "images/actions/GPU_Icon/PS-126 GPUsyl.jpg",
+          "TitleAlignment": "top",
+          "FSize": "13",
+          "FFamily": "HarmonyOS Sans"
+        }
+      ],
+      "Controllers": [
+				"Keypad",
+        "Information",
+        "SecondaryScreen"
+			],
+      "SupportedInMultiActions": false,
+      "Tooltip": "Displays the current GPU memory usage",
+      "UUID": "com.hotspot.stream.Gpu_Memory_Utility",
+      "PropertyInspectorPath": "PropertyInspector/gpuMemoryUsageIndex.html"
+    }
+  ],
+  "SDKVersion": 1,
+  "Author": "HotSpot",
+
+  "Category": "System Monitor",
+  "CategoryIcon": "images/category/pluginIcon",
+
+  "CodePathWin": "SystemMonitor.exe" ,
+  "CodePathMac": "SystemMonitor",
+
+  "Description": "This is a system performance monitor",
+  "Name": "System Monitor",
+
+  "Icon": "images/category/pluginIcon",
+
+  "URL": "http://video.hotspotek.com.cn/",
+  "Version": "1.3.1",
+
+  "RunAsAdministrator": true,
+  
+  "OS": [
+    {
+      "Platform": "mac",
+      "MinimumVersion": "10.13"
+    },
+    {
+      "Platform": "windows",
+      "MinimumVersion": "7"
+    }
+  ],
+  "Software": {
+    "MinimumVersion": "2.9.121"
+  }
+}

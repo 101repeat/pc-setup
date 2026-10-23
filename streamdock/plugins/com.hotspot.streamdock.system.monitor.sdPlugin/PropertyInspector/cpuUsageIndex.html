@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <title>CPU Usage</title>
+    <link rel="stylesheet" href="./css/sdpi.css">
+    <script src="./js/action.js"></script>
+</head>
+
+<body>
+    <div class="sdpi-wrapper" style="display: none;">
+        <div class="sdpi-heading">CPU占用率</div>
+        <!-- 切1 -->
+        <div class="sdpi-item" id="selectBackground">
+            <div class="sdpi-item-label">背景</div>
+            <select class="sdpi-item-value select" id="beckgroundItem" onchange="updateChange()" style="margin-right: 0">
+                <option value="0">简约彩色</option>
+                <option value="1">赛博朋克</option>
+                <option value="2">progress</option>
+                <option value="3">gradient</option>
+            </select>
+        </div>
+
+        <!-- 阈值 -->
+        <div class="sdpi-item" id="Parent_Low_ThresholdItem" style="display: none;">
+            <div class="sdpi-item-label">低阈值</div>
+            <input class="color_Low_Threshold" type="color" id="Palette_LowThreshold"
+                onchange="palette_LowThreshold_Select_LowThreshold_Color()">
+            <input class="sdpi-item-value select " id="Low_ThresholdItem" oninput="Low_ThresholdItem_saveData()"
+                style="margin-right: 0">
+        </div>
+        <div class="sdpi-item" id="Parent_Critical_ThresholdItem" style="display: none;">
+            <div class="sdpi-item-label">危险阈值</div>
+            <input type="color" id="Palette_CriticalThreshold"
+                onchange="palette_CriticalThreshold_Select_CriticalThreshold_Color()">
+            <input class="sdpi-item-value select " id="Critical_ThresholdItem"
+                oninput="Critical_ThresholdItem_saveData()" style="margin-right: 0">
+        </div>
+    </div>
+    <script src="./js/index.js"></script>
+</body>
+
+</html>

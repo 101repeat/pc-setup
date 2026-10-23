@@ -1,0 +1,78 @@
+{
+    "Description": "これはシステムパフォーマンスモニターです",
+    "Name": "システムパフォーマンスモニター",
+    "Category": "システムパフォーマンスモニター",
+    "com.hotspot.stream.memory": {
+        "Name": "メモリ",
+        "Tooltip": "現在のメモリ使用量を表示する"
+    },
+    "com.hotspot.stream.cpu": {
+        "Name": "CPU使用率",
+        "Tooltip": "現在のCPU使用率を表示する"
+    },
+    "com.hotspot.stream.cpu.temperature": {
+        "Name": "CPU温度",
+        "Tooltip": "現在のCPU温度を表示"
+    },
+    "com.hotspot.stream.Cpu_Clock": {
+        "Name": "CPU周波数",
+        "Tooltip": "現在のCPU周波数を表示します"
+    },
+    "com.hotspot.stream.Cpu_Package_Power": {
+        "Name": "CPUパッケージのパワー", 
+        "Tooltip": "現在のCPUのパッケージ電力を表示します"
+    },
+    "com.hotspot.stream.NetWork": {
+        "Name": "インターネット速度",
+        "Tooltip": "現在のアップロード速度とダウンロード速度を表示します"
+    },
+    "com.hotspot.stream.PhysicalDisk": {
+        "Name": "ハードディスク",
+        "Tooltip": "現在のハードディスクの使用状況を表示する"
+    },
+    "com.hotspot.stream.Gpu_Temperature": {
+        "Name": "GPU温度",
+        "Tooltip": "現在のGPU温度を表示"
+    },
+    "com.hotspot.stream.Gpu_Core_Clock": {
+        "Name": "GPUコア周波数",
+        "Tooltip": "現在のGPUコアの周波数を表示します"
+    },
+    "com.hotspot.stream.Gpu_Core_Usage": {
+        "Name": "GPUコアの使用率",
+        "Tooltip": "現在のGPUコアの使用状況を表示する"
+    },
+    "com.hotspot.stream.Gpu_Memory_Clock": {
+        "Name": "GPUメモリ周波数",
+        "Tooltip": "現在のGPUメモリ周波数を表示します。"
+    },
+    "com.hotspot.stream.Gpu_Memory_Usage": {
+        "Name": "GPUメモリ使用量",
+        "Tooltip": "現在のGPUメモリ使用量を表示する"
+    },
+    "Localization": {
+        "1": "1",
+        "120": "120",
+        "CPU温度": "CPU温度",
+        "CPU占用率": "CPU使用率",
+        "内存占用率": "メモリ使用量",
+        "硬盘剩余空间": "ハードディスクの残り容量",
+        "背景": "背景",
+        "简约彩色": "シンプルな色",
+        "赛博朋克": "サイバーパンク",
+        "模式": "モデル",
+        "单个磁盘": "シングルディスク",
+        "磁盘循环": "ディスクループ",
+        "盘名": "ディスク名",
+        "低阈值": "低い閾値",
+        "危险阈值": "危険閾値",
+        "背景切换": "バックグラウンド切り替え",
+        "选择文件...": "ドキュメントを選択してください...",
+        "显示盘符名": "ドライブ文字名を表示する",
+        "进度条倒置": "進行状況バーが逆さまになる",
+        "切换频率": "スイッチング周波数",
+        "秒": "2番",
+        "(秒)": "（2番目）",
+        "仅限126*126像素图片": "126*126 ピクセルの画像のみ"
+    }
+}

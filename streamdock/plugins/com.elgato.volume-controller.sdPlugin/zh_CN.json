@@ -1,0 +1,100 @@
+{
+	"Description": "随心混合声音。使用音量控制器插件，您可以通过按下按键或转动旋钮来自定义 App 音量。无需再忍受非平衡音频，无需面对多余的窗口或界面滑块。现在可从 Stream Deck 单独调整 App 音频或设置静音。",
+	"com.elgato.volume-controller.auto-detection": {
+		"Name": "自动软件检测",
+		"Tooltip": "为打开的应用程序自动配置音频控制。"
+	},
+	"com.elgato.volume-controller.manual-detection": {
+		"Name": "手动软件检测",
+		"Tooltip": "为打开的应用程序手动配置音频控制。",
+		"Encoder": {
+			"TriggerDescription": {
+				"Rotate": "调整",
+				"Push": "静音/取消静音"
+			}
+		}
+	},
+	"com.elgato.volume-controller.auto-detection.volume": {
+		"Name": "自动音量控制",
+		"Encoder": {
+			"TriggerDescription": {
+				"Rotate": "调整",
+				"Push": "静音/取消静音"
+			}
+		}
+	},
+	"com.elgato.volume-controller.input-device-control": {
+		"Name": "输入设备控制",
+		"Tooltip": "为已连接的输入设备配置音频控制。",
+		"Encoder": {
+			"TriggerDescription": {
+				"Rotate": "调整",
+				"Push": "静音/取消静音"
+			}
+		}
+	},
+	"com.elgato.volume-controller.output-device-control": {
+		"Name": "输出设备控制",
+		"Tooltip": "为已连接的输出设备配置音频控制。",
+		"Encoder": {
+			"TriggerDescription": {
+				"Rotate": "调整",
+				"Push": "静音/取消静音"
+			}
+		}
+	},
+	"com.elgato.volume-controller.back-to-profile": {
+		"Name": "返回配置文件"
+	},
+	"com.elgato.volume-controller.auto-detection.mute": {
+		"Name": "自动静音"
+	},
+	"com.elgato.volume-controller.auto-detection.volume-down": {
+		"Name": "自动降低音量"
+	},
+	"com.elgato.volume-controller.auto-detection.volume-up": {
+		"Name": "自动提高音量"
+	},
+	"com.elgato.volume-controller.auto-detection.next": {
+		"Name": "自动前往下一页"
+	},
+	"com.elgato.volume-controller.auto-detection.previous": {
+		"Name": "自动前往上一页"
+	},
+	"Localization": {
+		"This device is not supported at this time.": "目前暂不支持该设备。",
+		"Unable to connect to the audio router.": "无法连接至音频路由器。",
+		"Requires an active livestream and a game selected.": "需要选择一个进行中的直播和游戏。",
+		"You can manually start the audio router by opening 'C:\\Program Files\\Elgato\\Volume Controller\\ElgatoAudioControlServer.exe'.": "您可以打开“C:\\Program Files\\Elgato\\Volume Controller\\ElgatoAudioControlServer.exe”以手动开启音频路由器。",
+		"Device Settings": "设备设置",
+		"Show Apps": "显示应用",
+		"All": "全部",
+		"Active Only": "进行中",
+		"Step Size": "调整单位",
+		"Volume": "音量",
+		"Application": "应用程序",
+		"Type": "类型",
+		"Adjust": "调整",
+		"Mute": "静音",
+		"Set": "设置",
+		"Icon Style": "图标样式",
+		"Static": "静态",
+		"Slider (vertical)": "滑块（上下）",
+		"Slider (horizontal)": "滑块（左右）",
+		"Default Device": "默认设备",
+		"Default Device (Communication)": "默认设备（通信）",
+		"Device": "设备",
+		"Action": "操作",
+		"Mute Output Volume": "将输出音量设为静音",
+		"Set Output Volume": "设置输出音量",
+		"Adjust Output Volume": "调节输出音量",
+		"Adjust Input Gain": "调节输入增益",
+		"Adjust Input Volume": "调节输入音量",
+		"Set Gain": "设置增益",
+		"Adjust Gain": "调节增益",
+		"Mute Microphone": "将麦克风设为静音",
+		"Fader (vertical)": "推子（上下）",
+		"Fader (horizontal)": "推子（左右）",
+		"Please select...": "请选择..."
+	}
+}

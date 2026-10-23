@@ -1,0 +1,11 @@
+2026-10-23 06:03:51.6299|DEBUG|com.barraider.speedtest|1|Logger Initialized
+2026-10-23 06:03:51.6889|INFO|com.barraider.speedtest|1|Plugin [com.barraider.speedtest] Loading - 1 Actions Found
+2026-10-23 06:03:52.0784|DEBUG|com.barraider.speedtest|1|Plugin Loaded: UUID: H3KOZ9EA6802F14MJ1B0GTAVFH907NPX Device Info: Devices:
+[Id: 4UI213BQEE3GGUSK55WY10OJASSD313I Type: StreamDeckClassic Size: Rows: 3 Columns: 4]
+ApplicationInfo: Language: ru Platform: windows Version: 5.0
+PluginInfo: Version: 1.3.0
+
+2026-10-23 06:03:52.0784|INFO|com.barraider.speedtest|1|Plugin version: 1.3.0
+2026-10-23 06:03:52.0784|INFO|com.barraider.speedtest|1|Connecting to Stream Deck...
+2026-10-23 06:03:53.4073|INFO|com.barraider.speedtest|1|Connected to Stream Deck
+2026-10-23 06:03:53.4073|INFO|com.barraider.speedtest|1|GlobalSettingsManager initialized

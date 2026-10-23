@@ -1,0 +1,133 @@
+{
+  "Description": "这是 Photoshop 软件的热键集合", 
+  "Name": "Photoshop", 
+  "Category": "Photoshop",
+  "com.hotspot.streamdock.hotkey.ps.blur": {
+    "Name": "模糊", 
+    "Tooltip": "Photoshop的模糊快捷键"
+  },
+  "com.hotspot.streamdock.hotkey.ps.brush": {
+    "Name": "画笔", 
+    "Tooltip": "Photoshop的画笔快捷键"
+  },
+  "com.hotspot.streamdock.hotkey.ps.canvassize": {
+    "Name": "画布大小", 
+    "Tooltip": "Photoshop的画布大小快捷键"
+  },
+  "com.hotspot.streamdock.hotkey.ps.colorbalance": {
+    "Name": "色彩平衡", 
+    "Tooltip": "Photoshop的色彩平衡快捷键"
+  },
+  "com.hotspot.streamdock.hotkey.ps.colorgradation": {
+    "Name": "色阶", 
+    "Tooltip": "Photoshop的色阶快捷键"
+  },
+  "com.hotspot.streamdock.hotkey.ps.colorsaturation": {
+    "Name": "色彩饱和", 
+    "Tooltip": "Photoshop的色彩饱和快捷键"
+  },
+  "com.hotspot.streamdock.hotkey.ps.curve": {
+    "Name": "曲线", 
+    "Tooltip": "Photoshop的曲线快捷键"
+  },
+  "com.hotspot.streamdock.hotkey.ps.cutting": {
+    "Name": "裁剪", 
+    "Tooltip": "Photoshop的裁剪快捷键"
+  },
+  "com.hotspot.streamdock.hotkey.ps.decolorization": {
+    "Name": "去色", 
+    "Tooltip": "Photoshop的去色快捷键"
+  },
+  "com.hotspot.streamdock.hotkey.ps.gradient": {
+    "Name": "渐变", 
+    "Tooltip": "Photoshop的渐变快捷键"
+  },
+  "com.hotspot.streamdock.hotkey.ps.handgrip": {
+    "Name": "手抓", 
+    "Tooltip": "Photoshop的手抓快捷键"
+  },
+  "com.hotspot.streamdock.hotkey.ps.historybrush": {
+    "Name": "历史画笔", 
+    "Tooltip": "Photoshop的历史画笔快捷键"
+  },
+  "com.hotspot.streamdock.hotkey.ps.inversion": {
+    "Name": "反相", 
+    "Tooltip": "Photoshop的反相快捷键"
+  },
+  "com.hotspot.streamdock.hotkey.ps.lasso": {
+    "Name": "套索", 
+    "Tooltip": "Photoshop的套索快捷键"
+  },
+  "com.hotspot.streamdock.hotkey.ps.layergroup": {
+    "Name": "图层组", 
+    "Tooltip": "Photoshop的图层组快捷键"
+  },
+  "com.hotspot.streamdock.hotkey.ps.layermerging": {
+    "Name": "合并图层", 
+    "Tooltip": "Photoshop的合并图层快捷键"
+  },
+  "com.hotspot.streamdock.hotkey.ps.magicwand": {
+    "Name": "魔棒", 
+    "Tooltip": "Photoshop的魔棒快捷键"
+  },
+  "com.hotspot.streamdock.hotkey.ps.annotation": {
+    "Name": "标注", 
+    "Tooltip": "Photoshop的标注快捷键"
+  },
+  "com.hotspot.streamdock.hotkey.ps.move": {
+    "Name": "移动", 
+    "Tooltip": "Photoshop的移动快捷键"
+  },
+  "com.hotspot.streamdock.hotkey.ps.newlayer": {
+    "Name": "新建图层", 
+    "Tooltip": "Photoshop的新建图层快捷键"
+  },
+  "com.hotspot.streamdock.hotkey.ps.path": {
+    "Name": "路径", 
+    "Tooltip": "Photoshop的路径快捷键"
+  },
+  "com.hotspot.streamdock.hotkey.ps.pen": {
+    "Name": "钢笔", 
+    "Tooltip": "Photoshop的钢笔快捷键"
+  },
+  "com.hotspot.streamdock.hotkey.ps.rectangularmarquee": {
+    "Name": "矩形选框", 
+    "Tooltip": "Photoshop的矩形选框快捷键"
+  },
+  "com.hotspot.streamdock.hotkey.ps.repair": {
+    "Name": "修补", 
+    "Tooltip": "Photoshop的修补快捷键"
+  },
+  "com.hotspot.streamdock.hotkey.ps.round": {
+    "Name": "圆形", 
+    "Tooltip": "Photoshop的圆形快捷键"
+  },
+  "com.hotspot.streamdock.hotkey.ps.eraser": {
+    "Name": "橡皮擦", 
+    "Tooltip": "Photoshop的橡皮擦快捷键"
+  },
+  "com.hotspot.streamdock.hotkey.ps.scale": {
+    "Name": "缩放", 
+    "Tooltip": "Photoshop的缩放快捷键"
+  },
+  "com.hotspot.streamdock.hotkey.ps.seal": {
+    "Name": "印章", 
+    "Tooltip": "Photoshop的印章快捷键"
+  },
+  "com.hotspot.streamdock.hotkey.ps.slice": {
+    "Name": "切片", 
+    "Tooltip": "Photoshop的切片快捷键"
+  },
+  "com.hotspot.streamdock.hotkey.ps.sponge": {
+    "Name": "海绵", 
+    "Tooltip": "Photoshop的海绵快捷键"
+  },
+  "com.hotspot.streamdock.hotkey.ps.straw": {
+    "Name": "吸管", 
+    "Tooltip": "Photoshop的吸管快捷键"
+  },
+  "com.hotspot.streamdock.hotkey.ps.text": {
+    "Name": "文字", 
+    "Tooltip": "Photoshop的文字快捷键"
+  }
+}

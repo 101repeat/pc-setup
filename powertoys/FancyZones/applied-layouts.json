@@ -1,0 +1,72 @@
+{
+  "applied-layouts": [
+    {
+      "device": {
+        "monitor": "GSM7715",
+        "monitor-instance": "5\u00268bcebe0\u00260\u0026UID33025",
+        "monitor-number": 2,
+        "serial-number": "269918",
+        "virtual-desktop": "{550C76BD-6543-4F87-ACE0-509459D2630F}"
+      },
+      "applied-layout": {
+        "uuid": "{1C0A7EFF-6052-40F1-8867-1C513D4CD021}",
+        "type": "priority-grid",
+        "show-spacing": true,
+        "spacing": 16,
+        "zone-count": 3,
+        "sensitivity-radius": 20
+      }
+    },
+    {
+      "device": {
+        "monitor": "ACR0743",
+        "monitor-instance": "5\u00268bcebe0\u00260\u0026UID33024",
+        "monitor-number": 3,
+        "serial-number": "2475695430",
+        "virtual-desktop": "{550C76BD-6543-4F87-ACE0-509459D2630F}"
+      },
+      "applied-layout": {
+        "uuid": "{00000000-0000-0000-0000-000000000000}",
+        "type": "priority-grid",
+        "show-spacing": true,
+        "spacing": 16,
+        "zone-count": 3,
+        "sensitivity-radius": 20
+      }
+    },
+    {
+      "device": {
+        "monitor": "GSM7766",
+        "monitor-instance": "5\u00268bcebe0\u00260\u0026UID33028",
+        "monitor-number": 1,
+        "serial-number": "103NTDVBB114",
+        "virtual-desktop": "{550C76BD-6543-4F87-ACE0-509459D2630F}"
+      },
+      "applied-layout": {
+        "uuid": "{CAC2AB77-F678-46E3-81F9-784682284882}",
+        "type": "custom",
+        "show-spacing": false,
+        "spacing": -5,
+        "zone-count": 2,
+        "sensitivity-radius": 55
+      }
+    },
+    {
+      "device": {
+        "monitor": "GSM5AB6",
+        "monitor-instance": "5\u00268bcebe0\u00260\u0026UID33027",
+        "monitor-number": 4,
+        "serial-number": "601NTQDAZ124",
+        "virtual-desktop": "{550C76BD-6543-4F87-ACE0-509459D2630F}"
+      },
+      "applied-layout": {
+        "uuid": "{00000000-0000-0000-0000-000000000000}",
+        "type": "priority-grid",
+        "show-spacing": true,
+        "spacing": 16,
+        "zone-count": 3,
+        "sensitivity-radius": 20
+      }
+    }
+  ]
+}

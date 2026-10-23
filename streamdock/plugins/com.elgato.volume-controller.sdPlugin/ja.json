@@ -1,0 +1,100 @@
+{
+	"Description": "サウンドをミックスしよう。音量コントローラプラグインを利用すると、キーを1つ押す、または、ダイヤルを回すだけで、アプリの音量をカスタマイズできます。他のウインドウをいくつも行ったり来たりする必要も、UIスライダーをいじる必要も、もうありません。これからは、アプリの音量の調整も消音も、すべて独立して別々に、Stream Deckから。",
+	"com.elgato.volume-controller.auto-detection": {
+		"Name": "ソフトウェアの自動検出",
+		"Tooltip": "開いているアプリケーションのオーディオコントロールを自動的に設定します。"
+	},
+	"com.elgato.volume-controller.manual-detection": {
+		"Name": "ソフトウェアの手動検出",
+		"Tooltip": "開いているアプリケーションのオーディオコントロールを手動で設定します。",
+		"Encoder": {
+			"TriggerDescription": {
+				"Rotate": "調整",
+				"Push": "消音/消音解除"
+			}
+		}
+	},
+	"com.elgato.volume-controller.auto-detection.volume": {
+		"Name": "自動音量調整",
+		"Encoder": {
+			"TriggerDescription": {
+				"Rotate": "調整",
+				"Push": "消音/消音解除"
+			}
+		}
+	},
+	"com.elgato.volume-controller.input-device-control": {
+		"Name": "入力デバイスのコントロール",
+		"Tooltip": "接続中の入力デバイスのオーディオコントロールを設定します。",
+		"Encoder": {
+			"TriggerDescription": {
+				"Rotate": "調整",
+				"Push": "消音/消音解除"
+			}
+		}
+	},
+	"com.elgato.volume-controller.output-device-control": {
+		"Name": "出力デバイスのコントロール",
+		"Tooltip": "接続中の出力デバイスのオーディオコントロールを設定します。",
+		"Encoder": {
+			"TriggerDescription": {
+				"Rotate": "調整",
+				"Push": "消音/消音解除"
+			}
+		}
+	},
+	"com.elgato.volume-controller.back-to-profile": {
+		"Name": "プロファイルに戻る"
+	},
+	"com.elgato.volume-controller.auto-detection.mute": {
+		"Name": "自動消音"
+	},
+	"com.elgato.volume-controller.auto-detection.volume-down": {
+		"Name": "自動音量ダウン"
+	},
+	"com.elgato.volume-controller.auto-detection.volume-up": {
+		"Name": "自動音量アップ"
+	},
+	"com.elgato.volume-controller.auto-detection.next": {
+		"Name": "自動的に次へ"
+	},
+	"com.elgato.volume-controller.auto-detection.previous": {
+		"Name": "自動的に前へ"
+	},
+	"Localization": {
+		"This device is not supported at this time.": "現時点ではこのデバイスはサポートされていません。",
+		"Unable to connect to the audio router.": "オーディオルーターに接続できません。",
+		"Requires an active livestream and a game selected.": "アクティブなライブ配信とゲームを選択する必要があります。",
+		"You can manually start the audio router by opening 'C:\\Program Files\\Elgato\\Volume Controller\\ElgatoAudioControlServer.exe'.": "'C:\\Program Files\\Elgato\\Volume Controller\\ElgatoAudioControlServer.exe' を開くことで、オーディオルーターを手動で開始できます。",
+		"Device Settings": "デバイス設定",
+		"Show Apps": "アプリを表示",
+		"All": "すべて",
+		"Active Only": "アクティブのみ",
+		"Step Size": "ステップのサイズ",
+		"Volume": "音量",
+		"Application": "アプリケーション",
+		"Type": "タイプ",
+		"Adjust": "調整",
+		"Mute": "消音",
+		"Set": "設定",
+		"Icon Style": "アイコンのスタイル",
+		"Static": "静的",
+		"Slider (vertical)": "スライダー (縦向き)",
+		"Slider (horizontal)": "スライダー (横向き)",
+		"Default Device": "デフォルトデバイス",
+		"Default Device (Communication)": "デフォルトデバイス (通信)",
+		"Device": "デバイス",
+		"Action": "アクション",
+		"Mute Output Volume": "出力音量を消音",
+		"Set Output Volume": "出力音量を設定",
+		"Adjust Output Volume": "出力音量を調整",
+		"Adjust Input Gain": "入力ゲインを調整",
+		"Adjust Input Volume": "入力音量を調整",
+		"Set Gain": "ゲインを設定",
+		"Adjust Gain": "ゲインを調整",
+		"Mute Microphone": "マイクを消音",
+		"Fader (vertical)": "フェーダー (縦向き)",
+		"Fader (horizontal)": "フェーダー (横向き)",
+		"Please select...": "選択してください…"
+	}
+}

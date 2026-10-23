@@ -1,0 +1,31 @@
+{
+  "custom-layouts": [
+    {
+      "uuid": "{CAC2AB77-F678-46E3-81F9-784682284882}",
+      "name": "Custom layout 1",
+      "type": "grid",
+      "info": {
+        "rows": 2,
+        "columns": 1,
+        "rows-percentage": [
+          5000,
+          5000
+        ],
+        "columns-percentage": [
+          10000
+        ],
+        "cell-child-map": [
+          [
+            0
+          ],
+          [
+            1
+          ]
+        ],
+        "show-spacing": false,
+        "spacing": -5,
+        "sensitivity-radius": 55
+      }
+    }
+  ]
+}

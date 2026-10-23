@@ -1,0 +1,29 @@
+{
+  "Name": "Громкость в фокусе",
+  "Description": "Регулирует громкость приложения, которое сейчас в фокусе, вместо системной громкости.",
+  "com.hotspot.focusvolume.action": {
+    "Name": "Громкость в фокусе",
+    "Tooltip": "Вращайте крутилку, чтобы менять громкость приложения в фокусе. Нажатие — отключить звук."
+  },
+  "com.hotspot.focusvolume.info": {
+    "Name": "Активное окно",
+    "Tooltip": "Показывает активное окно и приложение, громкость которого меняется."
+  },
+  "Category": "Громкость в фокусе",
+  "Localization": {
+    "Focus Volume": "Громкость в фокусе",
+    "Volume step, %": "Шаг громкости, %",
+    "Mute on press": "Отключать звук по нажатию",
+    "Fallback to system volume": "Если нет сессии — системная громкость",
+    "Hint": "Подсказка",
+    "Rotate the knob to set the volume of the app in focus": "Вращайте крутилку, чтобы менять громкость приложения в фокусе",
+    "Active Window": "Активное окно",
+    "Display mode": "Режим отображения",
+    "Card": "Карточка",
+    "Big icon": "Большая иконка",
+    "Show window title": "Показывать заголовок окна",
+    "Show picture": "Показывать картинку",
+    "Update interval, ms": "Интервал обновления, мс",
+    "Shows the active window and the app whose volume is being changed": "Показывает активное окно и приложение, громкость которого меняется"
+  }
+}

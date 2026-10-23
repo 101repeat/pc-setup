@@ -1,0 +1,100 @@
+{
+	"Description": "Mixez vos sons. Avec le plugin Contrôleur de volume, personnalisez le volume des applications en appuyant sur une touche ou en tournant un bouton. Dites adieu aux problèmes de déséquilibre des sons et arrêtez de jongler avec différentes fenêtres et différents curseurs. Ajustez ou coupez le volume des applications de façon indépendante, à partir de votre Stream Deck.",
+	"com.elgato.volume-controller.auto-detection": {
+		"Name": "Détection automatique du logiciel",
+		"Tooltip": "Configurez automatiquement le contrôle du son pour les applications ouvertes."
+	},
+	"com.elgato.volume-controller.manual-detection": {
+		"Name": "Détection manuelle du logiciel",
+		"Tooltip": "Configurez manuellement le contrôle du son pour les applications ouvertes.",
+		"Encoder": {
+			"TriggerDescription": {
+				"Rotate": "Ajuster",
+				"Push": "Couper/Réactiver le son"
+			}
+		}
+	},
+	"com.elgato.volume-controller.auto-detection.volume": {
+		"Name": "Volume auto",
+		"Encoder": {
+			"TriggerDescription": {
+				"Rotate": "Ajuster",
+				"Push": "Couper/Réactiver le son"
+			}
+		}
+	},
+	"com.elgato.volume-controller.input-device-control": {
+		"Name": "Contrôle du périphérique d'entrée",
+		"Tooltip": "Configurez le contrôle audio des périphériques d'entrée connectés.",
+		"Encoder": {
+			"TriggerDescription": {
+				"Rotate": "Ajuster",
+				"Push": "Couper/Réactiver le son"
+			}
+		}
+	},
+	"com.elgato.volume-controller.output-device-control": {
+		"Name": "Contrôle du périphérique de sortie",
+		"Tooltip": "Configurez le contrôle audio des périphériques de sortie connectés.",
+		"Encoder": {
+			"TriggerDescription": {
+				"Rotate": "Ajuster",
+				"Push": "Couper/Réactiver le son"
+			}
+		}
+	},
+	"com.elgato.volume-controller.back-to-profile": {
+		"Name": "Retour au profil"
+	},
+	"com.elgato.volume-controller.auto-detection.mute": {
+		"Name": "Mute auto"
+	},
+	"com.elgato.volume-controller.auto-detection.volume-down": {
+		"Name": "Augmentation de volume auto"
+	},
+	"com.elgato.volume-controller.auto-detection.volume-up": {
+		"Name": "Baisse de volume auto"
+	},
+	"com.elgato.volume-controller.auto-detection.next": {
+		"Name": "Suivant auto"
+	},
+	"com.elgato.volume-controller.auto-detection.previous": {
+		"Name": "Précédent auto"
+	},
+	"Localization": {
+		"This device is not supported at this time.": "Cet appareil n'est pour l'instant pas compatible.",
+		"Unable to connect to the audio router.": "Impossible de se connecter au routeur audio.",
+		"Requires an active livestream and a game selected.": "Nécessite un livestream actif et la sélection d'un jeu.",
+		"You can manually start the audio router by opening 'C:\\Program Files\\Elgato\\Volume Controller\\ElgatoAudioControlServer.exe'.": "Vous pouvez démarrer manuellement le routeur audio en ouvrant « C:\\Program Files\\Elgato\\Volume Controller\\ElgatoAudioControlServer.exe ».",
+		"Device Settings": "Paramètres de l'appareil",
+		"Show Apps": "Afficher les applications",
+		"All": "Tout",
+		"Active Only": "Actives uniquement",
+		"Step Size": "Taille des pas",
+		"Volume": "Volume",
+		"Application": "Application",
+		"Type": "Type",
+		"Adjust": "Ajuster",
+		"Mute": "Couper le son",
+		"Set": "Définir",
+		"Icon Style": "Style d'icône",
+		"Static": "Statique",
+		"Slider (vertical)": "Curseur (vertical)",
+		"Slider (horizontal)": "Curseur (horizontal)",
+		"Default Device": "Périphérique par défaut",
+		"Default Device (Communication)": "Périphérique par défaut (communication)",
+		"Device": "Périphérique",
+		"Action": "Action",
+		"Mute Output Volume": "Couper le volume de sortie",
+		"Set Output Volume": "Définir le volume de sortie",
+		"Adjust Output Volume": "Ajuster le volume de sortie",
+		"Adjust Input Gain": "Ajuster le gain d'entrée",
+		"Adjust Input Volume": "Ajuster le volume d’entrée",
+		"Set Gain": "Définir le gain",
+		"Adjust Gain": "Ajuster le gain",
+		"Mute Microphone": "Couper le micro",
+		"Fader (vertical)": "Fader (vertical)",
+		"Fader (horizontal)": "Fader (horizontal)",
+		"Please select...": "Veuillez sélectionner…"
+	}
+}

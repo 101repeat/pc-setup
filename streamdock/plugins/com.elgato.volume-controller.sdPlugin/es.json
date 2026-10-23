@@ -1,0 +1,100 @@
+{
+	"Description": "Mezcla tu sonido. Con el plugin Control de volumen, personaliza el volumen de las apps con solo pulsar una tecla o girar un dial. Se acabó el audio descompensado y el lidiar con ventanas extra y controles de volumen en pantalla. Ahora, podrás ajustar el volumen de las apps o silenciarlas de forma independiente, y todo desde tu Stream Deck.",
+	"com.elgato.volume-controller.auto-detection": {
+		"Name": "Detección automática de software",
+		"Tooltip": "Configura automáticamente el control de audio de las aplicaciones abiertas."
+	},
+	"com.elgato.volume-controller.manual-detection": {
+		"Name": "Detección manual de software",
+		"Tooltip": "Configura manualmente el control de audio de las aplicaciones abiertas.",
+		"Encoder": {
+			"TriggerDescription": {
+				"Rotate": "Ajustar",
+				"Push": "Silenciar/no silenciar"
+			}
+		}
+	},
+	"com.elgato.volume-controller.auto-detection.volume": {
+		"Name": "Volumen automático",
+		"Encoder": {
+			"TriggerDescription": {
+				"Rotate": "Ajustar",
+				"Push": "Silenciar/no silenciar"
+			}
+		}
+	},
+	"com.elgato.volume-controller.input-device-control": {
+		"Name": "Control de dispositivo de entrada",
+		"Tooltip": "Configurar el control de audio para los dispositivos de entrada conectados.",
+		"Encoder": {
+			"TriggerDescription": {
+				"Rotate": "Ajustar",
+				"Push": "Silenciar/no silenciar"
+			}
+		}
+	},
+	"com.elgato.volume-controller.output-device-control": {
+		"Name": "Control de dispositivo de salida",
+		"Tooltip": "Configurar el control de audio para los dispositivos de salida conectados.",
+		"Encoder": {
+			"TriggerDescription": {
+				"Rotate": "Ajustar",
+				"Push": "Silenciar/no silenciar"
+			}
+		}
+	},
+	"com.elgato.volume-controller.back-to-profile": {
+		"Name": "Volver al perfil"
+	},
+	"com.elgato.volume-controller.auto-detection.mute": {
+		"Name": "Silenciado automático"
+	},
+	"com.elgato.volume-controller.auto-detection.volume-down": {
+		"Name": "Bajar volumen automáticamente"
+	},
+	"com.elgato.volume-controller.auto-detection.volume-up": {
+		"Name": "Subir volumen automáticamente"
+	},
+	"com.elgato.volume-controller.auto-detection.next": {
+		"Name": "Siguiente automático"
+	},
+	"com.elgato.volume-controller.auto-detection.previous": {
+		"Name": "Anterior automático"
+	},
+	"Localization": {
+		"This device is not supported at this time.": "Actualmente, este dispositivo no es compatible.",
+		"Unable to connect to the audio router.": "No es posible conectar con el enrutador de audio.",
+		"Requires an active livestream and a game selected.": "Requiere una transmisión en directo activa y un juego seleccionado.",
+		"You can manually start the audio router by opening 'C:\\Program Files\\Elgato\\Volume Controller\\ElgatoAudioControlServer.exe'.": "Puedes iniciar manualmente el enrutador de audio abriendo 'C:\\Archivos de programa\\Elgato\\Volume Controller\\ElgatoAudioControlServer.exe'.",
+		"Device Settings": "Ajustes de dispositivo",
+		"Show Apps": "Mostrar apps",
+		"All": "Todo",
+		"Active Only": "Solo activas",
+		"Step Size": "Tamaño del paso",
+		"Volume": "Volumen",
+		"Application": "Aplicación",
+		"Type": "Tipo",
+		"Adjust": "Ajustar",
+		"Mute": "Silenciar",
+		"Set": "Configurar",
+		"Icon Style": "Estilo de icono",
+		"Static": "Estático",
+		"Slider (vertical)": "Regulador (vertical)",
+		"Slider (horizontal)": "Regulador (horizontal)",
+		"Default Device": "Dispositivo predeterminado",
+		"Default Device (Communication)": "Dispositivo predeterminado (comunicación)",
+		"Device": "Dispositivo",
+		"Action": "Acción",
+		"Mute Output Volume": "Silenciar volumen de salida",
+		"Set Output Volume": "Definir volumen de salida",
+		"Adjust Output Volume": "Ajustar volumen de salida",
+		"Adjust Input Gain": "Ajustar ganancia de entrada",
+		"Adjust Input Volume": "Ajustar volumen de entrada",
+		"Set Gain": "Definir ganancia",
+		"Adjust Gain": "Ajustar ganancia",
+		"Mute Microphone": "Silenciar micrófono",
+		"Fader (vertical)": "Fader (vertical)",
+		"Fader (horizontal)": "Fader (horizontal)",
+		"Please select...": "Selecciona…"
+	}
+}

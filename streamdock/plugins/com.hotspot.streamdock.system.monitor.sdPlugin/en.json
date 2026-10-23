@@ -1,0 +1,78 @@
+{
+    "Description": "This is a system performance monitor",
+    "Name": "System Performance Monitor",
+    "Category": "System Performance Monitor",
+    "com.hotspot.stream.memory": {
+        "Name": "Memory",
+        "Tooltip": "Display current memory usage"
+    },
+    "com.hotspot.stream.cpu": {
+        "Name": "CPU usage",
+        "Tooltip": "Display current CPU usage"
+    },
+    "com.hotspot.stream.cpu.temperature": {
+        "Name": "CPU temperature",
+        "Tooltip": "Display current CPU temperature"
+    },
+    "com.hotspot.stream.Cpu_Clock": {
+        "Name": "CPU frequency",
+        "Tooltip": "Display the current CPU frequency"
+    },
+    "com.hotspot.stream.Cpu_Package_Power": {
+        "Name": "CPU package power", 
+        "Tooltip": "Displays the package power of the current CPU"
+    },
+    "com.hotspot.stream.NetWork": {
+        "Name": "Internet speed",
+        "Tooltip": "Displays current upload and download speeds"
+    },
+    "com.hotspot.stream.PhysicalDisk": {
+        "Name": "Harddisk",
+        "Tooltip": "Display the current hard disk usage"
+    },
+    "com.hotspot.stream.Gpu_Temperature": {
+        "Name": "GPU temperature",
+        "Tooltip": "Display current GPU temperature"
+    },
+    "com.hotspot.stream.Gpu_Core_Clock": {
+        "Name": "GPU core frequency",
+        "Tooltip": "Displays the frequency of the current GPU core"
+    },
+    "com.hotspot.stream.Gpu_Core_Usage": {
+        "Name": "GPU core usage",
+        "Tooltip": "Display current GPU core usage"
+    },
+    "com.hotspot.stream.Gpu_Memory_Clock": {
+        "Name": "GPU memory frequency",
+        "Tooltip": "Displays the current GPU memory frequency"
+    },
+    "com.hotspot.stream.Gpu_Memory_Usage": {
+        "Name": "GPU memory usage",
+        "Tooltip": "Display current GPU memory usage"
+    },
+    "Localization": {
+        "1": "1",
+        "120": "120",
+        "CPU温度": "CPU temperature",
+        "CPU占用率": "CPU usage",
+        "内存占用率": "Memory usage",
+        "硬盘剩余空间": "Hard drive remaining space",
+        "背景": "background",
+        "简约彩色": "simple color",
+        "赛博朋克": "cyberpunk",
+        "模式": "model",
+        "单个磁盘": "single disk",
+        "磁盘循环": "disk loop",
+        "盘名": "disk name",
+        "低阈值": "low threshold",
+        "危险阈值": "danger threshold",
+        "背景切换": "Background switching",
+        "选择文件...": "Select a document...",
+        "显示盘符名": "Display drive letter name",
+        "进度条倒置": "Progress bar upside down",
+        "切换频率": "switching frequency",
+        "秒": "Second",
+        "(秒)": "(Second)",
+        "仅限126*126像素图片": "Only 126*126 pixel images"
+    }
+}

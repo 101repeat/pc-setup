@@ -1,0 +1,67 @@
+{
+  "Actions": [
+    {
+      "Icon": "static/img/icon-1",
+      "Name": "备忘记事",
+      "States": [
+        {
+          "FontSize": "10",
+          "TitleAlignment": "bottom",
+          "Image": "static/img/memo"
+        }
+      ],
+      "Controllers": [
+        "Keypad",
+        "Information"
+      ],
+      "UserTitleEnabled": true,
+      "SupportedInMultiActions": false,
+      "Tooltip": "按下按键可以打开历史便签",
+      "UUID": "com.hotspot.streamdock.memo.action1",
+      "PropertyInspectorPath": "action1/index.html"
+    },
+    {
+      "Icon": "static/img/icon-2",
+      "Name": "记录待办",
+      "States": [
+        {
+          "FontSize": "10",
+          "TitleAlignment": "middle",
+          "Image": "static/img/todo"
+        }
+      ],
+      "Controllers": [
+        "Keypad",
+        "Information"
+      ],
+      "UserTitleEnabled": false,
+      "SupportedInMultiActions": false,
+      "Tooltip": "按下按键可以打开待办详情",
+      "UUID": "com.hotspot.streamdock.memo.action2",
+      "PropertyInspectorPath": "action2/index.html"
+    }
+  ],
+  "SDKVersion": 1,
+  "Author": "HotSpot",
+  "Name": "实用便签",
+  "Icon": "static/img/cate",
+  "CodePath": "plugin/index.html",
+  "Description": "随时记录你当前的想法/待办",
+  "Category": "实用便签",
+  "CategoryIcon": "static/img/cate",
+  "Version": "1.0",
+  "URL": "http://video.hotspotek.com.cn/",
+  "OS": [
+    {
+      "Platform": "mac",
+      "MinimumVersion": "10.11"
+    },
+    {
+      "Platform": "windows",
+      "MinimumVersion": "7"
+    }
+  ],
+  "Software": {
+    "MinimumVersion": "2.9"
+  }
+}

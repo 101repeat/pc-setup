@@ -1,0 +1,113 @@
+{
+  "Actions": [
+    {
+      "Icon": "Images/icon",
+      "Name": "Super Macro",
+      "States": [
+        {
+          "Image": "Images/bg",
+          "TitleAlignment": "bottom",
+          "FontSize": "10"
+        }
+      ],
+      "SupportedInMultiActions": true,
+      "Tooltip": "Simulates a keyboard and also allows you to choose the delay between each key press (between 1ms to 2000ms).\r\nSupports actions like {{ctrl}{alt}{f1}} or even {{shift}{home}}{{ctrl}{c}} [Select text and copy to clipboard] to create complex macros.\r\nThe customizable delay is great for macros in games that expect a little longer delay between every key press.",
+      "UUID": "com.barraider.supermacro",
+      "PropertyInspectorPath": "PropertyInspector/SuperMacro/SuperMacro.html"
+    },
+    {
+      "Icon": "Images/icon",
+      "Name": "Super Macro Toggle",
+      "States": [
+        {
+          "Image": "Images/togglePrimary",
+          "TitleAlignment": "bottom",
+          "FontSize": "10"
+        }
+      ],
+      "SupportedInMultiActions": false,
+      "Tooltip": "Toggle between two different sets of Super Macros.",
+      "UUID": "com.barraider.supermacrotoggle",
+      "PropertyInspectorPath": "PropertyInspector/SuperMacro/Toggle.html"
+    },
+    {
+      "Icon": "Images/icon",
+      "Name": "Sticky Super Macro",
+      "States": [
+        {
+          "Image": "Images/bgRed",
+          "TitleAlignment": "bottom",
+          "FontSize": "10"
+        }
+      ],
+      "SupportedInMultiActions": false,
+      "Tooltip": "Repeats the same macro again and again, until the key is pressed again.",
+      "UUID": "com.barraider.supermacrostickymacro",
+      "PropertyInspectorPath": "PropertyInspector/SuperMacro/StickyMacro.html"
+    },
+    {
+      "Icon": "Images/icon",
+      "Name": "Sticky Keystroke",
+      "States": [
+        {
+          "Image": "Images/bgRed",
+          "TitleAlignment": "bottom",
+          "FontSize": "10"
+        }
+      ],
+      "SupportedInMultiActions": false,
+      "Tooltip": "Repeats the same keystroke again and again, until the key is pressed again. Example of usage is games that don't have an auto-run feature and require a keystroke to run",
+      "UUID": "com.barraider.supermacrostickykeystroke",
+      "PropertyInspectorPath": "PropertyInspector/SuperMacro/StickyKeypress.html"
+    },
+    {
+      "Icon": "Images/icon",
+      "Name": "Keystroke PTT",
+      "States": [
+        {
+          "Image": "Images/ptt",
+          "TitleAlignment": "bottom",
+          "FontSize": "10"
+        }
+      ],
+      "SupportedInMultiActions": false,
+      "Tooltip": "Repeats a keystroke again and again as long as you press the button. Can be either one single character or one set of keystrokes (like {{ctrl}{f5}} to refresh)",
+      "UUID": "com.barraider.keystrokeptt",
+      "PropertyInspectorPath": "PropertyInspector/SuperMacro/KeystrokePTT.html"
+    },
+    {
+      "Icon": "Images/mouseIcon",
+      "Name": "Mouse Location",
+      "States": [
+        {
+          "Image": "Images/mouseAction",
+          "TitleAlignment": "middle",
+          "FontSize": "12"
+        }
+      ],
+      "SupportedInMultiActions": false,
+      "Tooltip": "Shows you the current mouse location on a key, and lets you copy the position",
+      "UUID": "com.barraider.supermacro.mouselocation",
+      "PropertyInspectorPath": "PropertyInspector/SuperMacro/MouseLocation.html"
+    }
+  ],
+  "Author": "BarRaider",
+  "Description": "Simulates both keyboard and mouse. Advanced functions and variables allow to create complex macros. Handles keystrokes like {{ctrl}{alt}{f1}} or even {{shift}{home}}{{ctrl}{c}} [Select text and copy to clipboard]. Supports a large variety of programs and games.",
+  "Name": "SuperMacro",
+  "Icon": "Images/pluginIcon",
+  "URL": "https://BarRaider.com/",
+  "Version": "2.3",
+  "CodePath": "com.barraider.supermacro",
+  "Category": "Super Macro [BarRaider]",
+  "CategoryIcon": "Images/categoryIcon",
+  "OS": [
+    {
+      "Platform": "windows",
+      "MinimumVersion": "10"
+    }
+  ],
+  "SDKVersion": 2,
+  "Software": {
+    "MinimumVersion": "6.0"
+  }
+}

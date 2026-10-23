@@ -1,0 +1,475 @@
+{
+    "Actions": {
+        "0,0": {
+            "ActionID": "05s2ag95-i7jp-39s3-my52-e61eu09d4336",
+            "Controller": "",
+            "Name": "Weather query",
+            "Settings": {
+                "Localization": {
+                    "100": "Clear",
+                    "101": "Cloudy",
+                    "102": "Cloudy",
+                    "103": "Cloudy",
+                    "104": "Overcast",
+                    "150": "Clear at night",
+                    "151": "Cloudy at night",
+                    "152": "Cloudy at night",
+                    "153": "Cloudy at night",
+                    "300": "Showers",
+                    "301": "Showers",
+                    "302": "Thunder showers",
+                    "303": "Thunder showers",
+                    "304": "Thunder showers with hail",
+                    "305": "Light rain",
+                    "306": "Moderate rain",
+                    "307": "Heavy rain",
+                    "308": "Heavy rain",
+                    "309": "Light rain",
+                    "310": "Storm",
+                    "311": "Heavy storm",
+                    "312": "Severe storm",
+                    "313": "Freezing rain",
+                    "314": "Moderate rain",
+                    "315": "Heavy rain",
+                    "316": "Storm",
+                    "317": "Heavy storm",
+                    "318": "Severe storm",
+                    "350": "Showers at night",
+                    "351": "Showers at night",
+                    "399": "Light rain",
+                    "400": "Light snow",
+                    "401": "Moderate snow",
+                    "402": "Heavy snow",
+                    "403": "Blizzard",
+                    "404": "Sleet",
+                    "405": "Sleet",
+                    "406": "Sleet",
+                    "407": "Snow showers",
+                    "408": "Moderate snow",
+                    "409": "Heavy snow",
+                    "410": "Blizzard",
+                    "456": "Sleet",
+                    "457": "Snow showers at night",
+                    "499": "Light snow",
+                    "500": "Fog",
+                    "501": "Fog",
+                    "502": "Haze",
+                    "503": "Dust storm",
+                    "504": "Dust storm",
+                    "507": "Dust storm",
+                    "508": "Severe dust storm",
+                    "509": "Fog",
+                    "510": "Fog",
+                    "511": "Haze",
+                    "512": "Haze",
+                    "513": "Haze",
+                    "514": "Fog",
+                    "515": "Haze",
+                    "900": "Clear",
+                    "901": "Moderate snow",
+                    "999": "Cloudy",
+                    "主题切换": "theme switching",
+                    "华氏度": "Fahrenheit",
+                    "城市名称": "city ​​name",
+                    "天气查询": "Weather query",
+                    "搜索列表": "search list",
+                    "摄氏度": "degrees celsius",
+                    "显示选项": "Show options",
+                    "更新": "renew",
+                    "温度单位": "temperature unit",
+                    "简约摩登": "Simple and modern",
+                    "自定义标题": "Custom title",
+                    "自定名称": "Custom name",
+                    "请输入城市": "Please enter city",
+                    "请输入标题": "Please enter a title",
+                    "豪华绚丽": "Luxurious and gorgeous",
+                    "输入城市": "Enter city"
+                },
+                "city": "London",
+                "cityId": "81CD7",
+                "count": 0,
+                "inputCity": "London",
+                "radio": "0",
+                "searchList": [
+                    {
+                        "adm1": "England",
+                        "adm2": "London",
+                        "country": "United Kingdom",
+                        "fxLink": "https://www.qweather.com/weather/city-of-london-BA333.html",
+                        "id": "BA333",
+                        "isDst": "1",
+                        "lat": "51.51584",
+                        "lon": "-0.09222",
+                        "name": "City of London",
+                        "rank": "10",
+                        "type": "city",
+                        "tz": "Europe/London",
+                        "utcOffset": "+01:00"
+                    },
+                    {
+                        "adm1": "England",
+                        "adm2": "London",
+                        "country": "United Kingdom",
+                        "fxLink": "https://www.qweather.com/weather/london-81CD7.html",
+                        "id": "81CD7",
+                        "isDst": "1",
+                        "lat": "51.50722",
+                        "lon": "-0.12750",
+                        "name": "London",
+                        "rank": "85",
+                        "type": "city",
+                        "tz": "Europe/London",
+                        "utcOffset": "+01:00"
+                    },
+                    {
+                        "adm1": "Ohio",
+                        "adm2": "Madison",
+                        "country": "United States",
+                        "fxLink": "https://www.qweather.com/weather/london-A6386.html",
+                        "id": "A6386",
+                        "isDst": "1",
+                        "lat": "39.88645",
+                        "lon": "-83.44825",
+                        "name": "London",
+                        "rank": "72",
+                        "type": "city",
+                        "tz": "America/New_York",
+                        "utcOffset": "-04:00"
+                    },
+                    {
+                        "adm1": "Arkansas",
+                        "adm2": "Pope County",
+                        "country": "United States",
+                        "fxLink": "https://www.qweather.com/weather/london-EF8A9.html",
+                        "id": "EF8A9",
+                        "isDst": "1",
+                        "lat": "35.32580",
+                        "lon": "-93.23670",
+                        "name": "London",
+                        "rank": "85",
+                        "type": "city",
+                        "tz": "America/Chicago",
+                        "utcOffset": "-05:00"
+                    },
+                    {
+                        "adm1": "Kentucky",
+                        "adm2": "Laurel County",
+                        "country": "United States",
+                        "fxLink": "https://www.qweather.com/weather/london-C0BEA.html",
+                        "id": "C0BEA",
+                        "isDst": "1",
+                        "lat": "37.12750",
+                        "lon": "-84.08420",
+                        "name": "London",
+                        "rank": "75",
+                        "type": "city",
+                        "tz": "America/New_York",
+                        "utcOffset": "-04:00"
+                    },
+                    {
+                        "adm1": "London",
+                        "adm2": "London",
+                        "country": "United Kingdom",
+                        "fxLink": "https://www.qweather.com/weather/barbican-C2F4B.html",
+                        "id": "C2F4B",
+                        "isDst": "1",
+                        "lat": "51.52100",
+                        "lon": "-0.09500",
+                        "name": "Barbican",
+                        "rank": "85",
+                        "type": "city",
+                        "tz": "Europe/London",
+                        "utcOffset": "+01:00"
+                    },
+                    {
+                        "adm1": "England",
+                        "adm2": "London",
+                        "country": "United Kingdom",
+                        "fxLink": "https://www.qweather.com/weather/westminster-21BE.html",
+                        "id": "21BE",
+                        "isDst": "1",
+                        "lat": "51.49950",
+                        "lon": "-0.13330",
+                        "name": "Westminster",
+                        "rank": "85",
+                        "type": "city",
+                        "tz": "Europe/London",
+                        "utcOffset": "+01:00"
+                    },
+                    {
+                        "adm1": "Michigan",
+                        "adm2": "Monroe",
+                        "country": "United States",
+                        "fxLink": "https://www.qweather.com/weather/london-township-5340C.html",
+                        "id": "5340C",
+                        "isDst": "1",
+                        "lat": "42.04122",
+                        "lon": "-83.59425",
+                        "name": "London Township",
+                        "rank": "89",
+                        "type": "city",
+                        "tz": "America/Detroit",
+                        "utcOffset": "-04:00"
+                    },
+                    {
+                        "adm1": "Pennsylvania",
+                        "adm2": "Chester",
+                        "country": "United States",
+                        "fxLink": "https://www.qweather.com/weather/london-grove-township-C9E4A.html",
+                        "id": "C9E4A",
+                        "isDst": "1",
+                        "lat": "39.83965",
+                        "lon": "-75.81680",
+                        "name": "London Grove Township",
+                        "rank": "88",
+                        "type": "city",
+                        "tz": "America/New_York",
+                        "utcOffset": "-04:00"
+                    },
+                    {
+                        "adm1": "Pennsylvania",
+                        "adm2": "Chester",
+                        "country": "United States",
+                        "fxLink": "https://www.qweather.com/weather/london-britain-township-247D9.html",
+                        "id": "247D9",
+                        "isDst": "1",
+                        "lat": "39.75258",
+                        "lon": "-75.78381",
+                        "name": "London Britain Township",
+                        "rank": "89",
+                        "type": "city",
+                        "tz": "America/New_York",
+                        "utcOffset": "-04:00"
+                    }
+                ],
+                "tempList": "0",
+                "theme": "Luxury",
+                "timer": 5,
+                "title": "",
+                "titleParameters": {
+                    "fontFamily": "HarmonyOS Sans",
+                    "fontSize": 7,
+                    "fontStyle": "Regular",
+                    "fontUnderline": false,
+                    "showTitle": true,
+                    "titleAlignment": "bottom",
+                    "titleColor": "#ffffff"
+                },
+                "wdata": {
+                    "code": "101",
+                    "tmp": "16"
+                }
+            },
+            "State": 0,
+            "States": [
+                {
+                    "FontSize": 7,
+                    "Image": "static/img/default.jpg",
+                    "TitleAlignment": "bottom"
+                }
+            ],
+            "UUID": "com.hotspot.streamdock.weather.action1"
+        },
+        "0,1": {
+            "ActionID": "22i4z57g-203g-0wfj-34zb-2mf9i05p4668",
+            "Controller": "",
+            "Name": "World Time",
+            "Settings": {
+                "amplify": true,
+                "isBackgroundHidden": false,
+                "select": "1",
+                "theme": "theme1",
+                "title": "London",
+                "zone": "0"
+            },
+            "State": 0,
+            "States": [
+                {
+                    "FontSize": 11,
+                    "FontStyle": "Bold",
+                    "Image": "images/index.jpg",
+                    "Title": "London",
+                    "TitleAlignment": "bottom"
+                }
+            ],
+            "UUID": "com.mirabox.streamdock.time.action1"
+        },
+        "1,0": {
+            "ActionID": "06z44t3k-0m9y-is4j-2u9b-cvrj7aei46k1",
+            "Controller": "",
+            "Name": "Timer",
+            "Settings": {
+                "deep": 0,
+                "select": "1",
+                "start": 1720575775124
+            },
+            "State": 0,
+            "States": [
+                {
+                    "FontSize": "16",
+                    "Image": "images/T1.jpg",
+                    "TitleAlignment": "bottom"
+                }
+            ],
+            "UUID": "com.mirabox.streamdock.time.action2"
+        },
+        "1,1": {
+            "ActionID": "725p8si2-m1g6-5k96-7pxr-n4369g8g3s8d",
+            "Controller": "",
+            "Name": "Countdown",
+            "Settings": {
+                "color": "rgb(0,255,0)",
+                "inputTime": "0",
+                "musicUrl": "./assets/kn.mp3",
+                "select": "1",
+                "surplus": 60000,
+                "timing": "60000"
+            },
+            "State": 0,
+            "States": [
+                {
+                    "FontSize": "16",
+                    "Image": "images/C1.jpg",
+                    "TitleAlignment": "bottom"
+                }
+            ],
+            "UUID": "com.mirabox.streamdock.time.action3"
+        },
+        "2,0": {
+            "ActionID": "fq6mp0ci-mj69-6v83-ah4j-6zv7h22099ba",
+            "Controller": "",
+            "Name": "备忘记事",
+            "Settings": {
+            },
+            "State": 0,
+            "States": [
+                {
+                    "FontSize": "10",
+                    "Image": "static/img/memo",
+                    "TitleAlignment": "bottom"
+                }
+            ],
+            "UUID": "com.hotspot.streamdock.memo.action1"
+        },
+        "2,1": {
+            "ActionID": "2453q021-zr24-4wai-2pv4-cex58sv0go37",
+            "Controller": "",
+            "Name": "记录待办",
+            "Settings": {
+            },
+            "State": 0,
+            "States": [
+                {
+                    "FontSize": "10",
+                    "Image": "static/img/todo",
+                    "TitleAlignment": "middle"
+                }
+            ],
+            "UUID": "com.hotspot.streamdock.memo.action2"
+        },
+        "3,0": {
+            "ActionID": "4sl7a9k9-82xo-5vms-jq4x-w60jx3ps04q2",
+            "Controller": "",
+            "Name": "Multimedia",
+            "Settings": {
+                "actionIdx": 0
+            },
+            "State": 0,
+            "States": [
+                {
+                    "Image": "1C212YVQ349ZK85S3BXFQH1N863.png"
+                }
+            ],
+            "UUID": "com.hotspot.streamdock.system.multimedia"
+        },
+        "3,1": {
+            "ActionID": "7b9y3ye9-531d-4m0i-1x9z-whffp7i8ons8",
+            "Controller": "",
+            "Name": "change page",
+            "Settings": {
+            },
+            "State": 0,
+            "States": [
+                {
+                    "Image": "Z9G18B231R789KLM5HM17IJ55Y4.png"
+                }
+            ],
+            "UUID": "com.hotspot.streamdock.page.change"
+        },
+        "4,1": {
+            "ActionID": "3abgf2pw-a7p1-1s3m-ihkk-0klbf52jp917",
+            "Controller": "",
+            "Name": "Hotkey",
+            "Settings": {
+                "Coalesce": true,
+                "Hotkeys": [
+                    {
+                        "KeyCmd": true,
+                        "KeyCtrl": false,
+                        "KeyModifiers": 65536,
+                        "KeyOption": false,
+                        "KeyShift": false,
+                        "NativeCode": -1,
+                        "QTKeyCode": -1,
+                        "RKeyCmd": false,
+                        "RKeyCtrl": false,
+                        "RKeyOption": false,
+                        "RKeyShift": false,
+                        "VKeyCode": 32
+                    },
+                    {
+                        "KeyCmd": true,
+                        "KeyCtrl": false,
+                        "KeyModifiers": 65536,
+                        "KeyOption": false,
+                        "KeyShift": false,
+                        "NativeCode": -1,
+                        "QTKeyCode": -1,
+                        "RKeyCmd": false,
+                        "RKeyCtrl": false,
+                        "RKeyOption": false,
+                        "RKeyShift": false,
+                        "VKeyCode": 32
+                    },
+                    {
+                        "KeyCmd": false,
+                        "KeyCtrl": false,
+                        "KeyModifiers": 65536,
+                        "KeyOption": false,
+                        "KeyShift": false,
+                        "NativeCode": -1,
+                        "QTKeyCode": -1,
+                        "RKeyCmd": false,
+                        "RKeyCtrl": false,
+                        "RKeyOption": false,
+                        "RKeyShift": false,
+                        "VKeyCode": -1
+                    }
+                ]
+            },
+            "State": 0,
+            "States": [
+                {
+                    "Image": "SO8MIJP1EJ7AXNCU402N9FMC514.png"
+                }
+            ],
+            "UUID": "com.hotspot.streamdock.system.hotkey"
+        }
+    },
+    "DeviceModel": "20GBA9901",
+    "DeviceSerialNumber": "",
+    "DeviceUUID": "AKP03E",
+    "Name": "Информационная панель",
+    "Pages": {
+        "Current": "3740A0O7-HL79-1UYC-C3QV-NAGX67E7W2B7.sdProfile",
+        "Pages": [
+            "3740A0O7-HL79-1UYC-C3QV-NAGX67E7W2B7.sdProfile",
+            "070D26ZC-8VNQ-SK2V-40D8-MMR50Y53Y48L.sdProfile",
+            "1O4I0Z27-138C-ZNGZ-3214-IJYE012XMM02.sdProfile",
+            "I4IKEIID-Q32H-NAYQ-149D-Y08Q6K09UF76.sdProfile",
+            "17U3ZIH5-4E63-0H14-28H9-0UMV54KT15F2.sdProfile",
+            "1VDEO499-GR94-6070-R87K-RW6866A8J1RS.sdProfile"
+        ]
+    },
+    "Version": "1.0"
+}

@@ -1,0 +1,78 @@
+{
+    "Description": "Ceci est un moniteur de performances du système",
+    "Name": "Moniteur de performances du système",
+    "Category": "Moniteur de performances du système",
+    "com.hotspot.stream.memory": {
+        "Name": "Mémoire",
+        "Tooltip": "Afficher l'utilisation actuelle de la mémoire"
+    },
+    "com.hotspot.stream.cpu": {
+        "Name": "l'utilisation du processeur",
+        "Tooltip": "Afficher l'utilisation actuelle du processeur"
+    },
+    "com.hotspot.stream.cpu.temperature": {
+        "Name": "Température du processeur",
+        "Tooltip": "Afficher la température actuelle du processeur"
+    },
+    "com.hotspot.stream.Cpu_Clock": {
+        "Name": "Fréquence du processeur",
+        "Tooltip": "Afficher la fréquence actuelle du processeur"
+    },
+    "com.hotspot.stream.Cpu_Package_Power": {
+        "Name": "Puissance encapsulée CPU", 
+        "Tooltip": "Affiche la puissance encapsulée du CPU actuel"
+    },
+    "com.hotspot.stream.NetWork": {
+        "Name": "Vitesse Internet",
+        "Tooltip": "Affiche les vitesses de téléchargement et de téléchargement actuelles"
+    },
+    "com.hotspot.stream.PhysicalDisk": {
+        "Name": "disque dur",
+        "Tooltip": "Afficher l'utilisation actuelle du disque dur"
+    },
+    "com.hotspot.stream.Gpu_Temperature": {
+        "Name": "Température du processeur graphique",
+        "Tooltip": "Afficher la température actuelle du GPU"
+    },
+    "com.hotspot.stream.Gpu_Core_Clock": {
+        "Name": "Fréquence du cœur du GPU",
+        "Tooltip": "Affiche la fréquence du cœur GPU actuel"
+    },
+    "com.hotspot.stream.Gpu_Core_Usage": {
+        "Name": "Utilisation du cœur du GPU",
+        "Tooltip": "Afficher l'utilisation actuelle du cœur du GPU"
+    },
+    "com.hotspot.stream.Gpu_Memory_Clock": {
+        "Name": "Fréquence de la mémoire GPU",
+        "Tooltip": "Affiche la fréquence actuelle de la mémoire GPU"
+    },
+    "com.hotspot.stream.Gpu_Memory_Usage": {
+        "Name": "Utilisation de la mémoire GPU",
+        "Tooltip": "Afficher l'utilisation actuelle de la mémoire GPU"
+    },
+    "Localization": {
+        "1": "1",
+        "120": "120",
+        "CPU温度": "Température du processeur",
+        "CPU占用率": "l'utilisation du processeur",
+        "内存占用率": "Utilisation de la mémoire",
+        "硬盘剩余空间": "Espace restant sur le disque dur",
+        "背景": "arrière-plan",
+        "简约彩色": "couleur simple",
+        "赛博朋克": "cyberpunk",
+        "模式": "modèle",
+        "单个磁盘": "disque unique",
+        "磁盘循环": "boucle de disque",
+        "盘名": "nom du disque",
+        "低阈值": "seuil bas",
+        "危险阈值": "seuil de danger",
+        "背景切换": "Commutation en arrière-plan",
+        "选择文件...": "Sélectionnez un document...",
+        "显示盘符名": "Afficher le nom de la lettre du lecteur",
+        "进度条倒置": "Barre de progression à l'envers",
+        "切换频率": "fréquence de commutation",
+        "秒": "Deuxième",
+        "(秒)": "(Deuxième)",
+        "仅限126*126像素图片": "Seulement des images de 126*126 pixels"
+    }
+}

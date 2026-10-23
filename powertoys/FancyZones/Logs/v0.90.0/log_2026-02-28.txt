@@ -1,0 +1,171 @@
+[2026-02-28 15:16:55.376065] [p-1336] [t-3464] [info] Display changed, type: DisplayChange
+[2026-02-28 15:16:55.376686] [p-1336] [t-3464] [debug] Update work areas, update windows positions: true
+[2026-02-28 15:16:55.376765] [p-1336] [t-3464] [info] Identifying monitors
+[2026-02-28 15:16:55.378860] [p-1336] [t-3464] [info] Get display device for display \\.\DISPLAY2 : \\?\DISPLAY#GSM7715#5&8bcebe0&0&UID33025#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2026-02-28 15:16:55.379367] [p-1336] [t-3464] [info] Get display device for display \\.\DISPLAY3 : \\?\DISPLAY#ACR0743#5&8bcebe0&0&UID33024#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2026-02-28 15:16:55.380252] [p-1336] [t-3464] [info] Get display device for display \\.\DISPLAY4 : \\?\DISPLAY#GSM5AB6#5&8bcebe0&0&UID33027#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2026-02-28 15:16:55.697336] [p-1336] [t-3464] [info] InstanceName: DISPLAY\ACR0743\5&8bcebe0&0&UID33024_0
+[2026-02-28 15:16:55.697371] [p-1336] [t-3464] [info] Serial number: 2475695430
+[2026-02-28 15:16:55.697530] [p-1336] [t-3464] [info] InstanceName: DISPLAY\GSM7715\5&8bcebe0&0&UID33025_0
+[2026-02-28 15:16:55.697544] [p-1336] [t-3464] [info] Serial number: 269918
+[2026-02-28 15:16:55.697651] [p-1336] [t-3464] [info] InstanceName: DISPLAY\GSM5AB6\5&8bcebe0&0&UID33027_0
+[2026-02-28 15:16:55.697664] [p-1336] [t-3464] [info] Serial number: 601NTQDAZ124
+[2026-02-28 15:16:55.697904] [p-1336] [t-3464] [trace] Monitor was added or removed
+[2026-02-28 15:16:55.697922] [p-1336] [t-3464] [info] Freeing ZonesOverlay window into pool, hWnd = 0xb0570
+[2026-02-28 15:16:55.753960] [p-1336] [t-3464] [info] Freeing ZonesOverlay window into pool, hWnd = 0x1008ce
+[2026-02-28 15:16:55.782008] [p-1336] [t-3464] [info] Freeing ZonesOverlay window into pool, hWnd = 0x1b0906
+[2026-02-28 15:16:55.796168] [p-1336] [t-3464] [info] Freeing ZonesOverlay window into pool, hWnd = 0x260eac
+[2026-02-28 15:16:55.819166] [p-1336] [t-3464] [debug] Add new work area on virtual desktop {550C76BD-6543-4F87-ACE0-509459D2630F}
+[2026-02-28 15:16:55.820483] [p-1336] [t-3464] [info] Reusing ZonesOverlay window from pool, hWnd = 0x260eac
+[2026-02-28 15:17:00.941786] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-28 15:17:00.941835] [p-1336] [t-3464] [debug] Add new work area on virtual desktop {550C76BD-6543-4F87-ACE0-509459D2630F}
+[2026-02-28 15:17:00.947491] [p-1336] [t-3464] [info] Reusing ZonesOverlay window from pool, hWnd = 0x1b0906
+[2026-02-28 15:17:01.001363] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-28 15:17:01.001410] [p-1336] [t-3464] [debug] Add new work area on virtual desktop {550C76BD-6543-4F87-ACE0-509459D2630F}
+[2026-02-28 15:17:01.002303] [p-1336] [t-3464] [info] Reusing ZonesOverlay window from pool, hWnd = 0x1008ce
+[2026-02-28 15:17:01.120537] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1080
+[2026-02-28 15:17:01.282428] [p-1336] [t-3464] [info] Display changed, type: WorkArea
+[2026-02-28 15:17:01.282479] [p-1336] [t-3464] [debug] Update work areas, update windows positions: true
+[2026-02-28 15:17:01.282524] [p-1336] [t-3464] [info] Identifying monitors
+[2026-02-28 15:17:01.283591] [p-1336] [t-3464] [info] Get display device for display \\.\DISPLAY2 : \\?\DISPLAY#GSM7715#5&8bcebe0&0&UID33025#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2026-02-28 15:17:01.284263] [p-1336] [t-3464] [info] Get display device for display \\.\DISPLAY3 : \\?\DISPLAY#ACR0743#5&8bcebe0&0&UID33024#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2026-02-28 15:17:01.284989] [p-1336] [t-3464] [info] Get display device for display \\.\DISPLAY4 : \\?\DISPLAY#GSM5AB6#5&8bcebe0&0&UID33027#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2026-02-28 15:17:01.285820] [p-1336] [t-3464] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#GSM7766#5&8bcebe0&0&UID33028#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2026-02-28 15:17:01.292107] [p-1336] [t-3464] [info] InstanceName: DISPLAY\ACR0743\5&8bcebe0&0&UID33024_0
+[2026-02-28 15:17:01.292157] [p-1336] [t-3464] [info] Serial number: 2475695430
+[2026-02-28 15:17:01.292399] [p-1336] [t-3464] [info] InstanceName: DISPLAY\GSM7715\5&8bcebe0&0&UID33025_0
+[2026-02-28 15:17:01.292431] [p-1336] [t-3464] [info] Serial number: 269918
+[2026-02-28 15:17:01.292583] [p-1336] [t-3464] [info] InstanceName: DISPLAY\GSM5AB6\5&8bcebe0&0&UID33027_0
+[2026-02-28 15:17:01.292598] [p-1336] [t-3464] [info] Serial number: 601NTQDAZ124
+[2026-02-28 15:17:01.292710] [p-1336] [t-3464] [info] InstanceName: DISPLAY\GSM7766\5&8bcebe0&0&UID33028_0
+[2026-02-28 15:17:01.292725] [p-1336] [t-3464] [info] Serial number: 103NTDVBB114
+[2026-02-28 15:17:01.293020] [p-1336] [t-3464] [trace] Monitor was added or removed
+[2026-02-28 15:17:01.293037] [p-1336] [t-3464] [info] Freeing ZonesOverlay window into pool, hWnd = 0x260eac
+[2026-02-28 15:17:01.316240] [p-1336] [t-3464] [info] Freeing ZonesOverlay window into pool, hWnd = 0x1b0906
+[2026-02-28 15:17:01.345162] [p-1336] [t-3464] [info] Freeing ZonesOverlay window into pool, hWnd = 0x1008ce
+[2026-02-28 15:17:01.380621] [p-1336] [t-3464] [debug] Add new work area on virtual desktop {550C76BD-6543-4F87-ACE0-509459D2630F}
+[2026-02-28 15:17:01.381236] [p-1336] [t-3464] [info] Reusing ZonesOverlay window from pool, hWnd = 0x1008ce
+[2026-02-28 15:17:01.593677] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-28 15:17:01.593724] [p-1336] [t-3464] [debug] Add new work area on virtual desktop {550C76BD-6543-4F87-ACE0-509459D2630F}
+[2026-02-28 15:17:01.594725] [p-1336] [t-3464] [info] Reusing ZonesOverlay window from pool, hWnd = 0x1b0906
+[2026-02-28 15:17:01.621395] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-28 15:17:01.621433] [p-1336] [t-3464] [debug] Add new work area on virtual desktop {550C76BD-6543-4F87-ACE0-509459D2630F}
+[2026-02-28 15:17:01.622269] [p-1336] [t-3464] [info] Reusing ZonesOverlay window from pool, hWnd = 0x260eac
+[2026-02-28 15:17:01.660491] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1080
+[2026-02-28 15:17:01.660534] [p-1336] [t-3464] [debug] Add new work area on virtual desktop {550C76BD-6543-4F87-ACE0-509459D2630F}
+[2026-02-28 15:17:01.677475] [p-1336] [t-3464] [info] Reusing ZonesOverlay window from pool, hWnd = 0xb0570
+[2026-02-28 15:17:01.785797] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1440
+[2026-02-28 15:17:01.932974] [p-1336] [t-3464] [info] Display changed, type: DisplayChange
+[2026-02-28 15:17:01.933007] [p-1336] [t-3464] [debug] Update work areas, update windows positions: true
+[2026-02-28 15:17:01.933043] [p-1336] [t-3464] [info] Identifying monitors
+[2026-02-28 15:17:01.934154] [p-1336] [t-3464] [info] Get display device for display \\.\DISPLAY2 : \\?\DISPLAY#GSM7715#5&8bcebe0&0&UID33025#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2026-02-28 15:17:01.934752] [p-1336] [t-3464] [info] Get display device for display \\.\DISPLAY3 : \\?\DISPLAY#ACR0743#5&8bcebe0&0&UID33024#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2026-02-28 15:17:01.935434] [p-1336] [t-3464] [info] Get display device for display \\.\DISPLAY4 : \\?\DISPLAY#GSM5AB6#5&8bcebe0&0&UID33027#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2026-02-28 15:17:01.936012] [p-1336] [t-3464] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#GSM7766#5&8bcebe0&0&UID33028#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2026-02-28 15:17:01.948224] [p-1336] [t-3464] [info] InstanceName: DISPLAY\ACR0743\5&8bcebe0&0&UID33024_0
+[2026-02-28 15:17:01.948260] [p-1336] [t-3464] [info] Serial number: 2475695430
+[2026-02-28 15:17:01.948540] [p-1336] [t-3464] [info] InstanceName: DISPLAY\GSM7715\5&8bcebe0&0&UID33025_0
+[2026-02-28 15:17:01.948593] [p-1336] [t-3464] [info] Serial number: 269918
+[2026-02-28 15:17:01.948767] [p-1336] [t-3464] [info] InstanceName: DISPLAY\GSM5AB6\5&8bcebe0&0&UID33027_0
+[2026-02-28 15:17:01.948786] [p-1336] [t-3464] [info] Serial number: 601NTQDAZ124
+[2026-02-28 15:17:01.948935] [p-1336] [t-3464] [info] InstanceName: DISPLAY\GSM7766\5&8bcebe0&0&UID33028_0
+[2026-02-28 15:17:01.948951] [p-1336] [t-3464] [info] Serial number: 103NTDVBB114
+[2026-02-28 15:17:01.949241] [p-1336] [t-3464] [trace] WorkArea size changed
+[2026-02-28 15:17:01.949257] [p-1336] [t-3464] [info] Freeing ZonesOverlay window into pool, hWnd = 0xb0570
+[2026-02-28 15:17:01.988469] [p-1336] [t-3464] [info] Freeing ZonesOverlay window into pool, hWnd = 0x1008ce
+[2026-02-28 15:17:02.003664] [p-1336] [t-3464] [info] Freeing ZonesOverlay window into pool, hWnd = 0x1b0906
+[2026-02-28 15:17:02.022436] [p-1336] [t-3464] [info] Freeing ZonesOverlay window into pool, hWnd = 0x260eac
+[2026-02-28 15:17:02.046062] [p-1336] [t-3464] [debug] Add new work area on virtual desktop {550C76BD-6543-4F87-ACE0-509459D2630F}
+[2026-02-28 15:17:02.046528] [p-1336] [t-3464] [info] Reusing ZonesOverlay window from pool, hWnd = 0x260eac
+[2026-02-28 15:17:02.295021] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1080
+[2026-02-28 15:17:02.295063] [p-1336] [t-3464] [debug] Add new work area on virtual desktop {550C76BD-6543-4F87-ACE0-509459D2630F}
+[2026-02-28 15:17:02.295723] [p-1336] [t-3464] [info] Reusing ZonesOverlay window from pool, hWnd = 0x1b0906
+[2026-02-28 15:17:02.321660] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-28 15:17:02.321705] [p-1336] [t-3464] [debug] Add new work area on virtual desktop {550C76BD-6543-4F87-ACE0-509459D2630F}
+[2026-02-28 15:17:02.322374] [p-1336] [t-3464] [info] Reusing ZonesOverlay window from pool, hWnd = 0x1008ce
+[2026-02-28 15:17:02.356871] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-28 15:17:02.356919] [p-1336] [t-3464] [debug] Add new work area on virtual desktop {550C76BD-6543-4F87-ACE0-509459D2630F}
+[2026-02-28 15:17:02.357041] [p-1336] [t-3464] [info] Reusing ZonesOverlay window from pool, hWnd = 0xb0570
+[2026-02-28 15:17:02.383188] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-28 15:17:02.409685] [p-1336] [t-3464] [info] Display changed, type: WorkArea
+[2026-02-28 15:17:02.409730] [p-1336] [t-3464] [debug] Update work areas, update windows positions: true
+[2026-02-28 15:17:02.409773] [p-1336] [t-3464] [info] Identifying monitors
+[2026-02-28 15:17:02.410824] [p-1336] [t-3464] [info] Get display device for display \\.\DISPLAY2 : \\?\DISPLAY#GSM7715#5&8bcebe0&0&UID33025#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2026-02-28 15:17:02.411407] [p-1336] [t-3464] [info] Get display device for display \\.\DISPLAY3 : \\?\DISPLAY#ACR0743#5&8bcebe0&0&UID33024#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2026-02-28 15:17:02.412121] [p-1336] [t-3464] [info] Get display device for display \\.\DISPLAY4 : \\?\DISPLAY#GSM5AB6#5&8bcebe0&0&UID33027#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2026-02-28 15:17:02.412803] [p-1336] [t-3464] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#GSM7766#5&8bcebe0&0&UID33028#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2026-02-28 15:17:02.416746] [p-1336] [t-3464] [info] InstanceName: DISPLAY\ACR0743\5&8bcebe0&0&UID33024_0
+[2026-02-28 15:17:02.416796] [p-1336] [t-3464] [info] Serial number: 2475695430
+[2026-02-28 15:17:02.416946] [p-1336] [t-3464] [info] InstanceName: DISPLAY\GSM7715\5&8bcebe0&0&UID33025_0
+[2026-02-28 15:17:02.417147] [p-1336] [t-3464] [info] Serial number: 269918
+[2026-02-28 15:17:02.417281] [p-1336] [t-3464] [info] InstanceName: DISPLAY\GSM5AB6\5&8bcebe0&0&UID33027_0
+[2026-02-28 15:17:02.417294] [p-1336] [t-3464] [info] Serial number: 601NTQDAZ124
+[2026-02-28 15:17:02.417396] [p-1336] [t-3464] [info] InstanceName: DISPLAY\GSM7766\5&8bcebe0&0&UID33028_0
+[2026-02-28 15:17:02.417410] [p-1336] [t-3464] [info] Serial number: 103NTDVBB114
+[2026-02-28 15:17:02.427390] [p-1336] [t-3464] [info] Display changed, type: WorkArea
+[2026-02-28 15:17:02.427430] [p-1336] [t-3464] [debug] Update work areas, update windows positions: true
+[2026-02-28 15:17:02.427460] [p-1336] [t-3464] [info] Identifying monitors
+[2026-02-28 15:17:02.428309] [p-1336] [t-3464] [info] Get display device for display \\.\DISPLAY2 : \\?\DISPLAY#GSM7715#5&8bcebe0&0&UID33025#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2026-02-28 15:17:02.428969] [p-1336] [t-3464] [info] Get display device for display \\.\DISPLAY3 : \\?\DISPLAY#ACR0743#5&8bcebe0&0&UID33024#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2026-02-28 15:17:02.429650] [p-1336] [t-3464] [info] Get display device for display \\.\DISPLAY4 : \\?\DISPLAY#GSM5AB6#5&8bcebe0&0&UID33027#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2026-02-28 15:17:02.430406] [p-1336] [t-3464] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#GSM7766#5&8bcebe0&0&UID33028#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2026-02-28 15:17:02.433874] [p-1336] [t-3464] [info] InstanceName: DISPLAY\ACR0743\5&8bcebe0&0&UID33024_0
+[2026-02-28 15:17:02.433905] [p-1336] [t-3464] [info] Serial number: 2475695430
+[2026-02-28 15:17:02.434074] [p-1336] [t-3464] [info] InstanceName: DISPLAY\GSM7715\5&8bcebe0&0&UID33025_0
+[2026-02-28 15:17:02.434092] [p-1336] [t-3464] [info] Serial number: 269918
+[2026-02-28 15:17:02.434219] [p-1336] [t-3464] [info] InstanceName: DISPLAY\GSM5AB6\5&8bcebe0&0&UID33027_0
+[2026-02-28 15:17:02.434232] [p-1336] [t-3464] [info] Serial number: 601NTQDAZ124
+[2026-02-28 15:17:02.434346] [p-1336] [t-3464] [info] InstanceName: DISPLAY\GSM7766\5&8bcebe0&0&UID33028_0
+[2026-02-28 15:17:02.434358] [p-1336] [t-3464] [info] Serial number: 103NTDVBB114
+[2026-02-28 15:17:02.450880] [p-1336] [t-3464] [info] Display changed, type: WorkArea
+[2026-02-28 15:17:02.450928] [p-1336] [t-3464] [debug] Update work areas, update windows positions: true
+[2026-02-28 15:17:02.450970] [p-1336] [t-3464] [info] Identifying monitors
+[2026-02-28 15:17:02.451882] [p-1336] [t-3464] [info] Get display device for display \\.\DISPLAY2 : \\?\DISPLAY#GSM7715#5&8bcebe0&0&UID33025#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2026-02-28 15:17:02.452462] [p-1336] [t-3464] [info] Get display device for display \\.\DISPLAY3 : \\?\DISPLAY#ACR0743#5&8bcebe0&0&UID33024#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2026-02-28 15:17:02.453004] [p-1336] [t-3464] [info] Get display device for display \\.\DISPLAY4 : \\?\DISPLAY#GSM5AB6#5&8bcebe0&0&UID33027#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2026-02-28 15:17:02.453614] [p-1336] [t-3464] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#GSM7766#5&8bcebe0&0&UID33028#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2026-02-28 15:17:02.457230] [p-1336] [t-3464] [info] InstanceName: DISPLAY\ACR0743\5&8bcebe0&0&UID33024_0
+[2026-02-28 15:17:02.457269] [p-1336] [t-3464] [info] Serial number: 2475695430
+[2026-02-28 15:17:02.457417] [p-1336] [t-3464] [info] InstanceName: DISPLAY\GSM7715\5&8bcebe0&0&UID33025_0
+[2026-02-28 15:17:02.457435] [p-1336] [t-3464] [info] Serial number: 269918
+[2026-02-28 15:17:02.457552] [p-1336] [t-3464] [info] InstanceName: DISPLAY\GSM5AB6\5&8bcebe0&0&UID33027_0
+[2026-02-28 15:17:02.457566] [p-1336] [t-3464] [info] Serial number: 601NTQDAZ124
+[2026-02-28 15:17:02.457676] [p-1336] [t-3464] [info] InstanceName: DISPLAY\GSM7766\5&8bcebe0&0&UID33028_0
+[2026-02-28 15:17:02.457689] [p-1336] [t-3464] [info] Serial number: 103NTDVBB114
+[2026-02-28 15:17:02.587676] [p-1336] [t-3464] [info] Display changed, type: WorkArea
+[2026-02-28 15:17:02.587720] [p-1336] [t-3464] [debug] Update work areas, update windows positions: true
+[2026-02-28 15:17:02.587803] [p-1336] [t-3464] [info] Identifying monitors
+[2026-02-28 15:17:02.588651] [p-1336] [t-3464] [info] Get display device for display \\.\DISPLAY2 : \\?\DISPLAY#GSM7715#5&8bcebe0&0&UID33025#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2026-02-28 15:17:02.589304] [p-1336] [t-3464] [info] Get display device for display \\.\DISPLAY3 : \\?\DISPLAY#ACR0743#5&8bcebe0&0&UID33024#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2026-02-28 15:17:02.589922] [p-1336] [t-3464] [info] Get display device for display \\.\DISPLAY4 : \\?\DISPLAY#GSM5AB6#5&8bcebe0&0&UID33027#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2026-02-28 15:17:02.590508] [p-1336] [t-3464] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#GSM7766#5&8bcebe0&0&UID33028#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2026-02-28 15:17:02.593886] [p-1336] [t-3464] [info] InstanceName: DISPLAY\ACR0743\5&8bcebe0&0&UID33024_0
+[2026-02-28 15:17:02.593914] [p-1336] [t-3464] [info] Serial number: 2475695430
+[2026-02-28 15:17:02.594113] [p-1336] [t-3464] [info] InstanceName: DISPLAY\GSM7715\5&8bcebe0&0&UID33025_0
+[2026-02-28 15:17:02.594131] [p-1336] [t-3464] [info] Serial number: 269918
+[2026-02-28 15:17:02.594261] [p-1336] [t-3464] [info] InstanceName: DISPLAY\GSM5AB6\5&8bcebe0&0&UID33027_0
+[2026-02-28 15:17:02.594278] [p-1336] [t-3464] [info] Serial number: 601NTQDAZ124
+[2026-02-28 15:17:02.594406] [p-1336] [t-3464] [info] InstanceName: DISPLAY\GSM7766\5&8bcebe0&0&UID33028_0
+[2026-02-28 15:17:02.594422] [p-1336] [t-3464] [info] Serial number: 103NTDVBB114
+[2026-02-28 15:17:02.594769] [p-1336] [t-3464] [trace] WorkArea size changed
+[2026-02-28 15:17:02.594789] [p-1336] [t-3464] [info] Freeing ZonesOverlay window into pool, hWnd = 0xb0570
+[2026-02-28 15:17:02.694819] [p-1336] [t-3464] [info] Freeing ZonesOverlay window into pool, hWnd = 0x260eac
+[2026-02-28 15:17:02.726975] [p-1336] [t-3464] [info] Freeing ZonesOverlay window into pool, hWnd = 0x1b0906
+[2026-02-28 15:17:02.762415] [p-1336] [t-3464] [info] Freeing ZonesOverlay window into pool, hWnd = 0x1008ce
+[2026-02-28 15:17:02.781212] [p-1336] [t-3464] [debug] Add new work area on virtual desktop {550C76BD-6543-4F87-ACE0-509459D2630F}
+[2026-02-28 15:17:02.782177] [p-1336] [t-3464] [info] Reusing ZonesOverlay window from pool, hWnd = 0x1008ce
+[2026-02-28 15:17:02.984711] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-28 15:17:02.984748] [p-1336] [t-3464] [debug] Add new work area on virtual desktop {550C76BD-6543-4F87-ACE0-509459D2630F}
+[2026-02-28 15:17:02.985141] [p-1336] [t-3464] [info] Reusing ZonesOverlay window from pool, hWnd = 0x1b0906
+[2026-02-28 15:17:03.014320] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-28 15:17:03.014361] [p-1336] [t-3464] [debug] Add new work area on virtual desktop {550C76BD-6543-4F87-ACE0-509459D2630F}
+[2026-02-28 15:17:03.014565] [p-1336] [t-3464] [info] Reusing ZonesOverlay window from pool, hWnd = 0x260eac
+[2026-02-28 15:17:03.043328] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-28 15:17:03.043369] [p-1336] [t-3464] [debug] Add new work area on virtual desktop {550C76BD-6543-4F87-ACE0-509459D2630F}
+[2026-02-28 15:17:03.043664] [p-1336] [t-3464] [info] Reusing ZonesOverlay window from pool, hWnd = 0xb0570
+[2026-02-28 15:17:03.072901] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-28 16:40:47.216766] [p-1336] [t-3464] [info] Freeing ZonesOverlay window into pool, hWnd = 0xb0570
+[2026-02-28 16:40:47.228144] [p-1336] [t-3464] [info] Freeing ZonesOverlay window into pool, hWnd = 0x1008ce
+[2026-02-28 16:40:47.239251] [p-1336] [t-3464] [info] Freeing ZonesOverlay window into pool, hWnd = 0x1b0906
+[2026-02-28 16:40:47.250783] [p-1336] [t-3464] [info] Freeing ZonesOverlay window into pool, hWnd = 0x260eac
+[2026-02-28 16:40:47.267906] [p-1336] [t-15016] [trace] OnThreadExecutor::worker_thread(loop) Exit

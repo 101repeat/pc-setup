@@ -1,0 +1,222 @@
+[16:08:23.1413452] [Trace] FancyZonesEditorIO.cs::ParseParams::37
+[16:08:23.2538670] [Trace] Overlay.cs::ShowLayout::162
+[16:08:23.8356608] [Trace] FancyZonesEditorIO.cs::ParseLayoutTemplates::181
+[16:08:23.8363788] [Trace] FancyZonesEditorIO.cs::ParseCustomLayouts::209
+[16:08:23.8369128] [Trace] FancyZonesEditorIO.cs::ParseDefaultLayouts::237
+[16:08:23.8373194] [Trace] FancyZonesEditorIO.cs::ParseLayoutHotkeys::153
+[16:08:23.8375861] [Trace] FancyZonesEditorIO.cs::ParseAppliedLayouts::127
+[16:08:23.8568237] [Trace] FancyZonesEditorIO.cs::SetAppliedLayouts::601
+[16:08:23.8597637] [Trace] Overlay.cs::Show::140
+[16:08:23.8652478] [Trace] Overlay.cs::ShowLayout::162
+[16:08:24.2026182] [Info] LayoutPreview.xaml.cs::OnLoaded::88
+    Loaded Priority Grid
+[16:08:24.2578267] [Info] LayoutPreview.xaml.cs::OnLoaded::88
+    Loaded No layout
+[16:08:24.2587189] [Info] LayoutPreview.xaml.cs::OnLoaded::88
+    Loaded Focus
+[16:08:24.2594497] [Info] LayoutPreview.xaml.cs::OnLoaded::88
+    Loaded Columns
+[16:08:24.2604708] [Info] LayoutPreview.xaml.cs::OnLoaded::88
+    Loaded Rows
+[16:08:24.2614300] [Info] LayoutPreview.xaml.cs::OnLoaded::88
+    Loaded Grid
+[16:08:24.2621416] [Info] LayoutPreview.xaml.cs::OnLoaded::88
+    Loaded Priority Grid
+[16:08:32.0595741] [Trace] MainWindow.xaml.cs::NewLayoutButton_Click::206
+[16:08:35.5438561] [Trace] MainWindow.xaml.cs::NewLayoutDialog_PrimaryButtonClick::380
+[16:08:35.5527444] [Trace] Overlay.cs::OpenEditor::187
+[16:08:38.9695368] [Trace] GridData.cs::Drag::527
+[16:08:41.3125247] [Trace] GridData.cs::Drag::527
+[16:08:49.6647105] [Trace] GridData.cs::Drag::527
+[16:08:54.4949297] [Trace] GridData.cs::Drag::527
+[16:08:55.7033917] [Trace] GridData.cs::DoMerge::422
+[16:08:57.1822123] [Trace] GridData.cs::DoMerge::422
+[16:09:01.2994655] [Trace] GridEditor.xaml.cs::OnSplit::309
+[16:09:01.2996678] [Trace] GridData.cs::Split::462
+[16:09:17.3695196] [Trace] GridData.cs::Drag::527
+[16:09:19.2932490] [Trace] EditorWindow.cs::OnSave::24
+[16:09:19.3253499] [Trace] Overlay.cs::CloseEditor::210
+[16:09:19.3519473] [Info] LayoutPreview.xaml.cs::OnLoaded::88
+    Loaded Custom layout 1
+[16:09:19.3525612] [Info] LayoutPreview.xaml.cs::OnLoaded::88
+    Loaded Custom layout 1
+[16:09:20.5597354] [Trace] MainWindow.xaml.cs::Apply::304
+[16:09:20.5612359] [Trace] FancyZonesEditorIO.cs::SerializeAppliedLayouts::265
+[16:09:25.2561713] [Trace] MainWindow.xaml.cs::OnClosing::315
+[16:09:25.2562455] [Trace] FancyZonesEditorIO.cs::SerializeAppliedLayouts::265
+[16:09:25.3407880] [Info] App.xaml.cs::Dispose::234
+    FancyZones Editor disposed
+[16:09:25.3408903] [Info] App.xaml.cs::OnExit::162
+    FancyZones Editor exited
+[16:09:32.0727211] [Trace] FancyZonesEditorIO.cs::ParseParams::37
+[16:09:32.1269107] [Trace] Overlay.cs::ShowLayout::162
+[16:09:32.5890640] [Trace] FancyZonesEditorIO.cs::ParseLayoutTemplates::181
+[16:09:32.5996037] [Trace] FancyZonesEditorIO.cs::SetTemplateLayouts::741
+[16:09:32.6026680] [Trace] FancyZonesEditorIO.cs::ParseCustomLayouts::209
+[16:09:32.6133614] [Trace] FancyZonesEditorIO.cs::SetCustomLayouts::688
+[16:09:32.6207851] [Trace] FancyZonesEditorIO.cs::ParseDefaultLayouts::237
+[16:09:32.6335817] [Trace] FancyZonesEditorIO.cs::SetDefaultLayouts::783
+[16:09:32.6344880] [Trace] FancyZonesEditorIO.cs::ParseLayoutHotkeys::153
+[16:09:32.6403112] [Trace] FancyZonesEditorIO.cs::SetLayoutHotkeys::770
+[16:09:32.6436657] [Trace] FancyZonesEditorIO.cs::ParseAppliedLayouts::127
+[16:09:32.6581278] [Trace] FancyZonesEditorIO.cs::SetAppliedLayouts::601
+[16:09:32.6588896] [Trace] Overlay.cs::Show::140
+[16:09:32.6623015] [Trace] Overlay.cs::ShowLayout::162
+[16:09:32.9252858] [Info] LayoutPreview.xaml.cs::OnLoaded::88
+    Loaded Custom layout 1
+[16:09:32.9781141] [Info] LayoutPreview.xaml.cs::OnLoaded::88
+    Loaded No layout
+[16:09:32.9785461] [Info] LayoutPreview.xaml.cs::OnLoaded::88
+    Loaded Focus
+[16:09:32.9790506] [Info] LayoutPreview.xaml.cs::OnLoaded::88
+    Loaded Columns
+[16:09:32.9797609] [Info] LayoutPreview.xaml.cs::OnLoaded::88
+    Loaded Rows
+[16:09:32.9803879] [Info] LayoutPreview.xaml.cs::OnLoaded::88
+    Loaded Grid
+[16:09:32.9809516] [Info] LayoutPreview.xaml.cs::OnLoaded::88
+    Loaded Priority Grid
+[16:09:32.9814999] [Info] LayoutPreview.xaml.cs::OnLoaded::88
+    Loaded Custom layout 1
+[16:09:34.6054980] [Trace] MainWindow.xaml.cs::Apply::304
+[16:09:34.6093097] [Trace] FancyZonesEditorIO.cs::SerializeAppliedLayouts::265
+[16:09:34.6786827] [Trace] MainWindow.xaml.cs::OnClosing::315
+[16:09:34.6787574] [Trace] FancyZonesEditorIO.cs::SerializeAppliedLayouts::265
+[16:09:34.8101684] [Info] App.xaml.cs::Dispose::234
+    FancyZones Editor disposed
+[16:09:34.8102906] [Info] App.xaml.cs::OnExit::162
+    FancyZones Editor exited
+[16:09:55.0686897] [Trace] FancyZonesEditorIO.cs::ParseParams::37
+[16:09:55.1279508] [Trace] Overlay.cs::ShowLayout::162
+[16:09:55.6387415] [Trace] FancyZonesEditorIO.cs::ParseLayoutTemplates::181
+[16:09:55.6516893] [Trace] FancyZonesEditorIO.cs::SetTemplateLayouts::741
+[16:09:55.6553659] [Trace] FancyZonesEditorIO.cs::ParseCustomLayouts::209
+[16:09:55.6683379] [Trace] FancyZonesEditorIO.cs::SetCustomLayouts::688
+[16:09:55.6752465] [Trace] FancyZonesEditorIO.cs::ParseDefaultLayouts::237
+[16:09:55.6904455] [Trace] FancyZonesEditorIO.cs::SetDefaultLayouts::783
+[16:09:55.6917583] [Trace] FancyZonesEditorIO.cs::ParseLayoutHotkeys::153
+[16:09:55.7002309] [Trace] FancyZonesEditorIO.cs::SetLayoutHotkeys::770
+[16:09:55.7033669] [Trace] FancyZonesEditorIO.cs::ParseAppliedLayouts::127
+[16:09:55.7204934] [Trace] FancyZonesEditorIO.cs::SetAppliedLayouts::601
+[16:09:55.7210158] [Trace] Overlay.cs::Show::140
+[16:09:55.7240823] [Trace] Overlay.cs::ShowLayout::162
+[16:09:55.9802487] [Info] LayoutPreview.xaml.cs::OnLoaded::88
+    Loaded Custom layout 1
+[16:09:56.0278121] [Info] LayoutPreview.xaml.cs::OnLoaded::88
+    Loaded No layout
+[16:09:56.0281676] [Info] LayoutPreview.xaml.cs::OnLoaded::88
+    Loaded Focus
+[16:09:56.0286730] [Info] LayoutPreview.xaml.cs::OnLoaded::88
+    Loaded Columns
+[16:09:56.0295071] [Info] LayoutPreview.xaml.cs::OnLoaded::88
+    Loaded Rows
+[16:09:56.0300946] [Info] LayoutPreview.xaml.cs::OnLoaded::88
+    Loaded Grid
+[16:09:56.0306466] [Info] LayoutPreview.xaml.cs::OnLoaded::88
+    Loaded Priority Grid
+[16:09:56.0311997] [Info] LayoutPreview.xaml.cs::OnLoaded::88
+    Loaded Custom layout 1
+[16:10:09.3802440] [Trace] MainWindow.xaml.cs::Apply::304
+[16:10:09.3826041] [Trace] FancyZonesEditorIO.cs::SerializeAppliedLayouts::265
+[16:10:10.2544472] [Trace] MainWindow.xaml.cs::EditLayout_Click::335
+[16:10:10.3003102] [Info] LayoutPreview.xaml.cs::OnLoaded::88
+    Loaded Rows
+[16:10:10.3007033] [Info] LayoutPreview.xaml.cs::OnLoaded::88
+    Loaded Rows
+[16:10:13.8011588] [Trace] MainWindow.xaml.cs::EditLayout_Click::335
+[16:10:13.8305037] [Info] LayoutPreview.xaml.cs::OnLoaded::88
+    Loaded Custom layout 1
+[16:10:46.8172128] [Trace] MainWindow.xaml.cs::EditLayoutDialog_PrimaryButtonClick::438
+[16:10:46.8172827] [Trace] FancyZonesEditorIO.cs::SerializeAppliedLayouts::265
+[16:10:48.8617740] [Trace] MainWindow.xaml.cs::Apply::304
+[16:10:48.8626806] [Trace] FancyZonesEditorIO.cs::SerializeAppliedLayouts::265
+[16:10:51.3810236] [Trace] MainWindow.xaml.cs::OnClosing::315
+[16:10:51.3811348] [Trace] FancyZonesEditorIO.cs::SerializeAppliedLayouts::265
+[16:10:51.5273459] [Info] App.xaml.cs::Dispose::234
+    FancyZones Editor disposed
+[16:10:51.5274555] [Info] App.xaml.cs::OnExit::162
+    FancyZones Editor exited
+[16:11:01.8741161] [Trace] FancyZonesEditorIO.cs::ParseParams::37
+[16:11:01.9272083] [Trace] Overlay.cs::ShowLayout::162
+[16:11:02.4000547] [Trace] FancyZonesEditorIO.cs::ParseLayoutTemplates::181
+[16:11:02.4097198] [Trace] FancyZonesEditorIO.cs::SetTemplateLayouts::741
+[16:11:02.4119937] [Trace] FancyZonesEditorIO.cs::ParseCustomLayouts::209
+[16:11:02.4203879] [Trace] FancyZonesEditorIO.cs::SetCustomLayouts::688
+[16:11:02.4259658] [Trace] FancyZonesEditorIO.cs::ParseDefaultLayouts::237
+[16:11:02.4372125] [Trace] FancyZonesEditorIO.cs::SetDefaultLayouts::783
+[16:11:02.4384801] [Trace] FancyZonesEditorIO.cs::ParseLayoutHotkeys::153
+[16:11:02.4449159] [Trace] FancyZonesEditorIO.cs::SetLayoutHotkeys::770
+[16:11:02.4470946] [Trace] FancyZonesEditorIO.cs::ParseAppliedLayouts::127
+[16:11:02.4614794] [Trace] FancyZonesEditorIO.cs::SetAppliedLayouts::601
+[16:11:02.4619758] [Trace] Overlay.cs::Show::140
+[16:11:02.4651103] [Trace] Overlay.cs::ShowLayout::162
+[16:11:02.7229028] [Info] LayoutPreview.xaml.cs::OnLoaded::88
+    Loaded Custom layout 1
+[16:11:02.7738033] [Info] LayoutPreview.xaml.cs::OnLoaded::88
+    Loaded No layout
+[16:11:02.7741170] [Info] LayoutPreview.xaml.cs::OnLoaded::88
+    Loaded Focus
+[16:11:02.7746023] [Info] LayoutPreview.xaml.cs::OnLoaded::88
+    Loaded Columns
+[16:11:02.7752264] [Info] LayoutPreview.xaml.cs::OnLoaded::88
+    Loaded Rows
+[16:11:02.7757837] [Info] LayoutPreview.xaml.cs::OnLoaded::88
+    Loaded Grid
+[16:11:02.7763993] [Info] LayoutPreview.xaml.cs::OnLoaded::88
+    Loaded Priority Grid
+[16:11:02.7769881] [Info] LayoutPreview.xaml.cs::OnLoaded::88
+    Loaded Custom layout 1
+[16:11:03.8856048] [Trace] MainWindow.xaml.cs::EditLayout_Click::335
+[16:11:03.9549427] [Info] LayoutPreview.xaml.cs::OnLoaded::88
+    Loaded Custom layout 1
+[16:11:03.9556722] [Info] LayoutPreview.xaml.cs::OnLoaded::88
+    Loaded Custom layout 1
+[16:11:06.6572597] [Trace] MainWindow.xaml.cs::EditLayoutDialog_PrimaryButtonClick::438
+[16:11:06.6577485] [Trace] FancyZonesEditorIO.cs::SerializeAppliedLayouts::265
+[16:11:07.9931185] [Trace] MainWindow.xaml.cs::OnClosing::315
+[16:11:07.9931962] [Trace] FancyZonesEditorIO.cs::SerializeAppliedLayouts::265
+[16:11:08.1153105] [Info] App.xaml.cs::Dispose::234
+    FancyZones Editor disposed
+[16:11:08.1155589] [Info] App.xaml.cs::OnExit::162
+    FancyZones Editor exited
+[16:13:55.1666731] [Trace] FancyZonesEditorIO.cs::ParseParams::37
+[16:13:55.2295013] [Trace] Overlay.cs::ShowLayout::162
+[16:13:55.8357075] [Trace] FancyZonesEditorIO.cs::ParseLayoutTemplates::181
+[16:13:55.8484951] [Trace] FancyZonesEditorIO.cs::SetTemplateLayouts::741
+[16:13:55.8510524] [Trace] FancyZonesEditorIO.cs::ParseCustomLayouts::209
+[16:13:55.8606957] [Trace] FancyZonesEditorIO.cs::SetCustomLayouts::688
+[16:13:55.8667233] [Trace] FancyZonesEditorIO.cs::ParseDefaultLayouts::237
+[16:13:55.8802703] [Trace] FancyZonesEditorIO.cs::SetDefaultLayouts::783
+[16:13:55.8820258] [Trace] FancyZonesEditorIO.cs::ParseLayoutHotkeys::153
+[16:13:55.8902740] [Trace] FancyZonesEditorIO.cs::SetLayoutHotkeys::770
+[16:13:55.8940112] [Trace] FancyZonesEditorIO.cs::ParseAppliedLayouts::127
+[16:13:55.9097827] [Trace] FancyZonesEditorIO.cs::SetAppliedLayouts::601
+[16:13:55.9102766] [Trace] Overlay.cs::Show::140
+[16:13:55.9135912] [Trace] Overlay.cs::ShowLayout::162
+[16:13:56.1827560] [Info] LayoutPreview.xaml.cs::OnLoaded::88
+    Loaded Custom layout 1
+[16:13:56.2324335] [Info] LayoutPreview.xaml.cs::OnLoaded::88
+    Loaded No layout
+[16:13:56.2327603] [Info] LayoutPreview.xaml.cs::OnLoaded::88
+    Loaded Focus
+[16:13:56.2336371] [Info] LayoutPreview.xaml.cs::OnLoaded::88
+    Loaded Columns
+[16:13:56.2346421] [Info] LayoutPreview.xaml.cs::OnLoaded::88
+    Loaded Rows
+[16:13:56.2352255] [Info] LayoutPreview.xaml.cs::OnLoaded::88
+    Loaded Grid
+[16:13:56.2358128] [Info] LayoutPreview.xaml.cs::OnLoaded::88
+    Loaded Priority Grid
+[16:13:56.2363585] [Info] LayoutPreview.xaml.cs::OnLoaded::88
+    Loaded Custom layout 1
+[16:13:59.8846599] [Trace] MainWindow.xaml.cs::EditLayout_Click::335
+[16:13:59.9905496] [Info] LayoutPreview.xaml.cs::OnLoaded::88
+    Loaded Custom layout 1
+[16:13:59.9910556] [Info] LayoutPreview.xaml.cs::OnLoaded::88
+    Loaded Custom layout 1
+[16:14:10.4164811] [Trace] MainWindow.xaml.cs::OnClosing::315
+[16:14:10.4169287] [Trace] FancyZonesEditorIO.cs::SerializeAppliedLayouts::265
+[16:14:10.5602140] [Info] App.xaml.cs::Dispose::234
+    FancyZones Editor disposed
+[16:14:10.5603234] [Info] App.xaml.cs::OnExit::162
+    FancyZones Editor exited

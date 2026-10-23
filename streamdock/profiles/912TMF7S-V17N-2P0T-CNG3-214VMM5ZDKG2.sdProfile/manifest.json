@@ -1,0 +1,141 @@
+{
+    "Actions": {
+        "0,0": {
+            "ActionID": "i2oh18p7-1222-wueg-lxfv-1g0qb030o4f9",
+            "Controller": "",
+            "Name": "Scene Shift",
+            "Settings": {
+                "DeviceUUID": "",
+                "ProfileUUID": ""
+            },
+            "State": 0,
+            "States": [
+                {
+                    "Image": "Images/btn_switchProfile"
+                }
+            ],
+            "UUID": "com.hotspot.streamdock.profile.rotate"
+        },
+        "0,2": {
+            "ActionID": "td1t4153-11gx-51x5-tcy2-1rssi5lnvwwu",
+            "Controller": "",
+            "Name": "Multimedia",
+            "Settings": {
+                "actionIdx": 2
+            },
+            "State": 0,
+            "States": [
+                {
+                    "Image": ""
+                }
+            ],
+            "UUID": "com.hotspot.streamdock.system.multimedia"
+        },
+        "1,0": {
+            "ActionID": "glj2yzsn-ycb7-i643-0p7v-78g00sn1n4ww",
+            "Controller": "",
+            "Name": "Multimedia",
+            "Settings": {
+                "actionIdx": 4
+            },
+            "State": 0,
+            "States": [
+                {
+                    "Image": ""
+                }
+            ],
+            "UUID": "com.hotspot.streamdock.system.multimedia"
+        },
+        "1,1": {
+            "ActionID": "oc8o8qso-4c68-154d-1r4y-p07t99j212l6",
+            "Controller": "",
+            "Name": "Multimedia",
+            "Settings": {
+                "actionIdx": 6
+            },
+            "State": 0,
+            "States": [
+                {
+                    "Image": ""
+                }
+            ],
+            "UUID": "com.hotspot.streamdock.system.multimedia"
+        },
+        "1,2": {
+            "ActionID": "h12gsmd2-a0u0-1s2i-1yr1-388sq9jqlehk",
+            "Controller": "",
+            "Name": "Multimedia",
+            "Settings": {
+                "actionIdx": 1
+            },
+            "State": 0,
+            "States": [
+                {
+                    "Image": ""
+                }
+            ],
+            "UUID": "com.hotspot.streamdock.system.multimedia"
+        },
+        "1,3": {
+            "ActionID": "455smknm-237i-0d13-5j32-f027yvg5j2my",
+            "Controller": "",
+            "Name": "Multimedia",
+            "Settings": {
+                "actionIdx": 5
+            },
+            "State": 0,
+            "States": [
+                {
+                    "Image": ""
+                }
+            ],
+            "UUID": "com.hotspot.streamdock.system.multimedia"
+        },
+        "1,4": {
+            "ActionID": "734qfrp0-590s-7l54-6lj8-d00c05zc4r8a",
+            "Controller": "",
+            "Name": "Multimedia",
+            "Settings": {
+                "actionIdx": 3
+            },
+            "State": 0,
+            "States": [
+                {
+                    "Image": ""
+                }
+            ],
+            "UUID": "com.hotspot.streamdock.system.multimedia"
+        },
+        "2,2": {
+            "ActionID": "2jan7uv0-f2pg-1bv4-gucc-6c043r0j46zb",
+            "Controller": "",
+            "Name": "Multimedia",
+            "Settings": {
+                "actionIdx": 0
+            },
+            "State": 0,
+            "States": [
+                {
+                    "Image": ""
+                }
+            ],
+            "UUID": "com.hotspot.streamdock.system.multimedia"
+        }
+    },
+    "AppIdentifier": "",
+    "DeviceModel": "20GBA9901",
+    "DeviceUUID": "AKP815",
+    "Name": "Консоль музыки",
+    "Pages": {
+        "Current": "912TMF7S-V17N-2P0T-CNG3-214VMM5ZDKG2.sdProfile",
+        "Pages": [
+            "912TMF7S-V17N-2P0T-CNG3-214VMM5ZDKG2.sdProfile",
+            "4Z5S0N03-WSHI-8MI8-26IG-2IWZRJV62IZS.sdProfile",
+            "36TIQXRS-9PN1-6S0S-I3G1-40HGX19MCE90.sdProfile",
+            "RT5135GV-RL8T-50IR-7SCP-DZ0G42T1G655.sdProfile",
+            "9721J2V4-23P7-6DAL-V05N-W124NM9MFU8F.sdProfile",
+            "ILW2H4OF-S9R4-82E4-L5IP-Z062GXL3F0P5.sdProfile"
+        ]
+    },
+    "Version": "1.0"
+}

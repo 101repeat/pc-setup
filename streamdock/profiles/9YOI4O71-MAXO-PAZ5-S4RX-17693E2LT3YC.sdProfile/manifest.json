@@ -1,0 +1,454 @@
+{
+    "Actions": {
+        "0,0": {
+            "ActionID": "osjp3a4p-9lnc-9e4l-3k1b-eil6f753xp2v",
+            "Controller": "",
+            "Name": "World Time",
+            "Settings": {
+                "amplify": true,
+                "isBackgroundHidden": false,
+                "select": "1",
+                "theme": "theme2",
+                "title": "Moscow",
+                "zone": "3"
+            },
+            "State": 0,
+            "States": [
+                {
+                    "FontSize": "11",
+                    "FontStyle": "Bold",
+                    "Image": "images/index.jpg",
+                    "TitleAlignment": "bottom"
+                }
+            ],
+            "UUID": "com.mirabox.streamdock.time.action1"
+        },
+        "0,1": {
+            "ActionID": "x22uk5n2-q16b-36w8-x366-3x3wz3e0c06q",
+            "Controller": "",
+            "Name": "Weather query",
+            "Settings": {
+                "Localization": {
+                    "100": "Ясно",
+                    "101": "Местами облачно",
+                    "102": "Местами облачно",
+                    "103": "Местами облачно",
+                    "104": "Облачно",
+                    "150": "Ясно ночью",
+                    "151": "Местами облачно ночью",
+                    "152": "Местами облачно ночью",
+                    "153": "Местами облачно ночью",
+                    "300": "Ливень",
+                    "301": "Ливень",
+                    "302": "Гроза",
+                    "303": "Гроза",
+                    "304": "Гроза с градом",
+                    "305": "Легкий дождь",
+                    "306": "Умеренный дождь",
+                    "307": "Сильный дождь",
+                    "308": "Сильный дождь",
+                    "309": "Легкий дождь",
+                    "310": "Ливень",
+                    "311": "Сильный ливень",
+                    "312": "Очень сильный ливень",
+                    "313": "Ледяной дождь",
+                    "314": "Умеренный дождь",
+                    "315": "Сильный дождь",
+                    "316": "Ливень",
+                    "317": "Сильный ливень",
+                    "318": "Очень сильный ливень",
+                    "350": "Ночной ливень",
+                    "351": "Ночной ливень",
+                    "399": "Легкий дождь",
+                    "400": "Легкий снег",
+                    "401": "Умеренный снег",
+                    "402": "Сильный снег",
+                    "403": "Снежная буря",
+                    "404": "Дождь со снегом",
+                    "405": "Дождь со снегом",
+                    "406": "Дождь со снегом",
+                    "407": "Снегопад",
+                    "408": "Умеренный снег",
+                    "409": "Сильный снег",
+                    "410": "Снежная буря",
+                    "456": "Дождь со снегом",
+                    "457": "Ночной снегопад",
+                    "499": "Легкий снег",
+                    "500": "Туман",
+                    "501": "Туман",
+                    "502": "Туман с дымкой",
+                    "503": "Песчаная буря",
+                    "504": "Песчаная буря",
+                    "507": "Песчаная буря",
+                    "508": "Сильная песчаная буря",
+                    "509": "Туман",
+                    "510": "Туман",
+                    "511": "Туман с дымкой",
+                    "512": "Туман с дымкой",
+                    "513": "Туман с дымкой",
+                    "514": "Туман",
+                    "515": "Туман с дымкой",
+                    "900": "Ясно",
+                    "901": "Умеренный снег",
+                    "999": "Местами облачно",
+                    "主题切换": "переключение темы",
+                    "华氏度": "Фаренгейт",
+                    "城市名称": "название города",
+                    "天气查询": "Запрос погоды",
+                    "搜索列表": "список поиска",
+                    "摄氏度": "градусов Цельсия",
+                    "显示选项": "Показать параметры",
+                    "更新": "возобновлять",
+                    "温度单位": "единица измерения температуры",
+                    "简约摩登": "Простой и современный",
+                    "自定义标题": "Пользовательский заголовок",
+                    "自定名称": "Пользовательское имя",
+                    "请输入城市": "Пожалуйста, введите город",
+                    "请输入标题": "Пожалуйста, введите название",
+                    "豪华绚丽": "Роскошный и великолепный",
+                    "输入城市": "Введите город"
+                },
+                "city": "Irkutsk",
+                "cityId": "E7C50",
+                "count": 0,
+                "inputCity": "irkutsk",
+                "radio": "1",
+                "searchList": [
+                    {
+                        "adm1": "Irkutsk",
+                        "adm2": "Irkutsk",
+                        "country": "Russia",
+                        "fxLink": "https://www.qweather.com/en/weather/irkutsk-E7C50.html",
+                        "id": "E7C50",
+                        "isDst": "0",
+                        "lat": "52.29000",
+                        "lon": "104.28100",
+                        "name": "Irkutsk",
+                        "rank": "31",
+                        "type": "city",
+                        "tz": "Asia/Irkutsk",
+                        "utcOffset": "+08:00"
+                    },
+                    {
+                        "adm1": "Irkutsk",
+                        "adm2": "Angarsk",
+                        "country": "Russia",
+                        "fxLink": "https://www.qweather.com/en/weather/angarsk-28FF.html",
+                        "id": "28FF",
+                        "isDst": "0",
+                        "lat": "52.53667",
+                        "lon": "103.88639",
+                        "name": "Angarsk",
+                        "rank": "45",
+                        "type": "city",
+                        "tz": "Asia/Irkutsk",
+                        "utcOffset": "+08:00"
+                    },
+                    {
+                        "adm1": "Irkutsk",
+                        "adm2": "Tarasa",
+                        "country": "Russia",
+                        "fxLink": "https://www.qweather.com/en/weather/tarasa-B68B0.html",
+                        "id": "B68B0",
+                        "isDst": "0",
+                        "lat": "53.08800",
+                        "lon": "103.77700",
+                        "name": "Tarasa",
+                        "rank": "85",
+                        "type": "city",
+                        "tz": "Asia/Irkutsk",
+                        "utcOffset": "+08:00"
+                    },
+                    {
+                        "adm1": "Irkutsk",
+                        "adm2": "Bratsk",
+                        "country": "Russia",
+                        "fxLink": "https://www.qweather.com/en/weather/bratsk-20FCD.html",
+                        "id": "20FCD",
+                        "isDst": "0",
+                        "lat": "56.16300",
+                        "lon": "101.61100",
+                        "name": "Bratsk",
+                        "rank": "35",
+                        "type": "city",
+                        "tz": "Asia/Irkutsk",
+                        "utcOffset": "+08:00"
+                    },
+                    {
+                        "adm1": "Irkutsk",
+                        "adm2": "Inga",
+                        "country": "Russia",
+                        "fxLink": "https://www.qweather.com/en/weather/inga-5D655.html",
+                        "id": "5D655",
+                        "isDst": "0",
+                        "lat": "52.97100",
+                        "lon": "101.95700",
+                        "name": "Inga",
+                        "rank": "85",
+                        "type": "city",
+                        "tz": "Asia/Irkutsk",
+                        "utcOffset": "+08:00"
+                    },
+                    {
+                        "adm1": "Irkutsk",
+                        "adm2": "Tulun",
+                        "country": "Russia",
+                        "fxLink": "https://www.qweather.com/en/weather/tulun-3EA89.html",
+                        "id": "3EA89",
+                        "isDst": "0",
+                        "lat": "54.56111",
+                        "lon": "100.57917",
+                        "name": "Tulun",
+                        "rank": "55",
+                        "type": "city",
+                        "tz": "Asia/Irkutsk",
+                        "utcOffset": "+08:00"
+                    },
+                    {
+                        "adm1": "Irkutsk",
+                        "adm2": "Zima",
+                        "country": "Russia",
+                        "fxLink": "https://www.qweather.com/en/weather/zima-98A40.html",
+                        "id": "98A40",
+                        "isDst": "0",
+                        "lat": "53.92800",
+                        "lon": "102.05300",
+                        "name": "Zima",
+                        "rank": "55",
+                        "type": "city",
+                        "tz": "Asia/Irkutsk",
+                        "utcOffset": "+08:00"
+                    },
+                    {
+                        "adm1": "Irkutsk",
+                        "adm2": "Kiryensk",
+                        "country": "Russia",
+                        "fxLink": "https://www.qweather.com/en/weather/kiryensk-5C81B.html",
+                        "id": "5C81B",
+                        "isDst": "0",
+                        "lat": "57.77600",
+                        "lon": "108.11600",
+                        "name": "Kiryensk",
+                        "rank": "85",
+                        "type": "city",
+                        "tz": "Asia/Irkutsk",
+                        "utcOffset": "+08:00"
+                    },
+                    {
+                        "adm1": "Irkutsk",
+                        "adm2": "Mama",
+                        "country": "Russia",
+                        "fxLink": "https://www.qweather.com/en/weather/mama-E929B.html",
+                        "id": "E929B",
+                        "isDst": "0",
+                        "lat": "58.31100",
+                        "lon": "112.90300",
+                        "name": "Mama",
+                        "rank": "65",
+                        "type": "city",
+                        "tz": "Asia/Irkutsk",
+                        "utcOffset": "+08:00"
+                    },
+                    {
+                        "adm1": "Irkutsk",
+                        "adm2": "Markovo",
+                        "country": "Russia",
+                        "fxLink": "https://www.qweather.com/en/weather/markovo-8B36E.html",
+                        "id": "8B36E",
+                        "isDst": "0",
+                        "lat": "57.32900",
+                        "lon": "107.05700",
+                        "name": "Markovo",
+                        "rank": "85",
+                        "type": "city",
+                        "tz": "Asia/Irkutsk",
+                        "utcOffset": "+08:00"
+                    }
+                ],
+                "tempList": "0",
+                "theme": "Luxury",
+                "timer": 3,
+                "title": "",
+                "titleParameters": {
+                    "fontFamily": "Microsoft YaHei",
+                    "fontSize": 10,
+                    "fontStyle": "Regular",
+                    "fontUnderline": false,
+                    "showTitle": true,
+                    "titleAlignment": "bottom",
+                    "titleColor": "#ffffff"
+                },
+                "wdata": {
+                    "code": "100",
+                    "tmp": "4"
+                }
+            },
+            "State": 0,
+            "States": [
+                {
+                    "FontFamily": "Microsoft YaHei",
+                    "FontSize": "10",
+                    "Image": "static/img/cate.png",
+                    "TitleAlignment": "bottom"
+                }
+            ],
+            "UUID": "com.hotspot.streamdock.weather.action1"
+        },
+        "1,0": {
+            "ActionID": "246019p2-76r8-644h-scy1-s222xpt6mxt3",
+            "Controller": "",
+            "Name": "calendar",
+            "Settings": {
+                "select": "calendar",
+                "titleParameters": {
+                    "fontFamily": "HarmonyOS Sans",
+                    "fontSize": 10,
+                    "fontStyle": "Bold",
+                    "fontUnderline": false,
+                    "showTitle": true,
+                    "titleAlignment": "bottom",
+                    "titleColor": "#000000"
+                }
+            },
+            "State": 0,
+            "States": [
+                {
+                    "FontSize": "10",
+                    "FontStyle": "Bold",
+                    "Image": "images/calendar@40x40.png",
+                    "TitleAlignment": "bottom",
+                    "TitleColor": "#000000"
+                }
+            ],
+            "UUID": "com.mirabox.streamdock.calendar.action1"
+        },
+        "1,1": {
+            "ActionID": "q02562vi-o22o-tq0k-d5nt-30hn13r43z97",
+            "Controller": "",
+            "Name": "Open",
+            "Settings": {
+                "path": "C:/Users/}repeat/Downloads/sims-cat.gif"
+            },
+            "State": 0,
+            "States": [
+                {
+                    "FontFamily": "HarmonyOS Sans",
+                    "FontSize": 8,
+                    "FontStyle": "Regular",
+                    "FontUnderline": false,
+                    "Image": "U9H9DINQN3ISZ8X1PR20O561D57.png",
+                    "MultiActionImage": "",
+                    "Name": "",
+                    "ShowTitle": true,
+                    "Title": "",
+                    "TitleAlignment": "bottom",
+                    "TitleColor": "#ffffff"
+                }
+            ],
+            "UUID": "com.hotspot.streamdock.system.open"
+        },
+        "2,0": {
+            "ActionID": "7a8b9c0d1e2f3a4b5c6d7e8f9a0b1c2d",
+            "Controller": "",
+            "Name": "Active Window",
+            "Settings": {
+                "displayMode": 1,
+                "interval": 500,
+                "showImage": true,
+                "showWindowTitle": true
+            },
+            "State": 0,
+            "States": [
+                {
+                    "FontSize": "10",
+                    "Image": "images/actions/focusInfo",
+                    "TitleAlignment": "bottom"
+                }
+            ],
+            "UUID": "com.hotspot.focusvolume.info"
+        },
+        "2,1": {
+            "ActionID": "r3wqxdlz-1n53-gisw-58tk-1614rdwqks0q",
+            "Controller": "",
+            "Name": "Text",
+            "Settings": {
+                "isSendingEnter": false,
+                "pastedText": ""
+            },
+            "State": 0,
+            "States": [
+                {
+                    "Image": "DQ6493EA99EM42Q11U9W8E32UW0.png"
+                }
+            ],
+            "UUID": "com.hotspot.streamdock.system.text"
+        },
+        "3,0": {
+            "ActionID": "7a8b9c0d1e2f3a4b5c6d7e8f9a0b1c2e",
+            "Controller": "Knob",
+            "Name": "Focus Volume",
+            "Settings": {
+                "fallbackToSystem": true,
+                "muteOnPress": true,
+                "step": 5
+            },
+            "State": 0,
+            "States": [
+                {
+                    "Image": "FV7C3D5F8H2J4K6L9M1N3P5Q7R9S2T4V.png",
+                    "TitleAlignment": "middle"
+                }
+            ],
+            "UUID": "com.hotspot.focusvolume.action"
+        },
+        "3,1": {
+            "ActionID": "fv7c3d5f8h2j4k6l9m1n3p5q7r9s2t4v",
+            "Controller": "Knob",
+            "Name": "Focus Volume",
+            "Settings": {
+                "fallbackToSystem": true,
+                "muteOnPress": true,
+                "step": 5
+            },
+            "State": 0,
+            "States": [
+                {
+                    "Image": "FV7C3D5F8H2J4K6L9M1N3P5Q7R9S2T4V.png",
+                    "TitleAlignment": "middle"
+                }
+            ],
+            "UUID": "com.hotspot.focusvolume.action"
+        },
+        "4,1": {
+            "ActionID": "prhjs365-pese-6038-gv4y-22zsmdml10tk",
+            "Controller": "",
+            "Name": "change page",
+            "Settings": {
+            },
+            "State": 0,
+            "States": [
+                {
+                    "Image": ""
+                }
+            ],
+            "UUID": "com.hotspot.streamdock.page.change"
+        }
+    },
+    "AppIdentifier": "*",
+    "DeviceModel": "20GBA9901",
+    "DeviceSerialNumber": "",
+    "DeviceUUID": "AKP03R",
+    "Name": "Сцена по умолчанию",
+    "Pages": {
+        "Current": "9YOI4O71-MAXO-PAZ5-S4RX-17693E2LT3YC.sdProfile",
+        "Pages": [
+            "9YOI4O71-MAXO-PAZ5-S4RX-17693E2LT3YC.sdProfile",
+            "0QH7A121-8E0Z-RQ2F-O395-4HMYKQKMGP53.sdProfile",
+            "F803RS19-09Y9-04C7-WAC5-5D5511NUXB4X.sdProfile",
+            "1C30T101-WU94-YUDK-9QQ0-5Y2K3R107ER4.sdProfile",
+            "F830WR4I-64JK-8H4H-92QG-3MKCL77L2N24.sdProfile",
+            "2RM4RK6N-85WI-G3GS-OO0K-7542Q5X0W5XR.sdProfile"
+        ]
+    },
+    "Version": "1.0"
+}

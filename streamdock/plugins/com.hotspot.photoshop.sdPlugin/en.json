@@ -1,0 +1,133 @@
+{
+  "Description": "This is a collection of hotkeys for Photoshop", 
+  "Name": "Photoshop", 
+  "Category": "Photoshop",
+  "com.hotspot.streamdock.hotkey.ps.blur": {
+    "Name": "Blur", 
+    "Tooltip": "Fuzzy shortcut keys in Photoshop"
+  },
+  "com.hotspot.streamdock.hotkey.ps.brush": {
+    "Name": "Brush", 
+    "Tooltip": "Photoshop's Brush shortcuts"
+  },
+  "com.hotspot.streamdock.hotkey.ps.canvassize": {
+    "Name": "Canvas size", 
+    "Tooltip": "Photoshop's Canvas size shortcut keys"
+  },
+  "com.hotspot.streamdock.hotkey.ps.colorbalance": {
+    "Name": "Color balance", 
+    "Tooltip": "Photoshop Color Balance shortcut keys"
+  },
+  "com.hotspot.streamdock.hotkey.ps.colorgradation": {
+    "Name": "Color gradation", 
+    "Tooltip": "Photoshop's level shortcut keys"
+  },
+  "com.hotspot.streamdock.hotkey.ps.colorsaturation": {
+    "Name": "Color saturation", 
+    "Tooltip": "Photoshop Color saturation shortcut keys"
+  },
+  "com.hotspot.streamdock.hotkey.ps.curve": {
+    "Name": "Curve", 
+    "Tooltip": "Photoshop's Curvy shortcuts"
+  },
+  "com.hotspot.streamdock.hotkey.ps.cutting": {
+    "Name": "Cutting", 
+    "Tooltip": "Photoshop's Crop shortcut key"
+  },
+  "com.hotspot.streamdock.hotkey.ps.decolorization": {
+    "Name": "Decolorization", 
+    "Tooltip": "Photoshop's color removal shortcut"
+  },
+  "com.hotspot.streamdock.hotkey.ps.gradient": {
+    "Name": "Gradient", 
+    "Tooltip": "Photoshop Gradient shortcut keys"
+  },
+  "com.hotspot.streamdock.hotkey.ps.handgrip": {
+    "Name": "Hand grip", 
+    "Tooltip": "Hand shortcuts for Photoshop"
+  },
+  "com.hotspot.streamdock.hotkey.ps.historybrush": {
+    "Name": "History brush", 
+    "Tooltip": "Photoshop's History Brush shortcut"
+  },
+  "com.hotspot.streamdock.hotkey.ps.inversion": {
+    "Name": "Inversion", 
+    "Tooltip": "Photoshop inverting shortcut keys"
+  },
+  "com.hotspot.streamdock.hotkey.ps.lasso": {
+    "Name": "Lasso", 
+    "Tooltip": "Lasso shortcut keys for Photoshop"
+  },
+  "com.hotspot.streamdock.hotkey.ps.layergroup": {
+    "Name": "Layer group", 
+    "Tooltip": "Photoshop's Layer Group shortcut keys"
+  },
+  "com.hotspot.streamdock.hotkey.ps.layermerging": {
+    "Name": "Layer merging", 
+    "Tooltip": "Photoshop's Merge Layer shortcut key"
+  },
+  "com.hotspot.streamdock.hotkey.ps.magicwand": {
+    "Name": "Magic wand", 
+    "Tooltip": "Photoshop's Magic Wand shortcut"
+  },
+  "com.hotspot.streamdock.hotkey.ps.annotation": {
+    "Name": "Annotation", 
+    "Tooltip": "Photoshop's annotation shortcut keys"
+  },
+  "com.hotspot.streamdock.hotkey.ps.move": {
+    "Name": "Move", 
+    "Tooltip": "Photoshop's move shortcuts"
+  },
+  "com.hotspot.streamdock.hotkey.ps.newlayer": {
+    "Name": "New layer", 
+    "Tooltip": "Photoshop's New Layer shortcut key"
+  },
+  "com.hotspot.streamdock.hotkey.ps.path": {
+    "Name": "Path", 
+    "Tooltip": "Photoshop's path shortcut keys"
+  },
+  "com.hotspot.streamdock.hotkey.ps.pen": {
+    "Name": "Pen", 
+    "Tooltip": "Photoshop Pen shortcut"
+  },
+  "com.hotspot.streamdock.hotkey.ps.rectangularmarquee": {
+    "Name": "Rectangular marquee", 
+    "Tooltip": "Photoshop's rectangular marquee shortcut key"
+  },
+  "com.hotspot.streamdock.hotkey.ps.repair": {
+    "Name": "Repair", 
+    "Tooltip": "Photoshop's patch shortcuts"
+  },
+  "com.hotspot.streamdock.hotkey.ps.round": {
+    "Name": "Round", 
+    "Tooltip": "Photoshop's round shortcut keys"
+  },
+  "com.hotspot.streamdock.hotkey.ps.eraser": {
+    "Name": "Eraser", 
+    "Tooltip": "Photoshop's eraser shortcut keys"
+  },
+  "com.hotspot.streamdock.hotkey.ps.scale": {
+    "Name": "Scale", 
+    "Tooltip": "Photoshop scale shortcut keys"
+  },
+  "com.hotspot.streamdock.hotkey.ps.seal": {
+    "Name": "Seal", 
+    "Tooltip": "Photoshop seal shortcut key"
+  },
+  "com.hotspot.streamdock.hotkey.ps.slice": {
+    "Name": "Slice", 
+    "Tooltip": "Photoshop's slice shortcut key"
+  },
+  "com.hotspot.streamdock.hotkey.ps.sponge": {
+    "Name": "Sponge", 
+    "Tooltip": "Sponge shortcuts for Photoshop"
+  },
+  "com.hotspot.streamdock.hotkey.ps.straw": {
+    "Name": "Straw", 
+    "Tooltip": "Straw shortcuts in Photoshop"
+  },
+  "com.hotspot.streamdock.hotkey.ps.text": {
+    "Name": "Text", 
+    "Tooltip": "Photoshop's text shortcut keys"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "Actions": [
+    {
+      "Icon": "static/img/cate.png",
+      "Name": "Weather query",
+      "States": [
+        {
+          "FontSize": "10",
+          "TitleAlignment": "bottom",
+          "FontFamily": "Microsoft YaHei",
+          "Image": "static/img/cate.png"
+        }
+      ],
+      "Controllers": [
+        "Keypad",
+        "Information",
+        "SecondaryScreen"
+      ],
+      "UserTitleEnabled": false,
+      "SupportedInMultiActions": false,
+      "Tooltip": "Enter the city to check the weather conditions in the area",
+      "UUID": "com.hotspot.streamdock.weather.action1",
+      "PropertyInspectorPath": "propertyInspector/action1/index.html"
+    }
+  ],
+  "SDKVersion": 1,
+  "Author": "MiraBox",
+  "Name": "Weather query",
+  "Icon": "static/img/cate.png",
+  "CodePath": "plugin/index.html",
+  "Description": "Displays weather conditions for a specified city, covering most cities around the world",
+  "Category": "Weather query",
+  "CategoryIcon": "static/img/cate.png",
+  "Version": "2.0",
+  "URL": "http://video.hotspotek.com.cn/",
+  "OS": [
+    {
+      "Platform": "mac",
+      "MinimumVersion": "10.11"
+    },
+    {
+      "Platform": "windows",
+      "MinimumVersion": "7"
+    }
+  ],
+  "Software": {
+    "MinimumVersion": "2.9"
+  }
+}

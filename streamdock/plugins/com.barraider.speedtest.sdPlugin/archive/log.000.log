@@ -1,0 +1,90 @@
+2026-10-22 00:06:10.1585|FATAL|com.barraider.speedtest|37|BarRaider.SdTools.Communication.StreamDeckConnection ReceiveAsync Exception: System.Net.WebSockets.WebSocketException (0x80004005): An internal WebSocket error occurred. Please see the innerException, if present, for more details.  ---> System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Net.WebSockets.WebSocketConnectionStream.<ReadAsync>d__21.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Net.WebSockets.WebSocketBase.WebSocketOperation.<Process>d__19.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Net.WebSockets.WebSocketBase.<ReceiveAsyncCore>d__45.MoveNext()
+   at System.Net.WebSockets.WebSocketBase.ThrowIfConvertibleException(String methodName, Exception exception, CancellationToken cancellationToken, Boolean aborted)
+   at System.Net.WebSockets.WebSocketBase.<ReceiveAsyncCore>d__45.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at BarRaider.SdTools.Communication.StreamDeckConnection.<ReceiveAsync>d__100.MoveNext()
+2026-10-22 00:06:10.1829|INFO|com.barraider.speedtest|37|BarRaider.SdTools.Communication.StreamDeckConnection RunAsync completed, shutting down
+2026-10-22 00:06:10.1829|INFO|com.barraider.speedtest|37|Disconnect event received
+2026-10-22 00:06:10.1829|INFO|com.barraider.speedtest|1|Plugin Disconnected - Exiting
+2026-10-22 00:06:13.9563|DEBUG|com.barraider.speedtest|1|Logger Initialized
+2026-10-22 00:06:13.9962|INFO|com.barraider.speedtest|1|Plugin [com.barraider.speedtest] Loading - 1 Actions Found
+2026-10-22 00:06:14.3797|DEBUG|com.barraider.speedtest|1|Plugin Loaded: UUID: 368K7CY397Z0392PS381YBCHTI50R027 Device Info: Devices:
+[Id: Z2V6KE8291A38P38J9XN12I2443Y2330 Type: StreamDeckClassic Size: Rows: 3 Columns: 4]
+ApplicationInfo: Language: ru Platform: windows Version: 5.0
+PluginInfo: Version: 1.3.0
+
+2026-10-22 00:06:14.3797|INFO|com.barraider.speedtest|1|Plugin version: 1.3.0
+2026-10-22 00:06:14.3797|INFO|com.barraider.speedtest|1|Connecting to Stream Deck...
+2026-10-22 00:06:15.7316|INFO|com.barraider.speedtest|1|Connected to Stream Deck
+2026-10-22 00:06:15.7316|INFO|com.barraider.speedtest|1|GlobalSettingsManager initialized
+2026-10-22 00:11:13.7537|FATAL|com.barraider.speedtest|18|BarRaider.SdTools.Communication.StreamDeckConnection ReceiveAsync Exception: System.Net.WebSockets.WebSocketException (0x80004005): An internal WebSocket error occurred. Please see the innerException, if present, for more details.  ---> System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Net.WebSockets.WebSocketConnectionStream.<ReadAsync>d__21.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Net.WebSockets.WebSocketBase.WebSocketOperation.<Process>d__19.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Net.WebSockets.WebSocketBase.<ReceiveAsyncCore>d__45.MoveNext()
+   at System.Net.WebSockets.WebSocketBase.ThrowIfConvertibleException(String methodName, Exception exception, CancellationToken cancellationToken, Boolean aborted)
+   at System.Net.WebSockets.WebSocketBase.<ReceiveAsyncCore>d__45.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at BarRaider.SdTools.Communication.StreamDeckConnection.<ReceiveAsync>d__100.MoveNext()
+2026-10-22 00:11:13.7537|INFO|com.barraider.speedtest|18|BarRaider.SdTools.Communication.StreamDeckConnection RunAsync completed, shutting down
+2026-10-22 00:11:13.7537|INFO|com.barraider.speedtest|18|Disconnect event received
+2026-10-22 00:11:13.7537|INFO|com.barraider.speedtest|1|Plugin Disconnected - Exiting
+2026-10-22 00:11:17.5788|DEBUG|com.barraider.speedtest|1|Logger Initialized
+2026-10-22 00:11:17.6226|INFO|com.barraider.speedtest|1|Plugin [com.barraider.speedtest] Loading - 1 Actions Found
+2026-10-22 00:11:18.0415|DEBUG|com.barraider.speedtest|1|Plugin Loaded: UUID: 8001K20645LP3OX2974MPALN853VP1UH Device Info: Devices:
+[Id: 32NC10K1Z7S81UI0YJI4XNY2Q72Z01M0 Type: StreamDeckClassic Size: Rows: 3 Columns: 4]
+ApplicationInfo: Language: ru Platform: windows Version: 5.0
+PluginInfo: Version: 1.3.0
+
+2026-10-22 00:11:18.0415|INFO|com.barraider.speedtest|1|Plugin version: 1.3.0
+2026-10-22 00:11:18.0415|INFO|com.barraider.speedtest|1|Connecting to Stream Deck...
+2026-10-22 00:11:19.0207|INFO|com.barraider.speedtest|1|Connected to Stream Deck
+2026-10-22 00:11:19.0207|INFO|com.barraider.speedtest|1|GlobalSettingsManager initialized
+2026-10-22 00:12:11.9642|FATAL|com.barraider.speedtest|10|BarRaider.SdTools.Communication.StreamDeckConnection ReceiveAsync Exception: System.Net.WebSockets.WebSocketException (0x80004005): An internal WebSocket error occurred. Please see the innerException, if present, for more details.  ---> System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Net.WebSockets.WebSocketConnectionStream.<ReadAsync>d__21.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Net.WebSockets.WebSocketBase.WebSocketOperation.<Process>d__19.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Net.WebSockets.WebSocketBase.<ReceiveAsyncCore>d__45.MoveNext()
+   at System.Net.WebSockets.WebSocketBase.ThrowIfConvertibleException(String methodName, Exception exception, CancellationToken cancellationToken, Boolean aborted)
+   at System.Net.WebSockets.WebSocketBase.<ReceiveAsyncCore>d__45.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at BarRaider.SdTools.Communication.StreamDeckConnection.<ReceiveAsync>d__100.MoveNext()
+2026-10-22 00:12:11.9642|INFO|com.barraider.speedtest|10|BarRaider.SdTools.Communication.StreamDeckConnection RunAsync completed, shutting down
+2026-10-22 00:12:11.9642|INFO|com.barraider.speedtest|10|Disconnect event received
+2026-10-22 00:12:11.9642|INFO|com.barraider.speedtest|1|Plugin Disconnected - Exiting
+2026-10-22 00:12:15.8064|DEBUG|com.barraider.speedtest|1|Logger Initialized
+2026-10-22 00:12:15.8528|INFO|com.barraider.speedtest|1|Plugin [com.barraider.speedtest] Loading - 1 Actions Found
+2026-10-22 00:12:16.3322|DEBUG|com.barraider.speedtest|1|Plugin Loaded: UUID: 19C6UQSGH2HG3C6ZKPCM30CFH3HR77H7 Device Info: Devices:
+[Id: R296KQL328DS6WNHI52B38WZ8Z13XA1Z Type: StreamDeckClassic Size: Rows: 3 Columns: 4]
+ApplicationInfo: Language: ru Platform: windows Version: 5.0
+PluginInfo: Version: 1.3.0
+
+2026-10-22 00:12:16.3322|INFO|com.barraider.speedtest|1|Plugin version: 1.3.0
+2026-10-22 00:12:16.3322|INFO|com.barraider.speedtest|1|Connecting to Stream Deck...
+2026-10-22 00:12:17.2065|INFO|com.barraider.speedtest|1|Connected to Stream Deck
+2026-10-22 00:12:17.2065|INFO|com.barraider.speedtest|1|GlobalSettingsManager initialized

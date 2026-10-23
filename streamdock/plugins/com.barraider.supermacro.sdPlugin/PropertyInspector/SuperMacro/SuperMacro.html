@@ -1,0 +1,137 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name=viewport content="width=device-width,initial-scale=1,maximum-scale=1,minimum-scale=1,user-scalable=no,minimal-ui,viewport-fit=cover">
+    <meta name=apple-mobile-web-app-capable content=yes>
+    <meta name=apple-mobile-web-app-status-bar-style content=black>
+    <title>BarRaider's SuperMacro</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/barraider/streamdeck-easypi@latest/src/sdpi.css">
+    <link rel="stylesheet" href="../jquery.highlight-within-textarea.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/barraider/streamdeck-easypi@master/src/rangeTooltip.css">
+    <script src="https://cdn.jsdelivr.net/gh/barraider/streamdeck-easypi@latest/src/sdtools.common.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/barraider/streamdeck-easypi@master/src/rangeTooltip.js"></script>
+    <script src="../jquery-3.3.1.min.js"></script>
+    <script src="../jquery.highlight-within-textarea.js"></script>
+    <script src="../SuperMacro.js"></script>
+    <script src="../General.js"></script>
+    <script src="../Capture.js"></script>
+</head>
+<body>
+    <div class="sdpi-wrapper">
+        <details class="message info">
+            <summary>For feedback/suggestions contact me at <span class="linkspan" onclick="openWebsite()">https://BarRaider.com</span> </summary>
+        </details>
+        <details class="message">
+            <summary>For tutorials and list of commands <span class="linkspan" onclick="openHelp()">click here</span> </summary>
+        </details>
+        <div type="checkbox" class="sdpi-item" id="dvLoadFromFiles">
+            <div class="sdpi-item-value">
+                <input id="loadFromFiles" class="sdProperty sdCheckbox" type="checkbox" value="" oninput="setSettings()">
+                <label for="loadFromFiles" class="sdpi-item-label"><span></span>Load macros from files</label>
+            </div>
+        </div>
+        <div id="dvFileNames" style="display:none">
+            <div class="sdpi-item" id="dvPrimaryInputFile">
+                <div class="sdpi-item-label">Short-Press File</div>
+                <div class="sdpi-item-group file" id="filepickergroup">
+                    <input class="sdpi-item-value sdProperty sdFile" type="file" id="primaryInputFile" accept=".txt" oninput="setSettings()">
+                    <label class="sdpi-file-info " for="primaryInputFile" id="primaryInputFileFilename">No file...</label>
+                    <label class="sdpi-file-label" for="primaryInputFile">Choose file...</label>
+                </div>
+            </div>
+            <div class="sdpi-item" id="dvSecondaryInputFile">
+                <div class="sdpi-item-label">Long-Press File</div>
+                <div class="sdpi-item-group file" id="filepickergroup">
+                    <input class="sdpi-item-value sdProperty sdFile" type="file" id="secondaryInputFile" accept=".txt" oninput="setSettings()">
+                    <label class="sdpi-file-info " for="secondaryInputFile" id="secondaryInputFileFilename">No file...</label>
+                    <label class="sdpi-file-label" for="secondaryInputFile">Choose file...</label>
+                </div>
+            </div>
+        </div>
+        <div id="dvTextAreas">
+            <div type="textarea" class="sdpi-item" id="inputText_div">
+                <div class="sdpi-item-label">Short-Press Macro</div>
+                <span class="sdpi-item-value textarea">
+                    <textarea type="textarea" oninput="setSettings()" class="sdProperty" id="inputText"></textarea>
+                </span>
+            </div>
+            <details class="message">
+                <summary>Capture Keystroke: <button class="sdpi-item-value max40" id="inputTextCaptureKeystroke" onclick="captureKeystroke('inputText')">Capture</button><button class="sdpi-item-value max40" id="inputTextCancelCapture" onclick="cancelCapture()" style="display:none;">🔴 Cancel</button></summary>
+            </details>
+            <div type="textarea" class="sdpi-item" id="inputText_div">
+                <div class="sdpi-item-label">Long-Press Macro</div>
+                <span class="sdpi-item-value textarea">
+                    <textarea type="textarea" oninput="setSettings()" class="sdProperty" id="longPressInputText"></textarea>
+                </span>
+            </div>
+            <details class="message">
+                <summary>Capture Keystroke: <button class="sdpi-item-value max40" id="longPressInputTextCaptureKeystroke" onclick="captureKeystroke('longPressInputText')">Capture</button><button class="sdpi-item-value max40" id="longPressInputTextCancelCapture" onclick="cancelCapture()" style="display:none;">🔴 Cancel</button></summary>
+            </details>
+            <script>
+                $('#inputText').highlightWithinTextarea({
+                    highlight: /\{(\{[^\{\}]+\})+\}/gi
+                });
+                $("#inputText").focus(function () {
+                    $("#inputText").trigger("input.hwt");
+                });
+
+
+                $('#longPressInputText').highlightWithinTextarea({
+                    highlight: /\{(\{[^\{\}]+\})+\}/gi
+                });
+                $("#longPressInputText").focus(function () {
+                    $("#longPressInputText").trigger("input.hwt");
+                });
+            </script>
+        </div>
+        <div type="range" class="sdpi-item sdShowTooltip" id="dvLongKeypressTime">
+            <div class="sdpi-item-label" id="longKeypressTimeTitle">Long Keypress Time</div>
+            <div class="sdpi-item-value">
+                <span class="clickable" value="150">150</span>
+                <input type="range" min="150" max="1000" value=150 list="numbers" data-suffix=" ms" class="sdProperty" id="longKeypressTime" oninput="setSettings()">
+                <span class="clickable" value="1000">1000</span>
+                <datalist id="numbers">
+                    <option>1000</option>
+                </datalist>
+                <label for="longKeypressTime" class="rangeLabel"></label>
+            </div>
+        </div>
+        <div type="range" class="sdpi-item sdShowTooltip" id="delay_div">
+            <div class="sdpi-item-label">Delay (ms)</div>
+            <div class="sdpi-item-value">
+                <span class="clickable" value="10">10</span>
+                <input type="range" min="10" max="2000" data-suffix=" ms" value="10" class="sdProperty" oninput="setSettings()" id="delay">
+                <span class="clickable" value="2000">2000</span>
+                <label for="delay" class="rangeLabel"></label>
+            </div>
+        </div>
+        <div class="sdpi-item">
+            <span class="titleAlignedSmall">(Use left/right keys for added precision)</span>
+        </div>
+        <div type="checkbox" class="sdpi-item" id="dvAdvanced">
+            <div class="sdpi-item-label">Advanced</div>
+            <div class="sdpi-item-value">
+                <input id="enterMode" type="checkbox" value="" class="sdProperty sdCheckbox" oninput="setSettings()">
+                <label for="enterMode" class="sdpi-item-label"><span></span>Secondary ENTER behaviour</label>
+            </div>
+            <div class="sdpi-item-value">
+                <input id="forcedMacro" type="checkbox" value="" class="sdProperty sdCheckbox" oninput="setSettings()">
+                <label for="forcedMacro" class="sdpi-item-label"><span></span>Forced Macro Mode</label>
+            </div>
+            <div class="sdpi-item-value">
+                <input id="keydownDelay" type="checkbox" value="" class="sdProperty sdCheckbox" oninput="setSettings()">
+                <label for="keydownDelay" class="sdpi-item-label"><span></span>Delayed Keydown Mode</label>
+            </div>
+        </div>
+        <div type="checkbox" class="sdpi-item">
+            <div class="sdpi-item-label">New Line</div>
+            <div class="sdpi-item-value">
+                <input id="ignoreNewline" type="checkbox" value="" class="sdProperty sdCheckbox" oninput="setSettings()">
+                <label for="ignoreNewline" class="sdpi-item-label"><span></span>Don't treat "New Line" as Enter</label>
+            </div>
+        </div>
+        <div class="sdpi-info-label hidden" style="top: -1000;" value="">Tooltip</div>
+    </div>
+</body>
+</html>

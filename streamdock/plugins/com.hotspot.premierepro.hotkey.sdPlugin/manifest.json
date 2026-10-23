@@ -1,0 +1,646 @@
+{
+    "Actions": [{
+            "Icon": "images/actions/AddEditCtrlK",
+            "Name": "Add Edit",
+            "Settings": {
+                "KeyCmd": false,
+                "KeyCtrl": true,
+                "KeyModifiers": 65536,
+                "KeyOption": false,
+                "KeyShift": false,
+                "NativeCode": -1,
+                "QTKeyCode": -1,
+                "RKeyCmd": false,
+                "RKeyCtrl": false,
+                "RKeyOption": false,
+                "RKeyShift": false,
+                "VKeyCode": 75,
+                "KeyCmd_Mac":true,
+                "VKeyCode_Mac": 40
+            },
+            "States": [{
+                "Image": "images/actions/AddEditCtrlKImage"
+            }],
+            "SupportedInMultiActions": true,
+            "Tooltip": "premiere's Add Edit shortcut keys",
+            "UUID": "com.hotspot.streamdock.hotkey.premiere.addedit"
+        },
+        {
+            "Icon": "images/actions/AddMarkerM",
+            "Name": "Add Marker",
+            "Settings": {
+                "KeyCmd": false,
+                "KeyCtrl": false,
+                "KeyModifiers": 65536,
+                "KeyOption": false,
+                "KeyShift": false,
+                "NativeCode": -1,
+                "QTKeyCode": -1,
+                "RKeyCmd": false,
+                "RKeyCtrl": false,
+                "RKeyOption": false,
+                "RKeyShift": false,
+                "VKeyCode": 77,
+                
+                "VKeyCode_Mac": 46
+            },
+            "States": [{
+                "Image": "images/actions/AddMarkerMImage"
+            }],
+            "SupportedInMultiActions": true,
+            "Tooltip": "premiere's Add Marker shortcut keys",
+            "UUID": "com.hotspot.streamdock.hotkey.premiere.addmarker"
+        },
+        {
+            "Icon": "images/actions/ApplyDefaultTransitionsShiftD",
+            "Name": "Apply Default Transitions",
+            "Settings": {
+                "KeyCmd": false,
+                "KeyCtrl": false,
+                "KeyModifiers": 65536,
+                "KeyOption": false,
+                "KeyShift": true,
+                "NativeCode": -1,
+                "QTKeyCode": -1,
+                "RKeyCmd": false,
+                "RKeyCtrl": false,
+                "RKeyOption": false,
+                "RKeyShift": false,
+                "VKeyCode": 68,
+                "KeyShift_Mac":true,
+                "VKeyCode_Mac": 2
+            },
+            "States": [{
+                "Image": "images/actions/ApplyDefaultTransitionsShiftDImage"
+            }],
+            "SupportedInMultiActions": true,
+            "Tooltip": "premiere's Apply Default Transitions shortcut keys",
+            "UUID": "com.hotspot.streamdock.hotkey.premiere.applydefaulttransitions"
+        },
+        {
+            "Icon": "images/actions/CopyCtrlC",
+            "Name": "Copy",
+            "Settings": {
+                "KeyCmd": false,
+                "KeyCtrl": true,
+                "KeyModifiers": 65536,
+                "KeyOption": false,
+                "KeyShift": false,
+                "NativeCode": -1,
+                "QTKeyCode": -1,
+                "RKeyCmd": false,
+                "RKeyCtrl": false,
+                "RKeyOption": false,
+                "RKeyShift": false,
+                "VKeyCode": 67,
+                "KeyCmd_Mac":true,
+                "VKeyCode_Mac": 8
+            },
+            "States": [{
+                "Image": "images/actions/CopyCtrlCImage"
+            }],
+            "SupportedInMultiActions": true,
+            "Tooltip": "premiere's Copy shortcut keys",
+            "UUID": "com.hotspot.streamdock.hotkey.premiere.copy"
+        },
+        {
+            "Icon": "images/actions/CutCtrlX",
+            "Name": "Cut",
+            "Settings": {
+
+                "KeyCtrl": true,
+                "KeyModifiers": 65536,
+                "KeyOption": false,
+               
+                "NativeCode": -1,
+                "QTKeyCode": -1,
+                "RKeyCmd": false,
+                "RKeyCtrl": false,
+                "RKeyOption": false,
+                "RKeyShift": false,
+                "VKeyCode": 88,
+                "KeyCmd_Mac":true,
+                "VKeyCode_Mac": 7
+            },
+            "States": [{
+                "Image": "images/actions/CutCtrlXImage"
+            }],
+            "SupportedInMultiActions": true,
+            "Tooltip": "premiere's Cut shortcut keys",
+            "UUID": "com.hotspot.streamdock.hotkey.premiere.cut"
+        },
+        {
+            "Icon": "images/actions/DecreaseAudioTracksHeightAlt189",
+            "Name": "Decrease Audio Tracks Height",
+            "Settings": {
+                "KeyCmd": false,
+                "KeyCtrl": false,
+                "KeyModifiers": 65536,
+                "KeyOption": true,
+                "KeyShift": false,
+                "NativeCode": -1,
+                "QTKeyCode": -1,
+                "RKeyCmd": false,
+                "RKeyCtrl": false,
+                "RKeyOption": false,
+                "RKeyShift": false,
+                "VKeyCode": 189,
+                "KeyOption_Mac":true,
+                "VKeyCode_Mac": 27
+            },
+            "States": [{
+                "Image": "images/actions/DecreaseAudioTracksHeightAlt189Image"
+            }],
+            "SupportedInMultiActions": true,
+            "Tooltip": "premiere's Decrease Audio Tracks Height shortcut keys",
+            "UUID": "com.hotspot.streamdock.hotkey.premiere.decreaseaudiotracksheight"
+        },
+        {
+            "Icon": "images/actions/DecreaseVideoTracksHeightCtrl189",
+            "Name": "Decrease Video Tracks Height",
+            "Settings": {
+                "KeyCmd": false,
+                "KeyCtrl": true,
+                "KeyModifiers": 65536,
+                "KeyOption": false,
+                "KeyShift": false,
+                "NativeCode": -1,
+                "QTKeyCode": -1,
+                "RKeyCmd": false,
+                "RKeyCtrl": false,
+                "RKeyOption": false,
+                "RKeyShift": false,
+                "VKeyCode": 189,
+                "KeyCmd_Mac":true,
+                "VKeyCode_Mac": 27
+            },
+            "States": [{
+                "Image": "images/actions/DecreaseVideoTracksHeightCtrl189Image"
+            }],
+            "SupportedInMultiActions": true,
+            "Tooltip": "premiere's Decrease Video Tracks Height shortcut keys",
+            "UUID": "com.hotspot.streamdock.hotkey.premiere.decreasevideotracksheight"
+        },
+        {
+            "Icon": "images/actions/DuplicateCtrlShift191",
+            "Name": "Duplicate",
+            "Settings": {
+                "KeyCmd": false,
+                "KeyCtrl": true,
+                "KeyModifiers": 65536,
+                "KeyOption": false,
+                "KeyShift": true,
+                "NativeCode": -1,
+                "QTKeyCode": -1,
+                "RKeyCmd": false,
+                "RKeyCtrl": false,
+                "RKeyOption": false,
+                "RKeyShift": false,
+                "VKeyCode": 191,
+                "KeyShift_Mac":true,
+                "KeyCmd_Mac":true,
+                "VKeyCode_Mac": 44
+            },
+            "States": [{
+                "Image": "images/actions/DuplicateCtrlShift191Image"
+            }],
+            "SupportedInMultiActions": true,
+            "Tooltip": "premiere's Duplicate shortcut keys",
+            "UUID": "com.hotspot.streamdock.hotkey.premiere.duplicate"
+        },
+        {
+            "Icon": "images/actions/EffectsShift7",
+            "Name": "Effects",
+            "Settings": {
+                "KeyCmd": false,
+                "KeyCtrl": false,
+                "KeyModifiers": 65536,
+                "KeyOption": false,
+                "KeyShift": true,
+                "NativeCode": -1,
+                "QTKeyCode": -1,
+                "RKeyCmd": false,
+                "RKeyCtrl": false,
+                "RKeyOption": false,
+                "RKeyShift": false,
+                "VKeyCode": 55,
+                "KeyShift_Mac":true,
+                "VKeyCode_Mac": 26
+            },
+            "States": [{
+                "Image": "images/actions/EffectsShift7Image"
+            }],
+            "SupportedInMultiActions": true,
+            "Tooltip": "premiere's Effects shortcut keys",
+            "UUID": "com.hotspot.streamdock.hotkey.premiere.effects"
+        },
+        {
+            "Icon": "images/actions/FullScreenCtrl192",
+            "Name": "Full Screen",
+            "Settings": {
+                "KeyCmd": false,
+                "KeyCtrl": true,
+                "KeyModifiers": 65536,
+                "KeyOption": false,
+                "KeyShift": false,
+                "NativeCode": -1,
+                "QTKeyCode": -1,
+                "RKeyCmd": false,
+                "RKeyCtrl": false,
+                "RKeyOption": false,
+                "RKeyShift": false,
+                "VKeyCode": 192,
+                "KeyCtrl_Mac":true,
+                "VKeyCode_Mac": 39
+            },
+            "States": [{
+                "Image": "images/actions/FullScreenCtrl192Image"
+            }],
+            "SupportedInMultiActions": true,
+            "Tooltip": "premiere's Full Screen shortcut keys",
+            "UUID": "com.hotspot.streamdock.hotkey.premiere.fullscreen"
+        },
+        {
+            "Icon": "images/actions/GroupCtrlG",
+            "Name": "Group",
+            "Settings": {
+                "KeyCmd": false,
+                "KeyCtrl": true,
+                "KeyModifiers": 65536,
+                "KeyOption": false,
+                "KeyShift": false,
+                "NativeCode": -1,
+                "QTKeyCode": -1,
+                "RKeyCmd": false,
+                "RKeyCtrl": false,
+                "RKeyOption": false,
+                "RKeyShift": false,
+                "VKeyCode": 71,
+                "KeyCmd_Mac":true,
+                "VKeyCode_Mac": 5
+            },
+            "States": [{
+                "Image": "images/actions/GroupCtrlGImage"
+            }],
+            "SupportedInMultiActions": true,
+            "Tooltip": "premiere's Group shortcut keys",
+            "UUID": "com.hotspot.streamdock.hotkey.premiere.group"
+        },
+        {
+            "Icon": "images/actions/LinkCtrlL",
+            "Name": "Link ",
+            "Settings": {
+                "KeyCmd": false,
+                "KeyCtrl": true,
+                "KeyModifiers": 65536,
+                "KeyOption": false,
+                "KeyShift": false,
+                "NativeCode": -1,
+                "QTKeyCode": -1,
+                "RKeyCmd": false,
+                "RKeyCtrl": false,
+                "RKeyOption": false,
+                "RKeyShift": false,
+                "VKeyCode": 76,
+                "KeyCmd_Mac":true,
+                "VKeyCode_Mac": 37
+            },
+            "States": [{
+                "Image": "images/actions/LinkCtrlLImage"
+            }],
+            "SupportedInMultiActions": true,
+            "Tooltip": "premiere's Link shortcut keys",
+            "UUID": "com.hotspot.streamdock.hotkey.premiere.link"
+        },
+        {
+            "Icon": "images/actions/MarkClipX",
+            "Name": "Mark Clip",
+            "Settings": {
+                "KeyCmd": false,
+                "KeyCtrl": false,
+                "KeyModifiers": 65536,
+                "KeyOption": false,
+                "KeyShift": false,
+                "NativeCode": -1,
+                "QTKeyCode": -1,
+                "RKeyCmd": false,
+                "RKeyCtrl": false,
+                "RKeyOption": false,
+                "RKeyShift": false,
+                "VKeyCode": 88,
+                
+                "VKeyCode_Mac": 7
+            },
+            "States": [{
+                "Image": "images/actions/MarkClipXImage"
+            }],
+            "SupportedInMultiActions": true,
+            "Tooltip": "premiere's Mark Clip shortcut keys",
+            "UUID": "com.hotspot.streamdock.hotkey.premiere.markclip"
+        },
+        {
+            "Icon": "images/actions/MarkInI",
+            "Name": "Mark In",
+            "Settings": {
+                "KeyCmd": false,
+                "KeyCtrl": false,
+                "KeyModifiers": 65536,
+                "KeyOption": false,
+                "KeyShift": false,
+                "NativeCode": -1,
+                "QTKeyCode": -1,
+                "RKeyCmd": false,
+                "RKeyCtrl": false,
+                "RKeyOption": false,
+                "RKeyShift": false,
+                "VKeyCode": 73,
+                
+                "VKeyCode_Mac": 34
+            },
+            "States": [{
+                "Image": "images/actions/MarkInIImage"
+            }],
+            "SupportedInMultiActions": true,
+            "Tooltip": "premiere's Mark In shortcut keys",
+            "UUID": "com.hotspot.streamdock.hotkey.premiere.markin"
+        },
+        {
+            "Icon": "images/actions/MarkOutO",
+            "Name": "Mark Out",
+            "Settings": {
+                "KeyCmd": false,
+                "KeyCtrl": false,
+                "KeyModifiers": 65536,
+                "KeyOption": false,
+                "KeyShift": false,
+                "NativeCode": -1,
+                "QTKeyCode": -1,
+                "RKeyCmd": false,
+                "RKeyCtrl": false,
+                "RKeyOption": false,
+                "RKeyShift": false,
+                "VKeyCode": 79,
+             
+                "VKeyCode_Mac": 31
+            },
+            "States": [{
+                "Image": "images/actions/MarkOutOImage"
+            }],
+            "SupportedInMultiActions": true,
+            "Tooltip": "premiere's Mark Out shortcut keys",
+            "UUID": "com.hotspot.streamdock.hotkey.premiere.markout"
+        },
+        {
+            "Icon": "images/actions/Overwrite190",
+            "Name": "Overwrite",
+            "Settings": {
+                "KeyCmd": false,
+                "KeyCtrl": false,
+                "KeyModifiers": 65536,
+                "KeyOption": false,
+                "KeyShift": false,
+                "NativeCode": -1,
+                "QTKeyCode": -1,
+                "RKeyCmd": false,
+                "RKeyCtrl": false,
+                "RKeyOption": false,
+                "RKeyShift": false,
+                "VKeyCode": 190,
+                "VKeyCode_Mac": 47
+            },
+            "States": [{
+                "Image": "images/actions/Overwrite190Image"
+            }],
+            "SupportedInMultiActions": true,
+            "Tooltip": "premiere's Overwrite shortcut keys",
+            "UUID": "com.hotspot.streamdock.hotkey.premiere.overwrite"
+        },
+        {
+            "Icon": "images/actions/PasteCtrlV",
+            "Name": "Paste",
+            "Settings": {
+                "KeyCmd": false,
+                "KeyCtrl": true,
+                "KeyModifiers": 65536,
+                "KeyOption": false,
+                "KeyShift": false,
+                "NativeCode": -1,
+                "QTKeyCode": -1,
+                "RKeyCmd": false,
+                "RKeyCtrl": false,
+                "RKeyOption": false,
+                "RKeyShift": false,
+                "VKeyCode": 86,
+                "KeyCmd_Mac":true,
+                "VKeyCode_Mac": 9
+            },
+            "States": [{
+                "Image": "images/actions/PasteCtrlVImage"
+            }],
+            "SupportedInMultiActions": true,
+            "Tooltip": "premiere's Paste shortcut keys",
+            "UUID": "com.hotspot.streamdock.hotkey.premiere.paste"
+        },
+        {
+            "Icon": "images/actions/PlayAroundShiftK",
+            "Name": "Play Around",
+            "Settings": {
+                "KeyCmd": false,
+                "KeyCtrl": false,
+                "KeyModifiers": 65536,
+                "KeyOption": false,
+                "KeyShift": true,
+                "NativeCode": -1,
+                "QTKeyCode": -1,
+                "RKeyCmd": false,
+                "RKeyCtrl": false,
+                "RKeyOption": false,
+                "RKeyShift": false,
+                "VKeyCode": 75,
+                "KeyShift_Mac":true,
+                "VKeyCode_Mac": 40
+            },
+            "States": [{
+                "Image": "images/actions/PlayAroundShiftKImage"
+            }],
+            "SupportedInMultiActions": true,
+            "Tooltip": "premiere's Play Around shortcut keys",
+            "UUID": "com.hotspot.streamdock.hotkey.premiere.playaround"
+        },
+        {
+            "Icon": "images/actions/RippleDeleteAltBackspace",
+            "Name": "Ripple Delete",
+            "Settings": {
+
+                "KeyCtrl": false,
+                "KeyModifiers": 65536,
+                "KeyOption": true,
+                "KeyShift": false,
+                "NativeCode": -1,
+                "QTKeyCode": -1,
+                "RKeyCmd": false,
+                "RKeyCtrl": false,
+                "RKeyOption": false,
+                "RKeyShift": false,
+                "VKeyCode": 8,
+                "KeyOption_Mac":true,
+                "VKeyCode_Mac": 51
+            },
+            "States": [{
+                "Image": "images/actions/RippleDeleteAltBackspaceImage"
+            }],
+            "SupportedInMultiActions": true,
+            "Tooltip": "premiere's Ripple Delete shortcut keys",
+            "UUID": "com.hotspot.streamdock.hotkey.premiere.rippledelete"
+        },
+        {
+            "Icon": "images/actions/SaveCtrlS",
+            "Name": "Save",
+            "Settings": {
+                "KeyCmd": false,
+                "KeyCtrl": true,
+                "KeyModifiers": 65536,
+                "KeyOption": false,
+                "KeyShift": false,
+                "NativeCode": -1,
+                "QTKeyCode": -1,
+                "RKeyCmd": false,
+                "RKeyCtrl": false,
+                "RKeyOption": false,
+                "RKeyShift": false,
+                "VKeyCode": 83,
+                "KeyCmd_Mac":true,
+                "VKeyCode_Mac": 1
+            },
+            "States": [{
+                "Image": "images/actions/SaveCtrlSImage"
+            }],
+            "SupportedInMultiActions": true,
+            "Tooltip": "premiere's Save shortcut keys",
+            "UUID": "com.hotspot.streamdock.hotkey.premiere.save"
+        },
+        {
+            "Icon": "images/actions/SelectionToolV",
+            "Name": "Selection Tool",
+            "Settings": {
+                "KeyCmd": false,
+                "KeyCtrl": false,
+                "KeyModifiers": 65536,
+                "KeyOption": false,
+                "KeyShift": false,
+                "NativeCode": -1,
+                "QTKeyCode": -1,
+                "RKeyCmd": false,
+                "RKeyCtrl": false,
+                "RKeyOption": false,
+                "RKeyShift": false,
+                "VKeyCode": 86,
+                "VKeyCode_Mac": 9
+            },
+            "States": [{
+                "Image": "images/actions/SelectionToolVImage"
+            }],
+            "SupportedInMultiActions": true,
+            "Tooltip": "premiere's Selection Tool shortcut keys",
+            "UUID": "com.hotspot.streamdock.hotkey.premiere.selectiontool"
+        },
+        {
+            "Icon": "images/actions/ShowGuidesCtrl186",
+            "Name": "Show Guides",
+            "Settings": {
+                "KeyCmd": false,
+                "KeyCtrl": true,
+                "KeyModifiers": 65536,
+                "KeyOption": false,
+                "KeyShift": false,
+                "NativeCode": -1,
+                "QTKeyCode": -1,
+                "RKeyCmd": false,
+                "RKeyCtrl": false,
+                "RKeyOption": false,
+                "RKeyShift": false,
+                "VKeyCode": 186,
+                "KeyCmd_Mac":true,
+                "VKeyCode_Mac": 41
+            },
+            "States": [{
+                "Image": "images/actions/ShowGuidesCtrl186Image"
+            }],
+            "SupportedInMultiActions": true,
+            "Tooltip": "premiere's Show Guides shortcut keys",
+            "UUID": "com.hotspot.streamdock.hotkey.premiere.showguides"
+        },
+        {
+            "Icon": "images/actions/TypeToolT",
+            "Name": "Type Tool",
+            "Settings": {
+                "KeyCmd": false,
+                "KeyCtrl": false,
+                "KeyModifiers": 65536,
+                "KeyOption": false,
+                "KeyShift": false,
+                "NativeCode": -1,
+                "QTKeyCode": -1,
+                "RKeyCmd": false,
+                "RKeyCtrl": false,
+                "RKeyOption": false,
+                "RKeyShift": false,
+                "VKeyCode": 84,
+                "VKeyCode_Mac": 17
+            },
+            "States": [{
+                "Image": "images/actions/TypeToolTImage"
+            }],
+            "SupportedInMultiActions": true,
+            "Tooltip": "premiere's Type Tool shortcut keys",
+            "UUID": "com.hotspot.streamdock.hotkey.premiere.typetool"
+        },
+        {
+            "Icon": "images/actions/UndoCtrlZ",
+            "Name": "Undo",
+            "Settings": {
+                "KeyCmd": false,
+                "KeyCtrl": true,
+                "KeyModifiers": 65536,
+                "KeyOption": false,
+                "KeyShift": false,
+                "NativeCode": -1,
+                "QTKeyCode": -1,
+                "RKeyCmd": false,
+                "RKeyCtrl": false,
+                "RKeyOption": false,
+                "RKeyShift": false,
+                "VKeyCode": 90,
+                "KeyCmd_Mac":true,
+                "VKeyCode_Mac": 6
+            },
+            "States": [{
+                "Image": "images/actions/UndoCtrlZImage"
+            }],
+            "SupportedInMultiActions": true,
+            "Tooltip": "premiere's Undo shortcut keys",
+            "UUID": "com.hotspot.streamdock.hotkey.premiere.undo"
+        }
+    ],
+    "SDKVersion": 1,
+    "Author": "MiraBox",
+    "Category": "adobe Premiere Pro Actions",
+    "CategoryIcon": "images/icons/pluginIcon",
+    "Description": "This is a custom hotkey plugin of Stream Dock software",
+    "Name": "adobe Premiere Pro Actions",
+    "Icon": "images/icons/pluginIcon",
+    "URL": "http://bbs.key123.vip/",
+    "Version": "1.0.0",
+    "OS": [{
+            "Platform": "mac",
+            "MinimumVersion": "10.11"
+        },
+        {
+            "Platform": "windows",
+            "MinimumVersion": "10"
+        }
+    ],
+    "Software": {
+        "MinimumVersion": "2.9"
+    }
+}

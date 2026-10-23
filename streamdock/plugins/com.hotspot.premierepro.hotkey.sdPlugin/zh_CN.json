@@ -1,0 +1,105 @@
+{
+    "Description": "这是Adobe Premiere Pro软件的热键集合，",
+    "Name": "Adobe Premiere Pro ",
+    "Category": "Adobe Premiere Pro ",
+    "com.hotspot.streamdock.hotkey.premiere.addedit": {
+        "Name": "添加编辑",
+        "Tooltip": "Adobe Premiere Pro的添加编辑快捷键"
+    },
+    "com.hotspot.streamdock.hotkey.premiere.addmarker": {
+        "Name": "添加标记",
+        "Tooltip": "Adobe Premiere Pro的添加标记快捷键"
+    },
+    "com.hotspot.streamdock.hotkey.premiere.applydefaulttransitions": {
+        "Name": " 将默认过渡应用到选择项",
+        "Tooltip": "Adobe Premiere Pro的 将默认过渡应用到选择项快捷键"
+    },
+    "com.hotspot.streamdock.hotkey.premiere.copy": {
+        "Name": "复制",
+        "Tooltip": "Adobe Premiere Pro的复制快捷键"
+    },
+    "com.hotspot.streamdock.hotkey.premiere.cut": {
+        "Name": "剪切",
+        "Tooltip": "Adobe Premiere Pro的剪切快捷键"
+    },
+    "com.hotspot.streamdock.hotkey.premiere.decreaseaudiotracksheight": {
+        "Name": "降低音频轨道高度",
+        "Tooltip": "Adobe Premiere Pro的降低音频轨道高度快捷键"
+    },
+    "com.hotspot.streamdock.hotkey.premiere.decreasevideotracksheight": {
+        "Name": "降低视频轨道高度",
+        "Tooltip": "Adobe Premiere Pro的降低视频轨道高度快捷键"
+    },
+    "com.hotspot.streamdock.hotkey.premiere.duplicate": {
+        "Name": "重复",
+        "Tooltip": "Adobe Premiere Pro的重复快捷键"
+    },
+    "com.hotspot.streamdock.hotkey.premiere.effects": {
+        "Name": "效果",
+        "Tooltip": "Adobe Premiere Pro的效果快捷键"
+    },
+
+    "com.hotspot.streamdock.hotkey.premiere.fullscreen": {
+        "Name": "全屏切换",
+        "Tooltip": "Adobe Premiere Pro的全屏切换快捷键"
+    },
+    "com.hotspot.streamdock.hotkey.premiere.group": {
+        "Name": "编组",
+        "Tooltip": "Adobe Premiere Pro的编组快捷键"
+    },
+
+    "com.hotspot.streamdock.hotkey.premiere.link": {
+        "Name": "链接",
+        "Tooltip": "Adobe Premiere Pro的链接快捷键"
+    },
+    "com.hotspot.streamdock.hotkey.premiere.markclip": {
+        "Name": "标记剪辑",
+        "Tooltip": "Adobe Premiere Pro的标记剪辑快捷键"
+    },
+    "com.hotspot.streamdock.hotkey.premiere.markin": {
+        "Name": "标记入点",
+        "Tooltip": "Adobe Premiere Pro的标记入点快捷键"
+    },
+    "com.hotspot.streamdock.hotkey.premiere.markout": {
+        "Name": "标记出点",
+        "Tooltip": "Adobe Premiere Pro的标记出点快捷键"
+    },
+    "com.hotspot.streamdock.hotkey.premiere.overwrite": {
+        "Name": "覆盖",
+        "Tooltip": "Adobe Premiere Pro的覆盖快捷键"
+    },
+    "com.hotspot.streamdock.hotkey.premiere.paste": {
+        "Name": "粘贴",
+        "Tooltip": "Adobe Premiere Pro的粘贴快捷键"
+    },
+    "com.hotspot.streamdock.hotkey.premiere.playaround": {
+        "Name": "播放邻近区域",
+        "Tooltip": "Adobe Premiere Pro的播放邻近区域快捷键"
+    },
+    "com.hotspot.streamdock.hotkey.premiere.rippledelete": {
+        "Name": "波纹删除",
+        "Tooltip": "Adobe Premiere Pro的波纹删除快捷键"
+    },
+    "com.hotspot.streamdock.hotkey.premiere.save": {
+        "Name": "保存",
+        "Tooltip": "Adobe Premiere Pro的保存快捷键"
+    },
+
+    "com.hotspot.streamdock.hotkey.premiere.selectiontool": {
+        "Name": "选择工具",
+        "Tooltip": "Adobe Premiere Pro的选择工具快捷键"
+    },
+    
+    "com.hotspot.streamdock.hotkey.premiere.showguides": {
+        "Name": "显示参考线",
+        "Tooltip": "Adobe Premiere Pro的显示参考线快捷键"
+    },
+    "com.hotspot.streamdock.hotkey.premiere.typetool": {
+        "Name": "文字工具",
+        "Tooltip": "Adobe Premiere Pro的文字工具快捷键"
+    },
+    "com.hotspot.streamdock.hotkey.premiere.undo": {
+        "Name": "撤消",
+        "Tooltip": "Adobe Premiere Pro的撤消快捷键"
+    }
+}

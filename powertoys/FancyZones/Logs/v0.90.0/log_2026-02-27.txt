@@ -1,0 +1,816 @@
+[2026-02-27 16:08:15.708223] [p-1336] [t-3464] [info] fancyzones logger is initialized
+[2026-02-27 16:08:15.751669] [p-1336] [t-3464] [trace] FancyZonesSettings::LoadSettings Enter
+[2026-02-27 16:08:15.751734] [p-1336] [t-15016] [trace] OnThreadExecutor::worker_thread(loop) Enter
+[2026-02-27 16:08:15.752884] [p-1336] [t-3464] [trace] FancyZonesSettings::LoadSettings Exit
+[2026-02-27 16:08:15.753442] [p-1336] [t-3464] [info] layout-templates.json file is missing or malformed
+[2026-02-27 16:08:15.753684] [p-1336] [t-3464] [info] custom-layouts.json file is missing or malformed
+[2026-02-27 16:08:15.753902] [p-1336] [t-3464] [info] layout-hotkeys.json file is missing or malformed
+[2026-02-27 16:08:15.755836] [p-1336] [t-3464] [error] app-zone-history.json file is missing or malformed
+[2026-02-27 16:08:15.756064] [p-1336] [t-3464] [info] default-layouts.json file is missing or malformed
+[2026-02-27 16:08:15.765533] [p-1336] [t-15016] [trace] OnThreadExecutor::worker_thread(loop) Exit
+[2026-02-27 16:08:15.765717] [p-1336] [t-15016] [trace] OnThreadExecutor::worker_thread(loop) Enter
+[2026-02-27 16:08:15.769660] [p-1336] [t-3464] [info] Synced virtual desktops. Current: {550C76BD-6543-4F87-ACE0-509459D2630F}, last used: {00000000-0000-0000-0000-000000000000}, registry: {550C76BD-6543-4F87-ACE0-509459D2630F} 
+[2026-02-27 16:08:15.769901] [p-1336] [t-3464] [info] Identifying monitors
+[2026-02-27 16:08:15.770664] [p-1336] [t-3464] [info] Get display device for display \\.\DISPLAY2 : \\?\DISPLAY#GSM7715#5&8bcebe0&0&UID33025#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2026-02-27 16:08:15.771427] [p-1336] [t-3464] [info] Get display device for display \\.\DISPLAY3 : \\?\DISPLAY#ACR0743#5&8bcebe0&0&UID33024#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2026-02-27 16:08:15.772171] [p-1336] [t-3464] [info] Get display device for display \\.\DISPLAY4 : \\?\DISPLAY#GSM5AB6#5&8bcebe0&0&UID33027#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2026-02-27 16:08:15.772797] [p-1336] [t-3464] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#GSM7766#5&8bcebe0&0&UID33028#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2026-02-27 16:08:16.146328] [p-1336] [t-3464] [info] InstanceName: DISPLAY\ACR0743\5&8bcebe0&0&UID33024_0
+[2026-02-27 16:08:16.146374] [p-1336] [t-3464] [info] Serial number: 2475695430
+[2026-02-27 16:08:16.146495] [p-1336] [t-3464] [info] InstanceName: DISPLAY\GSM7715\5&8bcebe0&0&UID33025_0
+[2026-02-27 16:08:16.146508] [p-1336] [t-3464] [info] Serial number: 269918
+[2026-02-27 16:08:16.146605] [p-1336] [t-3464] [info] InstanceName: DISPLAY\GSM5AB6\5&8bcebe0&0&UID33027_0
+[2026-02-27 16:08:16.146623] [p-1336] [t-3464] [info] Serial number: 601NTQDAZ124
+[2026-02-27 16:08:16.146777] [p-1336] [t-3464] [info] InstanceName: DISPLAY\GSM7766\5&8bcebe0&0&UID33028_0
+[2026-02-27 16:08:16.146798] [p-1336] [t-3464] [info] Serial number: 103NTDVBB114
+[2026-02-27 16:08:16.147449] [p-1336] [t-3464] [info] Display changed, type: Initialization
+[2026-02-27 16:08:16.147472] [p-1336] [t-3464] [debug] Update work areas, update windows positions: false
+[2026-02-27 16:08:16.147506] [p-1336] [t-3464] [info] Identifying monitors
+[2026-02-27 16:08:16.148249] [p-1336] [t-3464] [info] Get display device for display \\.\DISPLAY2 : \\?\DISPLAY#GSM7715#5&8bcebe0&0&UID33025#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2026-02-27 16:08:16.148972] [p-1336] [t-3464] [info] Get display device for display \\.\DISPLAY3 : \\?\DISPLAY#ACR0743#5&8bcebe0&0&UID33024#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2026-02-27 16:08:16.149570] [p-1336] [t-3464] [info] Get display device for display \\.\DISPLAY4 : \\?\DISPLAY#GSM5AB6#5&8bcebe0&0&UID33027#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2026-02-27 16:08:16.150132] [p-1336] [t-3464] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#GSM7766#5&8bcebe0&0&UID33028#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2026-02-27 16:08:16.153643] [p-1336] [t-3464] [info] InstanceName: DISPLAY\ACR0743\5&8bcebe0&0&UID33024_0
+[2026-02-27 16:08:16.153741] [p-1336] [t-3464] [info] Serial number: 2475695430
+[2026-02-27 16:08:16.153975] [p-1336] [t-3464] [info] InstanceName: DISPLAY\GSM7715\5&8bcebe0&0&UID33025_0
+[2026-02-27 16:08:16.154043] [p-1336] [t-3464] [info] Serial number: 269918
+[2026-02-27 16:08:16.154165] [p-1336] [t-3464] [info] InstanceName: DISPLAY\GSM5AB6\5&8bcebe0&0&UID33027_0
+[2026-02-27 16:08:16.154181] [p-1336] [t-3464] [info] Serial number: 601NTQDAZ124
+[2026-02-27 16:08:16.154288] [p-1336] [t-3464] [info] InstanceName: DISPLAY\GSM7766\5&8bcebe0&0&UID33028_0
+[2026-02-27 16:08:16.154300] [p-1336] [t-3464] [info] Serial number: 103NTDVBB114
+[2026-02-27 16:08:16.154787] [p-1336] [t-3464] [trace] Monitor was added or removed
+[2026-02-27 16:08:16.154817] [p-1336] [t-3464] [debug] Add new work area on virtual desktop {550C76BD-6543-4F87-ACE0-509459D2630F}
+[2026-02-27 16:08:16.156484] [p-1336] [t-3464] [info] Creating new ZonesOverlay window, hWnd = 0x260eac
+[2026-02-27 16:08:16.365559] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:08:16.365610] [p-1336] [t-3464] [debug] Add new work area on virtual desktop {550C76BD-6543-4F87-ACE0-509459D2630F}
+[2026-02-27 16:08:16.366826] [p-1336] [t-3464] [info] Creating new ZonesOverlay window, hWnd = 0xb0570
+[2026-02-27 16:08:16.397501] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:08:16.397534] [p-1336] [t-3464] [debug] Add new work area on virtual desktop {550C76BD-6543-4F87-ACE0-509459D2630F}
+[2026-02-27 16:08:16.398705] [p-1336] [t-3464] [info] Creating new ZonesOverlay window, hWnd = 0x1008ce
+[2026-02-27 16:08:16.433909] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:08:16.433974] [p-1336] [t-3464] [debug] Add new work area on virtual desktop {550C76BD-6543-4F87-ACE0-509459D2630F}
+[2026-02-27 16:08:16.435153] [p-1336] [t-3464] [info] Creating new ZonesOverlay window, hWnd = 0x1b0906
+[2026-02-27 16:08:16.465895] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:08:22.296186] [p-1336] [t-3464] [trace] FancyZones::ToggleEditor Enter
+[2026-02-27 16:08:22.296315] [p-1336] [t-15016] [trace] OnThreadExecutor::worker_thread(loop) Exit
+[2026-02-27 16:08:22.296350] [p-1336] [t-15016] [trace] OnThreadExecutor::worker_thread(loop) Enter
+[2026-02-27 16:08:22.296378] [p-1336] [t-15016] [trace] OnThreadExecutor::worker_thread(loop) Exit
+[2026-02-27 16:08:22.296389] [p-1336] [t-15016] [trace] OnThreadExecutor::worker_thread(loop) Enter
+[2026-02-27 16:08:22.296405] [p-1336] [t-15016] [trace] OnThreadExecutor::worker_thread(loop) Exit
+[2026-02-27 16:08:22.296415] [p-1336] [t-15016] [trace] OnThreadExecutor::worker_thread(loop) Enter
+[2026-02-27 16:08:22.296427] [p-1336] [t-15016] [trace] OnThreadExecutor::worker_thread(loop) Exit
+[2026-02-27 16:08:22.296438] [p-1336] [t-15016] [trace] OnThreadExecutor::worker_thread(loop) Enter
+[2026-02-27 16:08:22.369125] [p-1336] [t-3464] [trace] FancyZones::ToggleEditor Exit
+[2026-02-27 16:09:20.587901] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:09:20.590578] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:09:20.590971] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:09:20.591128] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:09:20.591169] [p-1336] [t-3464] [error] Custom layout not found
+[2026-02-27 16:09:25.292106] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:09:25.293487] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:09:25.294057] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:09:25.294707] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:09:25.300633] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:09:25.301395] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:09:25.301588] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:09:25.302225] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:09:31.705535] [p-1336] [t-3464] [trace] FancyZones::ToggleEditor Enter
+[2026-02-27 16:09:31.705616] [p-1336] [t-15016] [trace] OnThreadExecutor::worker_thread(loop) Exit
+[2026-02-27 16:09:31.705660] [p-1336] [t-15016] [trace] OnThreadExecutor::worker_thread(loop) Enter
+[2026-02-27 16:09:31.705688] [p-1336] [t-15016] [trace] OnThreadExecutor::worker_thread(loop) Exit
+[2026-02-27 16:09:31.705699] [p-1336] [t-15016] [trace] OnThreadExecutor::worker_thread(loop) Enter
+[2026-02-27 16:09:31.705708] [p-1336] [t-15016] [trace] OnThreadExecutor::worker_thread(loop) Exit
+[2026-02-27 16:09:31.705717] [p-1336] [t-15016] [trace] OnThreadExecutor::worker_thread(loop) Enter
+[2026-02-27 16:09:31.705784] [p-1336] [t-15016] [trace] OnThreadExecutor::worker_thread(loop) Exit
+[2026-02-27 16:09:31.705813] [p-1336] [t-15016] [trace] OnThreadExecutor::worker_thread(loop) Enter
+[2026-02-27 16:09:31.723648] [p-1336] [t-3464] [trace] FancyZones::ToggleEditor Exit
+[2026-02-27 16:09:34.641140] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:09:34.641356] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:09:34.641596] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:09:34.641814] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:09:34.717979] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:09:34.720726] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:09:34.721517] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:09:34.722736] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:09:54.715172] [p-1336] [t-3464] [trace] FancyZones::ToggleEditor Enter
+[2026-02-27 16:09:54.715235] [p-1336] [t-15016] [trace] OnThreadExecutor::worker_thread(loop) Exit
+[2026-02-27 16:09:54.715289] [p-1336] [t-15016] [trace] OnThreadExecutor::worker_thread(loop) Enter
+[2026-02-27 16:09:54.715301] [p-1336] [t-15016] [trace] OnThreadExecutor::worker_thread(loop) Exit
+[2026-02-27 16:09:54.715313] [p-1336] [t-15016] [trace] OnThreadExecutor::worker_thread(loop) Enter
+[2026-02-27 16:09:54.715321] [p-1336] [t-15016] [trace] OnThreadExecutor::worker_thread(loop) Exit
+[2026-02-27 16:09:54.715331] [p-1336] [t-15016] [trace] OnThreadExecutor::worker_thread(loop) Enter
+[2026-02-27 16:09:54.715351] [p-1336] [t-15016] [trace] OnThreadExecutor::worker_thread(loop) Exit
+[2026-02-27 16:09:54.715363] [p-1336] [t-15016] [trace] OnThreadExecutor::worker_thread(loop) Enter
+[2026-02-27 16:09:54.732818] [p-1336] [t-3464] [trace] FancyZones::ToggleEditor Exit
+[2026-02-27 16:10:09.417379] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:10:09.417916] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:10:09.418219] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:10:09.418464] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:10:46.861125] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:10:46.861848] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:10:46.862549] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:10:46.863123] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:10:46.869315] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:10:46.869693] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:10:46.869935] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:10:46.870164] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:10:48.888756] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:10:48.889175] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:10:48.889620] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:10:48.889847] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:10:51.426827] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:10:51.428087] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:10:51.429124] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:10:51.429793] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:01.514567] [p-1336] [t-3464] [trace] FancyZones::ToggleEditor Enter
+[2026-02-27 16:11:01.514626] [p-1336] [t-15016] [trace] OnThreadExecutor::worker_thread(loop) Exit
+[2026-02-27 16:11:01.514652] [p-1336] [t-15016] [trace] OnThreadExecutor::worker_thread(loop) Enter
+[2026-02-27 16:11:01.514661] [p-1336] [t-15016] [trace] OnThreadExecutor::worker_thread(loop) Exit
+[2026-02-27 16:11:01.514671] [p-1336] [t-15016] [trace] OnThreadExecutor::worker_thread(loop) Enter
+[2026-02-27 16:11:01.514678] [p-1336] [t-15016] [trace] OnThreadExecutor::worker_thread(loop) Exit
+[2026-02-27 16:11:01.514688] [p-1336] [t-15016] [trace] OnThreadExecutor::worker_thread(loop) Enter
+[2026-02-27 16:11:01.514694] [p-1336] [t-15016] [trace] OnThreadExecutor::worker_thread(loop) Exit
+[2026-02-27 16:11:01.514702] [p-1336] [t-15016] [trace] OnThreadExecutor::worker_thread(loop) Enter
+[2026-02-27 16:11:01.531570] [p-1336] [t-3464] [trace] FancyZones::ToggleEditor Exit
+[2026-02-27 16:11:06.706814] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:06.707675] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:06.708378] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:06.709237] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:08.031195] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:08.032254] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:08.033315] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:08.034027] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:12.144340] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:12.144463] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:12.144503] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:12.144541] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:12.177326] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:12.177867] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:12.177960] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:12.178025] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:15.314476] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:15.314609] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:15.314651] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:15.314687] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:15.352019] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:15.352811] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:15.353044] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:15.353265] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:15.354669] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:15.354726] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:15.354766] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:15.354803] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:17.104281] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:17.104395] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:17.104434] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:17.104470] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:17.132770] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:17.132876] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:17.132915] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:17.132960] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:17.610448] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:17.610748] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:17.610808] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:17.610847] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:17.625749] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:17.625868] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:17.625912] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:17.626036] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:17.641356] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:17.641523] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:17.641576] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:17.641628] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:17.658652] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:17.658757] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:17.658800] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:17.658838] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:17.672548] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:17.672655] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:17.672695] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:17.672733] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:17.689058] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:17.689160] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:17.689199] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:17.689242] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:17.703726] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:17.703882] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:17.703931] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:17.703969] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:17.721709] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:17.721813] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:17.721869] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:17.721929] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:17.750658] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:17.750815] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:17.750877] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:17.750934] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:17.769196] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:17.769312] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:17.769354] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:17.769391] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:17.782034] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:17.782223] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:17.782367] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:17.782433] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:17.800187] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:17.800409] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:17.800552] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:17.800594] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:17.813420] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:17.813754] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:17.813817] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:17.813871] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:17.837986] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:17.838143] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:17.838200] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:17.838253] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:17.845265] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:17.845438] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:17.845497] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:17.845551] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:17.868195] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:17.868377] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:17.868440] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:17.868500] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:17.877633] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:17.877800] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:17.877842] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:17.877879] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:17.897605] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:17.897732] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:17.897801] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:17.897847] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:17.909237] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:17.909392] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:17.909445] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:17.909490] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:17.926277] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:17.926411] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:17.926466] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:17.926514] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:17.940342] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:17.940826] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:17.940910] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:17.940983] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:17.955315] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:17.955409] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:17.955449] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:17.955486] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:17.971718] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:17.971901] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:17.972007] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:17.972052] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:17.989827] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:17.990085] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:17.990235] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:17.990289] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:18.002523] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:18.002671] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.002731] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.002790] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:18.020093] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:18.020190] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.020247] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.020310] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:18.034047] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:18.034181] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.034221] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.034258] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:18.051453] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:18.051580] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.051643] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.052082] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:18.080904] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:18.081088] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.081141] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.081179] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:18.105288] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:18.105901] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.106184] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.106385] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:18.107623] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:18.107682] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.107723] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.107760] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:18.113052] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:18.113257] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.113309] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.113354] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:18.131323] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:18.131416] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.131456] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.131493] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:18.143257] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:18.143393] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.143523] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.143583] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:18.160351] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:18.160880] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.161041] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.161129] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:18.173534] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:18.173649] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.173690] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.173729] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:18.190235] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:18.190337] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.190378] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.190415] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:18.203874] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:18.204024] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.204077] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.204121] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:18.220595] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:18.220696] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.220736] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.220772] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:18.234962] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:18.235090] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.235130] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.235175] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:18.261034] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:18.261326] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.261562] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.261667] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:18.262985] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:18.263045] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.263084] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.263121] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:18.266226] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:18.266360] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.266406] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.266446] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:18.282187] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:18.282293] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.282333] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.282370] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:18.297704] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:18.297889] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.298126] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.298172] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:18.314468] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:18.314609] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.314674] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.314715] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:18.344981] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:18.345114] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.345155] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.345193] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:18.362002] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:18.362098] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.362138] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.362175] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:18.376598] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:18.376722] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.376762] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.376801] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:18.392925] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:18.393080] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.393148] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.393197] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:18.407457] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:18.407575] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.407614] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.407651] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:18.431510] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:18.431799] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.432005] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.432148] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:18.433710] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:18.433855] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.433940] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.434061] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:18.438264] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:18.438422] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.438464] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.438501] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:18.455320] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:18.455442] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.456023] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.456304] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:18.469571] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:18.469702] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.469796] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.469860] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:18.487336] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:18.487439] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.487481] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.487518] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:18.500327] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:18.500452] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.500491] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.500530] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:18.516242] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:18.516423] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.516624] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.516705] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:18.531532] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:18.531680] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.531719] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.531755] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:18.550206] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:18.550568] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.550657] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.550730] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:18.562042] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:18.562173] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.562218] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.562255] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:18.588386] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:18.588663] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.588905] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.589448] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:18.591043] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:18.591133] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.591173] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.591210] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:18.609219] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:18.609393] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.609447] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.609500] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:18.626053] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:18.626226] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.626350] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.626391] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:18.641105] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:18.641245] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.641306] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.641407] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:18.665356] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:18.665544] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.665681] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.665897] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:18.667188] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:18.667249] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.667289] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.667327] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:18.673341] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:18.673492] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.673601] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.674060] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:18.697525] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:18.697758] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.697921] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.698137] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:18.699267] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:18.699322] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.699362] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.699400] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:18.705174] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:18.705476] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.705611] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.705679] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:18.721923] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:18.722025] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.722066] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.722103] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:18.737498] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:18.737618] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.737660] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.737702] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:18.754300] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:18.754402] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.754443] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.754479] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:18.767665] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:18.767792] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.767833] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.767871] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:18.785586] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:18.786085] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.786403] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.786501] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:18.798689] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:18.798819] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.798860] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.798897] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:18.814030] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:18.814157] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.814199] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.814236] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:18.829774] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:18.829943] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.829985] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.830024] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:18.848018] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:18.848157] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.848210] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.848259] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:18.860531] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:18.860661] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.860702] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.860800] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:18.885213] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:18.885430] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.885534] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.885646] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:18.886890] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:18.886948] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.886989] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.887025] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:18.891851] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:18.892050] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.892158] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.892216] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:18.909049] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:18.909218] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.909268] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.909306] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:18.937442] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:18.937570] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.937627] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.937681] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:18.954025] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:18.954194] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.954260] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.954318] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:18.968641] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:18.968807] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.968862] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.968912] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:18.988832] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:18.988923] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.988964] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.989002] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:18.999775] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:18.999912] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:18.999961] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:19.000000] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:19.015666] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:19.016028] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:19.016193] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:19.016734] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:19.031979] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:19.032151] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:19.032215] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:19.032282] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:19.050087] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:19.050189] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:19.050236] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:19.050277] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:19.063548] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:19.063760] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:19.063858] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:19.064051] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:19.088925] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:19.089100] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:19.089219] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:19.089337] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:19.090060] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:19.090139] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:19.090202] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:19.090253] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:19.095133] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:19.095280] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:19.095339] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:19.095395] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:19.120270] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:19.120523] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:19.120663] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:19.120840] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:19.122139] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:19.122269] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:19.122692] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:19.122771] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:19.127437] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:19.127522] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:19.127635] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:19.127854] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:19.145105] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:19.145208] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:19.145248] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:19.145286] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:19.158301] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:19.158448] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:19.158518] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:19.158569] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:19.175842] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:19.176308] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:19.176615] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:19.176824] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:26.004178] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:26.004302] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:26.004349] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:26.004388] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:26.033625] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:26.033734] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:26.033774] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:26.033811] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:26.509263] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:26.509403] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:26.509455] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:26.509496] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:26.527277] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:26.527377] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:26.527419] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:26.527474] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:26.540357] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:26.540526] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:26.540575] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:26.540615] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:26.558725] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:26.558839] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:26.558904] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:26.558954] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:26.572018] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:26.572142] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:26.572182] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:26.572221] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:26.591322] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:26.591435] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:26.591477] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:26.591515] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:26.603348] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:26.603470] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:26.603510] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:26.603548] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:26.621151] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:26.621262] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:26.621302] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:26.621340] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:26.650538] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:26.650699] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:26.650789] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:26.650886] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:26.670798] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:26.670936] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:26.670991] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:26.671036] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:26.681748] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:26.681903] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:26.681957] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:26.681997] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:26.706137] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:26.706397] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:26.706659] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:26.706841] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:26.708635] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:26.708720] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:26.708782] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:26.708839] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:26.712399] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:26.712508] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:26.712547] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:26.712584] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:26.740268] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:26.740615] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:26.740811] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:26.740981] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:26.742484] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:26.742576] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:26.742634] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:26.742691] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:26.743964] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:26.744085] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:26.744145] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:26.744199] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:26.761863] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:26.761970] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:26.762055] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:26.762098] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:26.774964] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:26.775112] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:26.775172] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:26.775229] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:26.792284] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:26.792390] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:26.792432] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:26.792469] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:26.806105] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:26.806254] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:26.806318] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:26.806365] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:11:26.827213] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:11:26.827453] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:26.827629] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:11:26.827918] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:13:54.773137] [p-1336] [t-3464] [trace] FancyZones::ToggleEditor Enter
+[2026-02-27 16:13:54.773216] [p-1336] [t-15016] [trace] OnThreadExecutor::worker_thread(loop) Exit
+[2026-02-27 16:13:54.773245] [p-1336] [t-15016] [trace] OnThreadExecutor::worker_thread(loop) Enter
+[2026-02-27 16:13:54.773280] [p-1336] [t-15016] [trace] OnThreadExecutor::worker_thread(loop) Exit
+[2026-02-27 16:13:54.773301] [p-1336] [t-15016] [trace] OnThreadExecutor::worker_thread(loop) Enter
+[2026-02-27 16:13:54.773325] [p-1336] [t-15016] [trace] OnThreadExecutor::worker_thread(loop) Exit
+[2026-02-27 16:13:54.773377] [p-1336] [t-15016] [trace] OnThreadExecutor::worker_thread(loop) Enter
+[2026-02-27 16:13:54.773397] [p-1336] [t-15016] [trace] OnThreadExecutor::worker_thread(loop) Exit
+[2026-02-27 16:13:54.773423] [p-1336] [t-15016] [trace] OnThreadExecutor::worker_thread(loop) Enter
+[2026-02-27 16:13:54.795001] [p-1336] [t-3464] [trace] FancyZones::ToggleEditor Exit
+[2026-02-27 16:14:10.466665] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 16:14:10.467455] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:14:10.469269] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 16:14:10.470022] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 16:14:33.871347] [p-1336] [t-3464] [trace] FancyZonesSettings::LoadSettings Enter
+[2026-02-27 16:14:33.872522] [p-1336] [t-3464] [trace] FancyZonesSettings::LoadSettings Exit
+[2026-02-27 16:15:39.460735] [p-1336] [t-3464] [trace] FancyZonesSettings::LoadSettings Enter
+[2026-02-27 16:15:39.461737] [p-1336] [t-3464] [trace] FancyZonesSettings::LoadSettings Exit
+[2026-02-27 16:15:57.905727] [p-1336] [t-3464] [trace] FancyZonesSettings::LoadSettings Enter
+[2026-02-27 16:15:57.907743] [p-1336] [t-3464] [trace] FancyZonesSettings::LoadSettings Exit
+[2026-02-27 16:16:09.013432] [p-1336] [t-3464] [info] Add app zone history, device: GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, layout: {CAC2AB77-F678-46E3-81F9-784682284882}
+[2026-02-27 16:16:10.083115] [p-1336] [t-3464] [info] Add app zone history, device: GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, layout: {CAC2AB77-F678-46E3-81F9-784682284882}
+[2026-02-27 16:16:21.751750] [p-1336] [t-3464] [info] Remove app zone history, device: GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, layout: {CAC2AB77-F678-46E3-81F9-784682284882}
+[2026-02-27 16:16:23.743218] [p-1336] [t-3464] [info] Add app zone history, device: GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, layout: {CAC2AB77-F678-46E3-81F9-784682284882}
+[2026-02-27 16:16:24.533207] [p-1336] [t-3464] [info] Add app zone history, device: GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, layout: {CAC2AB77-F678-46E3-81F9-784682284882}
+[2026-02-27 16:16:42.297345] [p-1336] [t-3464] [trace] FancyZonesSettings::LoadSettings Enter
+[2026-02-27 16:16:42.298431] [p-1336] [t-3464] [trace] FancyZonesSettings::LoadSettings Exit
+[2026-02-27 16:19:49.429148] [p-1336] [t-3464] [trace] FancyZonesSettings::LoadSettings Enter
+[2026-02-27 16:19:49.430206] [p-1336] [t-3464] [trace] FancyZonesSettings::LoadSettings Exit
+[2026-02-27 16:19:49.430285] [p-1336] [t-3464] [trace] FancyZonesSettings::LoadSettings Enter
+[2026-02-27 16:19:49.431111] [p-1336] [t-3464] [trace] FancyZonesSettings::LoadSettings Exit
+[2026-02-27 16:19:53.634642] [p-1336] [t-3464] [info] Remove app zone history, device: ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, layout: {00000000-0000-0000-0000-000000000000}
+[2026-02-27 16:21:56.615672] [p-1336] [t-3464] [info] Remove app zone history, device: GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, layout: {CAC2AB77-F678-46E3-81F9-784682284882}
+[2026-02-27 16:21:57.848967] [p-1336] [t-3464] [info] Add app zone history, device: GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, layout: {CAC2AB77-F678-46E3-81F9-784682284882}
+[2026-02-27 16:22:02.087100] [p-1336] [t-3464] [info] Remove app zone history, device: GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, layout: {CAC2AB77-F678-46E3-81F9-784682284882}
+[2026-02-27 16:22:05.298534] [p-1336] [t-3464] [info] Add app zone history, device: GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, layout: {CAC2AB77-F678-46E3-81F9-784682284882}
+[2026-02-27 16:22:14.170617] [p-1336] [t-3464] [info] Remove app zone history, device: GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, layout: {CAC2AB77-F678-46E3-81F9-784682284882}
+[2026-02-27 16:22:15.552928] [p-1336] [t-3464] [info] Add app zone history, device: GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, layout: {CAC2AB77-F678-46E3-81F9-784682284882}
+[2026-02-27 16:39:59.887070] [p-1336] [t-3464] [info] Remove app zone history, device: GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, layout: {CAC2AB77-F678-46E3-81F9-784682284882}
+[2026-02-27 16:40:00.305162] [p-1336] [t-3464] [info] Restore window size
+[2026-02-27 16:40:01.692532] [p-1336] [t-3464] [info] Restore window size
+[2026-02-27 17:51:13.261879] [p-1336] [t-3464] [info] Display changed, type: DisplayChange
+[2026-02-27 17:51:13.261998] [p-1336] [t-3464] [debug] Update work areas, update windows positions: true
+[2026-02-27 17:51:13.262058] [p-1336] [t-3464] [info] Identifying monitors
+[2026-02-27 17:51:13.264085] [p-1336] [t-3464] [info] Get display device for display \\.\DISPLAY2 : \\?\DISPLAY#GSM7715#5&8bcebe0&0&UID33025#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2026-02-27 17:51:13.354168] [p-1336] [t-3464] [info] Get display device for display \\.\DISPLAY3 : \\?\DISPLAY#ACR0743#5&8bcebe0&0&UID33024#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2026-02-27 17:51:13.355684] [p-1336] [t-3464] [info] Get display device for display \\.\DISPLAY4 : \\?\DISPLAY#GSM5AB6#5&8bcebe0&0&UID33027#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2026-02-27 17:51:13.356599] [p-1336] [t-3464] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#GSM7766#5&8bcebe0&0&UID33028#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2026-02-27 17:51:13.993806] [p-1336] [t-3464] [info] InstanceName: DISPLAY\ACR0743\5&8bcebe0&0&UID33024_0
+[2026-02-27 17:51:13.993842] [p-1336] [t-3464] [info] Serial number: 2475695430
+[2026-02-27 17:51:13.994052] [p-1336] [t-3464] [info] InstanceName: DISPLAY\GSM7715\5&8bcebe0&0&UID33025_0
+[2026-02-27 17:51:13.994075] [p-1336] [t-3464] [info] Serial number: 269918
+[2026-02-27 17:51:13.994240] [p-1336] [t-3464] [info] InstanceName: DISPLAY\GSM5AB6\5&8bcebe0&0&UID33027_0
+[2026-02-27 17:51:13.994255] [p-1336] [t-3464] [info] Serial number: 601NTQDAZ124
+[2026-02-27 17:51:13.994416] [p-1336] [t-3464] [info] InstanceName: DISPLAY\GSM7766\5&8bcebe0&0&UID33028_0
+[2026-02-27 17:51:13.994434] [p-1336] [t-3464] [info] Serial number: 103NTDVBB114
+[2026-02-27 23:17:33.599227] [p-1336] [t-3464] [info] Display changed, type: DisplayChange
+[2026-02-27 23:17:33.599344] [p-1336] [t-3464] [debug] Update work areas, update windows positions: true
+[2026-02-27 23:17:33.599608] [p-1336] [t-3464] [info] Identifying monitors
+[2026-02-27 23:17:33.603488] [p-1336] [t-3464] [info] Get display device for display \\.\DISPLAY2 : \\?\DISPLAY#GSM7715#5&8bcebe0&0&UID33025#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2026-02-27 23:17:33.604120] [p-1336] [t-3464] [info] Get display device for display \\.\DISPLAY3 : \\?\DISPLAY#ACR0743#5&8bcebe0&0&UID33024#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2026-02-27 23:17:33.604861] [p-1336] [t-3464] [info] Get display device for display \\.\DISPLAY4 : \\?\DISPLAY#GSM5AB6#5&8bcebe0&0&UID33027#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2026-02-27 23:17:34.090037] [p-1336] [t-3464] [info] InstanceName: DISPLAY\ACR0743\5&8bcebe0&0&UID33024_0
+[2026-02-27 23:17:34.090067] [p-1336] [t-3464] [info] Serial number: 2475695430
+[2026-02-27 23:17:34.090300] [p-1336] [t-3464] [info] InstanceName: DISPLAY\GSM7715\5&8bcebe0&0&UID33025_0
+[2026-02-27 23:17:34.090317] [p-1336] [t-3464] [info] Serial number: 269918
+[2026-02-27 23:17:34.090454] [p-1336] [t-3464] [info] InstanceName: DISPLAY\GSM5AB6\5&8bcebe0&0&UID33027_0
+[2026-02-27 23:17:34.090467] [p-1336] [t-3464] [info] Serial number: 601NTQDAZ124
+[2026-02-27 23:17:34.090584] [p-1336] [t-3464] [info] InstanceName: DISPLAY\GSM7766\5&8bcebe0&0&UID33028_0
+[2026-02-27 23:17:34.090596] [p-1336] [t-3464] [info] Serial number: 103NTDVBB114
+[2026-02-27 23:17:34.090853] [p-1336] [t-3464] [trace] Monitor was added or removed
+[2026-02-27 23:17:34.090883] [p-1336] [t-3464] [info] Freeing ZonesOverlay window into pool, hWnd = 0x260eac
+[2026-02-27 23:17:35.268231] [p-1336] [t-3464] [info] Freeing ZonesOverlay window into pool, hWnd = 0xb0570
+[2026-02-27 23:17:36.112303] [p-1336] [t-3464] [info] Freeing ZonesOverlay window into pool, hWnd = 0x1008ce
+[2026-02-27 23:17:36.181210] [p-1336] [t-3464] [info] Freeing ZonesOverlay window into pool, hWnd = 0x1b0906
+[2026-02-27 23:17:36.271602] [p-1336] [t-3464] [debug] Add new work area on virtual desktop {550C76BD-6543-4F87-ACE0-509459D2630F}
+[2026-02-27 23:17:36.286581] [p-1336] [t-3464] [info] Reusing ZonesOverlay window from pool, hWnd = 0x1b0906
+[2026-02-27 23:17:36.643388] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 23:17:36.643444] [p-1336] [t-3464] [debug] Add new work area on virtual desktop {550C76BD-6543-4F87-ACE0-509459D2630F}
+[2026-02-27 23:17:36.649399] [p-1336] [t-3464] [info] Reusing ZonesOverlay window from pool, hWnd = 0x1008ce
+[2026-02-27 23:17:36.700515] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 23:17:36.700574] [p-1336] [t-3464] [debug] Add new work area on virtual desktop {550C76BD-6543-4F87-ACE0-509459D2630F}
+[2026-02-27 23:17:36.702850] [p-1336] [t-3464] [info] Reusing ZonesOverlay window from pool, hWnd = 0xb0570
+[2026-02-27 23:17:36.769722] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 23:17:36.860647] [p-1336] [t-3464] [info] Display changed, type: DisplayChange
+[2026-02-27 23:17:36.860677] [p-1336] [t-3464] [debug] Update work areas, update windows positions: true
+[2026-02-27 23:17:36.860771] [p-1336] [t-3464] [info] Identifying monitors
+[2026-02-27 23:17:36.861786] [p-1336] [t-3464] [info] Get display device for display \\.\DISPLAY2 : \\?\DISPLAY#GSM7715#5&8bcebe0&0&UID33025#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2026-02-27 23:17:36.862767] [p-1336] [t-3464] [info] Get display device for display \\.\DISPLAY3 : \\?\DISPLAY#ACR0743#5&8bcebe0&0&UID33024#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2026-02-27 23:17:36.863563] [p-1336] [t-3464] [info] Get display device for display \\.\DISPLAY4 : \\?\DISPLAY#GSM5AB6#5&8bcebe0&0&UID33027#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2026-02-27 23:17:36.864223] [p-1336] [t-3464] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#GSM7766#5&8bcebe0&0&UID33028#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2026-02-27 23:17:36.872019] [p-1336] [t-3464] [info] InstanceName: DISPLAY\ACR0743\5&8bcebe0&0&UID33024_0
+[2026-02-27 23:17:36.872052] [p-1336] [t-3464] [info] Serial number: 2475695430
+[2026-02-27 23:17:36.872221] [p-1336] [t-3464] [info] InstanceName: DISPLAY\GSM7715\5&8bcebe0&0&UID33025_0
+[2026-02-27 23:17:36.872235] [p-1336] [t-3464] [info] Serial number: 269918
+[2026-02-27 23:17:36.872368] [p-1336] [t-3464] [info] InstanceName: DISPLAY\GSM5AB6\5&8bcebe0&0&UID33027_0
+[2026-02-27 23:17:36.872382] [p-1336] [t-3464] [info] Serial number: 601NTQDAZ124
+[2026-02-27 23:17:36.872558] [p-1336] [t-3464] [info] InstanceName: DISPLAY\GSM7766\5&8bcebe0&0&UID33028_0
+[2026-02-27 23:17:36.872589] [p-1336] [t-3464] [info] Serial number: 103NTDVBB114
+[2026-02-27 23:17:36.873155] [p-1336] [t-3464] [trace] Monitor was added or removed
+[2026-02-27 23:17:36.873178] [p-1336] [t-3464] [info] Freeing ZonesOverlay window into pool, hWnd = 0x1b0906
+[2026-02-27 23:17:36.892263] [p-1336] [t-3464] [info] Freeing ZonesOverlay window into pool, hWnd = 0x1008ce
+[2026-02-27 23:17:36.905928] [p-1336] [t-3464] [info] Freeing ZonesOverlay window into pool, hWnd = 0xb0570
+[2026-02-27 23:17:36.927081] [p-1336] [t-3464] [debug] Add new work area on virtual desktop {550C76BD-6543-4F87-ACE0-509459D2630F}
+[2026-02-27 23:17:36.928314] [p-1336] [t-3464] [info] Reusing ZonesOverlay window from pool, hWnd = 0xb0570
+[2026-02-27 23:17:37.337906] [p-1336] [t-3464] [info] Initialize layout on GSM7715_5&8bcebe0&0&UID33025_2_269918_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1032
+[2026-02-27 23:17:37.337956] [p-1336] [t-3464] [debug] Add new work area on virtual desktop {550C76BD-6543-4F87-ACE0-509459D2630F}
+[2026-02-27 23:17:37.339432] [p-1336] [t-3464] [info] Reusing ZonesOverlay window from pool, hWnd = 0x1008ce
+[2026-02-27 23:17:37.370434] [p-1336] [t-3464] [info] Initialize layout on ACR0743_5&8bcebe0&0&UID33024_3_2475695430_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 23:17:37.370477] [p-1336] [t-3464] [debug] Add new work area on virtual desktop {550C76BD-6543-4F87-ACE0-509459D2630F}
+[2026-02-27 23:17:37.373680] [p-1336] [t-3464] [info] Reusing ZonesOverlay window from pool, hWnd = 0x1b0906
+[2026-02-27 23:17:37.418179] [p-1336] [t-3464] [info] Initialize layout on GSM5AB6_5&8bcebe0&0&UID33027_4_601NTQDAZ124_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 1920x1032
+[2026-02-27 23:17:37.418226] [p-1336] [t-3464] [debug] Add new work area on virtual desktop {550C76BD-6543-4F87-ACE0-509459D2630F}
+[2026-02-27 23:17:37.419398] [p-1336] [t-3464] [info] Reusing ZonesOverlay window from pool, hWnd = 0x260eac
+[2026-02-27 23:17:37.478734] [p-1336] [t-3464] [info] Initialize layout on GSM7766_5&8bcebe0&0&UID33028_1_103NTDVBB114_{550C76BD-6543-4F87-ACE0-509459D2630F}, work area rect = 2560x1392
+[2026-02-27 23:17:37.502086] [p-1336] [t-3464] [info] Display changed, type: WorkArea
+[2026-02-27 23:17:37.502132] [p-1336] [t-3464] [debug] Update work areas, update windows positions: true
+[2026-02-27 23:17:37.502177] [p-1336] [t-3464] [info] Identifying monitors
+[2026-02-27 23:17:37.503220] [p-1336] [t-3464] [info] Get display device for display \\.\DISPLAY2 : \\?\DISPLAY#GSM7715#5&8bcebe0&0&UID33025#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2026-02-27 23:17:37.503926] [p-1336] [t-3464] [info] Get display device for display \\.\DISPLAY3 : \\?\DISPLAY#ACR0743#5&8bcebe0&0&UID33024#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2026-02-27 23:17:37.504807] [p-1336] [t-3464] [info] Get display device for display \\.\DISPLAY4 : \\?\DISPLAY#GSM5AB6#5&8bcebe0&0&UID33027#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2026-02-27 23:17:37.505606] [p-1336] [t-3464] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#GSM7766#5&8bcebe0&0&UID33028#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2026-02-27 23:17:37.518327] [p-1336] [t-3464] [info] InstanceName: DISPLAY\ACR0743\5&8bcebe0&0&UID33024_0
+[2026-02-27 23:17:37.518355] [p-1336] [t-3464] [info] Serial number: 2475695430
+[2026-02-27 23:17:37.518582] [p-1336] [t-3464] [info] InstanceName: DISPLAY\GSM7715\5&8bcebe0&0&UID33025_0
+[2026-02-27 23:17:37.518652] [p-1336] [t-3464] [info] Serial number: 269918
+[2026-02-27 23:17:37.518988] [p-1336] [t-3464] [info] InstanceName: DISPLAY\GSM5AB6\5&8bcebe0&0&UID33027_0
+[2026-02-27 23:17:37.519009] [p-1336] [t-3464] [info] Serial number: 601NTQDAZ124
+[2026-02-27 23:17:37.519191] [p-1336] [t-3464] [info] InstanceName: DISPLAY\GSM7766\5&8bcebe0&0&UID33028_0
+[2026-02-27 23:17:37.519211] [p-1336] [t-3464] [info] Serial number: 103NTDVBB114

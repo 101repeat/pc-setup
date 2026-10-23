@@ -1,0 +1,107 @@
+{
+    "Description": "これはホットキーの集まりですAdobe Premiere Pro",
+    "Name": "Adobe Premiere Pro",
+    "Category": "Adobe Premiere Pro",
+   
+    "com.hotspot.streamdock.hotkey.premiere.addedit": {
+        "Name": "編集点を追加",
+        "Tooltip": "Adobe Premiere Proはい編集点を追加ショートカットキー"
+    },
+    "com.hotspot.streamdock.hotkey.premiere.addmarker": {
+        "Name": "マーカーを追加",
+        "Tooltip": "Adobe Premiere Proはいマーカーを追加ショートカットキー"
+    },
+    "com.hotspot.streamdock.hotkey.premiere.applydefaulttransitions": {
+        "Name": "選択項目にデフォルトのトランジションを適用",
+        "Tooltip": "Adobe Premiere Proはい選択項目にデフォルトのトランジションを適用ショートカットキー"
+    },
+    "com.hotspot.streamdock.hotkey.premiere.copy": {
+        "Name": "コピー",
+        "Tooltip": "Adobe Premiere Proはいコピーショートカットキー"
+    },
+    "com.hotspot.streamdock.hotkey..premiere.cut": {
+        "Name": "カット",
+        "Tooltip": "Adobe Premiere Proはいカットショートカットキー"
+    },
+    "com.hotspot.streamdock.hotkey.premiere.decreaseaudiotracksheight": {
+        "Name": " オーディオトラックの縦幅を狭める",
+        "Tooltip": "Adobe Premiere Proはい オーディオトラックの縦幅を狭めるショートカットキー"
+    },
+    "com.hotspot.streamdock.hotkey.premiere.decreasevideotracksheight": {
+        "Name": "ビデオトラックの縦幅を狭める",
+        "Tooltip": "Adobe Premiere Proはいビデオトラックの縦幅を狭めるショートカットキー"
+    },
+    "com.hotspot.streamdock.hotkey.premiere.duplicate": {
+        "Name": "複製",
+        "Tooltip": "Adobe Premiere Proはい複製ショートカットキー"
+    },
+    "com.hotspot.streamdock.hotkey.premiere.effects": {
+        "Name": "エフェクト",
+        "Tooltip": "Adobe Premiere Proはいエフェクトショートカットキー"
+    },
+
+    "com.hotspot.streamdock.hotkey.premiere.fullscreen": {
+        "Name": "フルスクリーン表示を切り替え",
+        "Tooltip": "Adobe Premiere Proはいフルスクリーン表示を切り替えショートカットキー"
+    },
+    "com.hotspot.streamdock.hotkey.premiere.group": {
+        "Name": "グループ",
+        "Tooltip": "Adobe Premiere Proはいグループショートカットキー"
+    },
+
+    "com.hotspot.streamdock.hotkey.premiere.link": {
+        "Name": "リンク",
+        "Tooltip": "Adobe Premiere Proはいリンクショートカットキー"
+    },
+    "com.hotspot.streamdock.premiere.markclip": {
+        "Name": "クリップをマーク",
+        "Tooltip": "Adobe Premiere Proはいクリップをマークショートカットキー"
+    },
+    "com.hotspot.streamdock.hotkey.premiere.markin": {
+        "Name": "インをマーク",
+        "Tooltip": "Adobe Premiere Proはいインをマークショートカットキー"
+    },
+    "com.hotspot.streamdock.hotkey.premiere.markout": {
+        "Name": "アウトをマーク",
+        "Tooltip": "Adobe Premiere Proはいアウトをマークショートカットキー"
+    },
+    "com.hotspot.streamdock.hotkey.premiere.overwrite": {
+        "Name": "上書き",
+        "Tooltip": "Adobe Premiere Proはい上書きショートカットキー"
+    },
+    "com.hotspot.streamdock.hotkey.premiere.paste": {
+        "Name": "ペースト",
+        "Tooltip": "Adobe Premiere Proはい ペーストショートカットキー"
+    },
+    "com.hotspot.streamdock.hotkey.premiere.playaround": {
+        "Name": "前後を再生",
+        "Tooltip": "Adobe Premiere Proはい前後を再生ショートカットキー"
+    },
+    "com.hotspot.streamdock.hotkey.premiere.rippledelete": {
+        "Name": "リップル削除",
+        "Tooltip": "Adobe Premiere Proはいリップル削除ショートカットキー"
+    },
+    "com.hotspot.streamdock.hotkey.premiere.save": {
+        "Name": "保存",
+        "Tooltip": "Adobe Premiere Proはい保存ショートカットキー"
+    },
+    "com.hotspot.streamdock.hotkey.premiere.selectiontool": {
+        "Name": "選択ツール",
+        "Tooltip": "Adobe Premiere Proはい選択ツールショートカットキー"
+    },
+
+    "com.hotspot.streamdock.hotkey.premiere.showguides": {
+        "Name": "ガイドを表示",
+        "Tooltip": "Adobe Premiere Proはいガイドを表示ショートカットキー"
+    },
+
+    "com.hotspot.streamdock.hotkey.premiere.typetool": {
+        "Name": "横書き文字ツール",
+        "Tooltip": "Adobe Premiere Proはい横書き文字ツールショートカットキー"
+    },
+
+    "com.hotspot.streamdock.hotkey.premiere.undo": {
+        "Name": "取り消し",
+        "Tooltip": "Adobe Premiere Proはい取り消しショートカットキー"
+    }
+}
